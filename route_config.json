@@ -3,252 +3,76 @@
     {
       "Route": [
         {
-          "WorldId": 1001,
-          "Name": "Tango:main",
-          "Url": "https://lobby-tango.dev.nk.shiftup.co.kr/",
-          "Description": "SU-Tango",
-          "Tags": [
-
-          ]
-        },
-        {
-          "WorldId": 800,
-          "Name": "TangoTw:港台服",
-          "Url": "https://lobby.tango-tw.gameserver.dev.nk.shiftup.co.kr/",
-          "Description": "SU-Tango-TW",
-          "Tags": [
-
-          ]
-        },
-        {
           "WorldId": 81,
           "Name": "pub:live-jp",
           "Url": "https://jp-lobby.nikke-kr.com/",
           "Description": "JAPAN",
-          "Tags": [
-
-          ]
+          "Tags": []
         },
         {
           "WorldId": 82,
           "Name": "pub:live-na",
           "Url": "https://us-lobby.nikke-kr.com/",
           "Description": "NA",
-          "Tags": [
-
-          ]
+          "Tags": []
         },
         {
           "WorldId": 83,
           "Name": "pub:live-kr",
           "Url": "https://kr-lobby.nikke-kr.com/",
           "Description": "KOREA",
-          "Tags": [
-
-          ]
+          "Tags": []
         },
         {
           "WorldId": 84,
           "Name": "pub:live-global",
           "Url": "https://global-lobby.nikke-kr.com/",
           "Description": "GLOBAL",
-          "Tags": [
-
-          ]
+          "Tags": []
         },
         {
           "WorldId": 85,
           "Name": "pub:live-sea",
           "Url": "https://sea-lobby.nikke-kr.com/",
           "Description": "SEA",
-          "Tags": [
-
-          ]
+          "Tags": []
         },
         {
           "WorldId": 91,
           "Name": "pub:live-hmt",
           "Url": "https://hmt-lobby.nikke-kr.com/",
           "Description": "HMT",
-          "Tags": [
-
-          ]
+          "Tags": []
         },
         {
-          "name": "Tango:main",
-          "url": "https://lobby-tango.dev.nk.shiftup.co.kr/",
-          "description": "Tango",
-          "tags": [
-
-          ]
+          "Name": "pub: audit",
+          "Url": "https://audit-de71c5b0-lobby.nikke-kr.com/",
+          "Description": "TX-AUDIT",
+          "Tags": []
         },
         {
           "name": "pub: common1",
           "url": "https://lobby-test.nikke-kr.com/",
           "description": "TX-TEST-KR1",
-          "tags": [
-
-          ]
-        },
-        {
-          "name": "pub: audit",
-          "url": "https://audit-de71c5b0-lobby.nikke-kr.com/",
-          "description": "TX-AUDIT",
-          "tags": [
-
-          ]
+          "Tags": []
         },
         {
           "name": "pub: pressure",
           "url": "http://pressure-lobby.nikke-kr.com/",
           "description": "TX-PRESSURE",
-          "tags": [
-
-          ]
-        },
-        {
-          "name": "Dev:latest",
-          "url": "https://lobby.latest.gameserver.dev.nk.shiftup.co.kr/",
-          "description": "NK Dev Latest",
-          "tags": [
-
-          ]
-        },
-        {
-          "name": "Dev:daily",
-          "url": "https://lobby.daily.gameserver.dev.nk.shiftup.co.kr/",
-          "description": "NK Dev Daily",
-          "tags": [
-
-          ]
-        },
-        {
-          "name": "pub: us-common",
-          "url": "https://us-com1-lobby.nikke-kr.com/",
-          "description": "TX-TEST-US",
-          "tags": [
-
-          ]
-        },
-        {
-          "name": "pub: apple",
-          "url": "https://apple-cba0195e-lobby.nikke-kr.com/",
-          "description": "TX-APPLE",
-          "tags": [
-
-          ]
-        },
-        {
-          "name": "TangoTW:main",
-          "url": "https://lobby.tango-tw.gameserver.dev.nk.shiftup.co.kr/",
-          "description": "Tango TW",
-          "tags": [
-
-          ]
-        },
-        {
-          "name": "pub: tw-audit",
-          "url": "https://tw-audit-d5181af6-lobby.nikke-kr.com/",
-          "description": "TW-AUDIT",
-          "tags": [
-
-          ]
-        },
-        {
-          "name": "QA",
-          "url": "https://lobby.qa.gameserver.dev.nk.shiftup.co.kr/",
-          "description": "QA",
-          "tags": [
-
-          ]
-        },
-        {
-          "name": "QA:latest",
-          "url": "https://lobby.qa-latest.gameserver.dev.nk.shiftup.co.kr/",
-          "description": "QA Latest",
-          "tags": [
-
-          ]
-        },
-        {
-          "name": "pub: test-hmt",
-          "url": "https://test-hmt-lobby.nikke-kr.com/",
-          "description": "TX-TEST-HMT",
-          "tags": [
-
-          ]
-        },
-        {
-          "name": "QA:TW-Sandbox",
-          "url": "https://lobby.qa-tw-sandbox.gameserver.dev.nk.shiftup.co.kr/",
-          "description": "SU QA TW Sandbox",
-          "tags": [
-
-          ]
-        },
-        {
-          "name": "Dev:latest-anti",
-          "url": "http://k8s-nkdevdai-lobby-f67c48d527-1128615061.cn-north-1.elb.amazonaws.com.cn/",
-          "description": "TX NK Dev Daily(anti-cheat)",
-          "tags": [
-
-          ]
+          "Tags": []
         },
         {
           "name": "pub: tx-pre-kr",
           "url": "https://pre-kr-lobby.nikke-kr.com/",
           "description": "TX-PRE-KR",
-          "tags": [
-
-          ]
+          "Tags": []
         },
         {
-          "name": "pub: tx-pre-hmt",
-          "url": "https://pre-hmt-lobby.nikke-kr.com/",
-          "description": "TX-PRE-HMT",
-          "tags": [
-
-          ]
-        },
-        {
-          "name": "pub: test-hmt2",
-          "url": "https://test-hmt2-lobby.nikke-kr.com/",
-          "description": "TX-TEST-HMT2",
-          "tags": [
-
-          ]
-        },
-        {
-          "name": "pub: exp-kr",
-          "url": "https://exp-lobby.nikke-kr.com/",
-          "description": "TX-EXP-KR",
-          "tags": [
-
-          ]
-        },
-        {
-          "name": "QA:live",
-          "url": "https://lobby.live.gameserver.dev.nk.shiftup.co.kr/",
-          "description": "SU QA Live",
-          "tags": [
-
-          ]
-        },
-        {
-          "name": "QA:rc",
-          "url": "https://lobby.qa-rc.gameserver.dev.nk.shiftup.co.kr/",
-          "description": "SU QA Release Candidate: 230112",
-          "tags": [
-
-          ]
-        },
-        {
-          "name": "QA:rc-latest",
-          "url": "https://lobby.qa-rc-latest.gameserver.dev.nk.shiftup.co.kr/",
-          "description": "SU QA Release Candidate Latest: 230112",
-          "tags": [
-
-          ]
+          "name": "pub: apple",
+          "url": "https://apple-cba0195e-lobby.nikke-kr.com/",
+          "description": "TX-APPLE",
+          "Tags": []
         }
       ]
     }
