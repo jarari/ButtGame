@@ -2,6 +2,14 @@
   "version": "0.0.1",
   "records": [
     {
+      "id": 999,
+      "name_localkey": "bgm_theme_special_01",
+      "description_localkey": "bgm_theme_special_01_description",
+      "order": 99,
+      "theme_resource": "album_special_01",
+      "bg_color": "3C4A48"
+    },
+    {
       "id": 1,
       "name_localkey": "bgm_theme_menu_01",
       "description_localkey": "bgm_theme_menu_01_description",
@@ -31,7 +39,7 @@
       "description_localkey": "bgm_theme_event_01_description",
       "order": 5,
       "theme_resource": "album_event_01",
-      "bg_color": "2F464D"
+      "bg_color": "C01F00"
     },
     {
       "id": 5,
@@ -112,6 +120,14 @@
       "order": 14,
       "theme_resource": "album_field_10",
       "bg_color": "FF9600"
+    },
+    {
+      "id": 15,
+      "name_localkey": "bgm_theme_field_12",
+      "description_localkey": "bgm_theme_field_12_description",
+      "order": 15,
+      "theme_resource": "album_field_11",
+      "bg_color": "0B0F58"
     }
   ]
 }

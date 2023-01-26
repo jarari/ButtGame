@@ -35,13 +35,37 @@
       "key": "WORLD_RAID_RANKING_REWARD",
       "title": "WORLD_RAID_RANKING_REWARD_MAIL_TITLE",
       "description": "WORLD_RAID_RANKING_REWARD_MAIL_DESC",
-      "sender_id": 5
+      "sender_id": 101
     },
     {
       "key": "WORLD_RAID_CLEAR_REWARD",
       "title": "WORLD_RAID_CLEAR_REWARD_MAIL_TITLE",
       "description": "WORLD_RAID_CLEAR_REWARD_MAIL_DESC",
-      "sender_id": 5
+      "sender_id": 101
+    },
+    {
+      "key": "UNION_RAID_BAN_USER_INFORM",
+      "title": "GUILD_RAID_BAN_USER_INFORM_MAIL_TITLE",
+      "description": "GUILD_RAID_BAN_USER_INFORM_MAIL_DESC",
+      "sender_id": 102
+    },
+    {
+      "key": "GUILD_MAIL_USER_GRADE_CHANGE_TO_GUILD_MASTER",
+      "title": "GUILD_NOTICE_FUNCTION",
+      "description": "GUILD_MAIL_USER_GRADE_CHANGE_TO_GUILD_MASTER",
+      "sender_id": 0
+    },
+    {
+      "key": "GUILD_MAIL_USER_GRADE_CHANGE_TO_GUILD_MANAGER",
+      "title": "GUILD_NOTICE_FUNCTION",
+      "description": "GUILD_MAIL_USER_GRADE_CHANGE_TO_GUILD_MANAGER",
+      "sender_id": 0
+    },
+    {
+      "key": "GUILD_MAIL_USER_GRADE_CHANGE_TO_GUILD_MEMBER",
+      "title": "GUILD_NOTICE_FUNCTION",
+      "description": "GUILD_MAIL_USER_GRADE_CHANGE_TO_GUILD_MEMBER",
+      "sender_id": 0
     },
     {
       "key": "INFRACORE_GRADE_REWARD",
@@ -263,6 +287,12 @@
       "key": "ITEM_EXCHANGE_10006",
       "title": "ITEM_EXCHANGE_10006_MAIL_TITLE",
       "description": "ITEM_EXCHANGE_10006_MAIL_DESC",
+      "sender_id": 1
+    },
+    {
+      "key": "ITEM_EXCHANGE_10007",
+      "title": "ITEM_EXCHANGE_10007_MAIL_TITLE",
+      "description": "ITEM_EXCHANGE_10007_MAIL_DESC",
       "sender_id": 1
     }
   ]

@@ -235,6 +235,20 @@
       "reward_id": 25105
     },
     {
+      "id": 10018,
+      "trigger": "WinArena",
+      "condition_id": 0,
+      "condition_value": 2,
+      "before_trigger_id": 0,
+      "handler_type": "MissionDaily",
+      "print_value": true,
+      "shortcut_type": "None",
+      "shortcut_value": 0,
+      "name_localkey": "trigger_name_WinArena",
+      "description_localkey": "trigger_desc_WinArena",
+      "point_value": 10
+    },
+    {
       "id": 20001,
       "trigger": "GachaCharacter",
       "condition_id": 0,
@@ -438,6 +452,20 @@
       "shortcut_value": 0,
       "point_value": 0,
       "reward_id": 25305
+    },
+    {
+      "id": 20016,
+      "trigger": "WinArena",
+      "condition_id": 0,
+      "condition_value": 10,
+      "before_trigger_id": 0,
+      "handler_type": "MissionWeekly",
+      "print_value": true,
+      "shortcut_type": "None",
+      "shortcut_value": 0,
+      "name_localkey": "trigger_name_WinArena",
+      "description_localkey": "trigger_desc_WinArena",
+      "point_value": 10
     },
     {
       "id": 100001,
@@ -790,6 +818,76 @@
       "reward_id": 2100025
     },
     {
+      "id": 100026,
+      "trigger": "PointRewardAchievement",
+      "condition_id": 0,
+      "condition_value": 260,
+      "before_trigger_id": 100025,
+      "handler_type": "Achievement",
+      "print_value": true,
+      "shortcut_type": "None",
+      "shortcut_value": 0,
+      "description_localkey": "trigger_desc_PointRewardAchievement",
+      "point_value": 260,
+      "reward_id": 2100026
+    },
+    {
+      "id": 100027,
+      "trigger": "PointRewardAchievement",
+      "condition_id": 0,
+      "condition_value": 270,
+      "before_trigger_id": 100026,
+      "handler_type": "Achievement",
+      "print_value": true,
+      "shortcut_type": "None",
+      "shortcut_value": 0,
+      "description_localkey": "trigger_desc_PointRewardAchievement",
+      "point_value": 270,
+      "reward_id": 2100027
+    },
+    {
+      "id": 100028,
+      "trigger": "PointRewardAchievement",
+      "condition_id": 0,
+      "condition_value": 280,
+      "before_trigger_id": 100027,
+      "handler_type": "Achievement",
+      "print_value": true,
+      "shortcut_type": "None",
+      "shortcut_value": 0,
+      "description_localkey": "trigger_desc_PointRewardAchievement",
+      "point_value": 280,
+      "reward_id": 2100028
+    },
+    {
+      "id": 100029,
+      "trigger": "PointRewardAchievement",
+      "condition_id": 0,
+      "condition_value": 290,
+      "before_trigger_id": 100028,
+      "handler_type": "Achievement",
+      "print_value": true,
+      "shortcut_type": "None",
+      "shortcut_value": 0,
+      "description_localkey": "trigger_desc_PointRewardAchievement",
+      "point_value": 290,
+      "reward_id": 2100029
+    },
+    {
+      "id": 100030,
+      "trigger": "PointRewardAchievement",
+      "condition_id": 0,
+      "condition_value": 300,
+      "before_trigger_id": 100029,
+      "handler_type": "Achievement",
+      "print_value": true,
+      "shortcut_type": "None",
+      "shortcut_value": 0,
+      "description_localkey": "trigger_desc_PointRewardAchievement",
+      "point_value": 300,
+      "reward_id": 2100030
+    },
+    {
       "id": 101001,
       "trigger": "ChapterClear",
       "condition_id": 2,
@@ -1040,6 +1138,34 @@
       "description_localkey": "trigger_desc_ChapterClear_18",
       "point_value": 18,
       "reward_id": 2101018
+    },
+    {
+      "id": 101019,
+      "trigger": "ChapterClear",
+      "condition_id": 20,
+      "condition_value": 1,
+      "before_trigger_id": 101018,
+      "handler_type": "Achievement",
+      "print_value": true,
+      "shortcut_type": "None",
+      "shortcut_value": 0,
+      "description_localkey": "trigger_desc_ChapterClear_19",
+      "point_value": 19,
+      "reward_id": 2101019
+    },
+    {
+      "id": 101020,
+      "trigger": "ChapterClear",
+      "condition_id": 21,
+      "condition_value": 1,
+      "before_trigger_id": 101019,
+      "handler_type": "Achievement",
+      "print_value": true,
+      "shortcut_type": "None",
+      "shortcut_value": 0,
+      "description_localkey": "trigger_desc_ChapterClear_20",
+      "point_value": 20,
+      "reward_id": 2101020
     },
     {
       "id": 102001,
@@ -1306,6 +1432,34 @@
       "description_localkey": "trigger_desc_HardChapterClear_19",
       "point_value": 19,
       "reward_id": 2102019
+    },
+    {
+      "id": 102020,
+      "trigger": "HardChapterClear",
+      "condition_id": 20,
+      "condition_value": 1,
+      "before_trigger_id": 102018,
+      "handler_type": "Achievement",
+      "print_value": true,
+      "shortcut_type": "None",
+      "shortcut_value": 0,
+      "description_localkey": "trigger_desc_HardChapterClear_20",
+      "point_value": 20,
+      "reward_id": 2102020
+    },
+    {
+      "id": 102021,
+      "trigger": "HardChapterClear",
+      "condition_id": 21,
+      "condition_value": 1,
+      "before_trigger_id": 102018,
+      "handler_type": "Achievement",
+      "print_value": true,
+      "shortcut_type": "None",
+      "shortcut_value": 0,
+      "description_localkey": "trigger_desc_HardChapterClear_21",
+      "point_value": 21,
+      "reward_id": 2102021
     },
     {
       "id": 103001,

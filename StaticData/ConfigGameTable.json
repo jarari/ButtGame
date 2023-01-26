@@ -279,7 +279,7 @@
     },
     {
       "id": "ArenaHardEnemyRating",
-      "value": "500"
+      "value": "200"
     },
     {
       "id": "ArenaNormalEnemyRating",
@@ -288,6 +288,18 @@
     {
       "id": "ArenaEasyEnemyRating",
       "value": "100"
+    },
+    {
+      "id": "ArenaNearEnemyFindRating",
+      "value": "200"
+    },
+    {
+      "id": "ArenaNearEnemyFindRatingExtension",
+      "value": "100"
+    },
+    {
+      "id": "ArenaNearEnemyFindRatingExtensionCountMax",
+      "value": "3"
     },
     {
       "id": "ArenaHardEnemyCount",
@@ -630,6 +642,18 @@
       "value": "50"
     },
     {
+      "id": "ArenaSpecialAbusingCheckCount",
+      "value": "1"
+    },
+    {
+      "id": "ArenaSpecialAbusingCoolTimeIncrease",
+      "value": "600"
+    },
+    {
+      "id": "ArenaSpecialAbusingCoolTimeIncreaseCountMax",
+      "value": "3"
+    },
+    {
       "id": "ArenaSpecialSeasonStartingDate",
       "value": "2021-01-11"
     },
@@ -908,6 +932,70 @@
     {
       "id": "EventCurrencyMaterialMiraclesnow",
       "value": "7060003"
+    },
+    {
+      "id": "LiberateMissionResetCurrencyType",
+      "value": "99"
+    },
+    {
+      "id": "LiberateMissionResetCurrencyValue",
+      "value": "50"
+    },
+    {
+      "id": "ComeBackEventOpenCount",
+      "value": "15"
+    },
+    {
+      "id": "ComeBackEventCoolTime",
+      "value": "10"
+    },
+    {
+      "id": "ComeBackEventReactive",
+      "value": "True"
+    },
+    {
+      "id": "ComeBackEventEndDate",
+      "value": "9"
+    },
+    {
+      "id": "ComeBackEventDisableDate",
+      "value": "4"
+    },
+    {
+      "id": "MinCombatPowerStageNotEnterInterceptLevelDValue",
+      "value": "1500"
+    },
+    {
+      "id": "MinCombatPowerStageNotEnterInterceptLevelSValue",
+      "value": "10000"
+    },
+    {
+      "id": "MinCombatPowerStageNotEnterInterceptSpecialValue",
+      "value": "43000"
+    },
+    {
+      "id": "MinCombatPowerStageNotEnterDefaultStageRatio",
+      "value": "45"
+    },
+    {
+      "id": "CharacterSkillResetCurrencyType",
+      "value": "14000"
+    },
+    {
+      "id": "CharacterSkillResetCurrencyValue",
+      "value": "1"
+    },
+    {
+      "id": "AwakenEquipmentOptionLowValue",
+      "value": "11"
+    },
+    {
+      "id": "AwakenEquipmentOptionHighValue",
+      "value": "14"
+    },
+    {
+      "id": "AwakenEquipmentOptionMaxValue",
+      "value": "15"
     }
   ]
 }

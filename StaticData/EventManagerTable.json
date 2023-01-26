@@ -14,9 +14,10 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_DAILY_LOGIN_01",
       "thumbnail_color": "000000",
       "event_banner_resource_id": "EVENT_BANNER_DAILY_LOGIN_01_S",
-      "event_order": 78899695,
+      "event_order": 78899690,
       "is_popup": true,
-      "active_type": "DailyOnce"
+      "active_type": "DailyOnce",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 10002,
@@ -31,9 +32,10 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_DAILY_LOGIN_02",
       "thumbnail_color": "181b1d",
       "event_banner_resource_id": "EVENT_BANNER_DAILY_LOGIN_02_S",
-      "event_order": 78897695,
+      "event_order": 78897690,
       "is_popup": true,
-      "active_type": "DailyOnce"
+      "active_type": "DailyOnce",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 10003,
@@ -48,9 +50,46 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_DAILY_LOGIN_03",
       "thumbnail_color": "101212",
       "event_banner_resource_id": "EVENT_BANNER_DAILY_LOGIN_03_S",
-      "event_order": 78887195,
+      "event_order": 78887190,
       "is_popup": true,
-      "active_type": "DailyOnce"
+      "active_type": "DailyOnce",
+      "banner_print_type": "PrintEventTime"
+    },
+    {
+      "id": 10004,
+      "event_system_type": "LoginEvent",
+      "event_shortcut_id": "15001",
+      "name_localkey": "daily_login_event_name",
+      "description_localkey": "daily_login_event_description",
+      "schedule_type": "Once",
+      "schedule_value": "0",
+      "event_disable_locale": "EVENT_REWARD_ACQUISITION_DATE",
+      "event_resource_id": "311201",
+      "event_thumbnail_resource_id": "EVENT_BANNER_DAILY_LOGIN_04",
+      "thumbnail_color": "ff008a",
+      "event_banner_resource_id": "EVENT_BANNER_DAILY_LOGIN_04_S",
+      "event_order": 77998890,
+      "is_popup": true,
+      "active_type": "DailyOnce",
+      "banner_print_type": "PrintEventTime"
+    },
+    {
+      "id": 10005,
+      "event_system_type": "LoginEvent",
+      "event_shortcut_id": "15001",
+      "name_localkey": "daily_login_event_name",
+      "description_localkey": "daily_login_event_description",
+      "schedule_type": "Once",
+      "schedule_value": "0",
+      "event_disable_locale": "EVENT_REWARD_ACQUISITION_DATE",
+      "event_resource_id": "331101",
+      "event_thumbnail_resource_id": "EVENT_BANNER_DAILY_LOGIN_05",
+      "thumbnail_color": "421E24",
+      "event_banner_resource_id": "EVENT_BANNER_DAILY_LOGIN_05_S",
+      "event_order": 77989990,
+      "is_popup": true,
+      "active_type": "DailyOnce",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 20001,
@@ -65,9 +104,10 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_DAILY_MISSION",
       "thumbnail_color": "00AEFF",
       "event_banner_resource_id": "EVENT_BANNER_DAILY_MISSION_S",
-      "event_order": 78899696,
+      "event_order": 78899691,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 30001,
@@ -82,9 +122,10 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_COOPERATION",
       "thumbnail_color": "0C0C0C",
       "event_banner_resource_id": "EVENT_BANNER_COOPERATION_S",
-      "event_order": 78898993,
+      "event_order": 78898988,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 30002,
@@ -99,9 +140,10 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_COOPERATION",
       "thumbnail_color": "0C0C0C",
       "event_banner_resource_id": "EVENT_BANNER_COOPERATION_S",
-      "event_order": 78889193,
+      "event_order": 78889188,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 30003,
@@ -116,9 +158,10 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_COOPERATION",
       "thumbnail_color": "0C0C0C",
       "event_banner_resource_id": "EVENT_BANNER_COOPERATION_S",
-      "event_order": 78887793,
+      "event_order": 78887788,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 30004,
@@ -133,9 +176,10 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_COOPERATION",
       "thumbnail_color": "0C0C0C",
       "event_banner_resource_id": "EVENT_BANNER_COOPERATION_S",
-      "event_order": 77999493,
+      "event_order": 77999488,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 30005,
@@ -150,9 +194,28 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_COOPERATION",
       "thumbnail_color": "0C0C0C",
       "event_banner_resource_id": "EVENT_BANNER_COOPERATION_S",
-      "event_order": 76999493,
+      "event_order": 77998088,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
+    },
+    {
+      "id": 30006,
+      "event_system_type": "CooperationEvent",
+      "event_shortcut_id": "15003",
+      "name_localkey": "cooperation_event_name",
+      "description_localkey": "cooperation_event_description",
+      "schedule_type": "Once",
+      "schedule_value": "0",
+      "event_disable_locale": "EVENT_REWARD_ACQUISITION_DATE",
+      "event_resource_id": "0",
+      "event_thumbnail_resource_id": "EVENT_BANNER_COOPERATION",
+      "thumbnail_color": "0C0C0C",
+      "event_banner_resource_id": "EVENT_BANNER_COOPERATION_S",
+      "event_order": 77989788,
+      "is_popup": false,
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 40001,
@@ -167,9 +230,10 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_NOCALLERID",
       "thumbnail_color": "16171D",
       "event_banner_resource_id": "EVENT_BANNER_NOCALLERID_S",
-      "event_order": 78899092,
+      "event_order": 78899087,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 40002,
@@ -184,9 +248,10 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_HIGHTECHTOY",
       "thumbnail_color": "1B31D8",
       "event_banner_resource_id": "EVENT_BANNER_HIGHTECHTOY_S",
-      "event_order": 78897692,
+      "event_order": 78897687,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 40003,
@@ -201,11 +266,12 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_NOCALLERID",
       "thumbnail_color": "16171D",
       "event_banner_resource_id": "EVENT_BANNER_NOCALLERID_S",
-      "event_order": 78889292,
+      "event_order": 78889287,
       "is_popup": false,
       "active_type": "None",
       "is_hidden": true,
-      "parents_event_id": 80100
+      "parents_event_id": 80100,
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 40004,
@@ -220,11 +286,12 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_HIGHTECHTOY",
       "thumbnail_color": "1B31D8",
       "event_banner_resource_id": "EVENT_BANNER_HIGHTECHTOY_S",
-      "event_order": 78888592,
+      "event_order": 78888587,
       "is_popup": false,
       "active_type": "None",
       "is_hidden": true,
-      "parents_event_id": 80100
+      "parents_event_id": 80100,
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 40005,
@@ -239,9 +306,46 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_BRANDNEWYEAR",
       "thumbnail_color": "292929",
       "event_banner_resource_id": "EVENT_BANNER_BRANDNEWYEAR_S",
-      "event_order": 78887192,
+      "event_order": 78887187,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
+    },
+    {
+      "id": 40006,
+      "event_system_type": "StoryEvent",
+      "event_shortcut_id": "15004",
+      "name_localkey": "story_event_name_006",
+      "description_localkey": "story_event_description_006",
+      "schedule_type": "Once",
+      "schedule_value": "0",
+      "event_disable_locale": "EVENT_REWARD_ACQUISITION_DATE",
+      "event_resource_id": "0",
+      "event_thumbnail_resource_id": "EVENT_BANNER_D-OUTSIDERS",
+      "thumbnail_color": "5801D4",
+      "event_banner_resource_id": "EVENT_BANNER_D-OUTSIDERS_S",
+      "event_order": 77998887,
+      "is_popup": false,
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
+    },
+    {
+      "id": 40007,
+      "event_system_type": "StoryEvent",
+      "event_shortcut_id": "15004",
+      "name_localkey": "story_event_name_001",
+      "description_localkey": "story_event_description_001",
+      "schedule_type": "Once",
+      "schedule_value": "0",
+      "event_disable_locale": "EVENT_REWARD_ACQUISITION_DATE",
+      "event_resource_id": "0",
+      "event_thumbnail_resource_id": "EVENT_BANNER_MAIDINVALENTINE",
+      "thumbnail_color": "241D20",
+      "event_banner_resource_id": "EVENT_BANNER_MAIDINVALENTINE_S",
+      "event_order": 77989987,
+      "is_popup": false,
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 50001,
@@ -256,9 +360,10 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_OBT_SURVEY_01",
       "thumbnail_color": "29293D",
       "event_banner_resource_id": "EVENT_BANNER_OBT_SURVEY_01_S",
-      "event_order": 78909697,
+      "event_order": 78909692,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 50002,
@@ -273,9 +378,10 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_OBT_SURVEY_01",
       "thumbnail_color": "29293D",
       "event_banner_resource_id": "EVENT_BANNER_OBT_SURVEY_01_S",
-      "event_order": 78899697,
+      "event_order": 78899692,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 70001,
@@ -290,9 +396,10 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_GACHA_C352",
       "thumbnail_color": "091627",
       "event_banner_resource_id": "EVENT_BANNER_GACHA_C352_S",
-      "event_order": 78899088,
+      "event_order": 78899083,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 70004,
@@ -307,9 +414,10 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_GACHA_C100",
       "thumbnail_color": "000000",
       "event_banner_resource_id": "EVENT_BANNER_GACHA_C100_S",
-      "event_order": 78897688,
+      "event_order": 78897683,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 70005,
@@ -324,9 +432,10 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_GACHA_C203",
       "thumbnail_color": "0F4421",
       "event_banner_resource_id": "EVENT_BANNER_GACHA_C203_S",
-      "event_order": 78889288,
+      "event_order": 78889283,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 70006,
@@ -341,9 +450,10 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_GACHA_C121",
       "thumbnail_color": "1A2046",
       "event_banner_resource_id": "EVENT_BANNER_GACHA_C121_S",
-      "event_order": 78888588,
+      "event_order": 78888583,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 70007,
@@ -358,9 +468,100 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_GACHA_C260",
       "thumbnail_color": "000000",
       "event_banner_resource_id": "EVENT_BANNER_GACHA_C260_S",
-      "event_order": 77999988,
+      "event_order": 77999983,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
+    },
+    {
+      "id": 70008,
+      "event_system_type": "PickupGachaEvent",
+      "event_shortcut_id": "15005",
+      "name_localkey": "pickup_gacha_event_name_001",
+      "description_localkey": "pickup_gacha_event_description_001",
+      "schedule_type": "Once",
+      "schedule_value": "0",
+      "event_disable_locale": "EVENT_REWARD_ACQUISITION_DATE",
+      "event_resource_id": "0",
+      "event_thumbnail_resource_id": "EVENT_BANNER_GACHA_C111",
+      "thumbnail_color": "00BFD1",
+      "event_banner_resource_id": "EVENT_BANNER_GACHA_C111_S",
+      "event_order": 77998883,
+      "is_popup": false,
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
+    },
+    {
+      "id": 70009,
+      "event_system_type": "PickupGachaEvent",
+      "event_shortcut_id": "15005",
+      "name_localkey": "pickup_gacha_event_name_001",
+      "description_localkey": "pickup_gacha_event_description_001",
+      "schedule_type": "Once",
+      "schedule_value": "0",
+      "event_disable_locale": "EVENT_REWARD_ACQUISITION_DATE",
+      "event_resource_id": "0",
+      "event_thumbnail_resource_id": "EVENT_BANNER_GACHA_C112",
+      "thumbnail_color": "CF007A",
+      "event_banner_resource_id": "EVENT_BANNER_GACHA_C112_S",
+      "event_order": 77998183,
+      "is_popup": false,
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
+    },
+    {
+      "id": 70010,
+      "event_system_type": "PickupGachaEvent",
+      "event_shortcut_id": "15005",
+      "name_localkey": "pickup_gacha_event_name_001",
+      "description_localkey": "pickup_gacha_event_description_001",
+      "schedule_type": "Once",
+      "schedule_value": "0",
+      "event_disable_locale": "EVENT_REWARD_ACQUISITION_DATE",
+      "event_resource_id": "0",
+      "event_thumbnail_resource_id": "EVENT_BANNER_GACHA_C311",
+      "thumbnail_color": "241F21",
+      "event_banner_resource_id": "EVENT_BANNER_GACHA_C311_S",
+      "event_order": 77989983,
+      "is_popup": false,
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
+    },
+    {
+      "id": 90001,
+      "event_system_type": "ComeBackUserEvent",
+      "event_shortcut_id": "15008",
+      "name_localkey": "come_back_event_name",
+      "description_localkey": "come_back_event_description",
+      "schedule_type": "Once",
+      "schedule_value": "0",
+      "event_disable_locale": "EVENT_REWARD_ACQUISITION_DATE",
+      "event_resource_id": "0",
+      "event_thumbnail_resource_id": "EVENT_BANNER_RETURN_EVENT_01",
+      "thumbnail_color": "1C1D1D",
+      "event_banner_resource_id": "EVENT_BANNER_RETURN_EVENT_01_S",
+      "event_order": 78889289,
+      "is_popup": true,
+      "active_type": "DailyOnce",
+      "banner_print_type": "PrintEventTime"
+    },
+    {
+      "id": 90002,
+      "event_system_type": "ComeBackUserEvent",
+      "event_shortcut_id": "15008",
+      "name_localkey": "come_back_event_name",
+      "description_localkey": "come_back_event_description",
+      "schedule_type": "Once",
+      "schedule_value": "0",
+      "event_disable_locale": "EVENT_REWARD_ACQUISITION_DATE",
+      "event_resource_id": "0",
+      "event_thumbnail_resource_id": "EVENT_BANNER_RETURN_EVENT_01",
+      "thumbnail_color": "1C1D1D",
+      "event_banner_resource_id": "EVENT_BANNER_RETURN_EVENT_01_S",
+      "event_order": 75899089,
+      "is_popup": true,
+      "active_type": "DailyOnce",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 100001,
@@ -375,9 +576,10 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_WINTERPASS",
       "thumbnail_color": "f63e67",
       "event_banner_resource_id": "EVENT_BANNER_WINTERPASS_S",
-      "event_order": 78889291,
+      "event_order": 78889286,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 100002,
@@ -392,9 +594,10 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_SUNRISEPASS",
       "thumbnail_color": "251E1E",
       "event_banner_resource_id": "EVENT_BANNER_SUNRISEPASS_S",
-      "event_order": 77999991,
+      "event_order": 77999986,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 80100,
@@ -409,9 +612,10 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_MIRACLESNOW",
       "thumbnail_color": "101c31",
       "event_banner_resource_id": "EVENT_BANNER_MIRACLESNOW_S",
-      "event_order": 78889290,
+      "event_order": 78889285,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 80103,
@@ -425,11 +629,12 @@
       "event_resource_id": "301201",
       "event_thumbnail_resource_id": "EVENT_BANNER_MIRACLESNOW",
       "thumbnail_color": "101c31",
-      "event_order": 78889295,
+      "event_order": 78889290,
       "is_popup": false,
       "active_type": "None",
       "is_hidden": true,
-      "parents_event_id": 80100
+      "parents_event_id": 80100,
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 80104,
@@ -443,11 +648,12 @@
       "event_resource_id": "0",
       "event_thumbnail_resource_id": "EVENT_BANNER_MIRACLESNOW",
       "thumbnail_color": "101c31",
-      "event_order": 78889298,
+      "event_order": 78889293,
       "is_popup": false,
       "active_type": "None",
       "is_hidden": true,
-      "parents_event_id": 80100
+      "parents_event_id": 80100,
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 80105,
@@ -461,11 +667,12 @@
       "event_resource_id": "0",
       "event_thumbnail_resource_id": "EVENT_BANNER_MIRACLESNOW",
       "thumbnail_color": "101c31",
-      "event_order": 78889299,
+      "event_order": 78889295,
       "is_popup": false,
       "active_type": "None",
       "is_hidden": true,
-      "parents_event_id": 80100
+      "parents_event_id": 80100,
+      "banner_print_type": "PrintEventTime"
     },
     {
       "id": 110001,
@@ -480,9 +687,29 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_GACHA_NEW_YEAR_01",
       "thumbnail_color": "101212",
       "event_banner_resource_id": "EVENT_BANNER_GACHA_NEW_YEAR_01_S",
-      "event_order": 77999989,
+      "event_order": 77999984,
       "is_popup": false,
-      "active_type": "None"
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
+    },
+    {
+      "id": 120001,
+      "event_system_type": "CharacterSkillResetEvent",
+      "event_shortcut_id": "0",
+      "name_localkey": "pickup_gacha_event_name_001",
+      "description_localkey": "pickup_gacha_event_name_001",
+      "schedule_type": "Once",
+      "schedule_value": "0",
+      "event_disable_locale": "EVENT_REWARD_ACQUISITION_DATE",
+      "event_resource_id": "0",
+      "event_thumbnail_resource_id": "EVENT_BANNER_NOCALLERID",
+      "thumbnail_color": "16171D",
+      "event_banner_resource_id": "EVENT_BANNER_NOCALLERID_S",
+      "event_order": 78889295,
+      "is_popup": false,
+      "active_type": "None",
+      "is_hidden": true,
+      "banner_print_type": "PrintEventTime"
     }
   ]
 }

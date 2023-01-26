@@ -805,6 +805,50 @@
       ]
     },
     {
+      "id": "guilty",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5055,
+      "name_locale": "400_name",
+      "thumbnail_image": "mi_c400_00_s",
+      "members": [
+        "guilty"
+      ]
+    },
+    {
+      "id": "sin",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5059,
+      "name_locale": "401_name",
+      "thumbnail_image": "mi_c401_00_s",
+      "members": [
+        "sin"
+      ]
+    },
+    {
+      "id": "quency",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5078,
+      "name_locale": "402_name",
+      "thumbnail_image": "mi_c402_00_s",
+      "members": [
+        "quency"
+      ]
+    },
+    {
+      "id": "cocoa",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5050,
+      "name_locale": "311_name",
+      "thumbnail_image": "mi_c311_00_s",
+      "members": [
+        "cocoa"
+      ]
+    },
+    {
       "id": "counters",
       "type": "Group",
       "unlock_condition_squad": "None",
@@ -1091,6 +1135,19 @@
         "noise",
         "volume",
         "aria"
+      ]
+    },
+    {
+      "id": "realkindness",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "realkindness_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "sin",
+        "guilty",
+        "quency"
       ]
     },
     {
@@ -1831,6 +1888,50 @@
       ]
     },
     {
+      "id": "guilty_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "400_name",
+      "thumbnail_image": "mi_c400_00_s",
+      "members": [
+        "guilty"
+      ]
+    },
+    {
+      "id": "sin_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "401_name",
+      "thumbnail_image": "mi_c401_00_s",
+      "members": [
+        "sin"
+      ]
+    },
+    {
+      "id": "quency_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "402_name",
+      "thumbnail_image": "mi_c402_00_s",
+      "members": [
+        "quency"
+      ]
+    },
+    {
+      "id": "cocoa_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "311_name",
+      "thumbnail_image": "mi_c311_00_s",
+      "members": [
+        "cocoa"
+      ]
+    },
+    {
       "id": "counters_s",
       "type": "None",
       "unlock_condition_squad": "None",
@@ -2091,6 +2192,19 @@
       "members": [
         "ether",
         "mana"
+      ]
+    },
+    {
+      "id": "realkindness_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "realkindness_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "sin",
+        "guilty",
+        "quency"
       ]
     },
     {
@@ -2636,6 +2750,28 @@
       "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "jennifer"
+      ]
+    },
+    {
+      "id": "deipara",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "npc_245_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "deipara"
+      ]
+    },
+    {
+      "id": "romantist",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "npc_246_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "romantist"
       ]
     }
   ]

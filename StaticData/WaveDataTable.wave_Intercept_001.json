@@ -1157,6 +1157,216 @@
       "far_monster_count": 0
     },
     {
+      "stage_id": 6303005,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "Cooperation",
+      "battle_time": 180,
+      "monster_count": 5,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_mordernia_01",
+      "point_data_fly": "point_fly_mordernia_01",
+      "background_name": "sbg_iceland_sky_001",
+      "stage_info_bg": "ibg_iceland_001",
+      "target_list": [
+        3520040152
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_fly_mordernia_01",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3520040152,
+              "spawn_type": "Normal"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 1,
+      "far_monster_count": 0
+    },
+    {
+      "stage_id": 6303006,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "Cooperation",
+      "battle_time": 180,
+      "monster_count": 2,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_nihilister",
+      "point_data_fly": "point_fly_nihilister",
+      "background_name": "sbg_volcanoeba003_custom",
+      "stage_info_bg": "ibg_cityforest_001",
+      "target_list": [
+        3520020112
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_fly_nihilister_01",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3520020112,
+              "spawn_type": "Normal"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 0,
+      "far_monster_count": 1
+    },
+    {
       "stage_id": 6304001,
       "group_id": "wave_Intercept_001",
       "spot_mod": "UnionRaid",
@@ -1587,7 +1797,7 @@
       "point_data": "point_grd_stormbringer_01",
       "point_data_fly": "point_fly_stormbringer_01",
       "background_name": "sbg_greathole_sky_001",
-      "stage_info_bg": "ibg_cityforestunder_001",
+      "stage_info_bg": "ibg_greathole_001",
       "target_list": [
         2510010144
       ],
@@ -1793,21 +2003,21 @@
       "battle_time": 180,
       "monster_count": 7,
       "use_intro_scene": false,
-      "wave_repeat": true,
-      "point_data": "point_grd_cityforest_002",
-      "point_data_fly": "point_fly_cityforest_002",
-      "background_name": "sbg_cityforest_002",
-      "stage_info_bg": "ibg_cityforest_001",
+      "wave_repeat": false,
+      "point_data": "point_grd_cityforestunder_005",
+      "point_data_fly": "point_fly_cityforestunder_005",
+      "background_name": "sbg_cityforestunder_005",
+      "stage_info_bg": "ibg_cityforestunder_001",
       "target_list": [
-        2410020252
+        1420020254
       ],
       "wave_data": [
         {
-          "wave_path": "path_fly_mid_centurion_901",
+          "wave_path": "path_grd_mid_centurion_902",
           "wave_monster_list": [
             {
-              "wave_monster_id": 2410020252,
-              "spawn_type": "Drop"
+              "wave_monster_id": 1420020254,
+              "spawn_type": "Normal"
             },
             {},
             {},
@@ -1913,6 +2123,531 @@
             {
               "wave_monster_id": 2420030212,
               "spawn_type": "Drop"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 1,
+      "mid_monster_count": 0,
+      "far_monster_count": 0
+    },
+    {
+      "stage_id": 6304009,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "UnionRaid",
+      "battle_time": 180,
+      "monster_count": 7,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_wasteland_003",
+      "point_data_fly": "point_fly_wasteland_003",
+      "background_name": "sbg_wasteland_003",
+      "stage_info_bg": "ibg_wasteland_001",
+      "target_list": [
+        1420010214
+      ],
+      "wave_data": [
+        {
+          "wave_path": "path_grd_mid_centurion_902",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1420010214,
+              "spawn_type": "Drop"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 1,
+      "mid_monster_count": 0,
+      "far_monster_count": 0
+    },
+    {
+      "stage_id": 6304010,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "UnionRaid",
+      "battle_time": 180,
+      "monster_count": 7,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_greathole_004",
+      "point_data_fly": "point_fly_greathole_004",
+      "background_name": "sbg_greathole_004",
+      "stage_info_bg": "ibg_greathole_001",
+      "target_list": [
+        3420050224
+      ],
+      "wave_data": [
+        {
+          "wave_path": "path_grd_mid_centurion_902",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3420050224,
+              "spawn_type": "Drop"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 1,
+      "far_monster_count": 0
+    },
+    {
+      "stage_id": 6304011,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "UnionRaid",
+      "battle_time": 180,
+      "monster_count": 7,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_wasteland_004",
+      "point_data_fly": "point_fly_wasteland_004",
+      "background_name": "sbg_wasteland_004",
+      "stage_info_bg": "ibg_wasteland_001",
+      "target_list": [
+        3410020234
+      ],
+      "wave_data": [
+        {
+          "wave_path": "path_grd_mid_centurion_902",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3410020234,
+              "spawn_type": "Drop"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 1,
+      "mid_monster_count": 0,
+      "far_monster_count": 0
+    },
+    {
+      "stage_id": 6304012,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "UnionRaid",
+      "battle_time": 180,
+      "monster_count": 6,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_mordernia_01",
+      "point_data_fly": "point_fly_mordernia_01",
+      "background_name": "sbg_desert_sky_001",
+      "stage_info_bg": "ibg_desert_001",
+      "target_list": [
+        3520040154
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_fly_mordernia_01",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3520040154,
+              "spawn_type": "Normal"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 1,
+      "far_monster_count": 0
+    },
+    {
+      "stage_id": 6304013,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "UnionRaid",
+      "battle_time": 180,
+      "monster_count": 6,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_materialh_01",
+      "point_data_fly": "point_fly_materialh_01",
+      "background_name": "sbg_ebg002_001",
+      "stage_info_bg": "ibg_greathole_001",
+      "target_list": [
+        2520020144
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_grd_materialh_01",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2520020144,
+              "spawn_type": "Normal"
             },
             {},
             {},

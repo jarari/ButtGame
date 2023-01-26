@@ -1,0 +1,891 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "event_doutsiders_02_s_1",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "event_doutsiders_02_s_1",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "OuterRim",
+      "set_start_camera": "5",
+      "set_end_camera": "1",
+      "set_camera_duration": 2.0,
+      "play_bgm": "bgm_story_fairytalesend_if",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_2",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Speech",
+      "highlight": "viper",
+      "speaker": "viper",
+      "scenario_localkey": "event_doutsiders_02_s_2",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "viper",
+          "set_char_position": "2",
+          "set_char_anim": "delight"
+        },
+        {
+          "show_char_id": "jackal",
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_3",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Speech",
+      "highlight": "viper",
+      "speaker": "viper",
+      "scenario_localkey": "event_doutsiders_02_s_3",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_4",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Speech",
+      "highlight": "viper",
+      "speaker": "viper",
+      "scenario_localkey": "event_doutsiders_02_s_4",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_5",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Choice",
+      "highlight": "viper",
+      "speaker": "Choice",
+      "scenario_localkey": "event_doutsiders_02_s_5",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "event_doutsiders_02_s_7"
+    },
+    {
+      "id": "event_doutsiders_02_s_6",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Choice",
+      "highlight": "viper",
+      "speaker": "Choice",
+      "scenario_localkey": "event_doutsiders_02_s_6",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "event_doutsiders_02_s_7"
+    },
+    {
+      "id": "event_doutsiders_02_s_7",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Speech",
+      "highlight": "viper",
+      "speaker": "viper",
+      "scenario_localkey": "event_doutsiders_02_s_7",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "20",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_8",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Speech",
+      "highlight": "viper",
+      "speaker": "viper",
+      "scenario_localkey": "event_doutsiders_02_s_8",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "20",
+      "set_end_camera": "20",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_9",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Speech",
+      "highlight": "viper",
+      "speaker": "viper",
+      "scenario_localkey": "event_doutsiders_02_s_9",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "shy"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "20",
+      "set_end_camera": "20",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_10",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Speech",
+      "highlight": "viper",
+      "speaker": "viper",
+      "scenario_localkey": "event_doutsiders_02_s_10",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "shy"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "20",
+      "set_end_camera": "20",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_11",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Speech",
+      "highlight": "viper",
+      "speaker": "viper",
+      "scenario_localkey": "event_doutsiders_02_s_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "shy"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "20",
+      "set_end_camera": "20",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_12",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Speech",
+      "highlight": "jackal",
+      "speaker": "jackal",
+      "scenario_localkey": "event_doutsiders_02_s_12",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "shy"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "no"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "20",
+      "set_end_camera": "S_120",
+      "set_camera_duration": 0.3,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_13",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Speech",
+      "highlight": "viper",
+      "speaker": "viper",
+      "scenario_localkey": "event_doutsiders_02_s_13",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "no"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_120",
+      "set_end_camera": "20",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_14",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Speech",
+      "highlight": "viper",
+      "speaker": "viper",
+      "scenario_localkey": "event_doutsiders_02_s_14",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "good"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "no"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "20",
+      "set_end_camera": "20",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_15",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Speech",
+      "highlight": "viper",
+      "speaker": "viper",
+      "scenario_localkey": "event_doutsiders_02_s_15",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "good"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "no"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "20",
+      "set_end_camera": "20",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_16",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Self",
+      "highlight": "viper",
+      "speaker": "Self",
+      "scenario_localkey": "event_doutsiders_02_s_16",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "good"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "20",
+      "set_end_camera": "20",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_17",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Speech",
+      "highlight": "viper",
+      "speaker": "viper",
+      "scenario_localkey": "event_doutsiders_02_s_17",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "20",
+      "set_end_camera": "20",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_18",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Speech",
+      "highlight": "fatman",
+      "speaker": "fatman",
+      "scenario_localkey": "event_doutsiders_02_s_18",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "fatman",
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "joseph",
+          "set_char_position": "7",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "20",
+      "set_end_camera": "5",
+      "set_camera_duration": 0.3,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "event_doutsiders_02_s_19",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Narration",
+      "highlight": "fatman",
+      "speaker": "Narration",
+      "scenario_localkey": "event_doutsiders_02_s_19",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_glassbreak",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_20",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Speech",
+      "highlight": "fatman",
+      "speaker": "fatman",
+      "scenario_localkey": "event_doutsiders_02_s_20",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "5",
+      "set_end_camera": "50",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "event_doutsiders_02_s_21",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Speech",
+      "highlight": "fatman",
+      "speaker": "fatman",
+      "scenario_localkey": "event_doutsiders_02_s_21",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "50",
+      "set_end_camera": "500",
+      "set_camera_duration": 0.3,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_22",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Speech",
+      "highlight": "joseph",
+      "speaker": "youngman",
+      "scenario_localkey": "event_doutsiders_02_s_22",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "500",
+      "set_end_camera": "70",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_23",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Self",
+      "highlight": "joseph",
+      "speaker": "Self",
+      "scenario_localkey": "event_doutsiders_02_s_23",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_doutsiders_02_s_24",
+      "event_id": 40006,
+      "group_id": "event_doutsiders_02_s",
+      "speech_window": "Speech",
+      "highlight": "jackal",
+      "speaker": "jackal",
+      "scenario_localkey": "event_doutsiders_02_s_24",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "2",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "12",
+          "set_char_anim": "shy_02"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "7",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}
