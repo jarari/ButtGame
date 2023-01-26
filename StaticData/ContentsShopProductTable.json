@@ -12979,7 +12979,7 @@
     {
       "id": 9000506,
       "bundle_id": 90005,
-      "product_order": 8,
+      "product_order": 12,
       "product_prob": 1000,
       "is_limit": true,
       "buy_limit_count": 2,
@@ -12994,7 +12994,7 @@
     {
       "id": 9000507,
       "bundle_id": 90005,
-      "product_order": 9,
+      "product_order": 13,
       "product_prob": 1000,
       "is_limit": true,
       "buy_limit_count": 2,
@@ -13009,7 +13009,7 @@
     {
       "id": 9000508,
       "bundle_id": 90005,
-      "product_order": 10,
+      "product_order": 14,
       "product_prob": 1000,
       "is_limit": true,
       "buy_limit_count": 2,
@@ -13024,7 +13024,7 @@
     {
       "id": 9000509,
       "bundle_id": 90005,
-      "product_order": 11,
+      "product_order": 15,
       "product_prob": 1000,
       "is_limit": true,
       "buy_limit_count": 1,
@@ -13039,7 +13039,7 @@
     {
       "id": 9000510,
       "bundle_id": 90005,
-      "product_order": 12,
+      "product_order": 16,
       "product_prob": 1000,
       "is_limit": true,
       "buy_limit_count": 1,
@@ -13054,7 +13054,7 @@
     {
       "id": 9000511,
       "bundle_id": 90005,
-      "product_order": 13,
+      "product_order": 17,
       "product_prob": 1000,
       "is_limit": true,
       "buy_limit_count": 1,
@@ -13069,7 +13069,7 @@
     {
       "id": 9000512,
       "bundle_id": 90005,
-      "product_order": 14,
+      "product_order": 18,
       "product_prob": 1000,
       "is_limit": true,
       "buy_limit_count": 1,
@@ -13099,7 +13099,7 @@
     {
       "id": 9000514,
       "bundle_id": 90005,
-      "product_order": 15,
+      "product_order": 19,
       "product_prob": 1000,
       "is_limit": true,
       "buy_limit_count": 10,
@@ -13114,7 +13114,7 @@
     {
       "id": 9000515,
       "bundle_id": 90005,
-      "product_order": 16,
+      "product_order": 20,
       "product_prob": 1000,
       "is_limit": true,
       "buy_limit_count": 50,
@@ -13129,7 +13129,7 @@
     {
       "id": 9000516,
       "bundle_id": 90005,
-      "product_order": 17,
+      "product_order": 21,
       "product_prob": 1000,
       "is_limit": false,
       "buy_limit_count": 999,
@@ -13154,6 +13154,66 @@
       "price_type": "Item",
       "price_id": 7060004,
       "price_value": 400,
+      "discount_prob_id": 0
+    },
+    {
+      "id": 9000518,
+      "bundle_id": 90005,
+      "product_order": 8,
+      "product_prob": 1000,
+      "is_limit": true,
+      "buy_limit_count": 5,
+      "goods_type": "Item",
+      "goods_id": 7091001,
+      "goods_value": 32,
+      "price_type": "Item",
+      "price_id": 7060004,
+      "price_value": 80,
+      "discount_prob_id": 0
+    },
+    {
+      "id": 9000519,
+      "bundle_id": 90005,
+      "product_order": 9,
+      "product_prob": 1000,
+      "is_limit": true,
+      "buy_limit_count": 5,
+      "goods_type": "Item",
+      "goods_id": 7092001,
+      "goods_value": 16,
+      "price_type": "Item",
+      "price_id": 7060004,
+      "price_value": 80,
+      "discount_prob_id": 0
+    },
+    {
+      "id": 9000520,
+      "bundle_id": 90005,
+      "product_order": 10,
+      "product_prob": 1000,
+      "is_limit": true,
+      "buy_limit_count": 5,
+      "goods_type": "Item",
+      "goods_id": 7091002,
+      "goods_value": 24,
+      "price_type": "Item",
+      "price_id": 7060004,
+      "price_value": 100,
+      "discount_prob_id": 0
+    },
+    {
+      "id": 9000521,
+      "bundle_id": 90005,
+      "product_order": 11,
+      "product_prob": 1000,
+      "is_limit": true,
+      "buy_limit_count": 5,
+      "goods_type": "Item",
+      "goods_id": 7092002,
+      "goods_value": 12,
+      "price_type": "Item",
+      "price_id": 7060004,
+      "price_value": 100,
       "discount_prob_id": 0
     }
   ]

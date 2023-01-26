@@ -110,7 +110,7 @@
         {},
         {}
       ],
-      "jump_target": "d_counseling_anne_miraclefairy_12_8"
+      "jump_target": "d_counseling_anne_miraclefairy_12_7"
     },
     {
       "id": "d_counseling_anne_miraclefairy_12_5",
@@ -164,7 +164,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "jump_target": "d_counseling_anne_miraclefairy_12_9"
     },
     {
       "id": "d_counseling_anne_miraclefairy_12_7",
@@ -185,14 +186,13 @@
         {},
         {}
       ],
-      "set_start_camera": "XS_100",
+      "set_start_camera": "XS_10",
       "set_end_camera": "XS_100",
       "set_camera_duration": 1.0,
       "effects": [
         {},
         {}
-      ],
-      "jump_target": "d_counseling_anne_miraclefairy_12_10"
+      ]
     },
     {
       "id": "d_counseling_anne_miraclefairy_12_8",
@@ -213,54 +213,28 @@
         {},
         {}
       ],
-      "set_start_camera": "XS_10",
-      "set_end_camera": "XS_100",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_counseling_anne_miraclefairy_12_9",
-      "group_id": "d_counseling_anne_miraclefairy_12",
-      "speech_window": "Speech",
-      "attractive_point": 0,
-      "highlight": "anne",
-      "speaker": "anne",
-      "scenario_localkey": "d_counseling_anne_miraclefairy_12_9",
-      "play_lipSync": true,
-      "characters": [
-        {
-          "set_char_position": "1",
-          "set_char_anim": "shy"
-        },
-        {},
-        {},
-        {},
-        {}
-      ],
       "set_start_camera": "XS_100",
       "set_end_camera": "XS_100",
       "set_camera_duration": 1.0,
       "effects": [
         {},
         {}
-      ]
+      ],
+      "jump_target": "d_counseling_anne_miraclefairy_12_9"
     },
     {
-      "id": "d_counseling_anne_miraclefairy_12_10",
+      "id": "d_counseling_anne_miraclefairy_12_9",
       "group_id": "d_counseling_anne_miraclefairy_12",
       "speech_window": "Narration",
       "attractive_point": 0,
       "highlight": "anne",
-      "scenario_localkey": "d_counseling_anne_miraclefairy_12_10",
-      "play_lipSync": false,
+      "scenario_localkey": "d_counseling_anne_miraclefairy_12_9",
+      "play_lipSync": true,
       "characters": [
         {
           "hide_char_id": "anne",
           "set_char_position": "1",
-          "set_char_anim": "idle"
+          "set_char_anim": "shy"
         },
         {},
         {},
