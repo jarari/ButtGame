@@ -147,6 +147,19 @@
       "get_info_value": "50015204"
     },
     {
+      "id": 12,
+      "theme": 1,
+      "bgm": "bgm_menu_realkindness",
+      "is_loop": true,
+      "play_time": 125,
+      "name": "Real Kindness",
+      "order": 12,
+      "artist": "Cosmograph",
+      "is_default_bgm": true,
+      "get_info_type": "Locale",
+      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM"
+    },
+    {
       "id": 2001,
       "theme": 2,
       "bgm": "bgm_lostsector_mazeinabyss_a",
@@ -611,12 +624,25 @@
     {
       "id": 4007,
       "theme": 4,
-      "bgm": "bgm_menu_realkindness",
-      "is_loop": true,
-      "play_time": 125,
-      "name": "Real Kindness",
+      "bgm": "event_bgm_goodbyfornow",
+      "is_loop": false,
+      "play_time": 226,
+      "name": "GoodBye For Now",
       "order": 7,
-      "artist": "Cosmograph",
+      "artist": "Moeki Harada (Vocal. Jennifer Sumire)",
+      "is_default_bgm": true,
+      "get_info_type": "Locale",
+      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM"
+    },
+    {
+      "id": 4008,
+      "theme": 4,
+      "bgm": "event_bgm_valentine",
+      "is_loop": true,
+      "play_time": 86,
+      "name": "Give me Chocolate",
+      "order": 8,
+      "artist": "Soochan",
       "is_default_bgm": true,
       "get_info_type": "Locale",
       "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM"

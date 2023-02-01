@@ -4822,6 +4822,20 @@
       "reward_id": 2401019
     },
     {
+      "id": 901001,
+      "trigger": "CharacterLevelMax",
+      "condition_id": 0,
+      "condition_value": 141,
+      "before_trigger_id": 0,
+      "handler_type": "Achievement",
+      "print_value": true,
+      "shortcut_type": "None",
+      "shortcut_value": 0,
+      "description_localkey": "trigger_desc_CharacterLevel",
+      "point_value": 141,
+      "reward_id": 2901001
+    },
+    {
       "id": 999999,
       "trigger": "FirstPaidGacha_Legecy",
       "condition_id": 0,

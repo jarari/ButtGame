@@ -528,6 +528,24 @@
       "banner_print_type": "PrintEventTime"
     },
     {
+      "id": 70011,
+      "event_system_type": "PickupGachaEvent",
+      "event_shortcut_id": "15005",
+      "name_localkey": "pickup_gacha_event_name_001",
+      "description_localkey": "pickup_gacha_event_description_001",
+      "schedule_type": "Once",
+      "schedule_value": "0",
+      "event_disable_locale": "EVENT_REWARD_ACQUISITION_DATE",
+      "event_resource_id": "0",
+      "event_thumbnail_resource_id": "EVENT_BANNER_GACHA_C312",
+      "thumbnail_color": "1A1719",
+      "event_banner_resource_id": "EVENT_BANNER_GACHA_C312_S",
+      "event_order": 77989283,
+      "is_popup": false,
+      "active_type": "None",
+      "banner_print_type": "PrintEventTime"
+    },
+    {
       "id": 90001,
       "event_system_type": "ComeBackUserEvent",
       "event_shortcut_id": "15008",
@@ -705,7 +723,7 @@
       "event_thumbnail_resource_id": "EVENT_BANNER_NOCALLERID",
       "thumbnail_color": "16171D",
       "event_banner_resource_id": "EVENT_BANNER_NOCALLERID_S",
-      "event_order": 78889295,
+      "event_order": 77998894,
       "is_popup": false,
       "active_type": "None",
       "is_hidden": true,

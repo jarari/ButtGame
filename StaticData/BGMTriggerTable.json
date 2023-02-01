@@ -8750,13 +8750,22 @@
       "id": 7000006,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
+      "type_value": "mbg004",
+      "default": false,
+      "bgm_trigger_event_type": "target_appear",
+      "bgm_loop": "bgm_boss_mbg004"
+    },
+    {
+      "id": 7000007,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "raid",
       "type_value": "ebg001",
       "default": false,
       "bgm_trigger_event_type": "target_appear",
       "bgm_loop": "bgm_boss_ebg001_phase1"
     },
     {
-      "id": 7000007,
+      "id": 7000008,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
       "type_value": "ebg001",
@@ -8765,7 +8774,7 @@
       "bgm_loop": "bgm_boss_ebg001_phase2"
     },
     {
-      "id": 7000008,
+      "id": 7000009,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
       "type_value": "ebg002",
@@ -8774,7 +8783,7 @@
       "bgm_loop": "bgm_boss_ebg002"
     },
     {
-      "id": 7000009,
+      "id": 7000010,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
       "type_value": "eba001",
@@ -8783,7 +8792,16 @@
       "bgm_loop": "bgm_boss_eba001"
     },
     {
-      "id": 7000010,
+      "id": 7000011,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "raid",
+      "type_value": "mba001",
+      "default": false,
+      "bgm_trigger_event_type": "target_appear",
+      "bgm_loop": "bgm_boss_mba001"
+    },
+    {
+      "id": 7000012,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
       "type_value": "mba002",
@@ -8792,7 +8810,7 @@
       "bgm_loop": "bgm_boss_mba002_phase1"
     },
     {
-      "id": 7000011,
+      "id": 7000013,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
       "type_value": "mba002",
@@ -9162,14 +9180,6 @@
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "event_bgm_valentine"
-    },
-    {
-      "id": 9910404,
-      "bgm_type": "story_event_bgm",
-      "type_value": "10010",
-      "default": true,
-      "bgm_trigger_event_value": 0,
-      "bgm_loop": "event_bgm_bwparadaise"
     }
   ]
 }

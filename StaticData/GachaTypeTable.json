@@ -364,6 +364,34 @@
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
       "gacha_btn_control": true
+    },
+    {
+      "id": 107,
+      "type": "GachaPickup",
+      "order_id": 277893,
+      "event_id": 70011,
+      "gacha_price_group": [
+        {
+          "gacha_price_type": 5200,
+          "gacha_price_value_count_1": 1,
+          "gacha_price_value_count_10": 10
+        },
+        {
+          "gacha_price_type": 99,
+          "gacha_price_value_count_1": 300,
+          "gacha_price_value_count_10": 3000
+        }
+      ],
+      "grade_prob_id": 2008,
+      "is_max_count": false,
+      "max_ceiling_count": 0,
+      "fixed_char_amount": 0,
+      "gacha_page_prefab": "base_gacha_type_pickup_c312",
+      "pickup_char_group_id": 500501,
+      "use_wish_list": false,
+      "gacha_play_max_count": 0,
+      "gacha_reward_id": 5000002,
+      "gacha_btn_control": true
     }
   ]
 }

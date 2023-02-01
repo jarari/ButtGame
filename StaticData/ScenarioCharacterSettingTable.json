@@ -2044,6 +2044,14 @@
       "address": "spine/standing/c903/00_HD"
     },
     {
+      "id": "andersen_op_c",
+      "name_localkey": "903_name",
+      "resource_id": 903,
+      "skin_id": "default",
+      "frame_type": "center",
+      "address": "spine/standing/c903/00_HD"
+    },
+    {
       "id": "burningum_op",
       "name_localkey": "909_name",
       "resource_id": 914,
@@ -2992,31 +3000,34 @@
     },
     {
       "id": "c_1",
-      "name_localkey": "npc_04_name",
+      "name_localkey": "800_name",
       "resource_id": 800,
       "skin_id": "default",
       "frame_type": "none",
-      "address": "spine/standing/c800/00_HD"
+      "address": "spine/standing/c800/00_HD",
+      "sd_resource_address": "c800_00_var"
     },
     {
       "id": "c_2",
-      "name_localkey": "npc_04_name",
+      "name_localkey": "801_name",
       "resource_id": 801,
       "skin_id": "default",
       "frame_type": "none",
-      "address": "spine/standing/c801/00_HD"
+      "address": "spine/standing/c801/00_HD",
+      "sd_resource_address": "c801_00_var"
     },
     {
       "id": "c_3",
-      "name_localkey": "npc_04_name",
+      "name_localkey": "802_name",
       "resource_id": 802,
       "skin_id": "default",
       "frame_type": "none",
-      "address": "spine/standing/c802/00_HD"
+      "address": "spine/standing/c802/00_HD",
+      "sd_resource_address": "c802_00_var"
     },
     {
       "id": "c_npc_1",
-      "name_localkey": "npc_04_name",
+      "name_localkey": "npc_803_name",
       "resource_id": 803,
       "skin_id": "default",
       "frame_type": "none",
@@ -3024,7 +3035,7 @@
     },
     {
       "id": "c_npc_2",
-      "name_localkey": "npc_04_name",
+      "name_localkey": "npc_804_name",
       "resource_id": 804,
       "skin_id": "default",
       "frame_type": "none",
@@ -3532,6 +3543,127 @@
       "frame_type": "none",
       "address": "spine/standing/c013/00_HD",
       "sd_resource_address": "c013_00_var"
+    },
+    {
+      "id": "max",
+      "name_localkey": "npc_261_name",
+      "resource_id": 936,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c936/00_HD"
+    },
+    {
+      "id": "puppies",
+      "name_localkey": "npc_262_name",
+      "resource_id": 937,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c937/00_HD"
+    },
+    {
+      "id": "nero",
+      "name_localkey": "380_name",
+      "resource_id": 380,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c380/00_HD"
+    },
+    {
+      "id": "biscuit",
+      "name_localkey": "381_name",
+      "resource_id": 381,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c381/00_HD",
+      "sd_resource_address": "c381_00_var"
+    },
+    {
+      "id": "regularguest",
+      "name_localkey": "npc_253_name",
+      "resource_id": 911,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c911/00_HD"
+    },
+    {
+      "id": "calmguest",
+      "name_localkey": "npc_263_name",
+      "resource_id": 912,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c912/00_HD"
+    },
+    {
+      "id": "violentman01",
+      "name_localkey": "npc_257_name",
+      "resource_id": 919,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c919/00_HD"
+    },
+    {
+      "id": "charlatan01",
+      "name_localkey": "npc_258_name",
+      "resource_id": 918,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c918/00_HD"
+    },
+    {
+      "id": "man01",
+      "name_localkey": "npc_259_name",
+      "resource_id": 911,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c911/00_HD"
+    },
+    {
+      "id": "hamburgerman01",
+      "name_localkey": "npc_260_name",
+      "resource_id": 911,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c911/00_HD"
+    },
+    {
+      "id": "clerk01",
+      "name_localkey": "npc_229_name",
+      "resource_id": 912,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c912/00_HD"
+    },
+    {
+      "id": "drunkman01",
+      "name_localkey": "npc_254_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "terrorist01",
+      "name_localkey": "npc_255_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "elegantowner",
+      "name_localkey": "npc_264_name",
+      "resource_id": 924,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c924/00_HD"
+    },
+    {
+      "id": "suspiciouswoman",
+      "name_localkey": "npc_265_name",
+      "resource_id": 912,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c912/00_HD"
     }
   ]
 }

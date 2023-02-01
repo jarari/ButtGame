@@ -7178,6 +7178,110 @@
       "probability": 1.0
     },
     {
+      "id": 553,
+      "reaction_type": "touch",
+      "attractive_level_min": 1,
+      "attractive_level_max": 9,
+      "resource_id": 312,
+      "costume_index": 0,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "312_speech_01",
+      "rection_voice": "c312_Lobby_Touch_1",
+      "probability": 0.3
+    },
+    {
+      "id": 554,
+      "reaction_type": "touch",
+      "attractive_level_min": 1,
+      "attractive_level_max": 9,
+      "resource_id": 312,
+      "costume_index": 0,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "312_speech_02",
+      "rection_voice": "c312_Lobby_Touch_2",
+      "probability": 0.3
+    },
+    {
+      "id": 555,
+      "reaction_type": "touch",
+      "attractive_level_min": 1,
+      "attractive_level_max": 9,
+      "resource_id": 312,
+      "costume_index": 0,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "312_speech_03",
+      "rection_voice": "c312_Lobby_Touch_3",
+      "probability": 0.4
+    },
+    {
+      "id": 556,
+      "reaction_type": "touch",
+      "attractive_level_min": 10,
+      "attractive_level_max": 0,
+      "resource_id": 312,
+      "costume_index": 0,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "312_speech_04",
+      "rection_voice": "c312_Lobby_Touch_Love_1",
+      "probability": 0.3
+    },
+    {
+      "id": 557,
+      "reaction_type": "touch",
+      "attractive_level_min": 10,
+      "attractive_level_max": 0,
+      "resource_id": 312,
+      "costume_index": 0,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "312_speech_05",
+      "rection_voice": "c312_Lobby_Touch_Love_2",
+      "probability": 0.3
+    },
+    {
+      "id": 558,
+      "reaction_type": "touch",
+      "attractive_level_min": 10,
+      "attractive_level_max": 0,
+      "resource_id": 312,
+      "costume_index": 0,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "312_speech_06",
+      "rection_voice": "c312_Lobby_Touch_Love_3",
+      "probability": 0.4
+    },
+    {
+      "id": 559,
+      "reaction_type": "stay",
+      "attractive_level_min": 1,
+      "attractive_level_max": 9,
+      "resource_id": 312,
+      "costume_index": 0,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "312_stay_01",
+      "rection_voice": "c312_Lobby_Stay_1",
+      "probability": 1.0
+    },
+    {
+      "id": 560,
+      "reaction_type": "stay",
+      "attractive_level_min": 10,
+      "attractive_level_max": 0,
+      "resource_id": 312,
+      "costume_index": 0,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "312_stay_02",
+      "rection_voice": "c312_Lobby_Stay_Love_1",
+      "probability": 1.0
+    },
+    {
       "id": 30001,
       "reaction_type": "touch",
       "attractive_level_min": 1,
@@ -8426,7 +8530,7 @@
       "probability": 1.0
     },
     {
-      "id": 30105,
+      "id": 30097,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 9,
@@ -8439,7 +8543,7 @@
       "probability": 0.3
     },
     {
-      "id": 30106,
+      "id": 30098,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 9,
@@ -8452,7 +8556,7 @@
       "probability": 0.3
     },
     {
-      "id": 30107,
+      "id": 30099,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 9,
@@ -8465,7 +8569,7 @@
       "probability": 0.4
     },
     {
-      "id": 30108,
+      "id": 30100,
       "reaction_type": "touch",
       "attractive_level_min": 10,
       "attractive_level_max": 0,
@@ -8478,7 +8582,7 @@
       "probability": 0.3
     },
     {
-      "id": 30109,
+      "id": 30101,
       "reaction_type": "touch",
       "attractive_level_min": 10,
       "attractive_level_max": 0,
@@ -8491,7 +8595,7 @@
       "probability": 0.3
     },
     {
-      "id": 30110,
+      "id": 30102,
       "reaction_type": "touch",
       "attractive_level_min": 10,
       "attractive_level_max": 0,
@@ -8504,7 +8608,7 @@
       "probability": 0.4
     },
     {
-      "id": 30111,
+      "id": 30103,
       "reaction_type": "stay",
       "attractive_level_min": 1,
       "attractive_level_max": 9,
@@ -8517,7 +8621,7 @@
       "probability": 1.0
     },
     {
-      "id": 30112,
+      "id": 30104,
       "reaction_type": "stay",
       "attractive_level_min": 10,
       "attractive_level_max": 0,
@@ -8530,7 +8634,7 @@
       "probability": 1.0
     },
     {
-      "id": 30097,
+      "id": 30105,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 9,
@@ -8543,7 +8647,7 @@
       "probability": 0.3
     },
     {
-      "id": 30098,
+      "id": 30106,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 9,
@@ -8556,7 +8660,7 @@
       "probability": 0.3
     },
     {
-      "id": 30099,
+      "id": 30107,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 9,
@@ -8569,7 +8673,7 @@
       "probability": 0.4
     },
     {
-      "id": 30100,
+      "id": 30108,
       "reaction_type": "touch",
       "attractive_level_min": 10,
       "attractive_level_max": 0,
@@ -8582,7 +8686,7 @@
       "probability": 0.3
     },
     {
-      "id": 30101,
+      "id": 30109,
       "reaction_type": "touch",
       "attractive_level_min": 10,
       "attractive_level_max": 0,
@@ -8595,7 +8699,7 @@
       "probability": 0.3
     },
     {
-      "id": 30102,
+      "id": 30110,
       "reaction_type": "touch",
       "attractive_level_min": 10,
       "attractive_level_max": 0,
@@ -8608,7 +8712,7 @@
       "probability": 0.4
     },
     {
-      "id": 30103,
+      "id": 30111,
       "reaction_type": "stay",
       "attractive_level_min": 1,
       "attractive_level_max": 9,
@@ -8621,7 +8725,7 @@
       "probability": 1.0
     },
     {
-      "id": 30104,
+      "id": 30112,
       "reaction_type": "stay",
       "attractive_level_min": 10,
       "attractive_level_max": 0,
@@ -9258,6 +9362,214 @@
       "probability": 1.0
     },
     {
+      "id": 30161,
+      "reaction_type": "touch",
+      "attractive_level_min": 1,
+      "attractive_level_max": 9,
+      "resource_id": 202,
+      "costume_index": 1,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "202_speech_01",
+      "rection_voice": "c202_Lobby_Touch_1",
+      "probability": 0.3
+    },
+    {
+      "id": 30162,
+      "reaction_type": "touch",
+      "attractive_level_min": 1,
+      "attractive_level_max": 9,
+      "resource_id": 202,
+      "costume_index": 1,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "202_speech_02",
+      "rection_voice": "c202_Lobby_Touch_2",
+      "probability": 0.3
+    },
+    {
+      "id": 30163,
+      "reaction_type": "touch",
+      "attractive_level_min": 1,
+      "attractive_level_max": 9,
+      "resource_id": 202,
+      "costume_index": 1,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "202_speech_03",
+      "rection_voice": "c202_Lobby_Touch_3",
+      "probability": 0.4
+    },
+    {
+      "id": 30164,
+      "reaction_type": "touch",
+      "attractive_level_min": 10,
+      "attractive_level_max": 0,
+      "resource_id": 202,
+      "costume_index": 1,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "202_speech_04",
+      "rection_voice": "c202_Lobby_Touch_Love_1",
+      "probability": 0.3
+    },
+    {
+      "id": 30165,
+      "reaction_type": "touch",
+      "attractive_level_min": 10,
+      "attractive_level_max": 0,
+      "resource_id": 202,
+      "costume_index": 1,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "202_speech_05",
+      "rection_voice": "c202_Lobby_Touch_Love_2",
+      "probability": 0.3
+    },
+    {
+      "id": 30166,
+      "reaction_type": "touch",
+      "attractive_level_min": 10,
+      "attractive_level_max": 0,
+      "resource_id": 202,
+      "costume_index": 1,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "202_speech_06",
+      "rection_voice": "c202_Lobby_Touch_Love_3",
+      "probability": 0.4
+    },
+    {
+      "id": 30167,
+      "reaction_type": "stay",
+      "attractive_level_min": 1,
+      "attractive_level_max": 9,
+      "resource_id": 202,
+      "costume_index": 1,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "202_stay_01",
+      "rection_voice": "c202_Lobby_Stay_1",
+      "probability": 1.0
+    },
+    {
+      "id": 30168,
+      "reaction_type": "stay",
+      "attractive_level_min": 10,
+      "attractive_level_max": 0,
+      "resource_id": 202,
+      "costume_index": 1,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "202_stay_02",
+      "rection_voice": "c202_Lobby_Stay_Love_1",
+      "probability": 1.0
+    },
+    {
+      "id": 30169,
+      "reaction_type": "touch",
+      "attractive_level_min": 1,
+      "attractive_level_max": 9,
+      "resource_id": 80,
+      "costume_index": 1,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "80_speech_01",
+      "rection_voice": "c080_Lobby_Touch_1",
+      "probability": 0.3
+    },
+    {
+      "id": 30170,
+      "reaction_type": "touch",
+      "attractive_level_min": 1,
+      "attractive_level_max": 9,
+      "resource_id": 80,
+      "costume_index": 1,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "80_speech_02",
+      "rection_voice": "c080_Lobby_Touch_2",
+      "probability": 0.3
+    },
+    {
+      "id": 30171,
+      "reaction_type": "touch",
+      "attractive_level_min": 1,
+      "attractive_level_max": 9,
+      "resource_id": 80,
+      "costume_index": 1,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "80_speech_03",
+      "rection_voice": "c080_Lobby_Touch_3",
+      "probability": 0.4
+    },
+    {
+      "id": 30172,
+      "reaction_type": "touch",
+      "attractive_level_min": 10,
+      "attractive_level_max": 0,
+      "resource_id": 80,
+      "costume_index": 1,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "80_speech_04",
+      "rection_voice": "c080_Lobby_Touch_Love_1",
+      "probability": 0.3
+    },
+    {
+      "id": 30173,
+      "reaction_type": "touch",
+      "attractive_level_min": 10,
+      "attractive_level_max": 0,
+      "resource_id": 80,
+      "costume_index": 1,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "80_speech_05",
+      "rection_voice": "c080_Lobby_Touch_Love_2",
+      "probability": 0.3
+    },
+    {
+      "id": 30174,
+      "reaction_type": "touch",
+      "attractive_level_min": 10,
+      "attractive_level_max": 0,
+      "resource_id": 80,
+      "costume_index": 1,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "80_speech_06",
+      "rection_voice": "c080_Lobby_Touch_Love_3",
+      "probability": 0.4
+    },
+    {
+      "id": 30175,
+      "reaction_type": "stay",
+      "attractive_level_min": 1,
+      "attractive_level_max": 9,
+      "resource_id": 80,
+      "costume_index": 1,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "80_stay_01",
+      "rection_voice": "c080_Lobby_Stay_1",
+      "probability": 1.0
+    },
+    {
+      "id": 30176,
+      "reaction_type": "stay",
+      "attractive_level_min": 10,
+      "attractive_level_max": 0,
+      "resource_id": 80,
+      "costume_index": 1,
+      "eventlobby_id": 0,
+      "animation_clip": "expression_0",
+      "speech_localkey": "80_stay_02",
+      "rection_voice": "c080_Lobby_Stay_Love_1",
+      "probability": 1.0
+    },
+    {
       "id": 80001,
       "reaction_type": "touch",
       "attractive_level_min": 1,
@@ -9498,31 +9810,7 @@
       "probability": 1.0
     },
     {
-      "id": 80022,
-      "reaction_type": "touch",
-      "attractive_level_min": 1,
-      "attractive_level_max": 0,
-      "resource_id": 312,
-      "costume_index": 0,
-      "eventlobby_id": 0,
-      "animation_clip": "expression_0",
-      "speech_localkey": "dummy_speech_01",
-      "probability": 1.0
-    },
-    {
-      "id": 80023,
-      "reaction_type": "touch",
-      "attractive_level_min": 1,
-      "attractive_level_max": 0,
-      "resource_id": 381,
-      "costume_index": 0,
-      "eventlobby_id": 0,
-      "animation_clip": "expression_0",
-      "speech_localkey": "dummy_speech_01",
-      "probability": 1.0
-    },
-    {
-      "id": 80024,
+      "id": 80021,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9534,7 +9822,7 @@
       "probability": 1.0
     },
     {
-      "id": 80025,
+      "id": 80022,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9546,7 +9834,7 @@
       "probability": 1.0
     },
     {
-      "id": 80026,
+      "id": 80023,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9558,7 +9846,7 @@
       "probability": 1.0
     },
     {
-      "id": 80027,
+      "id": 80024,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9570,7 +9858,7 @@
       "probability": 1.0
     },
     {
-      "id": 80028,
+      "id": 80025,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9582,7 +9870,7 @@
       "probability": 1.0
     },
     {
-      "id": 80029,
+      "id": 80026,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9594,43 +9882,7 @@
       "probability": 1.0
     },
     {
-      "id": 80030,
-      "reaction_type": "touch",
-      "attractive_level_min": 1,
-      "attractive_level_max": 0,
-      "resource_id": 800,
-      "costume_index": 0,
-      "eventlobby_id": 0,
-      "animation_clip": "expression_0",
-      "speech_localkey": "dummy_speech_01",
-      "probability": 1.0
-    },
-    {
-      "id": 80031,
-      "reaction_type": "touch",
-      "attractive_level_min": 1,
-      "attractive_level_max": 0,
-      "resource_id": 801,
-      "costume_index": 0,
-      "eventlobby_id": 0,
-      "animation_clip": "expression_0",
-      "speech_localkey": "dummy_speech_01",
-      "probability": 1.0
-    },
-    {
-      "id": 80032,
-      "reaction_type": "touch",
-      "attractive_level_min": 1,
-      "attractive_level_max": 0,
-      "resource_id": 802,
-      "costume_index": 0,
-      "eventlobby_id": 0,
-      "animation_clip": "expression_0",
-      "speech_localkey": "dummy_speech_01",
-      "probability": 1.0
-    },
-    {
-      "id": 80033,
+      "id": 80027,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9642,7 +9894,7 @@
       "probability": 1.0
     },
     {
-      "id": 80034,
+      "id": 80028,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9654,7 +9906,7 @@
       "probability": 1.0
     },
     {
-      "id": 80035,
+      "id": 80029,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9666,7 +9918,7 @@
       "probability": 1.0
     },
     {
-      "id": 80036,
+      "id": 80030,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9678,7 +9930,7 @@
       "probability": 1.0
     },
     {
-      "id": 80037,
+      "id": 80031,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9690,7 +9942,7 @@
       "probability": 1.0
     },
     {
-      "id": 80038,
+      "id": 80032,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9702,7 +9954,7 @@
       "probability": 1.0
     },
     {
-      "id": 80039,
+      "id": 80033,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9714,7 +9966,7 @@
       "probability": 1.0
     },
     {
-      "id": 80040,
+      "id": 80034,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9726,7 +9978,7 @@
       "probability": 1.0
     },
     {
-      "id": 80041,
+      "id": 80035,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9738,7 +9990,7 @@
       "probability": 1.0
     },
     {
-      "id": 80042,
+      "id": 80036,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9750,7 +10002,7 @@
       "probability": 1.0
     },
     {
-      "id": 80043,
+      "id": 80037,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9762,7 +10014,7 @@
       "probability": 1.0
     },
     {
-      "id": 80044,
+      "id": 80038,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9774,7 +10026,7 @@
       "probability": 1.0
     },
     {
-      "id": 80045,
+      "id": 80039,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
@@ -9786,7 +10038,7 @@
       "probability": 1.0
     },
     {
-      "id": 80046,
+      "id": 80040,
       "reaction_type": "touch",
       "attractive_level_min": 1,
       "attractive_level_max": 0,
