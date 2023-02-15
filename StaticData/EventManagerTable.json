@@ -92,6 +92,24 @@
       "banner_print_type": "PrintEventTime"
     },
     {
+      "id": 10006,
+      "event_system_type": "LoginEvent",
+      "event_shortcut_id": "15001",
+      "name_localkey": "daily_login_event_name",
+      "description_localkey": "daily_login_event_description",
+      "schedule_type": "Once",
+      "schedule_value": "0",
+      "event_disable_locale": "EVENT_REWARD_ACQUISITION_DATE",
+      "event_resource_id": "580101",
+      "event_thumbnail_resource_id": "EVENT_BANNER_DAILY_LOGIN_06",
+      "thumbnail_color": "ff0060",
+      "event_banner_resource_id": "EVENT_BANNER_DAILY_LOGIN_06_S",
+      "event_order": 77988590,
+      "is_popup": true,
+      "active_type": "DailyOnce",
+      "banner_print_type": "PrintEventTime"
+    },
+    {
       "id": 20001,
       "event_system_type": "DailyMissionEvent",
       "event_shortcut_id": "15002",
