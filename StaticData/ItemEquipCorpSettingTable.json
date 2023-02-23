@@ -9,7 +9,8 @@
       "ratio_missilis": 0,
       "ratio_elysion": 0,
       "ratio_tetra": 0,
-      "ratio_pilgrim": 0
+      "ratio_pilgrim": 0,
+      "ratio_abnormal": 0
     },
     {
       "id": 2,
@@ -19,7 +20,8 @@
       "ratio_missilis": 10000,
       "ratio_elysion": 0,
       "ratio_tetra": 0,
-      "ratio_pilgrim": 0
+      "ratio_pilgrim": 0,
+      "ratio_abnormal": 0
     },
     {
       "id": 3,
@@ -29,7 +31,8 @@
       "ratio_missilis": 0,
       "ratio_elysion": 10000,
       "ratio_tetra": 0,
-      "ratio_pilgrim": 0
+      "ratio_pilgrim": 0,
+      "ratio_abnormal": 0
     },
     {
       "id": 4,
@@ -39,7 +42,8 @@
       "ratio_missilis": 0,
       "ratio_elysion": 0,
       "ratio_tetra": 10000,
-      "ratio_pilgrim": 0
+      "ratio_pilgrim": 0,
+      "ratio_abnormal": 0
     },
     {
       "id": 5,
@@ -49,29 +53,55 @@
       "ratio_missilis": 0,
       "ratio_elysion": 0,
       "ratio_tetra": 0,
-      "ratio_pilgrim": 10000
+      "ratio_pilgrim": 10000,
+      "ratio_abnormal": 0
     },
     {
       "id": 6,
+      "key": "Equipment_ABNORMAL",
+      "corp_type": "ABNORMAL",
+      "ratio_none": 0,
+      "ratio_missilis": 0,
+      "ratio_elysion": 0,
+      "ratio_tetra": 0,
+      "ratio_pilgrim": 0,
+      "ratio_abnormal": 10000
+    },
+    {
+      "id": 7,
       "key": "Equipment_Random_01",
       "corp_type": "RANDOM",
-      "corp_description_localkey": "EQUIPMENT_COMPANY_SETTING_DESC_RANDOM_01",
+      "corp_description_localkey": "Locale_System:EQUIPMENT_COMPANY_SETTING_DESC_RANDOM_01",
       "ratio_none": 2000,
       "ratio_missilis": 2000,
       "ratio_elysion": 2000,
       "ratio_tetra": 2000,
-      "ratio_pilgrim": 2000
+      "ratio_pilgrim": 2000,
+      "ratio_abnormal": 0
     },
     {
-      "id": 7,
+      "id": 8,
       "key": "Equipment_Random_02",
       "corp_type": "RANDOM",
-      "corp_description_localkey": "EQUIPMENT_COMPANY_SETTING_DESC_RANDOM_02",
+      "corp_description_localkey": "Locale_System:EQUIPMENT_COMPANY_SETTING_DESC_RANDOM_02",
       "ratio_none": 0,
       "ratio_missilis": 2500,
       "ratio_elysion": 2500,
       "ratio_tetra": 2500,
-      "ratio_pilgrim": 2500
+      "ratio_pilgrim": 2500,
+      "ratio_abnormal": 0
+    },
+    {
+      "id": 9,
+      "key": "Equipment_Random_03",
+      "corp_type": "RANDOM",
+      "corp_description_localkey": "Locale_System:EQUIPMENT_COMPANY_SETTING_DESC_RANDOM_03",
+      "ratio_none": 0,
+      "ratio_missilis": 2000,
+      "ratio_elysion": 2000,
+      "ratio_tetra": 2000,
+      "ratio_pilgrim": 2000,
+      "ratio_abnormal": 2000
     }
   ]
 }

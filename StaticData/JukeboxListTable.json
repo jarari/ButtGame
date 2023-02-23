@@ -147,19 +147,6 @@
       "get_info_value": "50015204"
     },
     {
-      "id": 12,
-      "theme": 1,
-      "bgm": "bgm_menu_realkindness",
-      "is_loop": true,
-      "play_time": 125,
-      "name": "Real Kindness",
-      "order": 12,
-      "artist": "Cosmograph",
-      "is_default_bgm": true,
-      "get_info_type": "Locale",
-      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM"
-    },
-    {
       "id": 2001,
       "theme": 2,
       "bgm": "bgm_lostsector_mazeinabyss_a",
@@ -544,6 +531,18 @@
       "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_NONE"
     },
     {
+      "id": 3027,
+      "theme": 3,
+      "bgm": "bgm_story_prism",
+      "is_loop": true,
+      "play_time": 89,
+      "name": "Prism",
+      "order": 27,
+      "artist": "Cosmograph",
+      "get_info_type": "Locale",
+      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_NONE"
+    },
+    {
       "id": 4001,
       "theme": 4,
       "bgm": "event_bgm_werise",
@@ -622,13 +621,26 @@
       "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM"
     },
     {
+      "id": 12,
+      "theme": 4,
+      "bgm": "bgm_menu_realkindness",
+      "is_loop": true,
+      "play_time": 125,
+      "name": "Real Kindness",
+      "order": 7,
+      "artist": "Cosmograph",
+      "is_default_bgm": true,
+      "get_info_type": "Locale",
+      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM"
+    },
+    {
       "id": 4007,
       "theme": 4,
       "bgm": "event_bgm_goodbyfornow",
       "is_loop": false,
       "play_time": 226,
       "name": "GoodBye For Now",
-      "order": 7,
+      "order": 8,
       "artist": "Moeki Harada (Vocal. Jennifer Sumire)",
       "is_default_bgm": true,
       "get_info_type": "Locale",
@@ -641,8 +653,60 @@
       "is_loop": true,
       "play_time": 86,
       "name": "Give me Chocolate",
-      "order": 8,
+      "order": 9,
       "artist": "Soochan",
+      "is_default_bgm": true,
+      "get_info_type": "Locale",
+      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM"
+    },
+    {
+      "id": 4009,
+      "theme": 4,
+      "bgm": "event_bgm_spot_ce01",
+      "is_loop": true,
+      "play_time": 97,
+      "name": "3DGE OF BULLET",
+      "order": 10,
+      "artist": "Cosmograph",
+      "is_default_bgm": true,
+      "get_info_type": "Locale",
+      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM"
+    },
+    {
+      "id": 4010,
+      "theme": 4,
+      "bgm": "event_bgm_title_ce01",
+      "is_loop": true,
+      "play_time": 97,
+      "name": "3DGE OF BULLET [Title Ver.]",
+      "order": 11,
+      "artist": "Cosmograph",
+      "is_default_bgm": true,
+      "get_info_type": "Locale",
+      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM"
+    },
+    {
+      "id": 4011,
+      "theme": 4,
+      "bgm": "event_bgm_weaponxweapon",
+      "is_loop": true,
+      "play_time": 101,
+      "name": "WEAPON X WEAPON",
+      "order": 12,
+      "artist": "Cosmograph",
+      "is_default_bgm": true,
+      "get_info_type": "Locale",
+      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM"
+    },
+    {
+      "id": 4012,
+      "theme": 4,
+      "bgm": "event_bgm_boss_ce01",
+      "is_loop": true,
+      "play_time": 95,
+      "name": "the rapture appears",
+      "order": 13,
+      "artist": "Cosmograph",
       "is_default_bgm": true,
       "get_info_type": "Locale",
       "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM"

@@ -792,6 +792,105 @@
       "monster_stage_lv": 100,
       "passive_skill_id": 0,
       "target_passive_skill_id": 7000016
+    },
+    {
+      "id": 30201,
+      "group": 302,
+      "step": 1,
+      "condition_type": "DamageDoneToTargetMonster",
+      "condition_value_min": 0,
+      "condition_value_max": 600000,
+      "monster_stage_lv": 38,
+      "passive_skill_id": 0,
+      "target_passive_skill_id": 7000001
+    },
+    {
+      "id": 30202,
+      "group": 302,
+      "step": 2,
+      "condition_type": "DamageDoneToTargetMonster",
+      "condition_value_min": 600001,
+      "condition_value_max": 1000000,
+      "monster_stage_lv": 42,
+      "passive_skill_id": 0,
+      "target_passive_skill_id": 7000001
+    },
+    {
+      "id": 30203,
+      "group": 302,
+      "step": 3,
+      "condition_type": "DamageDoneToTargetMonster",
+      "condition_value_min": 1000001,
+      "condition_value_max": 1400000,
+      "monster_stage_lv": 46,
+      "passive_skill_id": 0,
+      "target_passive_skill_id": 7000001
+    },
+    {
+      "id": 30204,
+      "group": 302,
+      "step": 4,
+      "condition_type": "DamageDoneToTargetMonster",
+      "condition_value_min": 1400001,
+      "condition_value_max": 1800000,
+      "monster_stage_lv": 50,
+      "passive_skill_id": 0,
+      "target_passive_skill_id": 7000001
+    },
+    {
+      "id": 30205,
+      "group": 302,
+      "step": 5,
+      "condition_type": "DamageDoneToTargetMonster",
+      "condition_value_min": 1800001,
+      "condition_value_max": 2200000,
+      "monster_stage_lv": 54,
+      "passive_skill_id": 0,
+      "target_passive_skill_id": 7000001
+    },
+    {
+      "id": 30206,
+      "group": 302,
+      "step": 6,
+      "condition_type": "DamageDoneToTargetMonster",
+      "condition_value_min": 2200001,
+      "condition_value_max": 2600000,
+      "monster_stage_lv": 54,
+      "passive_skill_id": 0,
+      "target_passive_skill_id": 7000001
+    },
+    {
+      "id": 30207,
+      "group": 302,
+      "step": 7,
+      "condition_type": "DamageDoneToTargetMonster",
+      "condition_value_min": 2600001,
+      "condition_value_max": 3100000,
+      "monster_stage_lv": 54,
+      "passive_skill_id": 0,
+      "target_passive_skill_id": 7000001
+    },
+    {
+      "id": 30208,
+      "group": 302,
+      "step": 8,
+      "condition_type": "DamageDoneToTargetMonster",
+      "condition_value_min": 3100001,
+      "condition_value_max": 3600000,
+      "monster_stage_lv": 54,
+      "passive_skill_id": 0,
+      "target_passive_skill_id": 7000001
+    },
+    {
+      "id": 30209,
+      "group": 302,
+      "step": 9,
+      "condition_type": "DamageDoneToTargetMonster",
+      "condition_value_min": 3600001,
+      "condition_value_max": 0,
+      "monster_stage_lv": 170,
+      "passive_skill_id": 0,
+      "target_passive_skill_id": 7000016
     }
   ]
 }

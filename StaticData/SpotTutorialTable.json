@@ -20,6 +20,7 @@
         "field_tuto05_01"
       ],
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 2
     },
     {
@@ -32,14 +33,15 @@
       "CloseType": "Event",
       "CloseValue": "KillMonster",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto01_01_title",
-      "TextLocale": "tuto01_01_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto01_01_title",
+      "TextLocale": "Locale_Tutorial:tuto01_01_description",
       "TextLocation": "Top",
       "Background": 0,
       "AddonResource": "popup_tuto_drag_area",
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
-      "SkipButtonControl": false
+      "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None"
     },
     {
       "id": 3,
@@ -59,6 +61,7 @@
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 4
     },
     {
@@ -71,8 +74,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto01_04_title",
-      "TextLocale": "tuto01_04_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto01_04_title",
+      "TextLocale": "Locale_Tutorial:tuto01_04_description",
       "TextLocation": "Top",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -80,6 +83,7 @@
       "MarkMonsterId": 322005,
       "MonsterMarkResource": "SpotTutorialUnmask_Circle_02",
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 5
     },
     {
@@ -93,8 +97,8 @@
       "CloseTimeValue": 125,
       "CloseValue": "AttackedPlayer",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto01_05_title",
-      "TextLocale": "tuto01_05_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto01_05_title",
+      "TextLocale": "Locale_Tutorial:tuto01_05_description",
       "TextLocation": "Top",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -102,6 +106,7 @@
       "MarkMonsterId": 322005,
       "MonsterMarkResource": "SpotTutorialUnmask_Circle_02",
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 6
     },
     {
@@ -115,8 +120,8 @@
       "CloseTimeValue": 150,
       "CloseValue": "AttackedPlayer",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto01_02_title",
-      "TextLocale": "tuto01_02_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto01_02_title",
+      "TextLocale": "Locale_Tutorial:tuto01_02_description",
       "TextLocation": "Top",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -124,6 +129,7 @@
         "tuto_attack_signal_01"
       ],
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 7
     },
     {
@@ -136,14 +142,15 @@
       "CloseType": "Event",
       "CloseValue": "KillMonster",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto01_03_title",
-      "TextLocale": "tuto01_03_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto01_03_title",
+      "TextLocale": "Locale_Tutorial:tuto01_03_description",
       "TextLocation": "Top",
       "Background": 0,
       "AddonResource": "popup_tuto_drag_area",
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
-      "SkipButtonControl": false
+      "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None"
     },
     {
       "id": 8,
@@ -156,15 +163,16 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto03_01_title",
-      "TextLocale": "tuto03_01_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto03_01_title",
+      "TextLocale": "Locale_Tutorial:tuto03_01_description",
       "TextLocation": "Top",
       "Background": 1,
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [
         "tuto03_01"
       ],
-      "SkipButtonControl": true
+      "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None"
     },
     {
       "id": 9,
@@ -183,6 +191,7 @@
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 10
     },
     {
@@ -195,8 +204,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto04_01_title",
-      "TextLocale": "tuto04_01_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto04_01_title",
+      "TextLocale": "Locale_Tutorial:tuto04_01_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -204,7 +213,8 @@
         "tuto04_01_a",
         "tuto04_01_b"
       ],
-      "SkipButtonControl": true
+      "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None"
     },
     {
       "id": 11,
@@ -218,14 +228,15 @@
       "CloseTimeValue": 310,
       "CloseValue": "None",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto02_01_title",
-      "TextLocale": "tuto02_01_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto02_01_title",
+      "TextLocale": "Locale_Tutorial:tuto02_01_description",
       "TextLocation": "Top",
       "Background": 0,
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "EffectList": "fx_cover_tuto",
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 12
     },
     {
@@ -239,14 +250,15 @@
       "CloseTimeValue": 310,
       "CloseValue": "None",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto02_02_title",
-      "TextLocale": "tuto02_02_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto02_02_title",
+      "TextLocale": "Locale_Tutorial:tuto02_02_description",
       "TextLocation": "Top",
       "Background": 0,
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "EffectList": "fx_cover_tuto",
-      "SkipButtonControl": false
+      "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None"
     },
     {
       "id": 13,
@@ -258,8 +270,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto05_00_title",
-      "TextLocale": "tuto05_00_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto05_00_title",
+      "TextLocale": "Locale_Tutorial:tuto05_00_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -267,6 +279,7 @@
         "tuto_burst_gauge"
       ],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 14
     },
     {
@@ -279,8 +292,8 @@
       "CloseType": "Event",
       "CloseValue": "UseBurstSkill",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto05_01_title",
-      "TextLocale": "tuto05_01_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto05_01_title",
+      "TextLocale": "Locale_Tutorial:tuto05_01_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "AddonResource": "popup_tuto_burst_touch_01",
@@ -290,7 +303,8 @@
       "UnmaskKeyList_noinput": [
         "tuto05_03"
       ],
-      "SkipButtonControl": true
+      "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "UseBurstSkillNum1"
     },
     {
       "id": 15,
@@ -308,6 +322,7 @@
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 16
     },
     {
@@ -326,6 +341,7 @@
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 17
     },
     {
@@ -338,8 +354,8 @@
       "CloseType": "Event",
       "CloseValue": "OnChangedFocusCharacter",
       "CharResourceId": "si_c012_00_s",
-      "Title_TextLocale": "tuto06_01_title",
-      "TextLocale": "tuto06_01_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto06_01_title",
+      "TextLocale": "Locale_Tutorial:tuto06_01_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "AddonResource": "popup_tuto_char_slot_touch_01",
@@ -348,6 +364,7 @@
       ],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "ChangeFocusCharacter1",
       "NextId": 18
     },
     {
@@ -361,8 +378,8 @@
       "CloseTimeValue": 50,
       "CloseValue": "KillMonster",
       "CharResourceId": "si_c012_00_s",
-      "Title_TextLocale": "tuto06_02_title",
-      "TextLocale": "tuto06_02_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto06_02_title",
+      "TextLocale": "Locale_Tutorial:tuto06_02_description",
       "TextLocation": "Top",
       "Background": 0,
       "AddonResource": "popup_tuto_drag_area",
@@ -371,6 +388,7 @@
       "MarkMonsterId": 321701,
       "MonsterMarkResource": "SpotTutorialTargerArea_RL",
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 19
     },
     {
@@ -383,8 +401,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c012_00_s",
-      "Title_TextLocale": "tuto07_01_title",
-      "TextLocale": "tuto07_01_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto07_01_title",
+      "TextLocale": "Locale_Tutorial:tuto07_01_description",
       "TextLocation": "Top",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -392,6 +410,7 @@
         "tuto_aim_full"
       ],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 20
     },
     {
@@ -404,8 +423,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c012_00_s",
-      "Title_TextLocale": "tuto07_02_title",
-      "TextLocale": "tuto07_02_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto07_02_title",
+      "TextLocale": "Locale_Tutorial:tuto07_02_description",
       "TextLocation": "Top",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -413,6 +432,7 @@
         "tuto07_02"
       ],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 21
     },
     {
@@ -425,14 +445,15 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c012_00_s",
-      "Title_TextLocale": "tuto07_03_title",
-      "TextLocale": "tuto07_03_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto07_03_title",
+      "TextLocale": "Locale_Tutorial:tuto07_03_description",
       "TextLocation": "Top",
       "Background": 1,
       "AddonResource": "popup_tuto_press",
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
-      "SkipButtonControl": true
+      "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None"
     },
     {
       "id": 22,
@@ -445,8 +466,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto08_01_title",
-      "TextLocale": "tuto08_01_a_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto08_01_title",
+      "TextLocale": "Locale_Tutorial:tuto08_01_a_description",
       "TextLocation": "Top",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -454,6 +475,7 @@
         "tuto_burst_gauge"
       ],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 23
     },
     {
@@ -466,8 +488,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto08_01_title",
-      "TextLocale": "tuto08_01_b_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto08_01_title",
+      "TextLocale": "Locale_Tutorial:tuto08_01_b_description",
       "TextLocation": "Top",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -475,6 +497,7 @@
         "tuto_burst_ui_01"
       ],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 24
     },
     {
@@ -487,8 +510,8 @@
       "CloseType": "Event",
       "CloseValue": "UseBurstSkill",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto08_01_title",
-      "TextLocale": "tuto08_01_c_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto08_01_title",
+      "TextLocale": "Locale_Tutorial:tuto08_01_c_description",
       "TextLocation": "Top",
       "Background": 1,
       "AddonResource": "popup_tuto_burst_touch_02",
@@ -496,7 +519,8 @@
         "tuto_burst_slot_03"
       ],
       "UnmaskKeyList_noinput": [],
-      "SkipButtonControl": true
+      "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "UseBurstSkillNum1"
     },
     {
       "id": 25,
@@ -509,8 +533,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto08_02_title\t",
-      "TextLocale": "tuto08_02_a_description\t",
+      "Title_TextLocale": "Locale_Tutorial:tuto08_02_title",
+      "TextLocale": "Locale_Tutorial:tuto08_02_a_description",
       "TextLocation": "Top",
       "Background": 1,
       "AddonResource": "popup_tuto_burst_ui_01",
@@ -519,6 +543,7 @@
         "tuto_burst_ui_01"
       ],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 26
     },
     {
@@ -531,8 +556,8 @@
       "CloseType": "Event",
       "CloseValue": "BurstSkillTouch",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto08_02_title\t",
-      "TextLocale": "tuto08_02_description\t",
+      "Title_TextLocale": "Locale_Tutorial:tuto08_02_title",
+      "TextLocale": "Locale_Tutorial:tuto08_02_description",
       "TextLocation": "Top",
       "Background": 1,
       "AddonResource": "popup_tuto_burst_touch_02",
@@ -541,6 +566,7 @@
       ],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "UseBurstSkillNum1",
       "NextId": 27
     },
     {
@@ -553,13 +579,14 @@
       "CloseType": "Event",
       "CloseValue": "UseBurstSkill",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto08_03_title",
-      "TextLocale": "tuto08_03_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto08_03_title",
+      "TextLocale": "Locale_Tutorial:tuto08_03_description",
       "TextLocation": "Top",
       "Background": 0,
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
-      "SkipButtonControl": true
+      "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None"
     },
     {
       "id": 28,
@@ -572,8 +599,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto08_04_title",
-      "TextLocale": "tuto08_04_a_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto08_04_title",
+      "TextLocale": "Locale_Tutorial:tuto08_04_a_description",
       "TextLocation": "Top",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -581,6 +608,7 @@
         "tuto_burst_gauge"
       ],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 29
     },
     {
@@ -593,8 +621,8 @@
       "CloseType": "Event",
       "CloseValue": "UseBurstSkill",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto08_04_title",
-      "TextLocale": "tuto08_04_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto08_04_title",
+      "TextLocale": "Locale_Tutorial:tuto08_04_description",
       "TextLocation": "Top",
       "Background": 1,
       "AddonResource": "popup_tuto_burst_touch_01",
@@ -602,7 +630,8 @@
         "tuto_burst_slot_01"
       ],
       "UnmaskKeyList_noinput": [],
-      "SkipButtonControl": true
+      "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "UseBurstSkillNum1"
     },
     {
       "id": 30,
@@ -615,8 +644,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto08_05_title",
-      "TextLocale": "tuto08_05_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto08_05_title",
+      "TextLocale": "Locale_Tutorial:tuto08_05_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -624,6 +653,7 @@
         "tuto08_05"
       ],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 31
     },
     {
@@ -636,13 +666,14 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c013_00_s",
-      "Title_TextLocale": "tuto08_06_title",
-      "TextLocale": "tuto08_06_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto08_06_title",
+      "TextLocale": "Locale_Tutorial:tuto08_06_description",
       "TextLocation": "Bottom",
       "Background": 0,
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
-      "SkipButtonControl": true
+      "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None"
     },
     {
       "id": 32,
@@ -663,6 +694,7 @@
         "field_tuto05_01"
       ],
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 33
     },
     {
@@ -675,8 +707,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto09_01_title",
-      "TextLocale": "tuto09_01_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto09_01_title",
+      "TextLocale": "Locale_Tutorial:tuto09_01_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -684,6 +716,7 @@
       "MarkMonsterId": 321701,
       "MonsterMarkResource": "SpotTutorialUnmask_Circle_01_a",
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 34
     },
     {
@@ -696,8 +729,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto09_02_title",
-      "TextLocale": "tuto09_02_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto09_02_title",
+      "TextLocale": "Locale_Tutorial:tuto09_02_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -705,6 +738,7 @@
       "MarkMonsterId": 321701,
       "MonsterMarkResource": "SpotTutorialUnmask_Circle_01_b",
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 35
     },
     {
@@ -717,14 +751,15 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto09_03_title",
-      "TextLocale": "tuto09_03_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto09_03_title",
+      "TextLocale": "Locale_Tutorial:tuto09_03_description",
       "TextLocation": "Middle",
       "Background": 1,
       "AddonResource": "popup_tuto_drag_area",
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 36
     },
     {
@@ -744,6 +779,7 @@
       "MarkMonsterId": 321701,
       "MonsterMarkResource": "SpotTutorialUnmask_Circle_01_c",
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 37
     },
     {
@@ -764,6 +800,7 @@
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 38
     },
     {
@@ -776,8 +813,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto09_04_title",
-      "TextLocale": "tuto09_04_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto09_04_title",
+      "TextLocale": "Locale_Tutorial:tuto09_04_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -785,6 +822,7 @@
       "MarkMonsterId": 121004,
       "MonsterMarkResource": "SpotTutorialUnmask_Circle_01_a",
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 39
     },
     {
@@ -798,13 +836,14 @@
       "CloseTimeValue": 50,
       "CloseValue": "UseMonsterSkill",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto09_08_title",
-      "TextLocale": "tuto09_08_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto09_08_title",
+      "TextLocale": "Locale_Tutorial:tuto09_08_description",
       "TextLocation": "Bottom",
       "Background": 0,
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 40
     },
     {
@@ -817,8 +856,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto09_05_title",
-      "TextLocale": "tuto09_05_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto09_05_title",
+      "TextLocale": "Locale_Tutorial:tuto09_05_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -826,6 +865,7 @@
       "MarkMonsterId": 121004,
       "MonsterMarkResource": "SpotTutorialUnmask_Signal",
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 41
     },
     {
@@ -838,8 +878,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto09_06_title",
-      "TextLocale": "tuto09_06_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto09_06_title",
+      "TextLocale": "Locale_Tutorial:tuto09_06_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -848,6 +888,7 @@
         "tuto_hp_bar_02"
       ],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 42
     },
     {
@@ -860,13 +901,14 @@
       "CloseType": "Event",
       "CloseValue": "KillMonster",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto09_07_title",
-      "TextLocale": "tuto09_07_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto09_07_title",
+      "TextLocale": "Locale_Tutorial:tuto09_07_description",
       "TextLocation": "Bottom",
       "Background": 0,
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
-      "SkipButtonControl": false
+      "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None"
     },
     {
       "id": 43,
@@ -885,6 +927,7 @@
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 44
     },
     {
@@ -897,8 +940,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto09_09_title",
-      "TextLocale": "tuto09_09_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto09_09_title",
+      "TextLocale": "Locale_Tutorial:tuto09_09_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -906,6 +949,7 @@
       "MarkMonsterId": 322007,
       "MonsterMarkResource": "SpotTutorialUnmask_Circle_01_a",
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 45
     },
     {
@@ -923,6 +967,7 @@
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 46
     },
     {
@@ -935,8 +980,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto09_10_title",
-      "TextLocale": "tuto09_10_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto09_10_title",
+      "TextLocale": "Locale_Tutorial:tuto09_10_description",
       "TextLocation": "Middle",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -944,6 +989,7 @@
       "MarkMonsterId": 322007,
       "MonsterMarkResource": "SpotTutorialUnmask_Circle_01_a",
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 47
     },
     {
@@ -956,8 +1002,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto09_11_title",
-      "TextLocale": "tuto09_11_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto09_11_title",
+      "TextLocale": "Locale_Tutorial:tuto09_11_description",
       "TextLocation": "Middle",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -965,6 +1011,7 @@
         "tuto_char_slot_all"
       ],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 48
     },
     {
@@ -977,15 +1024,16 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto09_12_title",
-      "TextLocale": "tuto09_12_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto09_12_title",
+      "TextLocale": "Locale_Tutorial:tuto09_12_description",
       "TextLocation": "Middle",
       "Background": 1,
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [
         "tuto_char_slot_all"
       ],
-      "SkipButtonControl": true
+      "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None"
     },
     {
       "id": 49,
@@ -1006,6 +1054,7 @@
         "field_tuto05_01"
       ],
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 50
     },
     {
@@ -1018,8 +1067,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto10_01_title",
-      "TextLocale": "tuto10_01_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto10_01_title",
+      "TextLocale": "Locale_Tutorial:tuto10_01_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -1027,6 +1076,7 @@
       "MarkMonsterId": 321701,
       "MonsterMarkResource": "SpotTutorialUnmask_Circle_02",
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 51
     },
     {
@@ -1039,8 +1089,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto10_02_title",
-      "TextLocale": "tuto10_02_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto10_02_title",
+      "TextLocale": "Locale_Tutorial:tuto10_02_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -1048,6 +1098,7 @@
         "tuto_aim_full"
       ],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 52
     },
     {
@@ -1064,7 +1115,8 @@
       "AddonResource": "popup_tuto_char_slot_unmask",
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
-      "SkipButtonControl": false
+      "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None"
     },
     {
       "id": 53,
@@ -1077,8 +1129,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto12_01_title",
-      "TextLocale": "tuto12_01_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto12_01_title",
+      "TextLocale": "Locale_Tutorial:tuto12_01_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -1086,6 +1138,7 @@
       "MarkMonsterId": 232002,
       "MonsterMarkResource": "SpotTutorialUnmask_barrier",
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 54
     },
     {
@@ -1098,8 +1151,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto12_02_title",
-      "TextLocale": "tuto12_02_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto12_02_title",
+      "TextLocale": "Locale_Tutorial:tuto12_02_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -1107,7 +1160,8 @@
         "tuto04_01_a",
         "tuto04_01_b"
       ],
-      "SkipButtonControl": true
+      "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None"
     },
     {
       "id": 55,
@@ -1120,15 +1174,16 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto11_01_title",
-      "TextLocale": "tuto11_01_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto11_01_title",
+      "TextLocale": "Locale_Tutorial:tuto11_01_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [
         "tuto11_01"
       ],
-      "SkipButtonControl": true
+      "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None"
     },
     {
       "id": 56,
@@ -1147,6 +1202,7 @@
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 57
     },
     {
@@ -1159,15 +1215,16 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto11_02_title",
-      "TextLocale": "tuto11_02_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto11_02_title",
+      "TextLocale": "Locale_Tutorial:tuto11_02_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [
         "tuto11_02"
       ],
-      "SkipButtonControl": true
+      "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None"
     },
     {
       "id": 58,
@@ -1186,6 +1243,7 @@
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 59
     },
     {
@@ -1198,8 +1256,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto11_04_title",
-      "TextLocale": "tuto11_04_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto11_04_title",
+      "TextLocale": "Locale_Tutorial:tuto11_04_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -1207,6 +1265,7 @@
         "tuto11_03"
       ],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 60
     },
     {
@@ -1219,13 +1278,14 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto11_05_title",
-      "TextLocale": "tuto11_05_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto11_05_title",
+      "TextLocale": "Locale_Tutorial:tuto11_05_description",
       "TextLocation": "Top",
       "Background": 1,
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 61
     },
     {
@@ -1238,8 +1298,8 @@
       "CloseType": "Event",
       "CloseValue": "OnCoveredMode",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto11_05_title",
-      "TextLocale": "tuto11_05_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto11_05_title",
+      "TextLocale": "Locale_Tutorial:tuto11_05_description",
       "TextLocation": "Top",
       "Background": 1,
       "UnmaskKeyList": [
@@ -1247,6 +1307,7 @@
       ],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "ChangeForceCover",
       "NextId": 62
     },
     {
@@ -1265,6 +1326,7 @@
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 63
     },
     {
@@ -1277,8 +1339,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto11_06_title",
-      "TextLocale": "tuto11_06_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto11_06_title",
+      "TextLocale": "Locale_Tutorial:tuto11_06_description",
       "TextLocation": "Middle",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -1286,6 +1348,7 @@
         "tuto11_07"
       ],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 64
     },
     {
@@ -1298,15 +1361,16 @@
       "CloseType": "Event",
       "CloseValue": "OffCoveredMode",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto11_07_title",
-      "TextLocale": "tuto11_07_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto11_07_title",
+      "TextLocale": "Locale_Tutorial:tuto11_07_description",
       "TextLocation": "Middle",
       "Background": 1,
       "UnmaskKeyList": [
         "tuto11_06"
       ],
       "UnmaskKeyList_noinput": [],
-      "SkipButtonControl": true
+      "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "ChangeForceCover"
     },
     {
       "id": 65,
@@ -1325,6 +1389,7 @@
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 66
     },
     {
@@ -1337,8 +1402,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto11_08_title",
-      "TextLocale": "tuto11_08_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto11_08_title",
+      "TextLocale": "Locale_Tutorial:tuto11_08_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -1346,6 +1411,7 @@
         "tuto11_03"
       ],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 67
     },
     {
@@ -1358,15 +1424,16 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto11_09_title",
-      "TextLocale": "tuto11_09_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto11_09_title",
+      "TextLocale": "Locale_Tutorial:tuto11_09_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [
         "tuto11_03"
       ],
-      "SkipButtonControl": true
+      "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None"
     },
     {
       "id": 68,
@@ -1385,6 +1452,7 @@
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 69
     },
     {
@@ -1397,13 +1465,14 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto_auto_control_01_title",
-      "TextLocale": "tuto_auto_control_01_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto_auto_control_01_title",
+      "TextLocale": "Locale_Tutorial:tuto_auto_control_01_description",
       "TextLocation": "Middle",
       "Background": 1,
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 70
     },
     {
@@ -1416,8 +1485,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto_auto_control_02_title",
-      "TextLocale": "tuto_auto_control_02_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto_auto_control_02_title",
+      "TextLocale": "Locale_Tutorial:tuto_auto_control_02_description",
       "TextLocation": "Middle",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -1425,6 +1494,7 @@
         "tuto_auto_control_button"
       ],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 71
     },
     {
@@ -1437,8 +1507,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto_auto_control_03_title",
-      "TextLocale": "tuto_auto_control_03_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto_auto_control_03_title",
+      "TextLocale": "Locale_Tutorial:tuto_auto_control_03_description",
       "TextLocation": "Middle",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -1446,6 +1516,7 @@
         "tuto_auto_control_button"
       ],
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 72
     },
     {
@@ -1458,15 +1529,16 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto_auto_control_04_title",
-      "TextLocale": "tuto_auto_control_04_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto_auto_control_04_title",
+      "TextLocale": "Locale_Tutorial:tuto_auto_control_04_description",
       "TextLocation": "Middle",
       "Background": 1,
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [
         "tuto_aim_full"
       ],
-      "SkipButtonControl": true
+      "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None"
     },
     {
       "id": 73,
@@ -1485,6 +1557,7 @@
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": false,
+      "KeyBoardInputTrigger": "None",
       "NextId": 74
     },
     {
@@ -1497,8 +1570,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto_base_defence_type2_01_title",
-      "TextLocale": "tuto_base_defence_type2_01_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto_base_defence_type2_01_title",
+      "TextLocale": "Locale_Tutorial:tuto_base_defence_type2_01_description",
       "TextLocation": "Top",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -1506,6 +1579,7 @@
       "MarkMonsterId": 232004,
       "MonsterMarkResource": "SpotTutorialUnmask_Circle_02",
       "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
       "NextId": 75
     },
     {
@@ -1518,15 +1592,16 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "tuto_base_defence_type2_02_title",
-      "TextLocale": "tuto_base_defence_type2_02_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto_base_defence_type2_02_title",
+      "TextLocale": "Locale_Tutorial:tuto_base_defence_type2_02_description",
       "TextLocation": "Top",
       "Background": 1,
       "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "MarkMonsterId": 232004,
       "MonsterMarkResource": "SpotTutorialUnmask_Circle_02",
-      "SkipButtonControl": true
+      "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None"
     }
   ]
 }

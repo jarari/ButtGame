@@ -325,7 +325,7 @@
     },
     {
       "id": 31,
-      "info_d": "이벤트 필드 씬에서 배틀씬으로",
+      "info_d": "이벤트 필드 씬에서 배틀 씬으로",
       "depart_scene_code": "EventField",
       "arrive_scene_code": "Battle",
       "depart_view_type": 0,
@@ -336,9 +336,40 @@
     },
     {
       "id": 32,
-      "info_d": "배틀씬에서 이벤트 필드 씬으로",
+      "info_d": "배틀 씬에서 이벤트 필드 씬으로",
       "depart_scene_code": "Battle",
       "arrive_scene_code": "EventField",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 3,
+      "is_gauge": true,
+      "loading_tip_group": 99
+    },
+    {
+      "id": 33,
+      "info_d": "전초기지씬에서 이벤트 필드 씬으로",
+      "depart_scene_code": "Outpost",
+      "arrive_scene_code": "EventField",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 34,
+      "info_d": "이벤트 필드 씬에서 전초기지씬으로",
+      "depart_scene_code": "EventField",
+      "arrive_scene_code": "Outpost",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 35,
+      "info_d": "(임시) 시나리오 씬에서 배틀 씬으로",
+      "depart_scene_code": "Scenario",
+      "arrive_scene_code": "Battle",
       "depart_view_type": 0,
       "arrive_view_type": 0,
       "transition_type": 3,
