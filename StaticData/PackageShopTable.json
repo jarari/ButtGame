@@ -2125,6 +2125,40 @@
       "infracore_point": 0,
       "midas_product_id": 10300307,
       "is_active": true
+    },
+    {
+      "id": 300501,
+      "package_shop_id": 3005,
+      "package_order": 1,
+      "package_group_id": 300501,
+      "product_grade": 4,
+      "name_localkey": "Locale_InAppShopProduct:PACKAGESHOP_ALWAYS_01_PRODUCT_01_NAME",
+      "description_localkey": "Locale_InAppShopProduct:PACKAGESHOP_ALWAYS_01_PRODUCT_01_DESC",
+      "product_resource_id": "icn_inappshop_package_always_01",
+      "product_efficiency": 7,
+      "buy_limit_type": "Account",
+      "is_limit": true,
+      "buy_limit_count": 1,
+      "infracore_point": 0,
+      "midas_product_id": 10300501,
+      "is_active": true
+    },
+    {
+      "id": 300502,
+      "package_shop_id": 3005,
+      "package_order": 2,
+      "package_group_id": 300502,
+      "product_grade": 2,
+      "name_localkey": "Locale_InAppShopProduct:PACKAGESHOP_ALWAYS_01_PRODUCT_02_NAME",
+      "description_localkey": "Locale_InAppShopProduct:PACKAGESHOP_PRODUCT_DESC",
+      "product_resource_id": "icn_inappshop_package_always_02",
+      "product_efficiency": 6,
+      "buy_limit_type": "Account",
+      "is_limit": true,
+      "buy_limit_count": 1,
+      "infracore_point": 0,
+      "midas_product_id": 10300502,
+      "is_active": true
     }
   ]
 }

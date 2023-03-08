@@ -1192,7 +1192,7 @@
       "NoinputControl": false,
       "TriggerType": "Event",
       "TriggerTimeValue": 10,
-      "TriggerEnumValue": "LaunchMonsterProjectile",
+      "TriggerEnumValue": "OnCancelUI",
       "CloseType": "Time",
       "CloseTimeValue": 70,
       "CloseValue": "None",
@@ -1215,207 +1215,18 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "Locale_Tutorial:tuto11_02_title",
-      "TextLocale": "Locale_Tutorial:tuto11_02_description",
-      "TextLocation": "Bottom",
-      "Background": 1,
-      "UnmaskKeyList": [],
-      "UnmaskKeyList_noinput": [
-        "tuto11_02"
-      ],
-      "SkipButtonControl": true,
-      "KeyBoardInputTrigger": "None"
-    },
-    {
-      "id": 58,
-      "WaveNum": 6001004,
-      "SpotTimeControl": false,
-      "NoinputControl": false,
-      "TriggerType": "Event",
-      "TriggerTimeValue": 10,
-      "TriggerEnumValue": "OnCancelUI",
-      "CloseType": "Time",
-      "CloseTimeValue": 70,
-      "CloseValue": "None",
-      "TextLocation": "None",
-      "Background": 0,
-      "AddonResource": "popup_tuto_dim",
-      "UnmaskKeyList": [],
-      "UnmaskKeyList_noinput": [],
-      "SkipButtonControl": false,
-      "KeyBoardInputTrigger": "None",
-      "NextId": 59
-    },
-    {
-      "id": 59,
-      "WaveNum": 6001004,
-      "SpotTimeControl": true,
-      "NoinputControl": true,
-      "TriggerType": "None",
-      "TriggerEnumValue": "None",
-      "CloseType": "Touch",
-      "CloseValue": "None",
-      "CharResourceId": "si_c907_00_s",
       "Title_TextLocale": "Locale_Tutorial:tuto11_04_title",
       "TextLocale": "Locale_Tutorial:tuto11_04_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
-      "UnmaskKeyList_noinput": [
-        "tuto11_03"
-      ],
-      "SkipButtonControl": true,
-      "KeyBoardInputTrigger": "None",
-      "NextId": 60
-    },
-    {
-      "id": 60,
-      "WaveNum": 6001004,
-      "SpotTimeControl": true,
-      "NoinputControl": true,
-      "TriggerType": "None",
-      "TriggerEnumValue": "None",
-      "CloseType": "Touch",
-      "CloseValue": "None",
-      "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "Locale_Tutorial:tuto11_05_title",
-      "TextLocale": "Locale_Tutorial:tuto11_05_description",
-      "TextLocation": "Top",
-      "Background": 1,
-      "UnmaskKeyList": [],
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": true,
       "KeyBoardInputTrigger": "None",
-      "NextId": 61
+      "NextId": 58
     },
     {
-      "id": 61,
-      "WaveNum": 6001004,
-      "SpotTimeControl": true,
-      "NoinputControl": true,
-      "TriggerType": "None",
-      "TriggerEnumValue": "None",
-      "CloseType": "Event",
-      "CloseValue": "OnCoveredMode",
-      "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "Locale_Tutorial:tuto11_05_title",
-      "TextLocale": "Locale_Tutorial:tuto11_05_description",
-      "TextLocation": "Top",
-      "Background": 1,
-      "UnmaskKeyList": [
-        "tuto11_06"
-      ],
-      "UnmaskKeyList_noinput": [],
-      "SkipButtonControl": true,
-      "KeyBoardInputTrigger": "ChangeForceCover",
-      "NextId": 62
-    },
-    {
-      "id": 62,
-      "WaveNum": 6001004,
-      "SpotTimeControl": false,
-      "NoinputControl": true,
-      "TriggerType": "None",
-      "TriggerEnumValue": "None",
-      "CloseType": "Event",
-      "CloseTimeValue": 150,
-      "CloseValue": "AttackedPlayer",
-      "TextLocation": "None",
-      "Background": 0,
-      "AddonResource": "popup_tuto_dim",
-      "UnmaskKeyList": [],
-      "UnmaskKeyList_noinput": [],
-      "SkipButtonControl": false,
-      "KeyBoardInputTrigger": "None",
-      "NextId": 63
-    },
-    {
-      "id": 63,
-      "WaveNum": 6001004,
-      "SpotTimeControl": true,
-      "NoinputControl": true,
-      "TriggerType": "None",
-      "TriggerEnumValue": "None",
-      "CloseType": "Touch",
-      "CloseValue": "None",
-      "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "Locale_Tutorial:tuto11_06_title",
-      "TextLocale": "Locale_Tutorial:tuto11_06_description",
-      "TextLocation": "Middle",
-      "Background": 1,
-      "UnmaskKeyList": [],
-      "UnmaskKeyList_noinput": [
-        "tuto11_07"
-      ],
-      "SkipButtonControl": true,
-      "KeyBoardInputTrigger": "None",
-      "NextId": 64
-    },
-    {
-      "id": 64,
-      "WaveNum": 6001004,
-      "SpotTimeControl": true,
-      "NoinputControl": true,
-      "TriggerType": "None",
-      "TriggerEnumValue": "None",
-      "CloseType": "Event",
-      "CloseValue": "OffCoveredMode",
-      "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "Locale_Tutorial:tuto11_07_title",
-      "TextLocale": "Locale_Tutorial:tuto11_07_description",
-      "TextLocation": "Middle",
-      "Background": 1,
-      "UnmaskKeyList": [
-        "tuto11_06"
-      ],
-      "UnmaskKeyList_noinput": [],
-      "SkipButtonControl": true,
-      "KeyBoardInputTrigger": "ChangeForceCover"
-    },
-    {
-      "id": 65,
-      "WaveNum": 6001004,
-      "SpotTimeControl": false,
-      "NoinputControl": false,
-      "TriggerType": "Event",
-      "TriggerTimeValue": 10,
-      "TriggerEnumValue": "OnCancelUI",
-      "CloseType": "Time",
-      "CloseTimeValue": 70,
-      "CloseValue": "None",
-      "TextLocation": "None",
-      "Background": 0,
-      "AddonResource": "popup_tuto_dim",
-      "UnmaskKeyList": [],
-      "UnmaskKeyList_noinput": [],
-      "SkipButtonControl": false,
-      "KeyBoardInputTrigger": "None",
-      "NextId": 66
-    },
-    {
-      "id": 66,
-      "WaveNum": 6001004,
-      "SpotTimeControl": true,
-      "NoinputControl": true,
-      "TriggerType": "None",
-      "TriggerEnumValue": "None",
-      "CloseType": "Touch",
-      "CloseValue": "None",
-      "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "Locale_Tutorial:tuto11_08_title",
-      "TextLocale": "Locale_Tutorial:tuto11_08_description",
-      "TextLocation": "Bottom",
-      "Background": 1,
-      "UnmaskKeyList": [],
-      "UnmaskKeyList_noinput": [
-        "tuto11_03"
-      ],
-      "SkipButtonControl": true,
-      "KeyBoardInputTrigger": "None",
-      "NextId": 67
-    },
-    {
-      "id": 67,
+      "id": 58,
       "WaveNum": 6001004,
       "SpotTimeControl": true,
       "NoinputControl": true,
@@ -1436,7 +1247,7 @@
       "KeyBoardInputTrigger": "None"
     },
     {
-      "id": 68,
+      "id": 59,
       "WaveNum": 6002001,
       "SpotTimeControl": false,
       "NoinputControl": true,
@@ -1453,10 +1264,10 @@
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": false,
       "KeyBoardInputTrigger": "None",
-      "NextId": 69
+      "NextId": 60
     },
     {
-      "id": 69,
+      "id": 60,
       "WaveNum": 6002001,
       "SpotTimeControl": true,
       "NoinputControl": true,
@@ -1473,10 +1284,10 @@
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": true,
       "KeyBoardInputTrigger": "None",
-      "NextId": 70
+      "NextId": 61
     },
     {
-      "id": 70,
+      "id": 61,
       "WaveNum": 6002001,
       "SpotTimeControl": true,
       "NoinputControl": true,
@@ -1495,10 +1306,10 @@
       ],
       "SkipButtonControl": true,
       "KeyBoardInputTrigger": "None",
-      "NextId": 71
+      "NextId": 62
     },
     {
-      "id": 71,
+      "id": 62,
       "WaveNum": 6002001,
       "SpotTimeControl": true,
       "NoinputControl": true,
@@ -1517,10 +1328,10 @@
       ],
       "SkipButtonControl": true,
       "KeyBoardInputTrigger": "None",
-      "NextId": 72
+      "NextId": 63
     },
     {
-      "id": 72,
+      "id": 63,
       "WaveNum": 6002001,
       "SpotTimeControl": true,
       "NoinputControl": true,
@@ -1541,7 +1352,7 @@
       "KeyBoardInputTrigger": "None"
     },
     {
-      "id": 73,
+      "id": 64,
       "WaveNum": 6003015,
       "SpotTimeControl": true,
       "NoinputControl": true,
@@ -1558,10 +1369,10 @@
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": false,
       "KeyBoardInputTrigger": "None",
-      "NextId": 74
+      "NextId": 65
     },
     {
-      "id": 74,
+      "id": 65,
       "WaveNum": 6003015,
       "SpotTimeControl": true,
       "NoinputControl": true,
@@ -1580,10 +1391,10 @@
       "MonsterMarkResource": "SpotTutorialUnmask_Circle_02",
       "SkipButtonControl": true,
       "KeyBoardInputTrigger": "None",
-      "NextId": 75
+      "NextId": 66
     },
     {
-      "id": 75,
+      "id": 66,
       "WaveNum": 6003015,
       "SpotTimeControl": true,
       "NoinputControl": true,
