@@ -9344,7 +9344,7 @@
       "type_value": "15003",
       "default": true,
       "bgm_trigger_event_value": 0,
-      "bgm_loop": "event_bgm_weaponxweapon"
+      "bgm_loop": "bgm_disaster"
     },
     {
       "id": 9020002,
@@ -9352,7 +9352,7 @@
       "type_value": "16001",
       "default": true,
       "bgm_trigger_event_value": 0,
-      "bgm_loop": "bgm_spot_counterattack"
+      "bgm_loop": "bgm_spot_splinter_b"
     },
     {
       "id": 9030001,
@@ -9479,6 +9479,14 @@
       "type_value": "10002",
       "default": true,
       "bgm_loop": "event_bgm_weaponxweapon"
+    },
+    {
+      "id": 9910443,
+      "bgm_type": "story_event_bgm",
+      "type_value": "10010",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_bwparadise"
     }
   ]
 }

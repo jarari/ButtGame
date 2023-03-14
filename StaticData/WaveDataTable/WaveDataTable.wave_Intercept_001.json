@@ -1682,6 +1682,111 @@
       "far_monster_count": 0
     },
     {
+      "stage_id": 6303010,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "Cooperation",
+      "battle_time": 180,
+      "monster_count": 5,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_talkertive_01",
+      "point_data_fly": "point_fly_talkertive_01",
+      "background_name": "sbg_cityforestunderbbg003_001",
+      "stage_info_bg": "ibg_cityforest_001",
+      "target_list": [
+        1520020112
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_grd_talkertive_01",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1520020112,
+              "spawn_type": "Normal"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 0,
+      "far_monster_count": 1
+    },
+    {
       "stage_id": 6304001,
       "group_id": "wave_Intercept_001",
       "spot_mod": "UnionRaid",
@@ -3251,7 +3356,10 @@
             {}
           ]
         }
-      ]
+      ],
+      "close_monster_count": 1,
+      "mid_monster_count": 0,
+      "far_monster_count": 0
     },
     {
       "stage_id": 6304016,
@@ -3353,7 +3461,10 @@
             {}
           ]
         }
-      ]
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 0,
+      "far_monster_count": 1
     },
     {
       "stage_id": 6304017,
@@ -3455,7 +3566,10 @@
             {}
           ]
         }
-      ]
+      ],
+      "close_monster_count": 1,
+      "mid_monster_count": 0,
+      "far_monster_count": 0
     }
   ]
 }
