@@ -100,6 +100,34 @@
       "condition_character_id": 0
     },
     {
+      "id": 17,
+      "livewallpaper_type": "Scenario",
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_17",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_17",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_CherryBlossom_01",
+      "thumbnail_resource_id": "EventScene_CherryBlossom_01_mi",
+      "si_resource_id": "EventScene_CherryBlossom_01_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "is_condition_character": false,
+      "condition_resource_id": 0,
+      "condition_character_id": 0
+    },
+    {
+      "id": 18,
+      "livewallpaper_type": "Scenario",
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_18",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_18",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_ltk_01",
+      "thumbnail_resource_id": "EventScene_LTK_01_mi",
+      "si_resource_id": "EventScene_LTK_01_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "is_condition_character": false,
+      "condition_resource_id": 0,
+      "condition_character_id": 0
+    },
+    {
       "id": 50010,
       "livewallpaper_type": "SkillCutScene",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_200",
@@ -994,6 +1022,48 @@
       "is_condition_character": true,
       "condition_resource_id": 381,
       "condition_character_id": 338104
+    },
+    {
+      "id": 50261,
+      "livewallpaper_type": "SkillCutScene",
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50261",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50261",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_c261_cutscene",
+      "thumbnail_resource_id": "EventScene_c261_cutscene_mi",
+      "si_resource_id": "EventScene_c261_cutscene_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "is_condition_character": true,
+      "condition_resource_id": 261,
+      "condition_character_id": 426104
+    },
+    {
+      "id": 50282,
+      "livewallpaper_type": "SkillCutScene",
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50282",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50282",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_c282_cutscene",
+      "thumbnail_resource_id": "EventScene_c282_cutscene_mi",
+      "si_resource_id": "EventScene_c282_cutscene_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "is_condition_character": true,
+      "condition_resource_id": 282,
+      "condition_character_id": 328204
+    },
+    {
+      "id": 50040,
+      "livewallpaper_type": "SkillCutScene",
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50040",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50040",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_c040_cutscene",
+      "thumbnail_resource_id": "EventScene_c040_cutscene_mi",
+      "si_resource_id": "EventScene_c040_cutscene_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "is_condition_character": true,
+      "condition_resource_id": 40,
+      "condition_character_id": 204004
     }
   ]
 }

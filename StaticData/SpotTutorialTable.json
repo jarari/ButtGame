@@ -1220,13 +1220,38 @@
       "TextLocation": "Bottom",
       "Background": 1,
       "UnmaskKeyList": [],
-      "UnmaskKeyList_noinput": [],
+      "UnmaskKeyList_noinput": [
+        "tuto11_03",
+        "tuto11_04"
+      ],
       "SkipButtonControl": true,
       "KeyBoardInputTrigger": "None",
       "NextId": 58
     },
     {
       "id": 58,
+      "WaveNum": 6001004,
+      "SpotTimeControl": true,
+      "NoinputControl": true,
+      "TriggerType": "None",
+      "TriggerEnumValue": "None",
+      "CloseType": "Touch",
+      "CloseValue": "None",
+      "CharResourceId": "si_c907_00_s",
+      "Title_TextLocale": "Locale_Tutorial:tuto11_10_title",
+      "TextLocale": "Locale_Tutorial:tuto11_10_description",
+      "TextLocation": "Bottom",
+      "Background": 1,
+      "UnmaskKeyList": [],
+      "UnmaskKeyList_noinput": [
+        "tuto11_04"
+      ],
+      "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
+      "NextId": 59
+    },
+    {
+      "id": 59,
       "WaveNum": 6001004,
       "SpotTimeControl": true,
       "NoinputControl": true,
@@ -1247,7 +1272,7 @@
       "KeyBoardInputTrigger": "None"
     },
     {
-      "id": 59,
+      "id": 60,
       "WaveNum": 6002001,
       "SpotTimeControl": false,
       "NoinputControl": true,
@@ -1264,10 +1289,10 @@
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": false,
       "KeyBoardInputTrigger": "None",
-      "NextId": 60
+      "NextId": 61
     },
     {
-      "id": 60,
+      "id": 61,
       "WaveNum": 6002001,
       "SpotTimeControl": true,
       "NoinputControl": true,
@@ -1284,28 +1309,6 @@
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": true,
       "KeyBoardInputTrigger": "None",
-      "NextId": 61
-    },
-    {
-      "id": 61,
-      "WaveNum": 6002001,
-      "SpotTimeControl": true,
-      "NoinputControl": true,
-      "TriggerType": "None",
-      "TriggerEnumValue": "None",
-      "CloseType": "Touch",
-      "CloseValue": "None",
-      "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "Locale_Tutorial:tuto_auto_control_02_title",
-      "TextLocale": "Locale_Tutorial:tuto_auto_control_02_description",
-      "TextLocation": "Middle",
-      "Background": 1,
-      "UnmaskKeyList": [],
-      "UnmaskKeyList_noinput": [
-        "tuto_auto_control_button"
-      ],
-      "SkipButtonControl": true,
-      "KeyBoardInputTrigger": "None",
       "NextId": 62
     },
     {
@@ -1318,8 +1321,8 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
-      "Title_TextLocale": "Locale_Tutorial:tuto_auto_control_03_title",
-      "TextLocale": "Locale_Tutorial:tuto_auto_control_03_description",
+      "Title_TextLocale": "Locale_Tutorial:tuto_auto_control_02_title",
+      "TextLocale": "Locale_Tutorial:tuto_auto_control_02_description",
       "TextLocation": "Middle",
       "Background": 1,
       "UnmaskKeyList": [],
@@ -1340,6 +1343,28 @@
       "CloseType": "Touch",
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
+      "Title_TextLocale": "Locale_Tutorial:tuto_auto_control_03_title",
+      "TextLocale": "Locale_Tutorial:tuto_auto_control_03_description",
+      "TextLocation": "Middle",
+      "Background": 1,
+      "UnmaskKeyList": [],
+      "UnmaskKeyList_noinput": [
+        "tuto_auto_control_button"
+      ],
+      "SkipButtonControl": true,
+      "KeyBoardInputTrigger": "None",
+      "NextId": 64
+    },
+    {
+      "id": 64,
+      "WaveNum": 6002001,
+      "SpotTimeControl": true,
+      "NoinputControl": true,
+      "TriggerType": "None",
+      "TriggerEnumValue": "None",
+      "CloseType": "Touch",
+      "CloseValue": "None",
+      "CharResourceId": "si_c907_00_s",
       "Title_TextLocale": "Locale_Tutorial:tuto_auto_control_04_title",
       "TextLocale": "Locale_Tutorial:tuto_auto_control_04_description",
       "TextLocation": "Middle",
@@ -1352,7 +1377,7 @@
       "KeyBoardInputTrigger": "None"
     },
     {
-      "id": 64,
+      "id": 65,
       "WaveNum": 6003015,
       "SpotTimeControl": true,
       "NoinputControl": true,
@@ -1369,10 +1394,10 @@
       "UnmaskKeyList_noinput": [],
       "SkipButtonControl": false,
       "KeyBoardInputTrigger": "None",
-      "NextId": 65
+      "NextId": 66
     },
     {
-      "id": 65,
+      "id": 66,
       "WaveNum": 6003015,
       "SpotTimeControl": true,
       "NoinputControl": true,
@@ -1391,10 +1416,10 @@
       "MonsterMarkResource": "SpotTutorialUnmask_Circle_02",
       "SkipButtonControl": true,
       "KeyBoardInputTrigger": "None",
-      "NextId": 66
+      "NextId": 67
     },
     {
-      "id": 66,
+      "id": 67,
       "WaveNum": 6003015,
       "SpotTimeControl": true,
       "NoinputControl": true,

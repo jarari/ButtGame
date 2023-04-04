@@ -4,12 +4,19 @@
     {
       "id": 1000,
       "name": "Locale_System:INTERCEPT_NORMAL_LEVEL_1_STAGE_NAME",
-      "description": "Locale_System:INTERCEPT_NORMAL_LEVEL_1_STAGE_DESC",
-      "thumbnail": "mon_intercept_mbg001",
-      "order": 1,
       "type_open_condition": "None",
+      "type_open_condition_id": 0,
       "type_open_condition_value": 0,
       "scenario_id": "d_contents_liberation_01",
+      "is_hidden": false
+    },
+    {
+      "id": 2000,
+      "name": "Locale_System:INTERCEPT_NORMAL_LEVEL_2_STAGE_NAME",
+      "type_open_condition": "ClearGetCharacterMission",
+      "type_open_condition_id": 1000,
+      "type_open_condition_value": 1,
+      "scenario_id": "d_contents_explore_01",
       "is_hidden": false
     }
   ]

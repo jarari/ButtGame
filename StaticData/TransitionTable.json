@@ -607,6 +607,16 @@
       "is_gauge": false
     },
     {
+      "id": 2031,
+      "info_d": "어디서든 캐릭터 내러티브 뷰로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": -1,
+      "arrive_view_type": 6016,
+      "transition_type": 5,
+      "is_gauge": false
+    },
+    {
       "id": 3001,
       "info_d": "캐시샵이 새로 생성될 때",
       "depart_scene_code": "None",
@@ -624,6 +634,46 @@
       "depart_view_type": 31001,
       "arrive_view_type": -1,
       "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 4001,
+      "info_d": "지상(캐릭터 선택)에서 엘리베이터로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 70004,
+      "arrive_view_type": 70001,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 4002,
+      "info_d": "지상(미션 진행)에서 엘리베이터로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 70005,
+      "arrive_view_type": 70001,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 4011,
+      "info_d": "갱생관(캐릭터 선택)에서 엘리베이터로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 70002,
+      "arrive_view_type": 70001,
+      "transition_type": 3,
+      "is_gauge": false
+    },
+    {
+      "id": 4012,
+      "info_d": "갱생관(미션 진행)에서 엘리베이터로",
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 70003,
+      "arrive_view_type": 70001,
+      "transition_type": 3,
       "is_gauge": false
     }
   ]

@@ -9120,42 +9120,42 @@
     {
       "id": 9000001,
       "bgm_type": "outgame_bgm",
+      "bgm_sub_type": "jukebox_lobby",
       "type_value": "6028",
       "default": true,
-      "bgm_trigger_event_value": 0,
-      "bgm_loop": "bgm_menu_lobby"
+      "bgm_trigger_event_value": 0
     },
     {
       "id": 9000002,
       "bgm_type": "outgame_bgm",
+      "bgm_sub_type": "jukebox_lobby",
       "type_value": "6029",
       "default": true,
-      "bgm_trigger_event_value": 0,
-      "bgm_loop": "bgm_menu_lobby"
+      "bgm_trigger_event_value": 0
     },
     {
       "id": 9000003,
       "bgm_type": "outgame_bgm",
+      "bgm_sub_type": "jukebox_lobby",
       "type_value": "6012",
       "default": true,
-      "bgm_trigger_event_value": 0,
-      "bgm_loop": "bgm_menu_lobby"
+      "bgm_trigger_event_value": 0
     },
     {
       "id": 9000004,
       "bgm_type": "outgame_bgm",
+      "bgm_sub_type": "jukebox_lobby",
       "type_value": "6036",
       "default": true,
-      "bgm_trigger_event_value": 0,
-      "bgm_loop": "bgm_menu_lobby"
+      "bgm_trigger_event_value": 0
     },
     {
       "id": 9000005,
       "bgm_type": "outgame_bgm",
+      "bgm_sub_type": "jukebox_lobby",
       "type_value": "6034",
       "default": true,
-      "bgm_trigger_event_value": 0,
-      "bgm_loop": "bgm_menu_lobby"
+      "bgm_trigger_event_value": 0
     },
     {
       "id": 9000006,
@@ -9164,6 +9164,30 @@
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "bgm_menu_outpost"
+    },
+    {
+      "id": 9000007,
+      "bgm_type": "outgame_bgm",
+      "bgm_sub_type": "jukebox_commandcenter",
+      "type_value": "2000",
+      "default": true,
+      "bgm_trigger_event_value": 0
+    },
+    {
+      "id": 9000008,
+      "bgm_type": "outgame_bgm",
+      "bgm_sub_type": "jukebox_commandcenter",
+      "type_value": "2001",
+      "default": true,
+      "bgm_trigger_event_value": 0
+    },
+    {
+      "id": 9000012,
+      "bgm_type": "outgame_bgm",
+      "bgm_sub_type": "jukebox_commandcenter",
+      "type_value": "2002",
+      "default": true,
+      "bgm_trigger_event_value": 0
     },
     {
       "id": 9500001,
@@ -9226,14 +9250,6 @@
       "bgm_loop": "bgm_menu_shop"
     },
     {
-      "id": 9990001,
-      "bgm_type": "outgame_bgm",
-      "type_value": "70001",
-      "default": true,
-      "bgm_trigger_event_value": 0,
-      "bgm_loop": "bgm_menu_realkindness"
-    },
-    {
       "id": 9990002,
       "bgm_type": "outgame_bgm",
       "type_value": "70002",
@@ -9242,12 +9258,28 @@
       "bgm_loop": "bgm_menu_realkindness"
     },
     {
-      "id": 9990012,
+      "id": 9990003,
       "bgm_type": "outgame_bgm",
       "type_value": "70003",
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "bgm_menu_realkindness"
+    },
+    {
+      "id": 9990004,
+      "bgm_type": "outgame_bgm",
+      "type_value": "70004",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "bgm_menu_heretic"
+    },
+    {
+      "id": 9990005,
+      "bgm_type": "outgame_bgm",
+      "type_value": "70005",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "bgm_menu_heretic"
     },
     {
       "id": 9010001,
@@ -9481,12 +9513,20 @@
       "bgm_loop": "event_bgm_weaponxweapon"
     },
     {
-      "id": 9910443,
+      "id": 9910405,
       "bgm_type": "story_event_bgm",
       "type_value": "10010",
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "event_bgm_bwparadise"
+    },
+    {
+      "id": 9910406,
+      "bgm_type": "story_event_bgm",
+      "type_value": "10011",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_cherryblossom"
     }
   ]
 }
