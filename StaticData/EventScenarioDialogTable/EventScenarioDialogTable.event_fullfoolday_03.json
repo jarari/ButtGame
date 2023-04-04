@@ -1,0 +1,360 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "event_fullfoolday_03_1",
+      "event_id": 0,
+      "group_id": "event_fullfoolday_03",
+      "speech_window": "Speech",
+      "highlight": "shifty_s",
+      "speaker": "shifty",
+      "scenario_localkey": "Locale_SubScenario:event_fullfoolday_03_1",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "shifty_s",
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "CityForest_001",
+      "set_start_camera": "1",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_spot_encounter",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_fullfoolday_03_2",
+      "event_id": 0,
+      "group_id": "event_fullfoolday_03",
+      "speech_window": "Speech",
+      "highlight": "shifty_s",
+      "speaker": "shifty",
+      "scenario_localkey": "Locale_SubScenario:event_fullfoolday_03_2",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_fullfoolday_03_3",
+      "event_id": 0,
+      "group_id": "event_fullfoolday_03",
+      "speech_window": "Self",
+      "highlight": "shifty_s",
+      "scenario_localkey": "Locale_SubScenario:event_fullfoolday_03_3",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_fullfoolday_03_4",
+      "event_id": 0,
+      "group_id": "event_fullfoolday_03",
+      "speech_window": "Choice",
+      "highlight": "shifty_s",
+      "scenario_localkey": "Locale_SubScenario:event_fullfoolday_03_4",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "event_fullfoolday_03_6"
+    },
+    {
+      "id": "event_fullfoolday_03_5",
+      "event_id": 0,
+      "group_id": "event_fullfoolday_03",
+      "speech_window": "Choice",
+      "highlight": "shifty_s",
+      "scenario_localkey": "Locale_SubScenario:event_fullfoolday_03_5",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "event_fullfoolday_03_7"
+    },
+    {
+      "id": "event_fullfoolday_03_6",
+      "event_id": 0,
+      "group_id": "event_fullfoolday_03",
+      "speech_window": "Speech",
+      "highlight": "shifty_s",
+      "speaker": "shifty",
+      "scenario_localkey": "Locale_SubScenario:event_fullfoolday_03_6",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "event_fullfoolday_03_8"
+    },
+    {
+      "id": "event_fullfoolday_03_7",
+      "event_id": 0,
+      "group_id": "event_fullfoolday_03",
+      "speech_window": "Speech",
+      "highlight": "shifty_s",
+      "speaker": "shifty",
+      "scenario_localkey": "Locale_SubScenario:event_fullfoolday_03_7",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 2.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "event_fullfoolday_03_8"
+    },
+    {
+      "id": "event_fullfoolday_03_8",
+      "event_id": 0,
+      "group_id": "event_fullfoolday_03",
+      "speech_window": "Self",
+      "highlight": "shifty_s",
+      "scenario_localkey": "Locale_SubScenario:event_fullfoolday_03_8",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_fullfoolday_03_9",
+      "event_id": 0,
+      "group_id": "event_fullfoolday_03",
+      "speech_window": "Speech",
+      "highlight": "shifty_s",
+      "speaker": "shifty",
+      "scenario_localkey": "Locale_SubScenario:event_fullfoolday_03_9",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_fullfoolday_03_10",
+      "event_id": 0,
+      "group_id": "event_fullfoolday_03",
+      "speech_window": "Speech",
+      "highlight": "shifty_s",
+      "speaker": "shifty",
+      "scenario_localkey": "Locale_SubScenario:event_fullfoolday_03_10",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_fullfoolday_03_11",
+      "event_id": 0,
+      "group_id": "event_fullfoolday_03",
+      "speech_window": "Speech",
+      "highlight": "shifty_s",
+      "speaker": "shifty",
+      "scenario_localkey": "Locale_SubScenario:event_fullfoolday_03_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}
