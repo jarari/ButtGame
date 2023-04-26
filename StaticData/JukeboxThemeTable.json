@@ -2,6 +2,14 @@
   "version": "0.0.1",
   "records": [
     {
+      "id": 900,
+      "name_localkey": "Locale_Bgm:bgm_theme_overzone_01",
+      "description_localkey": "Locale_Bgm:bgm_theme_overzone_01_description",
+      "order": 90,
+      "theme_resource": "album_overzone_01",
+      "bg_color": "404247"
+    },
+    {
       "id": 999,
       "name_localkey": "Locale_Bgm:bgm_theme_special_01",
       "description_localkey": "Locale_Bgm:bgm_theme_special_01_description",
@@ -111,7 +119,7 @@
       "description_localkey": "Locale_Bgm:bgm_theme_field_09_description",
       "order": 13,
       "theme_resource": "album_field_09",
-      "bg_color": "8E8E8E"
+      "bg_color": "FF8256"
     },
     {
       "id": 14,
@@ -128,6 +136,14 @@
       "order": 15,
       "theme_resource": "album_field_11",
       "bg_color": "0B0F58"
+    },
+    {
+      "id": 16,
+      "name_localkey": "Locale_Bgm:bgm_theme_field_13",
+      "description_localkey": "Locale_Bgm:bgm_theme_field_13_description",
+      "order": 16,
+      "theme_resource": "album_field_13",
+      "bg_color": "4C00D4"
     }
   ]
 }

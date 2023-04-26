@@ -58,6 +58,25 @@
       "product_info_description": "Locale_Event:CE_01_PASS_DESCRIPTION",
       "use_placeholder": false,
       "prefab_id": "event_ce_01_pass_popup"
+    },
+    {
+      "id": 1000004,
+      "event_id": 100004,
+      "pass_point_id": 11002,
+      "name_localkey": "Locale_Event:HALF_PASS_NAME",
+      "description_localkey": "Locale_Event:HALF_PASS_DESCRIPTION",
+      "midas_product_id": 71000004,
+      "infracore_point": 0,
+      "pass_premium_name_localkey": "Locale_Event:HALF_PREMIUM_PASS_NAME",
+      "pass_premium_description_localkey": "Locale_Event:HALF_PREMIUM_PASS_DESCRIPTION",
+      "rank_skip_id": 10,
+      "pass_logo_resource_id": "logo_season_pass_01",
+      "is_character_active": true,
+      "shop_npc_resource_id": 191,
+      "npc_costume_id": 30015,
+      "product_info_description": "Locale_System:PASS_FINAL_REWARD_INFO",
+      "use_placeholder": true,
+      "prefab_id": "event_half_pass_popup"
     }
   ]
 }

@@ -893,6 +893,28 @@
       ]
     },
     {
+      "id": "rei",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5069,
+      "name_locale": "Locale_Character:392_name",
+      "thumbnail_image": "mi_c392_00_s",
+      "members": [
+        "rei"
+      ]
+    },
+    {
+      "id": "dorothy",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5061,
+      "name_locale": "Locale_Character:233_name",
+      "thumbnail_image": "mi_c233_00_s",
+      "members": [
+        "dorothy"
+      ]
+    },
+    {
       "id": "shifty",
       "type": "Nikke",
       "unlock_condition_squad": "None",
@@ -1216,6 +1238,19 @@
         "soda",
         "ade",
         "cocoa"
+      ]
+    },
+    {
+      "id": "schoolcircle",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:schoolcircle_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "zwei",
+        "rei",
+        "ein"
       ]
     },
     {
@@ -2931,6 +2966,44 @@
       "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "romantist"
+      ]
+    },
+    {
+      "id": "edennotice",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_296_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "cecil",
+        "noah",
+        "isabel",
+        "johan",
+        "harran",
+        "dorothy"
+      ]
+    },
+    {
+      "id": "stationery",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_297_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "stationery"
+      ]
+    },
+    {
+      "id": "shelter2admin",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_298_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "shelter2admin"
       ]
     }
   ]

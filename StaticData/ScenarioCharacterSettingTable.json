@@ -2458,6 +2458,24 @@
       "sd_resource_address": "c954_00_var"
     },
     {
+      "id": "npc_canrobot_recorder",
+      "name_localkey": "Locale_Character:npc_954_name_var_02",
+      "resource_id": 954,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD",
+      "sd_resource_address": "c954_01_var"
+    },
+    {
+      "id": "npc_canrobot_cargo",
+      "name_localkey": "Locale_Character:npc_954_name_var_03",
+      "resource_id": 954,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD",
+      "sd_resource_address": "c954_02_var"
+    },
+    {
       "id": "npc_fakerapture",
       "name_localkey": "Locale_Character:npc_955_name",
       "resource_id": 955,
@@ -2483,6 +2501,24 @@
       "frame_type": "none",
       "address": "spine/standing/c999/00_HD",
       "sd_resource_address": "c956_00_var"
+    },
+    {
+      "id": "npc_classicmaster",
+      "name_localkey": "Locale_Character:npc_956_name_var_02",
+      "resource_id": 956,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD",
+      "sd_resource_address": "c956_01_var"
+    },
+    {
+      "id": "npc_commercialmaster",
+      "name_localkey": "Locale_Character:npc_956_name_var_03",
+      "resource_id": 956,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD",
+      "sd_resource_address": "c956_02_var"
     },
     {
       "id": "npc_voltjr",
@@ -2740,12 +2776,12 @@
     },
     {
       "id": "zwei",
-      "name_localkey": "Locale_Character:393_name",
-      "resource_id": 393,
+      "name_localkey": "Locale_Character:390_name",
+      "resource_id": 390,
       "skin_id": "default",
       "frame_type": "none",
-      "address": "spine/standing/c393/00_HD",
-      "sd_resource_address": "c393_00_var"
+      "address": "spine/standing/c390/00_HD",
+      "sd_resource_address": "c390_00_var"
     },
     {
       "id": "students",
@@ -3947,6 +3983,159 @@
       "skin_id": "default",
       "frame_type": "none",
       "address": "spine/standing/c911/00_HD"
+    },
+    {
+      "id": "eh",
+      "name_localkey": "Locale_Character:930_name",
+      "resource_id": 940,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c940/00_HD"
+    },
+    {
+      "id": "doban",
+      "name_localkey": "Locale_Character:931_name",
+      "resource_id": 939,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c939/00_HD"
+    },
+    {
+      "id": "jin",
+      "name_localkey": "Locale_Character:932_name",
+      "resource_id": 922,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c922/00_HD"
+    },
+    {
+      "id": "ehmember",
+      "name_localkey": "Locale_Character:npc_293_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "lilith",
+      "name_localkey": "Locale_Character:933_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "pinne",
+      "name_localkey": "Locale_Character:934_name",
+      "resource_id": 941,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c941/00_HD"
+    },
+    {
+      "id": "oswald",
+      "name_localkey": "Locale_Character:935_name",
+      "resource_id": 911,
+      "skin_id": "default",
+      "frame_type": "left",
+      "address": "spine/standing/c911/00_HD"
+    },
+    {
+      "id": "manvoice",
+      "name_localkey": "Locale_Character:npc_294_name",
+      "resource_id": 911,
+      "skin_id": "default",
+      "frame_type": "left",
+      "address": "spine/standing/c911/00_HD"
+    },
+    {
+      "id": "collectrobot",
+      "name_localkey": "Locale_Character:npc_295_name",
+      "resource_id": 931,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c931/00_HD",
+      "sd_resource_address": "c954_00_var"
+    },
+    {
+      "id": "skymother",
+      "name_localkey": "Locale_Character:10_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/events/EventScene_Chap_21_01"
+    },
+    {
+      "id": "underqueen",
+      "name_localkey": "Locale_Character:10_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/events/EventScene_Chap_22_01"
+    },
+    {
+      "id": "enikk_op_l",
+      "name_localkey": "Locale_Character:904_name",
+      "resource_id": 904,
+      "skin_id": "default",
+      "frame_type": "left",
+      "address": "spine/standing/c904/00_HD"
+    },
+    {
+      "id": "enikk_event",
+      "name_localkey": "Locale_Character:10_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/events/EventScene_Chap_22_02"
+    },
+    {
+      "id": "dorothyangel01",
+      "name_localkey": "Locale_Character:10_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/events/EventScene_Chap_22_05"
+    },
+    {
+      "id": "dorothyangel02",
+      "name_localkey": "Locale_Character:10_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/events/EventScene_Chap_22_06"
+    },
+    {
+      "id": "kity",
+      "name_localkey": "Locale_Character:npc_299_name",
+      "resource_id": 945,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c945/00_HD"
+    },
+    {
+      "id": "pseudo",
+      "name_localkey": "Locale_Character:npc_300_name",
+      "resource_id": 912,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c912/00_HD"
+    },
+    {
+      "id": "lastgreeting",
+      "name_localkey": "Locale_Character:10_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/events/EventScene_OverZone_01"
+    },
+    {
+      "id": "blanc_noir",
+      "name_localkey": "Locale_Character:271_1_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
     }
   ]
 }

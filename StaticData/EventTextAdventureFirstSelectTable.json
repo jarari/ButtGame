@@ -1,0 +1,47 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10011,
+      "first_select_group_id": 1001,
+      "first_select_resource": "EventScene_WhiteMemory_01",
+      "first_select_localkey": "Locale_Event:whitememory_location1_name",
+      "first_select_description_localkey": "Locale_SubScenario:whitememory_location1_description",
+      "next_page_id": 1001101,
+      "navigation_icon": "icn_event_story_place_whitememory_1"
+    },
+    {
+      "id": 10012,
+      "first_select_group_id": 1001,
+      "first_select_resource": "EventScene_WhiteMemory_02_1",
+      "first_select_localkey": "Locale_Event:whitememory_location2_name",
+      "first_select_description_localkey": "Locale_SubScenario:whitememory_location2_description",
+      "next_page_id": 1001201,
+      "is_use_time_condition": true,
+      "time_condition": "2023-04-30T20:00:00",
+      "navigation_icon": "icn_event_story_place_whitememory_2"
+    },
+    {
+      "id": 10013,
+      "first_select_group_id": 1001,
+      "first_select_resource": "EventScene_WhiteMemory_03",
+      "first_select_localkey": "Locale_Event:whitememory_location3_name",
+      "first_select_description_localkey": "Locale_SubScenario:whitememory_location3_description",
+      "next_page_id": 1001301,
+      "is_use_time_condition": true,
+      "time_condition": "2023-05-04T20:00:00",
+      "navigation_icon": "icn_event_story_place_whitememory_3"
+    },
+    {
+      "id": 10014,
+      "first_select_group_id": 1001,
+      "first_select_resource": "EventScene_WhiteMemory_04",
+      "first_select_localkey": "Locale_Event:whitememory_location4_name",
+      "first_select_description_localkey": "Locale_SubScenario:whitememory_location4_description",
+      "next_page_id": 1001401,
+      "is_use_time_condition": true,
+      "time_condition": "2023-05-11T20:00:00",
+      "navigation_icon": "icn_event_story_place_whitememory_4"
+    }
+  ]
+}

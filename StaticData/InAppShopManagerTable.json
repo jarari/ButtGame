@@ -3,20 +3,22 @@
   "records": [
     {
       "id": 10001,
+      "main_category_type": "PopupPackageTab",
       "order_group_id": 100,
       "name_localkey": "Locale_System:CASH_SHOP_POPUP_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_POPUP_PACKAGE_DESC",
       "main_category_icon_name": "ele_logo_package_popup_s",
       "sub_category_id": 1,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "PopupPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_popup_layout_001"
     },
     {
       "id": 20002,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -24,15 +26,16 @@
       "sub_category_id": 22110402,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_NEW_SERVER_COMMEMORATION_FUNCTION",
       "package_shop_id": 2002,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20003,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -40,15 +43,16 @@
       "sub_category_id": 22110401,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_FIRST_BUY_FUNCTION",
       "package_shop_id": 2003,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20004,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -56,15 +60,16 @@
       "sub_category_id": 22111001,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_PICKUP_FUNCTION",
       "package_shop_id": 2004,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20005,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -72,15 +77,16 @@
       "sub_category_id": 22112402,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_PICKUP_FUNCTION",
       "package_shop_id": 2005,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20006,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -88,15 +94,16 @@
       "sub_category_id": 22112401,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_COMMANDER_BEGIN_FUNCTION",
       "package_shop_id": 2006,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20007,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -104,15 +111,16 @@
       "sub_category_id": 22120801,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_CHRISTMAS_2022_01_FUNCTION",
       "package_shop_id": 2007,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20009,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -120,15 +128,16 @@
       "sub_category_id": 22121501,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_CHRISTMAS_2022_02_FUNCTION",
       "package_shop_id": 2009,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20010,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -136,15 +145,16 @@
       "sub_category_id": 23010101,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_PICKUP_FUNCTION",
       "package_shop_id": 2010,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20011,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -152,15 +162,16 @@
       "sub_category_id": 22122901,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_NEWYEAR_2023_FUNCTION",
       "package_shop_id": 2011,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20012,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -168,15 +179,16 @@
       "sub_category_id": 23011201,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_D_OUTSIDERS_FUNCTION",
       "package_shop_id": 2012,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20013,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -184,15 +196,16 @@
       "sub_category_id": 23012001,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_PICKUP_FUNCTION",
       "package_shop_id": 2013,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20014,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -200,15 +213,16 @@
       "sub_category_id": 23020101,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_MAIDINVALENTINE_FUNCTION",
       "package_shop_id": 2014,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20015,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -216,15 +230,16 @@
       "sub_category_id": 23020801,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_PICKUP_FUNCTION",
       "package_shop_id": 2015,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20016,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -232,15 +247,16 @@
       "sub_category_id": 23021501,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_RECRUITEMENT_FUNCTION",
       "package_shop_id": 2016,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20017,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -248,15 +264,16 @@
       "sub_category_id": 23022202,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_CE_01_FUNCTION",
       "package_shop_id": 2017,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20018,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -264,15 +281,16 @@
       "sub_category_id": 23022201,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_PICKUP_FUNCTION",
       "package_shop_id": 2018,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20019,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -280,15 +298,16 @@
       "sub_category_id": 23031502,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_BOWWOW_FUNCTION",
       "package_shop_id": 2019,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20020,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -296,15 +315,16 @@
       "sub_category_id": 23031501,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_ENHANCE_FUNCTION",
       "package_shop_id": 2020,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20021,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -312,15 +332,16 @@
       "sub_category_id": 23033001,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_CHERRYBLOSSOM_FUNCTION",
       "package_shop_id": 2021,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 20022,
+      "main_category_type": "TimeLimitPackageTab",
       "order_group_id": 200,
       "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
@@ -328,15 +349,67 @@
       "sub_category_id": 23041301,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_L.T.K_FUNCTION",
       "package_shop_id": 2022,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "TimeLimitPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_timelimit_layout_001"
+    },
+    {
+      "id": 20023,
+      "main_category_type": "TimeLimitPackageTab",
+      "order_group_id": 200,
+      "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
+      "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
+      "main_category_icon_name": "ele_logo_package_timelimit_s",
+      "sub_category_id": 23042703,
+      "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_STEPUP_01_FUNCTION",
+      "package_shop_id": 2023,
+      "is_hide_if_not_valid": true,
+      "renew_type": "NoRenew",
+      "date_ui_control": true,
+      "shop_type": "InAppShop",
+      "shop_category": "StepUpPackageShop",
+      "shop_prefab_name": "package_stepup_layout_001"
+    },
+    {
+      "id": 20024,
+      "main_category_type": "TimeLimitPackageTab",
+      "order_group_id": 200,
+      "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
+      "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
+      "main_category_icon_name": "ele_logo_package_timelimit_s",
+      "sub_category_id": 23042702,
+      "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_ANNIVERSARY_0.5_FUNCTION",
+      "package_shop_id": 2024,
+      "is_hide_if_not_valid": true,
+      "renew_type": "NoRenew",
+      "date_ui_control": true,
+      "shop_type": "InAppShop",
+      "shop_category": "TimeLimitPackageShop",
+      "shop_prefab_name": "package_timelimit_layout_001"
+    },
+    {
+      "id": 20025,
+      "main_category_type": "TimeLimitPackageTab",
+      "order_group_id": 200,
+      "name_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_NAME",
+      "description_localkey": "Locale_System:CASH_SHOP_TIMELIMIT_PACKAGE_DESC",
+      "main_category_icon_name": "ele_logo_package_timelimit_s",
+      "sub_category_id": 23042701,
+      "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_PICKUP_FUNCTION",
+      "package_shop_id": 2025,
+      "is_hide_if_not_valid": true,
+      "renew_type": "NoRenew",
+      "date_ui_control": true,
+      "shop_type": "InAppShop",
+      "shop_category": "TimeLimitPackageShop",
+      "shop_prefab_name": "package_timelimit_layout_001"
     },
     {
       "id": 30000,
+      "main_category_type": "RenewPackageTab",
       "order_group_id": 300,
       "name_localkey": "Locale_System:CASH_SHOP_NORMAL_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_NORMAL_PACKAGE_DESC",
@@ -344,15 +417,16 @@
       "sub_category_id": 1,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_ALWAYS_01_FUNCTION",
       "package_shop_id": 3005,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": false,
       "shop_type": "InAppShop",
       "shop_category": "RenewPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_renew_layout_001"
     },
     {
       "id": 30001,
+      "main_category_type": "RenewPackageTab",
       "order_group_id": 300,
       "name_localkey": "Locale_System:CASH_SHOP_NORMAL_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_NORMAL_PACKAGE_DESC",
@@ -360,15 +434,16 @@
       "sub_category_id": 2,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_DAILY_FUNCTION",
       "package_shop_id": 3001,
-      "is_null_visible": false,
+      "is_hide_if_not_valid": false,
       "renew_type": "AutoDay",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "RenewPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_renew_layout_001"
     },
     {
       "id": 30002,
+      "main_category_type": "RenewPackageTab",
       "order_group_id": 300,
       "name_localkey": "Locale_System:CASH_SHOP_NORMAL_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_NORMAL_PACKAGE_DESC",
@@ -376,15 +451,16 @@
       "sub_category_id": 3,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_WEEKLY_FUNCTION",
       "package_shop_id": 3002,
-      "is_null_visible": false,
+      "is_hide_if_not_valid": false,
       "renew_type": "AutoWeek",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "RenewPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_renew_layout_001"
     },
     {
       "id": 30003,
+      "main_category_type": "RenewPackageTab",
       "order_group_id": 300,
       "name_localkey": "Locale_System:CASH_SHOP_NORMAL_PACKAGE_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_NORMAL_PACKAGE_DESC",
@@ -392,15 +468,16 @@
       "sub_category_id": 4,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_MONTLY_FUNCTION",
       "package_shop_id": 3003,
-      "is_null_visible": false,
+      "is_hide_if_not_valid": false,
       "renew_type": "AutoMonth",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "RenewPackageShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "package_renew_layout_001"
     },
     {
       "id": 40005,
+      "main_category_type": "CostumeTab",
       "order_group_id": 400,
       "name_localkey": "Locale_System:COSTUME_SHOP_NAME",
       "description_localkey": "Locale_System:COSTUME_SHOP_DESCRIPTION",
@@ -408,66 +485,70 @@
       "sub_category_id": 1,
       "sub_category_name_localkey": "Locale_System:INAPP_SHOP_SUB_CATEGORY_COSTUME_REGULAR_FUNCTION",
       "package_shop_id": 100001,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": false,
       "shop_type": "InAppShop",
       "shop_category": "CostumeShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "costume_layout_001"
     },
     {
       "id": 50001,
+      "main_category_type": "CampaignPackageTab",
       "order_group_id": 500,
       "name_localkey": "Locale_System:CASH_SHOP_CAMPAIGN_PACKAGE_01_NAME",
       "main_category_icon_name": "ele_logo_campaign_s",
       "sub_category_id": 1,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "CampaignPackageShop",
-      "shop_layout_type": "CampaignPackage"
+      "shop_prefab_name": "campaign_layout_001"
     },
     {
       "id": 50101,
+      "main_category_type": "CampaignPackageTab",
       "order_group_id": 501,
       "name_localkey": "Locale_System:CASH_SHOP_CAMPAIGN_PACKAGE_02_NAME",
       "main_category_icon_name": "ele_logo_campaign_s",
       "sub_category_id": 1,
-      "is_null_visible": true,
+      "is_hide_if_not_valid": true,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "CampaignPackageShop",
-      "shop_layout_type": "CampaignPackage"
+      "shop_prefab_name": "campaign_layout_001"
     },
     {
       "id": 60001,
+      "main_category_type": "MonthlyAmountTab",
       "order_group_id": 600,
       "name_localkey": "Locale_System:CASH_SHOP_MONTHLY_AMOUNT_NAME",
       "description_localkey": "Locale_System:CASH_SHOP_MONTHLY_AMOUNT_DESC",
       "main_category_icon_name": "ele_logo_monthly_s",
       "sub_category_id": 1,
-      "is_null_visible": false,
+      "is_hide_if_not_valid": false,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "MonthlyAmountShop",
-      "shop_layout_type": "MonthlyAmountType"
+      "shop_prefab_name": "monthly_layout_001"
     },
     {
       "id": 100001,
+      "main_category_type": "JewelTab",
       "order_group_id": 1000,
       "name_localkey": "Locale_System:cash_shop_name_localkey",
       "description_localkey": "Locale_System:cash_shop_description_localkey",
       "main_category_icon_name": "ele_logo_jewel_s",
       "sub_category_id": 1,
-      "is_null_visible": false,
+      "is_hide_if_not_valid": false,
       "renew_type": "NoRenew",
       "date_ui_control": true,
       "shop_type": "InAppShop",
       "shop_category": "JewelShop",
-      "shop_layout_type": "ProductType6"
+      "shop_prefab_name": "jewel_layout_001"
     }
   ]
 }

@@ -137,7 +137,7 @@
       "description_localkey": "Locale_Trigger:TEST_PASS_DESCRIPTION",
       "season_start_date": "2023-03-31T14:59:59",
       "season_end_date": "2023-04-30T14:59:59",
-      "next_season_id": 0,
+      "next_season_id": 1008,
       "midas_product_id": 60001007,
       "infracore_point": 0,
       "pass_premium_name_localkey": "Locale_Trigger:test_pass_mission_premium_name_1",
@@ -147,6 +147,27 @@
       "pass_lobby_button_resource_id": "banner_season_pass_06",
       "shop_npc_resource_id": 430,
       "npc_costume_id": 30013
+    },
+    {
+      "id": 1008,
+      "pass_type": "Season",
+      "event_id": 0,
+      "pass_category": "Mission",
+      "pass_point_id": 2,
+      "name_localkey": "Locale_Trigger:TEST_PASS_NAME",
+      "description_localkey": "Locale_Trigger:TEST_PASS_DESCRIPTION",
+      "season_start_date": "2023-04-30T14:59:59",
+      "season_end_date": "2023-05-31T14:59:59",
+      "next_season_id": 0,
+      "midas_product_id": 60001008,
+      "infracore_point": 0,
+      "pass_premium_name_localkey": "Locale_Trigger:test_pass_mission_premium_name_1",
+      "pass_premium_description_localkey": "Locale_Trigger:test_pass_mission_premium_description_1",
+      "rank_skip_id": 10,
+      "pass_logo_resource_id": "logo_season_pass_01",
+      "pass_lobby_button_resource_id": "banner_season_pass_07",
+      "shop_npc_resource_id": 112,
+      "npc_costume_id": 70001
     }
   ]
 }

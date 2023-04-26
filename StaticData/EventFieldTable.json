@@ -10,12 +10,14 @@
       "field_first_entry_resource": "event_enter_miraclesnow",
       "link_event_pass_id": 1000001,
       "progress_event_group_id": 1001,
-      "is_use_dummy_nk": true,
-      "dummy_nk_limit": 5,
-      "dummy_nk_speed_minimum": 100,
-      "dummy_nk_speed_maximum": 250,
+      "is_use_roaming_npc": true,
+      "roaming_npc_limit": 5,
+      "roaming_npc_type": "UserCharacter",
+      "roaming_npc_speed_minimum": 100,
+      "roaming_npc_speed_maximum": 250,
       "player_squad_type": "UserSquad",
-      "player_squad_value": "5",
+      "player_squad_value": 5,
+      "player_squad_speed": 100,
       "sd_character_size": 100,
       "event_mission_group": 3,
       "event_field_currency_list": [
@@ -38,18 +40,50 @@
       "field_first_entry_resource": "event_enter_ce_01",
       "link_event_pass_id": 1000003,
       "progress_event_group_id": 1002,
-      "is_use_dummy_nk": false,
-      "dummy_nk_limit": 5,
-      "dummy_nk_speed_minimum": 100,
-      "dummy_nk_speed_maximum": 250,
+      "is_use_roaming_npc": false,
+      "roaming_npc_limit": 5,
+      "roaming_npc_type": "UserCharacter",
+      "roaming_npc_speed_minimum": 100,
+      "roaming_npc_speed_maximum": 250,
       "player_squad_type": "UserSquad",
-      "player_squad_value": "5",
+      "player_squad_value": 5,
+      "player_squad_speed": 100,
       "sd_character_size": 100,
       "event_mission_group": 8,
       "event_field_currency_list": [
         {
           "event_field_currency_type": "Material",
           "event_field_currency_id": 7060008
+        },
+        {
+          "event_field_currency_type": "None"
+        }
+      ]
+    },
+    {
+      "id": 10003,
+      "event_id": 80300,
+      "field_design_map": "febg_lostcity_001",
+      "field_art_map_standard": "febg_lostcity_001_01",
+      "field_hud": "hud_event_field_overzone",
+      "field_first_entry_resource": "event_enter_overzone",
+      "link_event_pass_id": 1000004,
+      "progress_event_group_id": 1003,
+      "is_use_roaming_npc": true,
+      "roaming_npc_limit": 17,
+      "roaming_npc_type": "FixedSDCharacter",
+      "roaming_npc_fixed_sd_character_group_id": 10032,
+      "roaming_npc_speed_minimum": 100,
+      "roaming_npc_speed_maximum": 250,
+      "player_squad_type": "FixedSquad",
+      "player_squad_value": 10031,
+      "player_squad_speed": 100,
+      "sd_character_size": 100,
+      "event_mission_group": 13,
+      "event_field_currency_list": [
+        {
+          "event_field_currency_type": "Material",
+          "event_field_currency_id": 7060013
         },
         {
           "event_field_currency_type": "None"

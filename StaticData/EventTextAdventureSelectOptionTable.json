@@ -1,0 +1,572 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 100110101,
+      "group_id": 1001101,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location1_01_1",
+      "open_condition_type": "None",
+      "page_id": 1001102,
+      "sound_effect": "sfx_scn_snowwhiterifle"
+    },
+    {
+      "id": 100110102,
+      "group_id": 1001101,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location1_01_2",
+      "open_condition_type": "None",
+      "page_id": 1001103,
+      "sound_effect": "sfx_wm_rifle"
+    },
+    {
+      "id": 100110401,
+      "group_id": 1001104,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location1_04_1",
+      "open_condition_type": "None",
+      "page_id": 1001105,
+      "sound_effect": "sfx_wm_move"
+    },
+    {
+      "id": 100110402,
+      "group_id": 1001104,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location1_04_2",
+      "open_condition_type": "None",
+      "page_id": 1001106,
+      "sound_effect": "sfx_wm_move"
+    },
+    {
+      "id": 100110403,
+      "group_id": 1001104,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location1_04_3",
+      "open_condition_type": "None",
+      "page_id": 1001107,
+      "sound_effect": "sfx_wm_move"
+    },
+    {
+      "id": 100110801,
+      "group_id": 1001108,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location1_08_1",
+      "open_condition_type": "None",
+      "page_id": 1001109,
+      "sound_effect": "sfx_wm_eat"
+    },
+    {
+      "id": 100110802,
+      "group_id": 1001108,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location1_08_2",
+      "open_condition_type": "None",
+      "page_id": 1001110
+    },
+    {
+      "id": 100111301,
+      "group_id": 1001113,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location1_13_1",
+      "open_condition_type": "None",
+      "page_id": 1001114,
+      "sound_effect": "sfx_wm_eat"
+    },
+    {
+      "id": 100111302,
+      "group_id": 1001113,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location1_13_2",
+      "open_condition_type": "None",
+      "page_id": 1001115
+    },
+    {
+      "id": 100111401,
+      "group_id": 1001114,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location1_14_1",
+      "open_condition_type": "None",
+      "page_id": 1001116
+    },
+    {
+      "id": 100111402,
+      "group_id": 1001114,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location1_14_2",
+      "open_condition_type": "Ending",
+      "open_condition_value": 1001922,
+      "page_id": 1001117,
+      "sound_effect": "sfx_scn_crackle"
+    },
+    {
+      "id": 100111601,
+      "group_id": 1001116,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location1_16_1",
+      "open_condition_type": "None",
+      "page_id": 1001118,
+      "sound_effect": "sfx_scn_heavytrip"
+    },
+    {
+      "id": 100111602,
+      "group_id": 1001116,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location1_16_2",
+      "open_condition_type": "Ending",
+      "open_condition_value": 1001915,
+      "page_id": 1001119
+    },
+    {
+      "id": 100112501,
+      "group_id": 1001125,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location1_25_1",
+      "open_condition_type": "None",
+      "page_id": 1001126
+    },
+    {
+      "id": 100112502,
+      "group_id": 1001125,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location1_25_2",
+      "open_condition_type": "None",
+      "page_id": 1001127
+    },
+    {
+      "id": 100112901,
+      "group_id": 1001129,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location1_29_1",
+      "open_condition_type": "None",
+      "page_id": 1001130,
+      "sound_effect": "sfx_wm_camo"
+    },
+    {
+      "id": 100112902,
+      "group_id": 1001129,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location1_29_2",
+      "open_condition_type": "LootItem",
+      "open_condition_value": 100102,
+      "page_id": 1001131,
+      "sound_effect": "sfx_wm_ghilliesuit"
+    },
+    {
+      "id": 100120101,
+      "group_id": 1001201,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location2_01_1",
+      "open_condition_type": "None",
+      "page_id": 1001202
+    },
+    {
+      "id": 100120102,
+      "group_id": 1001201,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location2_01_2",
+      "open_condition_type": "None",
+      "page_id": 1001203
+    },
+    {
+      "id": 100120401,
+      "group_id": 1001204,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location2_04_1",
+      "open_condition_type": "None",
+      "page_id": 1001205,
+      "sound_effect": "sfx_wm_cutshort"
+    },
+    {
+      "id": 100120402,
+      "group_id": 1001204,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location2_04_2",
+      "open_condition_type": "None",
+      "page_id": 1001206,
+      "sound_effect": "sfx_wm_cutlong"
+    },
+    {
+      "id": 100120601,
+      "group_id": 1001206,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location2_06_1",
+      "open_condition_type": "None",
+      "page_id": 1001207
+    },
+    {
+      "id": 100120602,
+      "group_id": 1001206,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location2_06_2",
+      "open_condition_type": "LootItem",
+      "open_condition_value": 100101,
+      "page_id": 1001208,
+      "sound_effect": "sfx_wm_steelwire"
+    },
+    {
+      "id": 100121101,
+      "group_id": 1001211,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location2_11_1",
+      "open_condition_type": "None",
+      "page_id": 1001212,
+      "sound_effect": "sfx_scn_splash"
+    },
+    {
+      "id": 100121102,
+      "group_id": 1001211,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location2_11_2",
+      "open_condition_type": "None",
+      "page_id": 1001213,
+      "sound_effect": "sfx_scn_splash"
+    },
+    {
+      "id": 100121901,
+      "group_id": 1001219,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location2_19_1",
+      "open_condition_type": "None",
+      "page_id": 1001220
+    },
+    {
+      "id": 100121902,
+      "group_id": 1001219,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location2_19_2",
+      "open_condition_type": "None",
+      "page_id": 1001221,
+      "sound_effect": "sfx_wm_searchstones"
+    },
+    {
+      "id": 100130201,
+      "group_id": 1001302,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_02_1",
+      "open_condition_type": "None",
+      "page_id": 1001303,
+      "sound_effect": "sfx_wm_move"
+    },
+    {
+      "id": 100130202,
+      "group_id": 1001302,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_02_2",
+      "open_condition_type": "None",
+      "page_id": 1001304,
+      "sound_effect": "sfx_wm_move"
+    },
+    {
+      "id": 100130401,
+      "group_id": 1001304,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_04_1",
+      "open_condition_type": "None",
+      "page_id": 1001319,
+      "sound_effect": "sfx_wm_move"
+    },
+    {
+      "id": 100130402,
+      "group_id": 1001304,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_04_2",
+      "open_condition_type": "None",
+      "page_id": 1001322,
+      "sound_effect": "sfx_wm_move"
+    },
+    {
+      "id": 100130403,
+      "group_id": 1001304,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_04_3",
+      "open_condition_type": "None",
+      "page_id": 1001326,
+      "sound_effect": "sfx_wm_move"
+    },
+    {
+      "id": 100130501,
+      "group_id": 1001305,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_05_1",
+      "open_condition_type": "None",
+      "page_id": 1001306,
+      "sound_effect": "sfx_wm_doorcrash"
+    },
+    {
+      "id": 100130502,
+      "group_id": 1001305,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_05_2",
+      "open_condition_type": "None",
+      "page_id": 1001307,
+      "sound_effect": "sfx_wm_move"
+    },
+    {
+      "id": 100130601,
+      "group_id": 1001306,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_06_1",
+      "open_condition_type": "None",
+      "page_id": 1001308
+    },
+    {
+      "id": 100130602,
+      "group_id": 1001306,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_06_2",
+      "open_condition_type": "None",
+      "page_id": 1001309,
+      "sound_effect": "sfx_wm_book"
+    },
+    {
+      "id": 100130701,
+      "group_id": 1001307,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_07_1",
+      "open_condition_type": "None",
+      "page_id": 1001313
+    },
+    {
+      "id": 100130702,
+      "group_id": 1001307,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_07_2",
+      "open_condition_type": "LootItem",
+      "open_condition_value": 100106,
+      "page_id": 1001314,
+      "sound_effect": "sfx_wm_putphotoframe"
+    },
+    {
+      "id": 100130801,
+      "group_id": 1001308,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_08_1",
+      "open_condition_type": "None",
+      "page_id": 1001310,
+      "sound_effect": "sfx_wm_cookownself"
+    },
+    {
+      "id": 100130802,
+      "group_id": 1001308,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_08_2",
+      "open_condition_type": "LootItem",
+      "open_condition_value": 100105,
+      "page_id": 1001311,
+      "sound_effect": "sfx_wm_cookrecipe"
+    },
+    {
+      "id": 100131401,
+      "group_id": 1001314,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_14_1",
+      "open_condition_type": "None",
+      "page_id": 1001315
+    },
+    {
+      "id": 100131402,
+      "group_id": 1001314,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_14_2",
+      "open_condition_type": "Ending",
+      "open_condition_value": 1001927,
+      "page_id": 1001316,
+      "sound_effect": "sfx_wm_move"
+    },
+    {
+      "id": 100131601,
+      "group_id": 1001316,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_16_1",
+      "open_condition_type": "LootItem",
+      "open_condition_value": 100107,
+      "page_id": 1001317,
+      "sound_effect": "sfx_wm_oldwoodenopen"
+    },
+    {
+      "id": 100131602,
+      "group_id": 1001316,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_16_2",
+      "open_condition_type": "None",
+      "page_id": 1001314,
+      "sound_effect": "sfx_wm_move"
+    },
+    {
+      "id": 100131901,
+      "group_id": 1001319,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_19_1",
+      "open_condition_type": "None",
+      "page_id": 1001320
+    },
+    {
+      "id": 100131902,
+      "group_id": 1001319,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_19_2",
+      "open_condition_type": "None",
+      "page_id": 1001321
+    },
+    {
+      "id": 100132001,
+      "group_id": 1001320,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_20_1",
+      "open_condition_type": "None",
+      "page_id": 1001304
+    },
+    {
+      "id": 100132002,
+      "group_id": 1001320,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_20_2",
+      "open_condition_type": "None",
+      "page_id": 1001332
+    },
+    {
+      "id": 100132101,
+      "group_id": 1001321,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_21_1",
+      "open_condition_type": "None",
+      "page_id": 1001304
+    },
+    {
+      "id": 100132102,
+      "group_id": 1001321,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_21_2",
+      "open_condition_type": "None",
+      "page_id": 1001332
+    },
+    {
+      "id": 100132201,
+      "group_id": 1001322,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_22_1",
+      "open_condition_type": "None",
+      "page_id": 1001323
+    },
+    {
+      "id": 100132202,
+      "group_id": 1001322,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_22_2",
+      "open_condition_type": "None",
+      "page_id": 1001324,
+      "sound_effect": "sfx_wm_oldwoodenopen"
+    },
+    {
+      "id": 100132501,
+      "group_id": 1001325,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_25_1",
+      "open_condition_type": "None",
+      "page_id": 1001304
+    },
+    {
+      "id": 100132502,
+      "group_id": 1001325,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_25_2",
+      "open_condition_type": "None",
+      "page_id": 1001332
+    },
+    {
+      "id": 100132801,
+      "group_id": 1001328,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_28_1",
+      "open_condition_type": "None",
+      "page_id": 1001329,
+      "sound_effect": "sfx_wm_take"
+    },
+    {
+      "id": 100132802,
+      "group_id": 1001328,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_28_2",
+      "open_condition_type": "None",
+      "page_id": 1001330
+    },
+    {
+      "id": 100133101,
+      "group_id": 1001331,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_31_1",
+      "open_condition_type": "None",
+      "page_id": 1001304,
+      "sound_effect": "sfx_wm_move"
+    },
+    {
+      "id": 100133102,
+      "group_id": 1001331,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location3_31_2",
+      "open_condition_type": "None",
+      "page_id": 1001332,
+      "sound_effect": "sfx_wm_move"
+    },
+    {
+      "id": 100140101,
+      "group_id": 1001401,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location4_01_1",
+      "open_condition_type": "None",
+      "page_id": 1001402,
+      "sound_effect": "sfx_wm_move"
+    },
+    {
+      "id": 100140102,
+      "group_id": 1001401,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location4_01_2",
+      "open_condition_type": "LootItem",
+      "open_condition_value": 100109,
+      "page_id": 1001403,
+      "sound_effect": "sfx_wm_move"
+    },
+    {
+      "id": 100140103,
+      "group_id": 1001401,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location4_01_3",
+      "open_condition_type": "Ending",
+      "open_condition_value": 1001937,
+      "is_hidden": true,
+      "page_id": 1001406,
+      "sound_effect": "sfx_wm_move"
+    },
+    {
+      "id": 100140104,
+      "group_id": 1001401,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location4_01_4",
+      "open_condition_type": "LootItem",
+      "open_condition_value": 100114,
+      "is_hidden": true,
+      "page_id": 1001408,
+      "sound_effect": "sfx_wm_move"
+    },
+    {
+      "id": 100140401,
+      "group_id": 1001404,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location4_04_1",
+      "open_condition_type": "None",
+      "page_id": 1001927,
+      "sound_effect": "sfx_wm_stopmoving"
+    },
+    {
+      "id": 100140402,
+      "group_id": 1001404,
+      "manager_id": 1001,
+      "selection_localkey": "Locale_SubScenario:whitememory_location4_04_2",
+      "open_condition_type": "LootItem",
+      "open_condition_value": 100113,
+      "page_id": 1001405,
+      "sound_effect": "sfx_wm_keepmoving"
+    }
+  ]
+}
