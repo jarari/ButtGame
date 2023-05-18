@@ -4,6 +4,7 @@
     {
       "id": 10,
       "livewallpaper_type": "Scenario",
+      "sub_type": "Scenario",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_10",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_10",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_Main_01_01",
@@ -18,6 +19,7 @@
     {
       "id": 11,
       "livewallpaper_type": "Scenario",
+      "sub_type": "Scenario",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_11",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_11",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_Main_01_03",
@@ -32,6 +34,7 @@
     {
       "id": 12,
       "livewallpaper_type": "Scenario",
+      "sub_type": "Scenario",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_12",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_12",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_Chap_02_After_01",
@@ -46,6 +49,7 @@
     {
       "id": 13,
       "livewallpaper_type": "Scenario",
+      "sub_type": "Scenario",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_13",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_13",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_Chap_04_01",
@@ -60,6 +64,7 @@
     {
       "id": 14,
       "livewallpaper_type": "Scenario",
+      "sub_type": "Scenario",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_14",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_14",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_Chap_04_After_01",
@@ -74,6 +79,7 @@
     {
       "id": 15,
       "livewallpaper_type": "Scenario",
+      "sub_type": "Event",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_15",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_15",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_MaidInValentine_01",
@@ -88,6 +94,7 @@
     {
       "id": 16,
       "livewallpaper_type": "Scenario",
+      "sub_type": "Event",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_16",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_16",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_BowWowParadise_01",
@@ -102,6 +109,7 @@
     {
       "id": 17,
       "livewallpaper_type": "Scenario",
+      "sub_type": "Event",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_17",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_17",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_CherryBlossom_01",
@@ -116,6 +124,7 @@
     {
       "id": 18,
       "livewallpaper_type": "Scenario",
+      "sub_type": "Event",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_18",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_18",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_ltk_01",
@@ -130,6 +139,7 @@
     {
       "id": 19,
       "livewallpaper_type": "Scenario",
+      "sub_type": "Event",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_19",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_19",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_OverZone_02",
@@ -142,8 +152,39 @@
       "condition_character_id": 0
     },
     {
+      "id": 20,
+      "livewallpaper_type": "Scenario",
+      "sub_type": "Event",
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_20",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_20",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_BunnyX777_01",
+      "thumbnail_resource_id": "EventScene_BunnyX777_01_mi",
+      "si_resource_id": "EventScene_BunnyX777_01_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "is_condition_character": false,
+      "condition_resource_id": 0,
+      "condition_character_id": 0
+    },
+    {
+      "id": 21,
+      "livewallpaper_type": "Scenario",
+      "sub_type": "Event",
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_21",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_21",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_QueensOrder_01",
+      "thumbnail_resource_id": "EventScene_QueensOrder_01_mi",
+      "si_resource_id": "EventScene_QueensOrder_01_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "is_condition_character": false,
+      "condition_resource_id": 0,
+      "condition_character_id": 0
+    },
+    {
       "id": 50010,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_200",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_200",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c010_cutscene",
@@ -158,6 +199,7 @@
     {
       "id": 50011,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_201",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_201",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c011_cutscene",
@@ -172,6 +214,7 @@
     {
       "id": 50012,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_202",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_202",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c012_cutscene",
@@ -186,6 +229,7 @@
     {
       "id": 50013,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_203",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_203",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c013_cutscene",
@@ -200,6 +244,7 @@
     {
       "id": 50022,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_204",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_204",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c022_cutscene",
@@ -214,6 +259,7 @@
     {
       "id": 50030,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_205",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_205",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c030_cutscene",
@@ -228,6 +274,7 @@
     {
       "id": 50032,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_206",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_206",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c032_cutscene",
@@ -242,6 +289,7 @@
     {
       "id": 50070,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_207",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_207",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c070_cutscene",
@@ -256,6 +304,7 @@
     {
       "id": 50071,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_208",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_208",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c071_cutscene",
@@ -270,6 +319,7 @@
     {
       "id": 50072,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_209",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_209",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c072_cutscene",
@@ -284,6 +334,7 @@
     {
       "id": 50080,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_210",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_210",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c080_cutscene",
@@ -298,6 +349,7 @@
     {
       "id": 50082,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_211",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_211",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c082_cutscene",
@@ -312,6 +364,7 @@
     {
       "id": 50191,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_212",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_212",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c191_cutscene",
@@ -326,6 +379,7 @@
     {
       "id": 50170,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_3",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_3",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c170_cutscene",
@@ -340,6 +394,7 @@
     {
       "id": 50090,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50090",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50090",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c090_cutscene",
@@ -354,6 +409,7 @@
     {
       "id": 50091,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50091",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50091",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c091_cutscene",
@@ -368,6 +424,7 @@
     {
       "id": 50092,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50092",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50092",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c092_cutscene",
@@ -382,6 +439,7 @@
     {
       "id": 50101,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50101",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50101",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c101_cutscene",
@@ -396,6 +454,7 @@
     {
       "id": 50102,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50102",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50102",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c102_cutscene",
@@ -410,6 +469,7 @@
     {
       "id": 50110,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50110",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50110",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c110_cutscene",
@@ -424,6 +484,7 @@
     {
       "id": 50130,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50130",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50130",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c130_cutscene",
@@ -438,6 +499,7 @@
     {
       "id": 50131,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50131",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50131",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c131_cutscene",
@@ -452,6 +514,7 @@
     {
       "id": 50140,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50140",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50140",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c140_cutscene",
@@ -466,6 +529,7 @@
     {
       "id": 50141,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50141",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50141",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c141_cutscene",
@@ -480,6 +544,7 @@
     {
       "id": 50142,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50142",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50142",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c142_cutscene",
@@ -494,6 +559,7 @@
     {
       "id": 50150,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50150",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50150",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c150_cutscene",
@@ -508,6 +574,7 @@
     {
       "id": 50160,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50160",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50160",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c160_cutscene",
@@ -522,6 +589,7 @@
     {
       "id": 50171,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50171",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50171",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c171_cutscene",
@@ -536,6 +604,7 @@
     {
       "id": 50172,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50172",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50172",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c172_cutscene",
@@ -550,6 +619,7 @@
     {
       "id": 50180,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50180",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50180",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c180_cutscene",
@@ -564,6 +634,7 @@
     {
       "id": 50181,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50181",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50181",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c181_cutscene",
@@ -578,6 +649,7 @@
     {
       "id": 50190,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50190",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50190",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c190_cutscene",
@@ -592,6 +664,7 @@
     {
       "id": 50200,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50200",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50200",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c200_cutscene",
@@ -606,6 +679,7 @@
     {
       "id": 50201,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50201",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50201",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c201_cutscene",
@@ -620,6 +694,7 @@
     {
       "id": 50202,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50202",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50202",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c202_cutscene",
@@ -634,6 +709,7 @@
     {
       "id": 50210,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50210",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50210",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c210_cutscene",
@@ -648,6 +724,7 @@
     {
       "id": 50212,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50212",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50212",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c212_cutscene",
@@ -662,6 +739,7 @@
     {
       "id": 50220,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50220",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50220",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c220_cutscene",
@@ -676,6 +754,7 @@
     {
       "id": 50221,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50221",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50221",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c221_cutscene",
@@ -690,6 +769,7 @@
     {
       "id": 50222,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50222",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50222",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c222_cutscene",
@@ -704,6 +784,7 @@
     {
       "id": 50230,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50230",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50230",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c230_cutscene",
@@ -718,6 +799,7 @@
     {
       "id": 50231,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50231",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50231",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c231_cutscene",
@@ -732,6 +814,7 @@
     {
       "id": 50232,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50232",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50232",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c232_cutscene",
@@ -746,6 +829,7 @@
     {
       "id": 50241,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50241",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50241",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c241_cutscene",
@@ -760,6 +844,7 @@
     {
       "id": 50242,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50242",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50242",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c242_cutscene",
@@ -774,6 +859,7 @@
     {
       "id": 50430,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50430",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50430",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c430_cutscene",
@@ -788,6 +874,7 @@
     {
       "id": 50431,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50431",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50431",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c431_cutscene",
@@ -802,6 +889,7 @@
     {
       "id": 50432,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50432",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50432",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c432_cutscene",
@@ -816,6 +904,7 @@
     {
       "id": 50352,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50352",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50352",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c352_cutscene",
@@ -830,6 +919,7 @@
     {
       "id": 50100,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50100",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50100",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c100_cutscene",
@@ -844,6 +934,7 @@
     {
       "id": 50121,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50121",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50121",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c121_cutscene",
@@ -858,6 +949,7 @@
     {
       "id": 50203,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50203",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50203",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c203_cutscene",
@@ -872,6 +964,7 @@
     {
       "id": 50260,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50260",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50260",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c260_cutscene",
@@ -886,6 +979,7 @@
     {
       "id": 50111,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50111",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50111",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c111_cutscene",
@@ -900,6 +994,7 @@
     {
       "id": 50112,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50112",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50112",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c112_cutscene",
@@ -914,6 +1009,7 @@
     {
       "id": 50400,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50400",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50400",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c400_cutscene",
@@ -928,6 +1024,7 @@
     {
       "id": 50401,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50401",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50401",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c401_cutscene",
@@ -942,6 +1039,7 @@
     {
       "id": 50402,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50402",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50402",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c402_cutscene",
@@ -956,6 +1054,7 @@
     {
       "id": 50311,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50311",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50311",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c311_cutscene",
@@ -970,6 +1069,7 @@
     {
       "id": 50312,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50312",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50312",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c312_cutscene",
@@ -984,6 +1084,7 @@
     {
       "id": 50800,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50800",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50800",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c800_cutscene",
@@ -998,6 +1099,7 @@
     {
       "id": 50801,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50801",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50801",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c801_cutscene",
@@ -1012,6 +1114,7 @@
     {
       "id": 50802,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50802",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50802",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c802_cutscene",
@@ -1026,6 +1129,7 @@
     {
       "id": 50381,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50381",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50381",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c381_cutscene",
@@ -1040,6 +1144,7 @@
     {
       "id": 50261,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50261",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50261",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c261_cutscene",
@@ -1054,6 +1159,7 @@
     {
       "id": 50282,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50282",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50282",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c282_cutscene",
@@ -1068,6 +1174,7 @@
     {
       "id": 50040,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50040",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50040",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c040_cutscene",
@@ -1082,6 +1189,7 @@
     {
       "id": 50233,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50233",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50233",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c233_cutscene",
@@ -1096,6 +1204,7 @@
     {
       "id": 50392,
       "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
       "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50392",
       "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50392",
       "live_wallpaper_resource_id": "livewallpaper/EventScene_c392_cutscene",
@@ -1106,6 +1215,51 @@
       "is_condition_character": true,
       "condition_resource_id": 392,
       "condition_character_id": 339204
+    },
+    {
+      "id": 50270,
+      "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50270",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50270",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_c270_cutscene",
+      "thumbnail_resource_id": "EventScene_c270_cutscene_mi",
+      "si_resource_id": "EventScene_c270_cutscene_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "is_condition_character": true,
+      "condition_resource_id": 270,
+      "condition_character_id": 327004
+    },
+    {
+      "id": 50271,
+      "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50271",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50271",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_c271_cutscene",
+      "thumbnail_resource_id": "EventScene_c271_cutscene_mi",
+      "si_resource_id": "EventScene_c271_cutscene_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "is_condition_character": true,
+      "condition_resource_id": 271,
+      "condition_character_id": 327104
+    },
+    {
+      "id": 50280,
+      "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50280",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50280",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_c280_cutscene",
+      "thumbnail_resource_id": "EventScene_c280_cutscene_mi",
+      "si_resource_id": "EventScene_c280_cutscene_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "is_condition_character": true,
+      "condition_resource_id": 280,
+      "condition_character_id": 228004
     }
   ]
 }

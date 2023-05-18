@@ -223,6 +223,38 @@
       "ui_prefab": "overzone_part2"
     },
     {
+      "id": 10015,
+      "event_id": 40014,
+      "name": "Locale_System:STORY_DUNGEON_TITLE15",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION15",
+      "prologue_scenario": "event_BunnyX777_prologue",
+      "auto_charge_id": 10014,
+      "event_item_type": "Item",
+      "event_item_id": 7060014,
+      "dungeon_id": 16,
+      "album_category_group": 1014,
+      "mission_group": 15,
+      "contents_shop_id": 9001401,
+      "dice_id": 0,
+      "ui_prefab": "bunny777"
+    },
+    {
+      "id": 10016,
+      "event_id": 40015,
+      "name": "Locale_System:STORY_DUNGEON_TITLE16",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION16",
+      "prologue_scenario": "event_queensorder_prologue",
+      "auto_charge_id": 10015,
+      "event_item_type": "Item",
+      "event_item_id": 7060015,
+      "dungeon_id": 17,
+      "album_category_group": 1015,
+      "mission_group": 16,
+      "contents_shop_id": 9001501,
+      "dice_id": 0,
+      "ui_prefab": "queensorder"
+    },
+    {
       "id": 40001,
       "event_id": 60001,
       "name": "Locale_System:STORY_DUNGEON_TITLE",
@@ -235,8 +267,37 @@
       "mission_group": 0,
       "contents_shop_id": 0,
       "dice_id": 0,
-      "ui_prefab": "overzone",
       "challenge_monster_resource": "full_eba001"
+    },
+    {
+      "id": 40002,
+      "event_id": 60002,
+      "name": "Locale_System:STORY_DUNGEON_TITLE",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION",
+      "auto_charge_id": 40002,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1002,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_mbg002"
+    },
+    {
+      "id": 40003,
+      "event_id": 60003,
+      "name": "Locale_System:STORY_DUNGEON_TITLE",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION",
+      "auto_charge_id": 40003,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1003,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_mbg004"
     }
   ]
 }

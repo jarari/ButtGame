@@ -3294,7 +3294,7 @@
       "id": 25200201,
       "monster_model_id": 252002,
       "damage_hp_ratio": 0,
-      "hp_ratio": 7000,
+      "hp_ratio": 10000,
       "attack_ratio": 10000,
       "defence_ratio": 10000,
       "energy_resist_ratio": 10000,
@@ -6556,6 +6556,33 @@
         "mba002_r_arms_24"
       ],
       "parts_skin": "mba002_phase1_r_armor",
+      "is_main_part": false
+    },
+    {
+      "id": 35100208,
+      "monster_model_id": 351002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7351002,
+      "visible_hp": false,
+      "linked_parts_id": 35100201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Weapon_07",
+      "parts_object": [
+        "dummy_control"
+      ],
       "is_main_part": false
     },
     {

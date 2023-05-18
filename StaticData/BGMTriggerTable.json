@@ -10533,6 +10533,22 @@
       "bgm_loop": "bgm_menu_soloraid"
     },
     {
+      "id": 9600001,
+      "bgm_type": "outgame_bgm",
+      "type_value": "15100",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_bunny777"
+    },
+    {
+      "id": 9600002,
+      "bgm_type": "outgame_bgm",
+      "type_value": "15101",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_bunny777"
+    },
+    {
       "id": 9500001,
       "bgm_type": "outgame_bgm",
       "bgm_sub_type": "gacha",
@@ -10943,6 +10959,22 @@
       "type_value": "41010",
       "default": true,
       "bgm_loop": "bgm_story_thepilgrimacv"
+    },
+    {
+      "id": 9910408,
+      "bgm_type": "story_event_bgm",
+      "type_value": "10015",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_bunny777"
+    },
+    {
+      "id": 9910409,
+      "bgm_type": "story_event_bgm",
+      "type_value": "10016",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_queensorder"
     }
   ]
 }
