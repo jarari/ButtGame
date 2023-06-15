@@ -5376,6 +5376,174 @@
       "enter_scenario_id": "d_ex_elevator_05",
       "stamina_value": 1,
       "reward_id": 3000003
+    },
+    {
+      "id": 2340101,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5071,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5066,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "event_type": "Outpost",
+      "tid": 23401,
+      "resource_id": 5071,
+      "name_localkey": "Locale_SuddenStory:d_ex_outdoorpool_01_title",
+      "enter_scenario_id": "d_ex_outdoorpool_01",
+      "stamina_value": 1,
+      "reward_id": 3000003
+    },
+    {
+      "id": 2340102,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5071,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5064,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5075,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "event_type": "Outpost",
+      "tid": 23401,
+      "resource_id": 5071,
+      "name_localkey": "Locale_SuddenStory:d_ex_outdoorpool_02_title",
+      "enter_scenario_id": "d_ex_outdoorpool_02",
+      "stamina_value": 1,
+      "reward_id": 3000003
+    },
+    {
+      "id": 2340103,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5071,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5064,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5070,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "event_type": "Outpost",
+      "tid": 23401,
+      "resource_id": 5064,
+      "name_localkey": "Locale_SuddenStory:d_ex_outdoorpool_03_title",
+      "enter_scenario_id": "d_ex_outdoorpool_03",
+      "stamina_value": 1,
+      "reward_id": 3000003
+    },
+    {
+      "id": 2340104,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5064,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5027,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5074,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "event_type": "Outpost",
+      "tid": 23401,
+      "resource_id": 5064,
+      "name_localkey": "Locale_SuddenStory:d_ex_outdoorpool_04_title",
+      "enter_scenario_id": "d_ex_outdoorpool_04",
+      "stamina_value": 1,
+      "reward_id": 3000003
     }
   ]
 }

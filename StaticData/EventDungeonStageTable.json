@@ -12427,6 +12427,1266 @@
       "quick_battle_try_max_count": 100
     },
     {
+      "id": 102010101,
+      "group": 1020101,
+      "step": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_1",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 10,
+      "dynamic_object_stage_lv": 8,
+      "spot_autocontrol": true,
+      "standard_battle_power": 2100,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501401,
+      "clear_reward_id": 7112101,
+      "enter_scenario": "event_bluewaterisland1_01_s",
+      "exit_scenario": "event_bluewaterisland1_01_e",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102010102,
+      "group": 1020101,
+      "step": 2,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102010101
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_2",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_2",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 14,
+      "dynamic_object_stage_lv": 14,
+      "spot_autocontrol": true,
+      "standard_battle_power": 3000,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501402,
+      "clear_reward_id": 7112102,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "StageClear",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102010103,
+      "group": 1020101,
+      "step": 3,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102010102
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_3",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_3",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 22,
+      "dynamic_object_stage_lv": 18,
+      "spot_autocontrol": true,
+      "standard_battle_power": 3900,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501403,
+      "clear_reward_id": 7112103,
+      "enter_scenario": "event_bluewaterisland1_02_s",
+      "exit_scenario": "event_bluewaterisland1_02_e",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102010104,
+      "group": 1020101,
+      "step": 4,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102010103
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_4",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_4",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 28,
+      "dynamic_object_stage_lv": 26,
+      "spot_autocontrol": true,
+      "standard_battle_power": 4800,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501404,
+      "clear_reward_id": 7112104,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "StageClear",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102010105,
+      "group": 1020101,
+      "step": 5,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102010104
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_5",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_5",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 34,
+      "dynamic_object_stage_lv": 30,
+      "spot_autocontrol": true,
+      "standard_battle_power": 5500,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501405,
+      "clear_reward_id": 7112105,
+      "enter_scenario": "event_bluewaterisland1_03_s",
+      "exit_scenario": "event_bluewaterisland1_03_e",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102010106,
+      "group": 1020101,
+      "step": 6,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102010105
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_6",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_6",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 40,
+      "dynamic_object_stage_lv": 36,
+      "spot_autocontrol": true,
+      "standard_battle_power": 6200,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501406,
+      "clear_reward_id": 7112106,
+      "enter_scenario": "event_bluewaterisland1_intermission_01",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102010107,
+      "group": 1020101,
+      "step": 7,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102010106
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_7",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_7",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 42,
+      "dynamic_object_stage_lv": 42,
+      "spot_autocontrol": true,
+      "standard_battle_power": 7200,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501407,
+      "clear_reward_id": 7112107,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "StageClear",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102010108,
+      "group": 1020101,
+      "step": 8,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102010107
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_8",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_8",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 47,
+      "dynamic_object_stage_lv": 46,
+      "spot_autocontrol": true,
+      "standard_battle_power": 8800,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501408,
+      "clear_reward_id": 7112108,
+      "enter_scenario": "event_bluewaterisland1_04_s",
+      "exit_scenario": "event_bluewaterisland1_04_e",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102010109,
+      "group": 1020101,
+      "step": 9,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102010108
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_9",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_9",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 53,
+      "dynamic_object_stage_lv": 50,
+      "spot_autocontrol": true,
+      "standard_battle_power": 10100,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501409,
+      "clear_reward_id": 7112109,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "StageClear",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102010110,
+      "group": 1020101,
+      "step": 10,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102010109
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_10",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_10",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 58,
+      "dynamic_object_stage_lv": 54,
+      "spot_autocontrol": true,
+      "standard_battle_power": 11500,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501410,
+      "clear_reward_id": 7112110,
+      "enter_scenario": "event_bluewaterisland1_05_s",
+      "exit_scenario": "event_bluewaterisland1_05_e",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102010111,
+      "group": 1020101,
+      "step": 11,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102010110
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_11",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_11",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 62,
+      "dynamic_object_stage_lv": 56,
+      "spot_autocontrol": true,
+      "standard_battle_power": 12900,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501411,
+      "clear_reward_id": 7112111,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "StageClear",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102010112,
+      "group": 1020101,
+      "step": 12,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102010111
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_12",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_12",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 68,
+      "dynamic_object_stage_lv": 58,
+      "spot_autocontrol": true,
+      "standard_battle_power": 14800,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501412,
+      "clear_reward_id": 7112112,
+      "enter_scenario": "event_bluewaterisland1_06_s",
+      "exit_scenario": "event_bluewaterisland1_06_e",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102110101,
+      "group": 1021101,
+      "step": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_1",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 10,
+      "dynamic_object_stage_lv": 8,
+      "spot_autocontrol": true,
+      "standard_battle_power": 2100,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501413,
+      "clear_reward_id": 7113101,
+      "enter_scenario": "event_bluewaterisland2_01_s",
+      "exit_scenario": "event_bluewaterisland2_01_e",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102110102,
+      "group": 1021101,
+      "step": 2,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102110101
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_2",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_2",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 14,
+      "dynamic_object_stage_lv": 14,
+      "spot_autocontrol": true,
+      "standard_battle_power": 3000,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501414,
+      "clear_reward_id": 7113102,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "StageClear",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102110103,
+      "group": 1021101,
+      "step": 3,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102110102
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_3",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_3",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 22,
+      "dynamic_object_stage_lv": 18,
+      "spot_autocontrol": true,
+      "standard_battle_power": 3900,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501415,
+      "clear_reward_id": 7113103,
+      "enter_scenario": "event_bluewaterisland2_02_s",
+      "exit_scenario": "event_bluewaterisland2_02_e",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102110104,
+      "group": 1021101,
+      "step": 4,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102110103
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_4",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_4",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 28,
+      "dynamic_object_stage_lv": 26,
+      "spot_autocontrol": true,
+      "standard_battle_power": 4800,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501416,
+      "clear_reward_id": 7113104,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "StageClear",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102110105,
+      "group": 1021101,
+      "step": 5,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102110104
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_5",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_5",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 34,
+      "dynamic_object_stage_lv": 30,
+      "spot_autocontrol": true,
+      "standard_battle_power": 5500,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501417,
+      "clear_reward_id": 7113105,
+      "enter_scenario": "event_bluewaterisland2_03_s",
+      "exit_scenario": "event_bluewaterisland2_03_e",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102110106,
+      "group": 1021101,
+      "step": 6,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102110105
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_6",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_6",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 40,
+      "dynamic_object_stage_lv": 36,
+      "spot_autocontrol": true,
+      "standard_battle_power": 6200,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501418,
+      "clear_reward_id": 7113106,
+      "enter_scenario": "event_bluewaterisland2_intermission_01",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102110107,
+      "group": 1021101,
+      "step": 7,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102110106
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_7",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_7",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 42,
+      "dynamic_object_stage_lv": 42,
+      "spot_autocontrol": true,
+      "standard_battle_power": 7200,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501419,
+      "clear_reward_id": 7113107,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "StageClear",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102110108,
+      "group": 1021101,
+      "step": 8,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102110107
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_8",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_8",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 47,
+      "dynamic_object_stage_lv": 46,
+      "spot_autocontrol": true,
+      "standard_battle_power": 8800,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501420,
+      "clear_reward_id": 7113108,
+      "enter_scenario": "event_bluewaterisland2_04_s",
+      "exit_scenario": "event_bluewaterisland2_04_e",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102110109,
+      "group": 1021101,
+      "step": 9,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102110108
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_9",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_9",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 53,
+      "dynamic_object_stage_lv": 50,
+      "spot_autocontrol": true,
+      "standard_battle_power": 10100,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501421,
+      "clear_reward_id": 7113109,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "StageClear",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102110110,
+      "group": 1021101,
+      "step": 10,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102110109
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_10",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_10",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 58,
+      "dynamic_object_stage_lv": 54,
+      "spot_autocontrol": true,
+      "standard_battle_power": 11500,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501422,
+      "clear_reward_id": 7113110,
+      "enter_scenario": "event_bluewaterisland2_05_s",
+      "exit_scenario": "event_bluewaterisland2_05_e",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102110111,
+      "group": 1021101,
+      "step": 11,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102110110
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_11",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_11",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 62,
+      "dynamic_object_stage_lv": 56,
+      "spot_autocontrol": true,
+      "standard_battle_power": 12900,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501423,
+      "clear_reward_id": 7113111,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "StageClear",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102110112,
+      "group": 1021101,
+      "step": 12,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102110111
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_12",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_12",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 68,
+      "dynamic_object_stage_lv": 58,
+      "spot_autocontrol": true,
+      "standard_battle_power": 14800,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501424,
+      "clear_reward_id": 7113112,
+      "enter_scenario": "event_bluewaterisland2_06_s",
+      "exit_scenario": "event_bluewaterisland2_06_e",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102120101,
+      "group": 1021201,
+      "step": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102110112
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_1",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 72,
+      "dynamic_object_stage_lv": 60,
+      "spot_autocontrol": true,
+      "standard_battle_power": 15800,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501425,
+      "clear_reward_id": 7113201,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102120102,
+      "group": 1021201,
+      "step": 2,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102120101
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_2",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_2",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 74,
+      "dynamic_object_stage_lv": 62,
+      "spot_autocontrol": true,
+      "standard_battle_power": 16300,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501426,
+      "clear_reward_id": 7113202,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "StageClear",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102120103,
+      "group": 1021201,
+      "step": 3,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102120102
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_3",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_3",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 76,
+      "dynamic_object_stage_lv": 64,
+      "spot_autocontrol": true,
+      "standard_battle_power": 16700,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501427,
+      "clear_reward_id": 7113203,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102120104,
+      "group": 1021201,
+      "step": 4,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102120103
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_4",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_4",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 78,
+      "dynamic_object_stage_lv": 66,
+      "spot_autocontrol": true,
+      "standard_battle_power": 17200,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501428,
+      "clear_reward_id": 7113204,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "StageClear",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102120105,
+      "group": 1021201,
+      "step": 5,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102120104
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_5",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_5",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 80,
+      "dynamic_object_stage_lv": 70,
+      "spot_autocontrol": true,
+      "standard_battle_power": 17600,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501429,
+      "clear_reward_id": 7113205,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102120106,
+      "group": 1021201,
+      "step": 6,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102120105
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_6",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_6",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 82,
+      "dynamic_object_stage_lv": 74,
+      "spot_autocontrol": true,
+      "standard_battle_power": 18300,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501430,
+      "clear_reward_id": 7113206,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102120107,
+      "group": 1021201,
+      "step": 7,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102120106
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_7",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_7",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 84,
+      "dynamic_object_stage_lv": 78,
+      "spot_autocontrol": true,
+      "standard_battle_power": 20200,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501431,
+      "clear_reward_id": 7113207,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "StageClear",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102120108,
+      "group": 1021201,
+      "step": 8,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102120107
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_8",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_8",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 88,
+      "dynamic_object_stage_lv": 80,
+      "spot_autocontrol": true,
+      "standard_battle_power": 21500,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501432,
+      "clear_reward_id": 7113208,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102120109,
+      "group": 1021201,
+      "step": 9,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102120108
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_9",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_9",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 92,
+      "dynamic_object_stage_lv": 82,
+      "spot_autocontrol": true,
+      "standard_battle_power": 23400,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501433,
+      "clear_reward_id": 7113209,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "StageClear",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102120110,
+      "group": 1021201,
+      "step": 10,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102120109
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_10",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_10",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 96,
+      "dynamic_object_stage_lv": 86,
+      "spot_autocontrol": true,
+      "standard_battle_power": 25400,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501434,
+      "clear_reward_id": 7113210,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102120111,
+      "group": 1021201,
+      "step": 11,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102120110
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_11",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_11",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 102,
+      "dynamic_object_stage_lv": 90,
+      "spot_autocontrol": true,
+      "standard_battle_power": 27900,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501435,
+      "clear_reward_id": 7113211,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "StageClear",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 102120112,
+      "group": 1021201,
+      "step": 12,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 102120111
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:STORY_EVENT_DUNGEON_SHORT_NAME_EN1_12",
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_NAME_EN1_12",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7070020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": false,
+      "monster_stage_lv": 108,
+      "dynamic_object_stage_lv": 94,
+      "spot_autocontrol": true,
+      "standard_battle_power": 32900,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501436,
+      "clear_reward_id": 7113212,
+      "enter_scenario": "0",
+      "exit_scenario": "event_bluewaterisland2_epilogue",
+      "fixed_play_character_id": 0,
+      "character_lv": 0,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
       "id": 200210101,
       "group": 2002101,
       "step": 1,
@@ -13399,6 +14659,741 @@
       "is_use_quick_battle": false,
       "spot_id": 6501338,
       "clear_reward_id": 3500114,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 160,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010101,
+      "group": 2020101,
+      "step": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_1",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 28,
+      "dynamic_object_stage_lv": 25,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501437,
+      "clear_reward_id": 3500001,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 35,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010102,
+      "group": 2020101,
+      "step": 2,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010101
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 1
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_2",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 50,
+      "dynamic_object_stage_lv": 39,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501438,
+      "clear_reward_id": 3500002,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 55,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010103,
+      "group": 2020101,
+      "step": 3,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010102
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 2
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_3",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 71,
+      "dynamic_object_stage_lv": 70,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501439,
+      "clear_reward_id": 3500003,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 75,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010104,
+      "group": 2020101,
+      "step": 4,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010103
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 3
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_4",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 90,
+      "dynamic_object_stage_lv": 80,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501440,
+      "clear_reward_id": 3500004,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 90,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010105,
+      "group": 2020101,
+      "step": 5,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010104
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 4
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_5",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 104,
+      "dynamic_object_stage_lv": 90,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501441,
+      "clear_reward_id": 3500005,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 105,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010106,
+      "group": 2020101,
+      "step": 6,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010105
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 5
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_6",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 122,
+      "dynamic_object_stage_lv": 95,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501442,
+      "clear_reward_id": 3500006,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 120,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010107,
+      "group": 2020101,
+      "step": 7,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010106
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 6
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_7",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 134,
+      "dynamic_object_stage_lv": 100,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501443,
+      "clear_reward_id": 3500007,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 130,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010108,
+      "group": 2020101,
+      "step": 8,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010107
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 7
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_8",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 140,
+      "dynamic_object_stage_lv": 105,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501444,
+      "clear_reward_id": 3500008,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 135,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010109,
+      "group": 2020101,
+      "step": 9,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010108
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 8
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_9",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 144,
+      "dynamic_object_stage_lv": 110,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501445,
+      "clear_reward_id": 3500009,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 140,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010110,
+      "group": 2020101,
+      "step": 10,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010109
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 9
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_10",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 152,
+      "dynamic_object_stage_lv": 115,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501446,
+      "clear_reward_id": 3500010,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 145,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010111,
+      "group": 2020101,
+      "step": 11,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010110
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 10
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_11",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 159,
+      "dynamic_object_stage_lv": 120,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501447,
+      "clear_reward_id": 3500011,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 150,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010112,
+      "group": 2020101,
+      "step": 12,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010111
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 11
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_12",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 167,
+      "dynamic_object_stage_lv": 130,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501448,
+      "clear_reward_id": 3500012,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 155,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010113,
+      "group": 2020101,
+      "step": 13,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010112
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 12
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_13",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 178,
+      "dynamic_object_stage_lv": 135,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501449,
+      "clear_reward_id": 3500013,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 160,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010114,
+      "group": 2020101,
+      "step": 14,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010113
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 13
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_14",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 188,
+      "dynamic_object_stage_lv": 140,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501450,
+      "clear_reward_id": 3500014,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 160,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010115,
+      "group": 2020101,
+      "step": 15,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010114
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 14
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_15",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 192,
+      "dynamic_object_stage_lv": 145,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501451,
+      "clear_reward_id": 3500015,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 160,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010116,
+      "group": 2020101,
+      "step": 16,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010115
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 15
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_16",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 198,
+      "dynamic_object_stage_lv": 155,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501452,
+      "clear_reward_id": 3500016,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 160,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010117,
+      "group": 2020101,
+      "step": 17,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010116
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 16
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_17",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 202,
+      "dynamic_object_stage_lv": 160,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501453,
+      "clear_reward_id": 3500017,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 160,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010118,
+      "group": 2020101,
+      "step": 18,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010117
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 17
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_18",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 203,
+      "dynamic_object_stage_lv": 165,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501454,
+      "clear_reward_id": 3500018,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 160,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010119,
+      "group": 2020101,
+      "step": 19,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010118
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 18
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_19",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 207,
+      "dynamic_object_stage_lv": 170,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501455,
+      "clear_reward_id": 3500019,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 160,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010120,
+      "group": 2020101,
+      "step": 20,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010119
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 19
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_20",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 216,
+      "dynamic_object_stage_lv": 175,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501456,
+      "clear_reward_id": 3500020,
+      "enter_scenario": "0",
+      "exit_scenario": "0",
+      "fixed_play_character_id": 0,
+      "character_lv": 160,
+      "quick_battle_type": "None",
+      "quick_battle_try_max_count": 100
+    },
+    {
+      "id": 202010121,
+      "group": 2020101,
+      "step": 21,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventDungeonStageClear",
+          "open_condition_value": 202010120
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 20
+        }
+      ],
+      "short_name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_SHORT_NAME_EN1_21",
+      "name": "Locale_Stage:CHALLENGE_STAGE_DUNGEON_NAME_EN1_1",
+      "ticket_item_type": "Item",
+      "ticket_item_id": 7110020,
+      "ticket_item_count": 1,
+      "is_repeat_clear": true,
+      "monster_stage_lv": 223,
+      "dynamic_object_stage_lv": 180,
+      "spot_autocontrol": true,
+      "standard_battle_power": 0,
+      "stage_stat_increase_group_id": 40000,
+      "is_use_quick_battle": false,
+      "spot_id": 6501457,
+      "clear_reward_id": 3500021,
       "enter_scenario": "0",
       "exit_scenario": "0",
       "fixed_play_character_id": 0,

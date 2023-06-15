@@ -82530,6 +82530,976 @@
       "resource_name": "c271_ulti",
       "icon": "icn_skill_c271_ult",
       "shake_id": 1
+    },
+    {
+      "id": 1014301,
+      "skill_cooltime": 4000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 650
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 90
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1001402
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 700,
+      "before_use_function_id_list": [
+        101430103
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        101430101
+      ],
+      "resource_name": "c014_ulti",
+      "icon": "icn_skill_c014_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1014302,
+      "skill_cooltime": 4000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 700
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 90
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1001402
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 700,
+      "before_use_function_id_list": [
+        101430103
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        101430201
+      ],
+      "resource_name": "c014_ulti",
+      "icon": "icn_skill_c014_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1014303,
+      "skill_cooltime": 4000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 750
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 90
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1001402
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 700,
+      "before_use_function_id_list": [
+        101430103
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        101430301
+      ],
+      "resource_name": "c014_ulti",
+      "icon": "icn_skill_c014_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1014304,
+      "skill_cooltime": 4000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 800
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 90
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1001402
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 700,
+      "before_use_function_id_list": [
+        101430103
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        101430401
+      ],
+      "resource_name": "c014_ulti",
+      "icon": "icn_skill_c014_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1014305,
+      "skill_cooltime": 4000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 850
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 90
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1001402
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 700,
+      "before_use_function_id_list": [
+        101430103
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        101430501
+      ],
+      "resource_name": "c014_ulti",
+      "icon": "icn_skill_c014_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1014306,
+      "skill_cooltime": 4000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 900
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 90
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1001402
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 700,
+      "before_use_function_id_list": [
+        101430103
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        101430601
+      ],
+      "resource_name": "c014_ulti",
+      "icon": "icn_skill_c014_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1014307,
+      "skill_cooltime": 4000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 950
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 90
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1001402
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 700,
+      "before_use_function_id_list": [
+        101430103
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        101430701
+      ],
+      "resource_name": "c014_ulti",
+      "icon": "icn_skill_c014_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1014308,
+      "skill_cooltime": 4000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 1000
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 90
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1001402
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 700,
+      "before_use_function_id_list": [
+        101430103
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        101430801
+      ],
+      "resource_name": "c014_ulti",
+      "icon": "icn_skill_c014_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1014309,
+      "skill_cooltime": 4000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 1050
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 90
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1001402
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 700,
+      "before_use_function_id_list": [
+        101430103
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        101430901
+      ],
+      "resource_name": "c014_ulti",
+      "icon": "icn_skill_c014_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1014310,
+      "skill_cooltime": 4000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 1100
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 90
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1001402
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 700,
+      "before_use_function_id_list": [
+        101430103
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        101431001
+      ],
+      "resource_name": "c014_ulti",
+      "icon": "icn_skill_c014_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1132301,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "LowHP",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 5
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        113230101,
+        113230102
+      ],
+      "resource_name": "c132_ulti",
+      "icon": "icn_skill_c132_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1132302,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "LowHP",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 5
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        113230201,
+        113230202
+      ],
+      "resource_name": "c132_ulti",
+      "icon": "icn_skill_c132_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1132303,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "LowHP",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 5
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        113230301,
+        113230302
+      ],
+      "resource_name": "c132_ulti",
+      "icon": "icn_skill_c132_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1132304,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "LowHP",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 5
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        113230401,
+        113230402
+      ],
+      "resource_name": "c132_ulti",
+      "icon": "icn_skill_c132_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1132305,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "LowHP",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 5
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        113230501,
+        113230502
+      ],
+      "resource_name": "c132_ulti",
+      "icon": "icn_skill_c132_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1132306,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "LowHP",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 5
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        113230601,
+        113230602
+      ],
+      "resource_name": "c132_ulti",
+      "icon": "icn_skill_c132_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1132307,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "LowHP",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 5
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        113230701,
+        113230702
+      ],
+      "resource_name": "c132_ulti",
+      "icon": "icn_skill_c132_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1132308,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "LowHP",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 5
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        113230801,
+        113230802
+      ],
+      "resource_name": "c132_ulti",
+      "icon": "icn_skill_c132_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1132309,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "LowHP",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 5
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        113230901,
+        113230902
+      ],
+      "resource_name": "c132_ulti",
+      "icon": "icn_skill_c132_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1132310,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "LowHP",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 5
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        113231001,
+        113231002
+      ],
+      "resource_name": "c132_ulti",
+      "icon": "icn_skill_c132_ult",
+      "shake_id": 1
     }
   ]
 }

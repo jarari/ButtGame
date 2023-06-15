@@ -249,9 +249,9 @@
       "description": "Locale_System:SARENA_RANK_TIER_DESC",
       "tier_number": 1,
       "resource_id": 103,
-      "grant_type": "RankPercent",
-      "grant_value_min": 0,
-      "grant_value_max": 300
+      "grant_type": "Rank",
+      "grant_value_min": 101,
+      "grant_value_max": 110
     },
     {
       "id": 103002,
@@ -261,9 +261,9 @@
       "description": "Locale_System:SARENA_RANK_TIER_DESC",
       "tier_number": 2,
       "resource_id": 103,
-      "grant_type": "RankPercent",
-      "grant_value_min": 300,
-      "grant_value_max": 400
+      "grant_type": "Rank",
+      "grant_value_min": 111,
+      "grant_value_max": 120
     },
     {
       "id": 103003,
@@ -273,93 +273,9 @@
       "description": "Locale_System:SARENA_RANK_TIER_DESC",
       "tier_number": 3,
       "resource_id": 103,
-      "grant_type": "RankPercent",
-      "grant_value_min": 400,
-      "grant_value_max": 500
-    },
-    {
-      "id": 103004,
-      "arena_type": "ArenaSpecial",
-      "priority": 114,
-      "name": "Locale_System:SARENA_RANK_PLATINUM_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 4,
-      "resource_id": 103,
-      "grant_type": "RankPercent",
-      "grant_value_min": 500,
-      "grant_value_max": 600
-    },
-    {
-      "id": 103005,
-      "arena_type": "ArenaSpecial",
-      "priority": 115,
-      "name": "Locale_System:SARENA_RANK_PLATINUM_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 5,
-      "resource_id": 103,
-      "grant_type": "RankPercent",
-      "grant_value_min": 600,
-      "grant_value_max": 700
-    },
-    {
-      "id": 103006,
-      "arena_type": "ArenaSpecial",
-      "priority": 116,
-      "name": "Locale_System:SARENA_RANK_PLATINUM_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 6,
-      "resource_id": 103,
-      "grant_type": "RankPercent",
-      "grant_value_min": 700,
-      "grant_value_max": 800
-    },
-    {
-      "id": 103007,
-      "arena_type": "ArenaSpecial",
-      "priority": 117,
-      "name": "Locale_System:SARENA_RANK_PLATINUM_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 7,
-      "resource_id": 103,
-      "grant_type": "RankPercent",
-      "grant_value_min": 800,
-      "grant_value_max": 900
-    },
-    {
-      "id": 103008,
-      "arena_type": "ArenaSpecial",
-      "priority": 118,
-      "name": "Locale_System:SARENA_RANK_PLATINUM_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 8,
-      "resource_id": 103,
-      "grant_type": "RankPercent",
-      "grant_value_min": 900,
-      "grant_value_max": 1000
-    },
-    {
-      "id": 103009,
-      "arena_type": "ArenaSpecial",
-      "priority": 119,
-      "name": "Locale_System:SARENA_RANK_PLATINUM_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 9,
-      "resource_id": 103,
-      "grant_type": "RankPercent",
-      "grant_value_min": 1000,
-      "grant_value_max": 1100
-    },
-    {
-      "id": 103010,
-      "arena_type": "ArenaSpecial",
-      "priority": 120,
-      "name": "Locale_System:SARENA_RANK_PLATINUM_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 10,
-      "resource_id": 103,
-      "grant_type": "RankPercent",
-      "grant_value_min": 1100,
-      "grant_value_max": 1200
+      "grant_type": "Rank",
+      "grant_value_min": 121,
+      "grant_value_max": 130
     },
     {
       "id": 104001,
@@ -369,9 +285,9 @@
       "description": "Locale_System:SARENA_RANK_TIER_DESC",
       "tier_number": 1,
       "resource_id": 102,
-      "grant_type": "RankPercent",
-      "grant_value_min": 1200,
-      "grant_value_max": 1450
+      "grant_type": "Rank",
+      "grant_value_min": 131,
+      "grant_value_max": 140
     },
     {
       "id": 104002,
@@ -381,9 +297,9 @@
       "description": "Locale_System:SARENA_RANK_TIER_DESC",
       "tier_number": 2,
       "resource_id": 102,
-      "grant_type": "RankPercent",
-      "grant_value_min": 1450,
-      "grant_value_max": 1700
+      "grant_type": "Rank",
+      "grant_value_min": 141,
+      "grant_value_max": 150
     },
     {
       "id": 104003,
@@ -393,93 +309,9 @@
       "description": "Locale_System:SARENA_RANK_TIER_DESC",
       "tier_number": 3,
       "resource_id": 102,
-      "grant_type": "RankPercent",
-      "grant_value_min": 1700,
-      "grant_value_max": 1950
-    },
-    {
-      "id": 104004,
-      "arena_type": "ArenaSpecial",
-      "priority": 124,
-      "name": "Locale_System:SARENA_RANK_GOLD_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 4,
-      "resource_id": 102,
-      "grant_type": "RankPercent",
-      "grant_value_min": 1950,
-      "grant_value_max": 2200
-    },
-    {
-      "id": 104005,
-      "arena_type": "ArenaSpecial",
-      "priority": 125,
-      "name": "Locale_System:SARENA_RANK_GOLD_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 5,
-      "resource_id": 102,
-      "grant_type": "RankPercent",
-      "grant_value_min": 2200,
-      "grant_value_max": 2450
-    },
-    {
-      "id": 104006,
-      "arena_type": "ArenaSpecial",
-      "priority": 126,
-      "name": "Locale_System:SARENA_RANK_GOLD_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 6,
-      "resource_id": 102,
-      "grant_type": "RankPercent",
-      "grant_value_min": 2450,
-      "grant_value_max": 2700
-    },
-    {
-      "id": 104007,
-      "arena_type": "ArenaSpecial",
-      "priority": 127,
-      "name": "Locale_System:SARENA_RANK_GOLD_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 7,
-      "resource_id": 102,
-      "grant_type": "RankPercent",
-      "grant_value_min": 2700,
-      "grant_value_max": 2950
-    },
-    {
-      "id": 104008,
-      "arena_type": "ArenaSpecial",
-      "priority": 128,
-      "name": "Locale_System:SARENA_RANK_GOLD_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 8,
-      "resource_id": 102,
-      "grant_type": "RankPercent",
-      "grant_value_min": 2950,
-      "grant_value_max": 3200
-    },
-    {
-      "id": 104009,
-      "arena_type": "ArenaSpecial",
-      "priority": 129,
-      "name": "Locale_System:SARENA_RANK_GOLD_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 9,
-      "resource_id": 102,
-      "grant_type": "RankPercent",
-      "grant_value_min": 3200,
-      "grant_value_max": 3450
-    },
-    {
-      "id": 104010,
-      "arena_type": "ArenaSpecial",
-      "priority": 130,
-      "name": "Locale_System:SARENA_RANK_GOLD_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 10,
-      "resource_id": 102,
-      "grant_type": "RankPercent",
-      "grant_value_min": 3450,
-      "grant_value_max": 3700
+      "grant_type": "Rank",
+      "grant_value_min": 151,
+      "grant_value_max": 160
     },
     {
       "id": 105001,
@@ -489,9 +321,9 @@
       "description": "Locale_System:SARENA_RANK_TIER_DESC",
       "tier_number": 1,
       "resource_id": 101,
-      "grant_type": "RankPercent",
-      "grant_value_min": 3700,
-      "grant_value_max": 4000
+      "grant_type": "Rank",
+      "grant_value_min": 161,
+      "grant_value_max": 170
     },
     {
       "id": 105002,
@@ -501,9 +333,9 @@
       "description": "Locale_System:SARENA_RANK_TIER_DESC",
       "tier_number": 2,
       "resource_id": 101,
-      "grant_type": "RankPercent",
-      "grant_value_min": 4000,
-      "grant_value_max": 4300
+      "grant_type": "Rank",
+      "grant_value_min": 171,
+      "grant_value_max": 180
     },
     {
       "id": 105003,
@@ -513,93 +345,9 @@
       "description": "Locale_System:SARENA_RANK_TIER_DESC",
       "tier_number": 3,
       "resource_id": 101,
-      "grant_type": "RankPercent",
-      "grant_value_min": 4300,
-      "grant_value_max": 4600
-    },
-    {
-      "id": 105004,
-      "arena_type": "ArenaSpecial",
-      "priority": 134,
-      "name": "Locale_System:SARENA_RANK_SILVER_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 4,
-      "resource_id": 101,
-      "grant_type": "RankPercent",
-      "grant_value_min": 4600,
-      "grant_value_max": 4900
-    },
-    {
-      "id": 105005,
-      "arena_type": "ArenaSpecial",
-      "priority": 135,
-      "name": "Locale_System:SARENA_RANK_SILVER_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 5,
-      "resource_id": 101,
-      "grant_type": "RankPercent",
-      "grant_value_min": 4900,
-      "grant_value_max": 5200
-    },
-    {
-      "id": 105006,
-      "arena_type": "ArenaSpecial",
-      "priority": 136,
-      "name": "Locale_System:SARENA_RANK_SILVER_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 6,
-      "resource_id": 101,
-      "grant_type": "RankPercent",
-      "grant_value_min": 5200,
-      "grant_value_max": 5500
-    },
-    {
-      "id": 105007,
-      "arena_type": "ArenaSpecial",
-      "priority": 137,
-      "name": "Locale_System:SARENA_RANK_SILVER_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 7,
-      "resource_id": 101,
-      "grant_type": "RankPercent",
-      "grant_value_min": 5500,
-      "grant_value_max": 5800
-    },
-    {
-      "id": 105008,
-      "arena_type": "ArenaSpecial",
-      "priority": 138,
-      "name": "Locale_System:SARENA_RANK_SILVER_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 8,
-      "resource_id": 101,
-      "grant_type": "RankPercent",
-      "grant_value_min": 5800,
-      "grant_value_max": 6100
-    },
-    {
-      "id": 105009,
-      "arena_type": "ArenaSpecial",
-      "priority": 139,
-      "name": "Locale_System:SARENA_RANK_SILVER_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 9,
-      "resource_id": 101,
-      "grant_type": "RankPercent",
-      "grant_value_min": 6100,
-      "grant_value_max": 6400
-    },
-    {
-      "id": 105010,
-      "arena_type": "ArenaSpecial",
-      "priority": 140,
-      "name": "Locale_System:SARENA_RANK_SILVER_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 10,
-      "resource_id": 101,
-      "grant_type": "RankPercent",
-      "grant_value_min": 6400,
-      "grant_value_max": 6700
+      "grant_type": "Rank",
+      "grant_value_min": 181,
+      "grant_value_max": 190
     },
     {
       "id": 106001,
@@ -609,9 +357,9 @@
       "description": "Locale_System:SARENA_RANK_TIER_DESC",
       "tier_number": 1,
       "resource_id": 100,
-      "grant_type": "RankPercent",
-      "grant_value_min": 6700,
-      "grant_value_max": 7030
+      "grant_type": "Rank",
+      "grant_value_min": 191,
+      "grant_value_max": 200
     },
     {
       "id": 106002,
@@ -621,105 +369,9 @@
       "description": "Locale_System:SARENA_RANK_TIER_DESC",
       "tier_number": 2,
       "resource_id": 100,
-      "grant_type": "RankPercent",
-      "grant_value_min": 7030,
-      "grant_value_max": 7360
-    },
-    {
-      "id": 106003,
-      "arena_type": "ArenaSpecial",
-      "priority": 143,
-      "name": "Locale_System:SARENA_RANK_BRONZE_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 3,
-      "resource_id": 100,
-      "grant_type": "RankPercent",
-      "grant_value_min": 7360,
-      "grant_value_max": 7690
-    },
-    {
-      "id": 106004,
-      "arena_type": "ArenaSpecial",
-      "priority": 144,
-      "name": "Locale_System:SARENA_RANK_BRONZE_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 4,
-      "resource_id": 100,
-      "grant_type": "RankPercent",
-      "grant_value_min": 7690,
-      "grant_value_max": 8020
-    },
-    {
-      "id": 106005,
-      "arena_type": "ArenaSpecial",
-      "priority": 145,
-      "name": "Locale_System:SARENA_RANK_BRONZE_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 5,
-      "resource_id": 100,
-      "grant_type": "RankPercent",
-      "grant_value_min": 8020,
-      "grant_value_max": 8350
-    },
-    {
-      "id": 106006,
-      "arena_type": "ArenaSpecial",
-      "priority": 146,
-      "name": "Locale_System:SARENA_RANK_BRONZE_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 6,
-      "resource_id": 100,
-      "grant_type": "RankPercent",
-      "grant_value_min": 8350,
-      "grant_value_max": 8680
-    },
-    {
-      "id": 106007,
-      "arena_type": "ArenaSpecial",
-      "priority": 147,
-      "name": "Locale_System:SARENA_RANK_BRONZE_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 7,
-      "resource_id": 100,
-      "grant_type": "RankPercent",
-      "grant_value_min": 8680,
-      "grant_value_max": 9010
-    },
-    {
-      "id": 106008,
-      "arena_type": "ArenaSpecial",
-      "priority": 148,
-      "name": "Locale_System:SARENA_RANK_BRONZE_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 8,
-      "resource_id": 100,
-      "grant_type": "RankPercent",
-      "grant_value_min": 9010,
-      "grant_value_max": 9340
-    },
-    {
-      "id": 106009,
-      "arena_type": "ArenaSpecial",
-      "priority": 149,
-      "name": "Locale_System:SARENA_RANK_BRONZE_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 9,
-      "resource_id": 100,
-      "grant_type": "RankPercent",
-      "grant_value_min": 9340,
-      "grant_value_max": 9670
-    },
-    {
-      "id": 106010,
-      "arena_type": "ArenaSpecial",
-      "priority": 150,
-      "name": "Locale_System:SARENA_RANK_BRONZE_NAME",
-      "description": "Locale_System:SARENA_RANK_TIER_DESC",
-      "tier_number": 10,
-      "resource_id": 100,
-      "grant_type": "RankPercent",
-      "grant_value_min": 9670,
-      "grant_value_max": 10000
+      "grant_type": "Rank",
+      "grant_value_min": 200,
+      "grant_value_max": 0
     },
     {
       "id": 999999,

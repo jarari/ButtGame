@@ -30,10 +30,6 @@
       "value": "0"
     },
     {
-      "id": "DailyResetHour",
-      "value": "20"
-    },
-    {
       "id": "WeeklyResetDay",
       "value": "1"
     },
@@ -278,66 +274,6 @@
       "value": "1"
     },
     {
-      "id": "DefaultArenaRating",
-      "value": "1000"
-    },
-    {
-      "id": "ArenaHardEnemyRating",
-      "value": "200"
-    },
-    {
-      "id": "ArenaNormalEnemyRating",
-      "value": "100"
-    },
-    {
-      "id": "ArenaEasyEnemyRating",
-      "value": "100"
-    },
-    {
-      "id": "ArenaNearEnemyFindRating",
-      "value": "200"
-    },
-    {
-      "id": "ArenaNearEnemyFindRatingExtension",
-      "value": "100"
-    },
-    {
-      "id": "ArenaNearEnemyFindRatingExtensionCountMax",
-      "value": "3"
-    },
-    {
-      "id": "ArenaHardEnemyCount",
-      "value": "1"
-    },
-    {
-      "id": "ArenaNormalEnemyCount",
-      "value": "1"
-    },
-    {
-      "id": "ArenaEasyEnemyCount",
-      "value": "1"
-    },
-    {
-      "id": "ArenaMinRating",
-      "value": "800"
-    },
-    {
-      "id": "ArenaMaxRating",
-      "value": "4000"
-    },
-    {
-      "id": "ArenaKFactor",
-      "value": "30"
-    },
-    {
-      "id": "ArenaWinRating",
-      "value": "1"
-    },
-    {
-      "id": "ArenaLoseRating",
-      "value": "0"
-    },
-    {
       "id": "ArenaStageStatIncreaseGroupId",
       "value": "50000"
     },
@@ -534,14 +470,6 @@
       "value": "5"
     },
     {
-      "id": "ArenaSeasonStartingDate",
-      "value": "2022-06-29"
-    },
-    {
-      "id": "ArenaSeasonPeriod",
-      "value": "14"
-    },
-    {
       "id": "MaxAllOutpostEvent",
       "value": "5"
     },
@@ -556,18 +484,6 @@
     {
       "id": "MaxQueuingMessenger",
       "value": "2"
-    },
-    {
-      "id": "ArenaMailSender",
-      "value": "1"
-    },
-    {
-      "id": "ArenaSeasonRewardPeriod",
-      "value": "7"
-    },
-    {
-      "id": "ArenaDailyRewardPeriod",
-      "value": "7"
     },
     {
       "id": "SynchroDeviceSlotUnlockCurrencyType",
@@ -656,10 +572,6 @@
     {
       "id": "ArenaSpecialAbusingCoolTimeIncreaseCountMax",
       "value": "3"
-    },
-    {
-      "id": "ArenaSpecialSeasonStartingDate",
-      "value": "2021-01-11"
     },
     {
       "id": "IsConditionOverride",
@@ -1016,6 +928,18 @@
     {
       "id": "EventFieldTimeLineActionOutroFadeInOutStartTime",
       "value": "1"
+    },
+    {
+      "id": "MaxDailyMessageCountPerDay",
+      "value": "2"
+    },
+    {
+      "id": "MaxDailyAndRandomMessageCountPerDay",
+      "value": "3"
+    },
+    {
+      "id": "TierTableChangeDate",
+      "value": "2023-06-21T20:00:00"
     }
   ]
 }

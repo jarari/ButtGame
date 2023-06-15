@@ -730,11 +730,143 @@
     {
       "id": 2003,
       "reaction_target_id": 20,
-      "reaction_type": "Touch",
+      "reaction_type": "Stay",
       "speecher_type": "Character",
       "speecher_resource_id": 270,
       "locale_file": "Locale_SubScenario",
       "speech_localkey": "Locale_SubScenario:event_BunnyX777_06_e_64",
+      "reaction_voice": "0",
+      "order": 1
+    },
+    {
+      "id": 2101,
+      "reaction_target_id": 21,
+      "reaction_type": "Touch",
+      "speecher_type": "Character",
+      "speecher_resource_id": 280,
+      "locale_file": "Locale_SubScenario",
+      "speech_localkey": "Locale_SubScenario:event_queensorder_06_s_86",
+      "reaction_voice": "0",
+      "order": 1
+    },
+    {
+      "id": 2102,
+      "reaction_target_id": 21,
+      "reaction_type": "Touch",
+      "speecher_type": "Character",
+      "speecher_resource_id": 280,
+      "locale_file": "Locale_SubScenario",
+      "speech_localkey": "Locale_SubScenario:event_queensorder_06_s_87",
+      "reaction_voice": "0",
+      "order": 2
+    },
+    {
+      "id": 2103,
+      "reaction_target_id": 21,
+      "reaction_type": "Touch",
+      "speecher_type": "Character",
+      "speecher_resource_id": 280,
+      "locale_file": "Locale_SubScenario",
+      "speech_localkey": "Locale_SubScenario:event_queensorder_06_s_88",
+      "reaction_voice": "0",
+      "order": 3
+    },
+    {
+      "id": 2104,
+      "reaction_target_id": 21,
+      "reaction_type": "Touch",
+      "speecher_type": "Character",
+      "speecher_resource_id": 280,
+      "locale_file": "Locale_SubScenario",
+      "speech_localkey": "Locale_SubScenario:event_queensorder_06_s_89",
+      "reaction_voice": "0",
+      "order": 4
+    },
+    {
+      "id": 2105,
+      "reaction_target_id": 21,
+      "reaction_type": "Touch",
+      "speecher_type": "Character",
+      "speecher_resource_id": 280,
+      "locale_file": "Locale_SubScenario",
+      "speech_localkey": "Locale_SubScenario:event_queensorder_06_s_91",
+      "reaction_voice": "0",
+      "order": 5
+    },
+    {
+      "id": 2106,
+      "reaction_target_id": 21,
+      "reaction_type": "Touch",
+      "speecher_type": "Character",
+      "speecher_resource_id": 280,
+      "locale_file": "Locale_SubScenario",
+      "speech_localkey": "Locale_SubScenario:event_queensorder_06_s_92",
+      "reaction_voice": "0",
+      "order": 6
+    },
+    {
+      "id": 2107,
+      "reaction_target_id": 21,
+      "reaction_type": "Stay",
+      "speecher_type": "Character",
+      "speecher_resource_id": 280,
+      "locale_file": "Locale_SubScenario",
+      "speech_localkey": "Locale_SubScenario:event_queensorder_06_s_92",
+      "reaction_voice": "0",
+      "order": 1
+    },
+    {
+      "id": 2201,
+      "reaction_target_id": 22,
+      "reaction_type": "Touch",
+      "speecher_type": "Character",
+      "speecher_resource_id": 132,
+      "locale_file": "Locale_SubScenario",
+      "speech_localkey": "Locale_SubScenario:event_bluewaterisland2_05_e_6",
+      "reaction_voice": "0",
+      "order": 1
+    },
+    {
+      "id": 2202,
+      "reaction_target_id": 22,
+      "reaction_type": "Touch",
+      "speecher_type": "Character",
+      "speecher_resource_id": 132,
+      "locale_file": "Locale_SubScenario",
+      "speech_localkey": "Locale_SubScenario:event_bluewaterisland2_05_e_7",
+      "reaction_voice": "0",
+      "order": 2
+    },
+    {
+      "id": 2203,
+      "reaction_target_id": 22,
+      "reaction_type": "Touch",
+      "speecher_type": "Character",
+      "speecher_resource_id": 132,
+      "locale_file": "Locale_SubScenario",
+      "speech_localkey": "Locale_SubScenario:event_bluewaterisland2_05_e_8",
+      "reaction_voice": "0",
+      "order": 3
+    },
+    {
+      "id": 2204,
+      "reaction_target_id": 22,
+      "reaction_type": "Touch",
+      "speecher_type": "Character",
+      "speecher_resource_id": 14,
+      "locale_file": "Locale_SubScenario",
+      "speech_localkey": "Locale_SubScenario:event_bluewaterisland2_05_e_140",
+      "reaction_voice": "0",
+      "order": 4
+    },
+    {
+      "id": 2205,
+      "reaction_target_id": 22,
+      "reaction_type": "Stay",
+      "speecher_type": "Character",
+      "speecher_resource_id": 132,
+      "locale_file": "Locale_SubScenario",
+      "speech_localkey": "Locale_SubScenario:event_bluewaterisland2_05_e_6",
       "reaction_voice": "0",
       "order": 1
     },
@@ -2320,6 +2452,50 @@
       "locale_file": "Locale_LiveWallpaper",
       "speech_localkey": "Locale_LiveWallpaper:live_wallpaper_desc_50280",
       "reaction_voice": "c280_Ult_Skill_1",
+      "order": 1
+    },
+    {
+      "id": 5008200,
+      "reaction_target_id": 50132,
+      "reaction_type": "Touch",
+      "speecher_type": "Character",
+      "speecher_resource_id": 132,
+      "locale_file": "Locale_LiveWallpaper",
+      "speech_localkey": "Locale_LiveWallpaper:live_wallpaper_desc_50132",
+      "reaction_voice": "c132_Ult_Skill_1",
+      "order": 1
+    },
+    {
+      "id": 5008201,
+      "reaction_target_id": 50132,
+      "reaction_type": "Stay",
+      "speecher_type": "Character",
+      "speecher_resource_id": 132,
+      "locale_file": "Locale_LiveWallpaper",
+      "speech_localkey": "Locale_LiveWallpaper:live_wallpaper_desc_50132",
+      "reaction_voice": "c132_Ult_Skill_1",
+      "order": 1
+    },
+    {
+      "id": 5008300,
+      "reaction_target_id": 50014,
+      "reaction_type": "Touch",
+      "speecher_type": "Character",
+      "speecher_resource_id": 14,
+      "locale_file": "Locale_LiveWallpaper",
+      "speech_localkey": "Locale_LiveWallpaper:live_wallpaper_desc_50014",
+      "reaction_voice": "c014_Ult_Skill_1",
+      "order": 1
+    },
+    {
+      "id": 5008301,
+      "reaction_target_id": 50014,
+      "reaction_type": "Stay",
+      "speecher_type": "Character",
+      "speecher_resource_id": 14,
+      "locale_file": "Locale_LiveWallpaper",
+      "speech_localkey": "Locale_LiveWallpaper:live_wallpaper_desc_50014",
+      "reaction_voice": "c014_Ult_Skill_1",
       "order": 1
     }
   ]

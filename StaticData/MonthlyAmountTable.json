@@ -7,12 +7,29 @@
       "product_efficiency": 7,
       "name_localkey": "Locale_InAppShopProduct:PRODUCT_MONTHLY_AMOUNT_NORMAL_NAME",
       "description_localkey": "Locale_InAppShopProduct:PRODUCT_MONTHLY_AMOUNT_DESC",
+      "daily_reward_info": "Locale_InAppShopProduct:PRODUCT_MONTHLY_AMOUNT_NORMAL_REWARD_INFO",
       "product_resource_id": "icn_inappshop_monthly_amount_normal_01",
       "buy_package_group_id": 600001,
       "daily_package_group_id": 600002,
       "period": 30,
+      "period_warning_notice_day": 3,
       "infracore_point": 0,
       "midas_product_id": 40000001
+    },
+    {
+      "id": 1,
+      "order_group_id": 600,
+      "product_efficiency": 9,
+      "name_localkey": "Locale_InAppShopProduct:PRODUCT_MONTHLY_AMOUNT_GROWTH_NAME",
+      "description_localkey": "Locale_InAppShopProduct:PRODUCT_MONTHLY_AMOUNT_DESC",
+      "daily_reward_info": "Locale_InAppShopProduct:PRODUCT_MONTHLY_AMOUNT_GROWTH_REWARD_INFO",
+      "product_resource_id": "icn_inappshop_monthly_amount_growth_01",
+      "buy_package_group_id": 600101,
+      "daily_package_group_id": 600102,
+      "period": 30,
+      "period_warning_notice_day": 3,
+      "infracore_point": 0,
+      "midas_product_id": 40000002
     }
   ]
 }

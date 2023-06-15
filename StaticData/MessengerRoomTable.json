@@ -68,6 +68,52 @@
       ]
     },
     {
+      "id": "test_counters",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:counters_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "rapi",
+        "neon",
+        "anis"
+      ]
+    },
+    {
+      "id": "test_rapi",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 3001,
+      "name_locale": "Locale_Character:10_name",
+      "thumbnail_image": "mi_c010_00_s",
+      "members": [
+        "rapi"
+      ]
+    },
+    {
+      "id": "test_neon",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 3002,
+      "name_locale": "Locale_Character:11_name",
+      "thumbnail_image": "mi_c011_00_s",
+      "members": [
+        "neon"
+      ]
+    },
+    {
+      "id": "test_anis",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 3005,
+      "name_locale": "Locale_Character:12_name",
+      "thumbnail_image": "mi_c012_00_s",
+      "members": [
+        "anis"
+      ]
+    },
+    {
       "id": "rapi",
       "type": "Nikke",
       "unlock_condition_squad": "None",
@@ -1300,6 +1346,30 @@
       "members": [
         "sakura_n",
         "rosanna"
+      ]
+    },
+    {
+      "id": "2023_summer",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_08_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "rapi_s",
+        "anis",
+        "neon_s"
+      ]
+    },
+    {
+      "id": "xxx",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_09_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "mary_s"
       ]
     },
     {

@@ -8642,6 +8642,246 @@
       "reward_id": 0
     },
     {
+      "id": 2007401,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5071,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 2000201,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_neon_blueocean_01",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 2007402,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5071,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 2007401,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_neon_blueocean_02",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 2007403,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5071,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 2007401,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_neon_blueocean_03",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 2007501,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5064,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 2003301,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_mary_baygoddess_01",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 2007502,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5064,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 2007501,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_mary_baygoddess_02",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 2007503,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5064,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 2007501,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_mary_baygoddess_03",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
       "id": 3000101,
       "trigger_list": [
         {
@@ -12522,6 +12762,246 @@
       ],
       "message_type": "RandomMessage",
       "tid": "m_ex_queensorder_05",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7000401,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 102010101,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_2023_summer_01",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7000402,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 102010106,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7000401,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_2023_summer_02",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7000403,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 102110103,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7000402,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_2023_summer_03",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7000404,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 102110112,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7000403,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_2023_summer_04",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7000405,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 102110112,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7000404,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_2023_summer_05",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7000406,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 102120112,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7000405,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_2023_summer_06",
       "resource_id": 0,
       "stamina_value": 0,
       "reward_id": 0

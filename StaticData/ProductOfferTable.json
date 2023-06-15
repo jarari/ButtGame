@@ -1,0 +1,58 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "product_offer_popup_type": "InAppShop",
+      "product_id": 300501,
+      "inappshop_tab_id": 30000,
+      "trigger": "CampaignClear",
+      "condition_id": 6002001,
+      "condition_value": 1,
+      "popup_desc_localkey": "Locale_System:CASH_SHOP_PRODUCT_OFFER_INFO_01",
+      "popup_path_localkey": "Locale_System:CASH_SHOP_PRODUCT_OFFER_PATH_01",
+      "ui_prefab_addressable": "productoffer_package",
+      "character_resource_addressable": "spine/mini/c907/00"
+    },
+    {
+      "id": 2,
+      "product_offer_popup_type": "Gacha",
+      "product_id": 4,
+      "gacha_currency_type": 98,
+      "gacha_currency_value": 2000,
+      "trigger": "CampaignClear",
+      "condition_id": 6002016,
+      "condition_value": 1,
+      "popup_desc_localkey": "Locale_System:CASH_SHOP_PRODUCT_OFFER_INFO_02",
+      "popup_path_localkey": "Locale_System:CASH_SHOP_PRODUCT_OFFER_PATH_02",
+      "ui_prefab_addressable": "productoffer_gacha_charge",
+      "character_resource_addressable": "spine/mini/c907/00"
+    },
+    {
+      "id": 3,
+      "product_offer_popup_type": "InAppShop",
+      "product_id": 300502,
+      "inappshop_tab_id": 30000,
+      "trigger": "CampaignClear",
+      "condition_id": 6003005,
+      "condition_value": 1,
+      "popup_desc_localkey": "Locale_System:CASH_SHOP_PRODUCT_OFFER_INFO_03",
+      "popup_path_localkey": "Locale_System:CASH_SHOP_PRODUCT_OFFER_PATH_01",
+      "ui_prefab_addressable": "productoffer_package",
+      "character_resource_addressable": "spine/mini/c907/00"
+    },
+    {
+      "id": 4,
+      "product_offer_popup_type": "InAppShop",
+      "product_id": 300503,
+      "inappshop_tab_id": 30000,
+      "trigger": "CampaignClear",
+      "condition_id": 6004023,
+      "condition_value": 1,
+      "popup_desc_localkey": "Locale_System:CASH_SHOP_PRODUCT_OFFER_INFO_04",
+      "popup_path_localkey": "Locale_System:CASH_SHOP_PRODUCT_OFFER_PATH_01",
+      "ui_prefab_addressable": "productoffer_package",
+      "character_resource_addressable": "spine/mini/c907/00"
+    }
+  ]
+}

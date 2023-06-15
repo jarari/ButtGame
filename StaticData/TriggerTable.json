@@ -249,6 +249,20 @@
       "point_value": 10
     },
     {
+      "id": 10019,
+      "trigger": "MainShopBuy",
+      "condition_id": 0,
+      "condition_value": 1,
+      "before_trigger_id": 0,
+      "handler_type": "MissionDaily",
+      "print_value": true,
+      "shortcut_type": "None",
+      "shortcut_value": 0,
+      "name_localkey": "Locale_Trigger:trigger_name_MainShopBuy",
+      "description_localkey": "Locale_Trigger:trigger_desc_MainShopBuy",
+      "point_value": 10
+    },
+    {
       "id": 20001,
       "trigger": "GachaCharacter",
       "condition_id": 0,

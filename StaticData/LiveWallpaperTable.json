@@ -182,6 +182,21 @@
       "condition_character_id": 0
     },
     {
+      "id": 22,
+      "livewallpaper_type": "Scenario",
+      "sub_type": "Event",
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_22",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_22",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_BluewaterIsland_01",
+      "thumbnail_resource_id": "EventScene_BluewaterIsland_01_mi",
+      "si_resource_id": "EventScene_BluewaterIsland_01_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "is_condition_character": false,
+      "condition_resource_id": 0,
+      "condition_character_id": 0
+    },
+    {
       "id": 50010,
       "livewallpaper_type": "SkillCutScene",
       "sub_type": "None",
@@ -1260,6 +1275,36 @@
       "is_condition_character": true,
       "condition_resource_id": 280,
       "condition_character_id": 228004
+    },
+    {
+      "id": 50132,
+      "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50132",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50132",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_c132_cutscene",
+      "thumbnail_resource_id": "EventScene_c132_cutscene_mi",
+      "si_resource_id": "EventScene_c132_cutscene_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "is_condition_character": true,
+      "condition_resource_id": 132,
+      "condition_character_id": 313204
+    },
+    {
+      "id": 50014,
+      "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50014",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50014",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_c014_cutscene",
+      "thumbnail_resource_id": "EventScene_c014_cutscene_mi",
+      "si_resource_id": "EventScene_c014_cutscene_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "is_condition_character": true,
+      "condition_resource_id": 14,
+      "condition_character_id": 201404
     }
   ]
 }

@@ -89,6 +89,36 @@
           "event_field_currency_type": "None"
         }
       ]
+    },
+    {
+      "id": 10004,
+      "event_id": 80400,
+      "field_design_map": "febg_tropical_001",
+      "field_art_map_standard": "febg_tropical_001_01",
+      "field_hud": "hud_event_field_bluewaterisland",
+      "field_first_entry_resource": "event_enter_bluewaterisland",
+      "link_event_pass_id": 1000005,
+      "progress_event_group_id": 1004,
+      "is_use_roaming_npc": false,
+      "roaming_npc_limit": 5,
+      "roaming_npc_type": "UserCharacter",
+      "roaming_npc_speed_minimum": 100,
+      "roaming_npc_speed_maximum": 250,
+      "player_squad_type": "UserSquad",
+      "player_squad_value": 5,
+      "player_squad_speed": 100,
+      "sd_character_size": 100,
+      "event_mission_group": 20,
+      "event_field_currency_list": [
+        {
+          "event_field_currency_type": "Material",
+          "event_field_currency_id": 7060020
+        },
+        {
+          "event_field_currency_type": "Material",
+          "event_field_currency_id": 7061002
+        }
+      ]
     }
   ]
 }

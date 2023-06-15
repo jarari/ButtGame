@@ -255,6 +255,37 @@
       "ui_prefab": "queensorder"
     },
     {
+      "id": 10020,
+      "event_id": 40020,
+      "name": "Locale_System:STORY_DUNGEON_TITLE20",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION20",
+      "prologue_scenario": "event_bluewaterisland_prologue",
+      "auto_charge_id": 10020,
+      "event_item_type": "Item",
+      "event_item_id": 7060020,
+      "dungeon_id": 20,
+      "album_category_group": 1020,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "ui_prefab": "bluewaterisland_part1"
+    },
+    {
+      "id": 10021,
+      "event_id": 40021,
+      "name": "Locale_System:STORY_DUNGEON_TITLE21",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION21",
+      "auto_charge_id": 10020,
+      "event_item_type": "Item",
+      "event_item_id": 7060020,
+      "dungeon_id": 21,
+      "album_category_group": 1021,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "ui_prefab": "bluewaterisland_part2"
+    },
+    {
       "id": 40001,
       "event_id": 60001,
       "name": "Locale_System:STORY_DUNGEON_TITLE",
@@ -298,6 +329,21 @@
       "contents_shop_id": 0,
       "dice_id": 0,
       "challenge_monster_resource": "full_mbg004"
+    },
+    {
+      "id": 40020,
+      "event_id": 60020,
+      "name": "Locale_System:STORY_DUNGEON_TITLE",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION",
+      "auto_charge_id": 40020,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1020,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_mba002"
     }
   ]
 }

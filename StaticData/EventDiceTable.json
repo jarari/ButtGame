@@ -4,45 +4,158 @@
     {
       "id": 1,
       "name_localkey": "Locale_Event:event_contents_minigame",
+      "album_name": "Locale_System:STORY_DUNGEON_TITLE2",
+      "album_description": "Locale_System:STORY_DUNGEON_DESCRIPTION",
       "board_id": 1001,
-      "max_heropower": 100,
+      "resource_id": 1001,
+      "event_id": 80305,
+      "ui_prefab": "whitememory",
+      "first_enter_scenario_group_id": "d_contents_whitememory_01",
+      "event_item_id": 7060001,
+      "album_category_group": 1014,
+      "max_gauge": 100,
       "max_clear": 10,
       "dice_consume": 40,
       "player_move_time": 20,
-      "board_finish_heropower": 50,
+      "board_finish_gauge": 50,
       "dice_clear_reward_list": [
         {
           "clear_reward_id": 8010027
         },
         {
-          "clear_reward_id": 8010027
-        },
-        {
-          "clear_reward_id": 8010027
-        },
-        {
-          "clear_reward_id": 8010027
-        },
-        {
           "clear_reward_id": 8010028
-        },
-        {
-          "clear_reward_id": 8010028
-        },
-        {
-          "clear_reward_id": 8010028
-        },
-        {
-          "clear_reward_id": 8010029
         },
         {
           "clear_reward_id": 8010029
         },
         {
           "clear_reward_id": 8010030
+        },
+        {
+          "clear_reward_id": 8010031
+        },
+        {
+          "clear_reward_id": 8010032
+        },
+        {
+          "clear_reward_id": 8010033
+        },
+        {
+          "clear_reward_id": 8010034
+        },
+        {
+          "clear_reward_id": 8010035
+        },
+        {
+          "clear_reward_id": 8010036
         }
       ],
-      "clear_reward_id_repeat": 8010041
+      "clear_reward_id_repeat": 8010041,
+      "dice_clear_scenario_group_list": [
+        {
+          "clear_scenario_group_id": "event_BunnyX777_prologue"
+        },
+        {
+          "clear_scenario_group_id": "event_BunnyX777_01_s"
+        },
+        {
+          "clear_scenario_group_id": "event_BunnyX777_01_e"
+        },
+        {
+          "clear_scenario_group_id": "event_BunnyX777_02_s"
+        },
+        {
+          "clear_scenario_group_id": "event_BunnyX777_02_e"
+        },
+        {
+          "clear_scenario_group_id": "event_BunnyX777_03_s"
+        },
+        {
+          "clear_scenario_group_id": "event_BunnyX777_03_e"
+        },
+        {
+          "clear_scenario_group_id": "event_cherryblossom_01_s"
+        },
+        {
+          "clear_scenario_group_id": "event_cherryblossom_01_e"
+        },
+        {
+          "clear_scenario_group_id": "event_cherryblossom_02_s"
+        }
+      ],
+      "maxgauge_step_localkey": "Locale_Event:dice_event_title_clear",
+      "maxgauge_step_repeat_localkey": "Locale_Event:dice_event_reward_repeatable"
+    },
+    {
+      "id": 2,
+      "name_localkey": "Locale_Event:event_contents_minigame",
+      "album_name": "Locale_System:EVENT_MINIGAME_ALBUM_TITLE1",
+      "album_description": "Locale_System:EVENT_MINIGAME_ALBUM_DESCRIPTION",
+      "board_id": 1002,
+      "resource_id": 1002,
+      "event_id": 80403,
+      "ui_prefab": "voltroad",
+      "first_enter_scenario_group_id": "d_contents_voltroad_01",
+      "event_item_id": 7061002,
+      "album_category_group": 30001,
+      "max_gauge": 100,
+      "max_clear": 10,
+      "dice_consume": 1,
+      "player_move_time": 20,
+      "board_finish_gauge": 50,
+      "dice_clear_reward_list": [
+        {
+          "clear_reward_id": 8111071
+        },
+        {
+          "clear_reward_id": 8111072
+        },
+        {
+          "clear_reward_id": 8111073
+        },
+        {
+          "clear_reward_id": 8111074
+        },
+        {
+          "clear_reward_id": 8111075
+        },
+        {
+          "clear_reward_id": 8111076
+        },
+        {
+          "clear_reward_id": 8111077
+        },
+        {
+          "clear_reward_id": 8111078
+        },
+        {
+          "clear_reward_id": 8111079
+        },
+        {
+          "clear_reward_id": 8111080
+        }
+      ],
+      "clear_reward_id_repeat": 8111081,
+      "dice_clear_scenario_group_list": [
+        {},
+        {},
+        {
+          "clear_scenario_group_id": "d_contents_voltroad_02"
+        },
+        {},
+        {},
+        {
+          "clear_scenario_group_id": "d_contents_voltroad_03"
+        },
+        {},
+        {},
+        {},
+        {
+          "clear_scenario_group_id": "d_contents_voltroad_04"
+        }
+      ],
+      "maxgauge_step_localkey": "Locale_Event:voltroad_event_title_clear",
+      "maxgauge_step_repeat_localkey": "Locale_Event:voltroad_event_reward_repeatable"
     }
   ]
 }
