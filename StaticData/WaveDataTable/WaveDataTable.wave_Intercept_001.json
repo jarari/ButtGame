@@ -3652,7 +3652,7 @@
       "background_name": "sbg_cityforestunder_004_midclear",
       "theme": "CityForest",
       "theme_time": "Day",
-      "stage_info_bg": "ibg_cityforestunder_basedefense_001",
+      "stage_info_bg": "ibg_cityforestunder_001",
       "target_list": [
         3420030254
       ],
@@ -5245,6 +5245,220 @@
       "far_monster_count": 0
     },
     {
+      "stage_id": 6304033,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "UnionRaid",
+      "battle_time": 180,
+      "monster_count": 7,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_cityforestunder_004_midclear",
+      "point_data_fly": "point_fly_cityforestunder_004",
+      "background_name": "sbg_cityforestunder_004_midclear",
+      "theme": "CityForestUnder",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_cityforestunder_001",
+      "target_list": [
+        3421040154
+      ],
+      "wave_data": [
+        {
+          "wave_path": "path_grd_mid_centurion_901",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3421040154,
+              "spawn_type": "Normal"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 1,
+      "mid_monster_count": 0,
+      "far_monster_count": 0
+    },
+    {
+      "stage_id": 6304034,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "UnionRaid",
+      "battle_time": 180,
+      "monster_count": 7,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_motherwhale_001",
+      "point_data_fly": "point_fly_motherwhale_001",
+      "background_name": "sbg_desertbba001_001",
+      "theme": "Desertmbg001",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_desert_001",
+      "target_list": [
+        1510010124
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_fly_motherwhale_01",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1510010124,
+              "spawn_type": "Normal"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 0,
+      "far_monster_count": 1
+    },
+    {
       "stage_id": 6700101,
       "group_id": "wave_Intercept_001",
       "spot_mod": "SoloRaid_Common",
@@ -5677,24 +5891,131 @@
       "group_id": "wave_Intercept_001",
       "spot_mod": "SoloRaid_Common",
       "battle_time": 180,
-      "monster_count": 7,
+      "monster_count": 6,
       "use_intro_scene": false,
       "wave_repeat": false,
-      "point_data": "point_grd_nihilister",
-      "point_data_fly": "point_fly_nihilister",
-      "background_name": "sbg_volcanoeba003_custom",
-      "theme": "CityForestUnder",
-      "theme_time": "Day",
-      "stage_info_bg": "ibg_volcano_001",
+      "point_data": "point_grd_harvester_01",
+      "point_data_fly": "point_fly_harvester_01",
+      "background_name": "sbg_desert_b_001_01",
+      "theme": "Desert",
+      "theme_time": "Night",
+      "stage_info_bg": "ibg_desert_001",
       "target_list": [
-        3520020114
+        1520010115
       ],
       "wave_data": [
         {
-          "wave_path": "b_fly_nihilister_01",
+          "wave_path": "b_g_harvester_01",
           "wave_monster_list": [
             {
-              "wave_monster_id": 3520020114,
+              "wave_monster_id": 1520010115,
+              "spawn_type": "Normal"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 0,
+      "far_monster_count": 1
+    },
+    {
+      "stage_id": 6700302,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "SoloRaid_Trial",
+      "battle_time": 180,
+      "monster_count": 6,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_harvester_01",
+      "point_data_fly": "point_fly_harvester_01",
+      "background_name": "sbg_desert_b_001_01",
+      "theme": "Desert",
+      "theme_time": "Night",
+      "stage_info_bg": "ibg_desert_001",
+      "target_list": [
+        1520010115
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_g_harvester_01",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1520010115,
               "spawn_type": "Normal"
             },
             {},

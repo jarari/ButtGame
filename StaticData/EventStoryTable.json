@@ -286,6 +286,37 @@
       "ui_prefab": "bluewaterisland_part2"
     },
     {
+      "id": 10022,
+      "event_id": 40022,
+      "name": "Locale_System:STORY_DUNGEON_TITLE22",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION22",
+      "prologue_scenario": "event_nyanyaparadise_prologue",
+      "auto_charge_id": 10022,
+      "event_item_type": "Item",
+      "event_item_id": 7060022,
+      "dungeon_id": 22,
+      "album_category_group": 1022,
+      "mission_group": 22,
+      "contents_shop_id": 9002201,
+      "dice_id": 0,
+      "ui_prefab": "nya-nyaparadise"
+    },
+    {
+      "id": 10023,
+      "event_id": 40023,
+      "name": "Locale_System:STORY_DUNGEON_TITLE23",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION23",
+      "auto_charge_id": 10023,
+      "event_item_type": "Item",
+      "event_item_id": 7060023,
+      "dungeon_id": 23,
+      "album_category_group": 1023,
+      "mission_group": 23,
+      "contents_shop_id": 9002301,
+      "dice_id": 0,
+      "ui_prefab": "goldenship"
+    },
+    {
       "id": 40001,
       "event_id": 60001,
       "name": "Locale_System:STORY_DUNGEON_TITLE",
@@ -344,6 +375,36 @@
       "contents_shop_id": 0,
       "dice_id": 0,
       "challenge_monster_resource": "full_mba002"
+    },
+    {
+      "id": 40022,
+      "event_id": 60022,
+      "name": "Locale_System:STORY_DUNGEON_TITLE",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION",
+      "auto_charge_id": 40022,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1022,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_ebg002"
+    },
+    {
+      "id": 40023,
+      "event_id": 60023,
+      "name": "Locale_System:STORY_DUNGEON_TITLE",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION",
+      "auto_charge_id": 40023,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1023,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_ebg001"
     }
   ]
 }

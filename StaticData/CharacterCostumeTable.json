@@ -30,8 +30,8 @@
       "costume_index": 1,
       "additional_skins": [],
       "costume_grade_id": "Event",
-      "costume_name_locale": "Locale_CharacterCostume:costume_name_201_swimsuit_2022",
-      "costume_description_locale": "Locale_CharacterCostume:obtain_costume_costume_shop",
+      "costume_name_locale": "Locale_CharacterCostume:201_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:201_01_description",
       "is_hidden": true
     },
     {
@@ -54,7 +54,7 @@
       "costume_grade_id": "Event",
       "costume_name_locale": "Locale_CharacterCostume:10_02_costume_name",
       "costume_description_locale": "Locale_CharacterCostume:10_02_description",
-      "is_hidden": true
+      "is_hidden": false
     },
     {
       "id": 20001,
@@ -354,6 +354,19 @@
       "costume_grade_id": "Unique",
       "costume_name_locale": "Locale_CharacterCostume:200_01_costume_name",
       "costume_description_locale": "Locale_CharacterCostume:200_01_description",
+      "is_hidden": false
+    },
+    {
+      "id": 80001,
+      "costume_theme_group_id": 8000,
+      "resource_id": 101,
+      "costume_index": 1,
+      "additional_skins": [
+        "acc"
+      ],
+      "costume_grade_id": "Unique",
+      "costume_name_locale": "Locale_CharacterCostume:101_01_costume_name",
+      "costume_description_locale": "Locale_CharacterCostume:101_01_description",
       "is_hidden": false
     }
   ]

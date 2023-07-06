@@ -8882,6 +8882,246 @@
       "reward_id": 0
     },
     {
+      "id": 2007601,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5068,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MainQuestClear",
+          "condition_id": 25,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_nero_01",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 2007602,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5068,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 2007601,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_nero_02",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 2007603,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5068,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 2007601,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_nero_03",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 2007701,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5079,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MainQuestClear",
+          "condition_id": 25,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_mast_01",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 2007702,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5079,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 2007701,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_mast_02",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 2007703,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5079,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 2007701,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_mast_03",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
       "id": 3000101,
       "trigger_list": [
         {
@@ -11122,6 +11362,86 @@
       "reward_id": 0
     },
     {
+      "id": 3002801,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5068,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5054,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "MainQuestClear",
+          "condition_id": 25,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_happyzoo_01",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 3002802,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5068,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5054,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "MainQuestClear",
+          "condition_id": 25,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_happyzoo_02",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
       "id": 9000101,
       "trigger_list": [
         {
@@ -13002,6 +13322,246 @@
       ],
       "message_type": "RandomMessage",
       "tid": "m_ex_2023_summer_06",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7000501,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 102210105,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_nyanyaparadise_01",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7000502,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 102210108,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7000501,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_nyanyaparadise_02",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7000503,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 102210110,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7000502,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_nyanyaparadise_03",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7000504,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 102210111,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7000503,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_nyanyaparadise_04",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7000505,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 102210112,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7000504,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_nyanyaparadise_05",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7000506,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 102220112,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7000505,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_nyanyaparadise_06",
       "resource_id": 0,
       "stamina_value": 0,
       "reward_id": 0

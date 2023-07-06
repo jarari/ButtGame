@@ -237,21 +237,33 @@
       "fixed_scenario_id": "2"
     },
     {
-      "id": 9999999,
+      "id": 9900006,
       "name_localkey": "Locale_Character:quest_npc_9900005_name",
-      "npc_prefab": "c9999_00_var",
-      "interaction_distance": 200,
+      "npc_prefab": "c957_00_var",
+      "interaction_distance": 400,
       "chapter_mod": "Normal",
-      "short_cut": 1,
+      "short_cut": 23,
       "quest_type": "None",
-      "scenario_type": "FieldTalk",
-      "scenario_id": "4",
-      "scenario_play_type": "Always",
-      "fixed_scenario_type": "FieldTalk",
-      "fixed_scenario_id": "2"
+      "balloon_always_id": "d_balloon_01_a",
+      "balloon_always_play_type": "None",
+      "balloon_always_cycle": 3,
+      "balloon_always_end_condition": "Talk"
     },
     {
-      "id": 9900006,
+      "id": 9900007,
+      "name_localkey": "Locale_Character:quest_npc_9900005_name",
+      "npc_prefab": "c957_00_var",
+      "interaction_distance": 400,
+      "chapter_mod": "Normal",
+      "short_cut": 23,
+      "quest_type": "None",
+      "balloon_always_id": "d_balloon_01_e",
+      "balloon_always_play_type": "None",
+      "balloon_always_cycle": 3,
+      "balloon_always_end_condition": "Talk"
+    },
+    {
+      "id": 9999998,
       "name_localkey": "Locale_Character:quest_npc_9900001_name",
       "npc_prefab": "c170_00_var",
       "interaction_distance": 200,
@@ -270,7 +282,7 @@
       "balloon_always_end_condition": "Talk"
     },
     {
-      "id": 9900007,
+      "id": 9999997,
       "name_localkey": "Locale_Character:quest_npc_9900001_name",
       "npc_prefab": "c170_00_var",
       "interaction_distance": 200,
@@ -284,6 +296,20 @@
       "balloon_always_play_type": "Random",
       "balloon_always_cycle": 3,
       "balloon_always_end_condition": "Talk"
+    },
+    {
+      "id": 9999999,
+      "name_localkey": "Locale_Character:quest_npc_9900005_name",
+      "npc_prefab": "c9999_00_var",
+      "interaction_distance": 200,
+      "chapter_mod": "Normal",
+      "short_cut": 1,
+      "quest_type": "None",
+      "scenario_type": "FieldTalk",
+      "scenario_id": "4",
+      "scenario_play_type": "Always",
+      "fixed_scenario_type": "FieldTalk",
+      "fixed_scenario_id": "2"
     }
   ]
 }
