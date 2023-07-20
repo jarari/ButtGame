@@ -197,7 +197,7 @@
       "type_value": "21",
       "default": true,
       "bgm_trigger_event_value": 0,
-      "bgm_loop": "ambient_chapter_21"
+      "bgm_loop": "ambient_chapter_11"
     },
     {
       "id": 1000022,
@@ -206,7 +206,16 @@
       "type_value": "22",
       "default": true,
       "bgm_trigger_event_value": 0,
-      "bgm_loop": "ambient_chapter_22"
+      "bgm_loop": "ambient_chapter_8"
+    },
+    {
+      "id": 1000023,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "23",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_chapter_9"
     },
     {
       "id": 1001001,
@@ -384,6 +393,24 @@
       "bgm_type": "ambient",
       "bgm_sub_type": "lost_sector",
       "type_value": "20",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "lostsector_ambient_1"
+    },
+    {
+      "id": 1001021,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "lost_sector",
+      "type_value": "21",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "lostsector_ambient_2"
+    },
+    {
+      "id": 1001022,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "lost_sector",
+      "type_value": "22",
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "lostsector_ambient_1"
@@ -5634,6 +5661,534 @@
       "bgm_loop": "bgm_spot_counterattack"
     },
     {
+      "id": 2023001,
+      "bgm_type": "chapter_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "23",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "bgm_greyhaze_a"
+    },
+    {
+      "id": 2023002,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "0",
+      "default": true,
+      "bgm_trigger_event_value": 23,
+      "bgm_loop": "bgm_spot_thecoldfront"
+    },
+    {
+      "id": 2023003,
+      "bgm_type": "chapter_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "23",
+      "default": false,
+      "bgm_trigger_event_type": "stage_clear",
+      "bgm_trigger_event_value": 6023022,
+      "bgm_loop": "bgm_greyhaze_b"
+    },
+    {
+      "id": 2023004,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023022",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023005,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023023",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023006,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023024",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023007,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023025",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023008,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023026",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023009,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023027",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023010,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023028",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023011,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023029",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023012,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023030",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023013,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023031",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023014,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023032",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2023015,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023033",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2023016,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023034",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2023017,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023035",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023018,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023036",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023019,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023037",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023020,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023038",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023021,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023039",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023022,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023040",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023023,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023041",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023024,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023042",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2023025,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023043",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2023026,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023044",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2023027,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023045",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023028,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023046",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023029,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023047",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023030,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023048",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023031,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023049",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023032,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023050",
+      "default": false,
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2023033,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023051",
+      "default": false,
+      "bgm_loop": "bgm_spot_counterattack"
+    },
+    {
+      "id": 2023034,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6023052",
+      "default": false,
+      "bgm_loop": "bgm_spot_counterattack"
+    },
+    {
+      "id": 2024001,
+      "bgm_type": "chapter_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "24",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "bgm_manifest_a"
+    },
+    {
+      "id": 2024002,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "0",
+      "default": true,
+      "bgm_trigger_event_value": 24,
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2024003,
+      "bgm_type": "chapter_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "24",
+      "default": false,
+      "bgm_trigger_event_type": "stage_clear",
+      "bgm_trigger_event_value": 6024025,
+      "bgm_loop": "bgm_manifest_b"
+    },
+    {
+      "id": 2024004,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024025",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024005,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024026",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024006,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024027",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024007,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024028",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024008,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024029",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024009,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024030",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024010,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024031",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024011,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024032",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024012,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024033",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024013,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024034",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024014,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024035",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024015,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024036",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024016,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024037",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024017,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024038",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024018,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024039",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024019,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024040",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024020,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024041",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024021,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024042",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024022,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024043",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024023,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024044",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024024,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024045",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024025,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024046",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024026,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024047",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024027,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024048",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024028,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024049",
+      "default": false,
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2024029,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024050",
+      "default": false,
+      "bgm_loop": "bgm_boss_ebg002"
+    },
+    {
+      "id": 2024030,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024051",
+      "default": false,
+      "bgm_loop": "bgm_spot_counterattack"
+    },
+    {
+      "id": 2024031,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6024052",
+      "default": false,
+      "bgm_loop": "bgm_spot_counterattack"
+    },
+    {
       "id": 2100001,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "campaign_stage",
@@ -9063,6 +9618,816 @@
       "bgm_loop": "bgm_spot_counterattack"
     },
     {
+      "id": 2123001,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023001",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123002,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023002",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123003,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023003",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123004,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023004",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123005,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023005",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123006,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023006",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123007,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023007",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123008,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023008",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123009,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023009",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123010,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023010",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123011,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023011",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123012,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023012",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123013,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023013",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123014,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023014",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123015,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023015",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123016,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023016",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123017,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023017",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123018,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023018",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123019,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023019",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123020,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023020",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123021,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023021",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123022,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023022",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123023,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023023",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123024,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023024",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123025,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023025",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123026,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023026",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123027,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023027",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123028,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023028",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123029,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023029",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123030,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023030",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123031,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023031",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123032,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023032",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123033,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023033",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123034,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023034",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123035,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023035",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123036,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023036",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123037,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023037",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123038,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023038",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123039,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023039",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123040,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023040",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123041,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023041",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123042,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023042",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_thewarmfront"
+    },
+    {
+      "id": 2123043,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023043",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_counterattack"
+    },
+    {
+      "id": 2123044,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7023044",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_counterattack"
+    },
+    {
+      "id": 2124001,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024001",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2324002,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024002",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2124003,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024003",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2190671,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024004",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2190672,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024005",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2190673,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024006",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2190674,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024007",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2190675,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024008",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2190676,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024009",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2190677,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024010",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2190678,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024011",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2190679,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024012",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2190680,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024013",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2190681,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024014",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2190682,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024015",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2190683,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024016",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2190684,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024017",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2190685,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024018",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2190686,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024019",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_a"
+    },
+    {
+      "id": 2190687,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024020",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190688,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024021",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190689,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024022",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190690,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024023",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190691,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024024",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190692,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024025",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190693,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024026",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190694,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024027",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190695,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024028",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190696,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024029",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190697,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024030",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190698,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024031",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190699,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024032",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190700,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024033",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190701,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024034",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190702,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024035",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190703,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024036",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190704,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024037",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190705,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024038",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190706,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024039",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190707,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024040",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190708,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024041",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190709,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024042",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190710,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024043",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_chaos_b"
+    },
+    {
+      "id": 2190711,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024044",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_boss_ebg002"
+    },
+    {
+      "id": 2190712,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024045",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_counterattack"
+    },
+    {
+      "id": 2190713,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7024046",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_counterattack"
+    },
+    {
       "id": 3001001,
       "bgm_type": "chapter_bgm",
       "bgm_sub_type": "lost_sector",
@@ -9241,6 +10606,24 @@
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "bgm_lostsector_backandforth"
+    },
+    {
+      "id": 3001021,
+      "bgm_type": "chapter_bgm",
+      "bgm_sub_type": "lost_sector",
+      "type_value": "21",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "bgm_lostsector_labyrinthofvoid"
+    },
+    {
+      "id": 3001022,
+      "bgm_type": "chapter_bgm",
+      "bgm_sub_type": "lost_sector",
+      "type_value": "22",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "bgm_lostsector_mazeinabyss"
     },
     {
       "id": 4000001,
@@ -11321,6 +12704,14 @@
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "event_bgm_lovelylonelycat"
+    },
+    {
+      "id": 9910411,
+      "bgm_type": "story_event_bgm",
+      "type_value": "10023",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_goldenship"
     }
   ]
 }

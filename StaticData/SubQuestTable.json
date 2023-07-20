@@ -2832,6 +2832,276 @@
       "episode_id": "d_subquest_1331",
       "end_messenger_conversation_id": "m_subquest_1331_e",
       "before_sub_quest_id": 0
+    },
+    {
+      "id": 1023,
+      "group_id": 1020,
+      "description_localkey": "Locale_SubQuest:sub_quest_description_1023",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1022,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6023011,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1023_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 1023001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1023",
+      "end_messenger_conversation_id": "m_subquest_1023_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1380,
+      "group_id": 1380,
+      "description_localkey": "Locale_SubQuest:sub_quest_description_1330",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1241,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6023027,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1330_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 1023002,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1330_e",
+      "end_messenger_conversation_id": "m_subquest_1330_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1340,
+      "group_id": 1340,
+      "description_localkey": "Locale_SubQuest:sub_quest_description_1340",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1241,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6023039,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1340_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 1023003,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1340",
+      "end_messenger_conversation_id": "m_subquest_1340_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1350,
+      "group_id": 1350,
+      "description_localkey": "Locale_SubQuest:sub_quest_description_1350",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1241,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6024013,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1350_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 1024001,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1350_e",
+      "end_messenger_conversation_id": "m_subquest_1350_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1370,
+      "group_id": 1370,
+      "description_localkey": "Locale_SubQuest:sub_quest_description_1370",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1241,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6024032,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1370_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 1024002,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1370",
+      "end_messenger_conversation_id": "m_subquest_1370_e",
+      "before_sub_quest_id": 0
+    },
+    {
+      "id": 1360,
+      "group_id": 1360,
+      "description_localkey": "Locale_SubQuest:sub_quest_description_1360",
+      "trigger_list": [
+        {
+          "trigger": "SubQuestClear",
+          "condition_id": 1241,
+          "condition_value": 1
+        },
+        {
+          "trigger": "CampaignClear",
+          "condition_id": 6024042,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "conversation_id": "m_subquest_1360_s",
+      "clear_trigger": "CampaignGroupClear",
+      "clear_condition_id": 1024003,
+      "clear_condition_value": 1,
+      "scenario_type": "Dialog",
+      "episode_id": "d_subquest_1360",
+      "end_messenger_conversation_id": "m_subquest_1360_e",
+      "before_sub_quest_id": 0
     }
   ]
 }
