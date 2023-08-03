@@ -2,6 +2,36 @@
   "version": "0.0.1",
   "records": [
     {
+      "id": 1000101,
+      "shop_group_id": 100001,
+      "package_group_id": 120011,
+      "discount_control": "Regular",
+      "costume_theme_group_id": 1000,
+      "product_grade": 5,
+      "costume_id": 10006,
+      "buy_limit_type": "Account",
+      "is_limit": true,
+      "buy_limit_count": 1,
+      "midas_product_id": 81000101,
+      "is_active": true
+    },
+    {
+      "id": 1000102,
+      "shop_group_id": 100001,
+      "package_group_id": 120011,
+      "start_date": "2023-08-03T03:00:00",
+      "end_date": "2023-08-09T19:59:59",
+      "discount_control": "Bargain",
+      "costume_theme_group_id": 1000,
+      "product_grade": 5,
+      "costume_id": 10006,
+      "buy_limit_type": "Account",
+      "is_limit": true,
+      "buy_limit_count": 1,
+      "midas_product_id": 81000102,
+      "is_active": true
+    },
+    {
       "id": 3000101,
       "shop_group_id": 100001,
       "package_group_id": 120001,

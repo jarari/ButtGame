@@ -4850,11 +4850,14 @@
         {}
       ],
       "set_background": "EventScene_Chap_24_04",
-      "set_start_camera": "redhood_fullactive_01",
-      "set_end_camera": "redhood_fullactive_01",
+      "set_start_camera": "redhood_fullactive_all",
+      "set_end_camera": "redhood_fullactive_all",
       "set_camera_duration": 1.0,
       "effects": [
-        {},
+        {
+          "play_effect_id": "fx_EventScene_Chap_24_04",
+          "set_effect_position": "fx_EventScene_Chap_24_04_smoke"
+        },
         {}
       ],
       "fade": "black"
@@ -4879,8 +4882,8 @@
         {},
         {}
       ],
-      "set_start_camera": "redhood_fullactive_01",
-      "set_end_camera": "redhood_fullactive_01",
+      "set_start_camera": "redhood_fullactive_all",
+      "set_end_camera": "redhood_fullactive_all",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4907,8 +4910,8 @@
         {},
         {}
       ],
-      "set_start_camera": "redhood_fullactive_01",
-      "set_end_camera": "redhood_fullactive_01",
+      "set_start_camera": "redhood_fullactive_all",
+      "set_end_camera": "redhood_fullactive_all",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4935,7 +4938,7 @@
         {},
         {}
       ],
-      "set_start_camera": "redhood_fullactive_01",
+      "set_start_camera": "redhood_fullactive_all",
       "set_end_camera": "redhood_fullactive_02",
       "set_camera_duration": 1.0,
       "effects": [
@@ -4947,8 +4950,8 @@
       "id": "d_main_24_14_e_127",
       "group_id": "d_main_24_14_e",
       "speech_window": "Speech",
-      "highlight": "Notification",
-      "speaker": "Notification",
+      "highlight": "notification",
+      "speaker": "notification",
       "scenario_localkey": "Locale_MainScenario:d_main_24_14_e_127",
       "play_lipSync": true,
       "characters": [
@@ -4975,8 +4978,8 @@
       "id": "d_main_24_14_e_128",
       "group_id": "d_main_24_14_e",
       "speech_window": "Speech",
-      "highlight": "Notification",
-      "speaker": "Notification",
+      "highlight": "notification",
+      "speaker": "notification",
       "scenario_localkey": "Locale_MainScenario:d_main_24_14_e_128",
       "play_lipSync": true,
       "characters": [
@@ -5003,8 +5006,8 @@
       "id": "d_main_24_14_e_129",
       "group_id": "d_main_24_14_e",
       "speech_window": "Speech",
-      "highlight": "Notification",
-      "speaker": "Notification",
+      "highlight": "notification",
+      "speaker": "notification",
       "scenario_localkey": "Locale_MainScenario:d_main_24_14_e_129",
       "play_lipSync": true,
       "characters": [
@@ -5051,7 +5054,11 @@
       "set_end_camera": "redhood_fullactive_all",
       "set_camera_duration": 1.0,
       "effects": [
-        {},
+        {
+          "play_effect_id": "fx_EventScene_Chap_24_05",
+          "stop_effect_id": "fx_EventScene_Chap_24_04",
+          "set_effect_position": "fx_EventScene_Chap_24_04_smoke"
+        },
         {}
       ]
     },
@@ -5059,8 +5066,8 @@
       "id": "d_main_24_14_e_131",
       "group_id": "d_main_24_14_e",
       "speech_window": "Speech",
-      "highlight": "Notification",
-      "speaker": "Notification",
+      "highlight": "notification",
+      "speaker": "notification",
       "scenario_localkey": "Locale_MainScenario:d_main_24_14_e_131",
       "play_lipSync": true,
       "characters": [
@@ -5087,8 +5094,8 @@
       "id": "d_main_24_14_e_132",
       "group_id": "d_main_24_14_e",
       "speech_window": "Speech",
-      "highlight": "Notification",
-      "speaker": "Notification",
+      "highlight": "notification",
+      "speaker": "notification",
       "scenario_localkey": "Locale_MainScenario:d_main_24_14_e_132",
       "play_lipSync": true,
       "characters": [
@@ -5219,7 +5226,9 @@
       "set_end_camera": "redhood_fullactive_03",
       "set_camera_duration": 1.0,
       "effects": [
-        {},
+        {
+          "stop_effect_id": "fx_EventScene_Chap_24_05"
+        },
         {}
       ]
     },

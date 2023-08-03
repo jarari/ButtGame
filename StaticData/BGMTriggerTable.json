@@ -218,6 +218,24 @@
       "bgm_loop": "ambient_chapter_9"
     },
     {
+      "id": 1000024,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "24",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_chapter_9"
+    },
+    {
+      "id": 1000025,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "24",
+      "default": true,
+      "bgm_trigger_event_value": 1,
+      "bgm_loop": "ambient_chapter_24_inmmr"
+    },
+    {
       "id": 1001001,
       "bgm_type": "ambient",
       "bgm_sub_type": "lost_sector",
@@ -11427,6 +11445,42 @@
       "bgm_loop": "event_bgm_boss_ce01"
     },
     {
+      "id": 7000017,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "raid",
+      "type_value": "bbg004_psid",
+      "default": false,
+      "bgm_trigger_event_type": "target_appear",
+      "bgm_loop": "bgm_boss_bbg004"
+    },
+    {
+      "id": 7000018,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "raid",
+      "type_value": "bbg004_zeus",
+      "default": false,
+      "bgm_trigger_event_type": "target_appear",
+      "bgm_loop": "bgm_boss_bbg004"
+    },
+    {
+      "id": 7000019,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "raid",
+      "type_value": "bbg004_dmtr",
+      "default": false,
+      "bgm_trigger_event_type": "target_appear",
+      "bgm_loop": "bgm_boss_bbg004"
+    },
+    {
+      "id": 7000020,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "raid",
+      "type_value": "mbg001_psid",
+      "default": false,
+      "bgm_trigger_event_type": "target_appear",
+      "bgm_loop": "bgm_boss_mbg001"
+    },
+    {
       "id": 8000001,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "event_stage",
@@ -12576,6 +12630,33 @@
       "bgm_loop": "bgm_spot_splinter_b"
     },
     {
+      "id": 9020003,
+      "bgm_type": "outgame_bgm",
+      "type_value": "15003",
+      "event_id": 30016,
+      "default": false,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_stormfield"
+    },
+    {
+      "id": 9020004,
+      "bgm_type": "outgame_bgm",
+      "type_value": "15003",
+      "event_id": 30017,
+      "default": false,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_stormfield"
+    },
+    {
+      "id": 9020005,
+      "bgm_type": "outgame_bgm",
+      "type_value": "15003",
+      "event_id": 30018,
+      "default": false,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_stormfield"
+    },
+    {
       "id": 9030001,
       "bgm_type": "outgame_bgm",
       "type_value": "6059",
@@ -12849,6 +12930,207 @@
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "event_bgm_goldenship"
+    },
+    {
+      "id": 9910701,
+      "bgm_type": "event_field_bgm",
+      "type_value": "10005",
+      "default": true,
+      "bgm_loop": "event_bgm_summerseaside_inst"
+    },
+    {
+      "id": 9910702,
+      "bgm_type": "event_field_bgm",
+      "type_value": "100502",
+      "default": false,
+      "bgm_loop": "event_bgm_stormfield"
+    },
+    {
+      "id": 9910703,
+      "bgm_type": "event_field_bgm",
+      "type_value": "100505",
+      "default": false,
+      "bgm_loop": "event_bgm_soplayful"
+    },
+    {
+      "id": 9910704,
+      "bgm_type": "event_field_bgm",
+      "type_value": "100508",
+      "default": false,
+      "bgm_loop": "event_bgm_summerseaside_inst"
+    },
+    {
+      "id": 9910705,
+      "bgm_type": "event_field_bgm",
+      "type_value": "100511",
+      "default": false,
+      "bgm_loop": "event_bgm_stormfield"
+    },
+    {
+      "id": 9910706,
+      "bgm_type": "event_field_bgm",
+      "type_value": "100514",
+      "default": false,
+      "bgm_loop": "event_bgm_soplayful"
+    },
+    {
+      "id": 9910707,
+      "bgm_type": "event_field_bgm",
+      "type_value": "100517",
+      "default": false,
+      "bgm_loop": "event_bgm_summerseaside"
+    },
+    {
+      "id": 9910708,
+      "bgm_type": "event_field_bgm",
+      "type_value": "100520",
+      "default": false,
+      "bgm_loop": "event_bgm_stormfield"
+    },
+    {
+      "id": 9910709,
+      "bgm_type": "event_field_bgm",
+      "type_value": "100523",
+      "default": false,
+      "bgm_loop": "event_bgm_soplayful"
+    },
+    {
+      "id": 9910710,
+      "bgm_type": "event_field_bgm",
+      "type_value": "100526",
+      "default": false,
+      "bgm_loop": "event_bgm_summerseaside"
+    },
+    {
+      "id": 9910711,
+      "bgm_type": "story_event_bgm",
+      "type_value": "10024",
+      "default": true,
+      "bgm_loop": "event_bgm_summerseaside_inst"
+    },
+    {
+      "id": 9910712,
+      "bgm_type": "story_event_bgm",
+      "type_value": "10025",
+      "default": true,
+      "bgm_loop": "event_bgm_stormfield"
+    },
+    {
+      "id": 9910713,
+      "bgm_type": "outgame_bgm",
+      "type_value": "80001",
+      "event_id": 80603,
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_bbq_minigame_title"
+    },
+    {
+      "id": 9910714,
+      "bgm_type": "outgame_bgm",
+      "type_value": "80002",
+      "event_id": 80603,
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_bbq_minigame_main"
+    },
+    {
+      "id": 9910715,
+      "bgm_type": "outgame_bgm",
+      "type_value": "80003",
+      "event_id": 80603,
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_bbq_minigame_title"
+    },
+    {
+      "id": 9910716,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "event_field",
+      "type_value": "10005",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_chapter_summernight"
+    },
+    {
+      "id": 9910717,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "event_field",
+      "type_value": "100502",
+      "default": false,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_chapter_storm"
+    },
+    {
+      "id": 9910718,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "event_field",
+      "type_value": "100505",
+      "default": false,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_chapter_bluewaterisland"
+    },
+    {
+      "id": 9910719,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "event_field",
+      "type_value": "100508",
+      "default": false,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_chapter_summernight"
+    },
+    {
+      "id": 9910720,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "event_field",
+      "type_value": "100511",
+      "default": false,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_chapter_storm"
+    },
+    {
+      "id": 9910721,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "event_field",
+      "type_value": "100514",
+      "default": false,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_chapter_bluewaterisland"
+    },
+    {
+      "id": 9910722,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "event_field",
+      "type_value": "100517",
+      "default": false,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_chapter_summernight"
+    },
+    {
+      "id": 9910723,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "event_field",
+      "type_value": "100520",
+      "default": false,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_chapter_storm"
+    },
+    {
+      "id": 9910724,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "event_field",
+      "type_value": "100523",
+      "default": false,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_chapter_bluewaterisland"
+    },
+    {
+      "id": 9910725,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "event_field",
+      "type_value": "100526",
+      "default": false,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_chapter_summernight"
     }
   ]
 }

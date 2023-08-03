@@ -2251,6 +2251,2388 @@
       "balloon_always_cycle": 6
     },
     {
+      "id": 112,
+      "list_button_index": 1,
+      "event_field_id": 10005,
+      "npc_localkey_name": "Locale_Character:npc_5025_name",
+      "npc_localkey_contents": "Locale_Event:event_contents_storydungeon_before",
+      "npc_type": "npc",
+      "resource_id": 7003003,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 40024
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false
+    },
+    {
+      "id": 113,
+      "event_field_id": 10005,
+      "npc_localkey_name": "Locale_Character:npc_5024_name",
+      "npc_type": "npc",
+      "resource_id": 7003002,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200501
+    },
+    {
+      "id": 114,
+      "list_button_index": 2,
+      "event_field_id": 10005,
+      "npc_localkey_name": "Locale_Character:npc_5024_name",
+      "npc_localkey_contents": "Locale_Event:event_contents_storydungeon_after",
+      "npc_type": "npc",
+      "resource_id": 7003002,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 40025
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200502
+    },
+    {
+      "id": 115,
+      "list_button_index": 5,
+      "event_field_id": 10005,
+      "npc_localkey_name": "Locale_Character:npc_5023_name",
+      "npc_localkey_contents": "Locale_Event:event_contents_login",
+      "npc_type": "npc",
+      "resource_id": 7003001,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 80601
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": true
+    },
+    {
+      "id": 116,
+      "list_button_index": 6,
+      "event_field_id": 10005,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_03",
+      "npc_localkey_contents": "Locale_Event:event_contents_shop",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 80602
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": true
+    },
+    {
+      "id": 117,
+      "event_field_id": 10005,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_05",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200503
+    },
+    {
+      "id": 118,
+      "list_button_index": 4,
+      "event_field_id": 10005,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_05",
+      "npc_localkey_contents": "Locale_Event:event_contents_minigame",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 80603
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200504
+    },
+    {
+      "id": 119,
+      "list_button_index": 3,
+      "event_field_id": 10005,
+      "npc_localkey_name": "Locale_Character:npc_5001_name",
+      "npc_localkey_contents": "Locale_Event:event_contents_challenge",
+      "npc_type": "npc",
+      "resource_id": 7001007,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 60024
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false
+    },
+    {
+      "id": 120,
+      "list_button_index": 7,
+      "event_field_id": 10005,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_04",
+      "npc_localkey_contents": "Locale_Event:cooperation_event_name",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 30016,
+          "event_type": "Cooperation",
+          "event_resource_value": "30016"
+        },
+        {
+          "event_id": 30017,
+          "event_type": "Cooperation",
+          "event_resource_value": "30017"
+        },
+        {
+          "event_id": 30018,
+          "event_type": "Cooperation",
+          "event_resource_value": "30018"
+        }
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false
+    },
+    {
+      "id": 121,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 353,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200505,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_01",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 122,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 15,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200506,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_02",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 123,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 10,
+      "costume_index": 2,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200507,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_03",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 124,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 14,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200508,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_04",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 125,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 132,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200509,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_05",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 126,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 131,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200510,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_06",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 127,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 201,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200511,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_07",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 128,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 142,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200512,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_08",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 129,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 82,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200513,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_09",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 130,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 353,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200514,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_10",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 131,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 15,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200515,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_11",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 132,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 10,
+      "costume_index": 2,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200516,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_12",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 133,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 14,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200517,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_13",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 134,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 132,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200518,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_14",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 135,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 131,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200519,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_15",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 136,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 201,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200520,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_16",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 137,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 142,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200521,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_17",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 138,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 82,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200522,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_18",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 139,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 353,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200523,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_19",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 140,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 15,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200524,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_20",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 141,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 82,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200525,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_21",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 142,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 353,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200526,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_22",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 143,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 15,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200527,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_23",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 144,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 10,
+      "costume_index": 2,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200528,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_24",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 145,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 14,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200529,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_25",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 146,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 132,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200530,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_26",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 147,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 131,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200531,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_27",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 148,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 201,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200532,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_28",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 149,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 142,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200533,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_29",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 150,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 82,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200534,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_30",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 151,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 353,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200535,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_31",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 152,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 15,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200536,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_32",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 153,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 132,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200537,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_33",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 154,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 131,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200538,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_34",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 155,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 353,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200539,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_35",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 156,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 15,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200540,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_36",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 157,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 10,
+      "costume_index": 2,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200541,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_37",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 158,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 14,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200542,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_38",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 159,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 132,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200543,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_39",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 160,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 131,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200544,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_40",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 161,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 201,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200545,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_41",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 162,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 142,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200546,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_42",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 163,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 82,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200547,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_43",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 164,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 353,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200548,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_44",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 165,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 15,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200549,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_45",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 166,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 10,
+      "costume_index": 2,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200550,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_46",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 167,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 14,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200551,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_47",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 168,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 132,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200552,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_48",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 169,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 131,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200553,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_49",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 170,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 201,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200554,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_50",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 171,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 142,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200555,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_51",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 172,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 82,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200556,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_52",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 173,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 15,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200557,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_53",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 174,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 10,
+      "costume_index": 2,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200558,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_54",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 175,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 14,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200559,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_55",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 176,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 132,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200560,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_56",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 177,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 131,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200561,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_57",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 178,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 201,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200562,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_58",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 179,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 142,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200563,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_59",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 180,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 82,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200564,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_60",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 181,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003007,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200565
+    },
+    {
+      "id": 182,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003008,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200566
+    },
+    {
+      "id": 183,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003009,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200567
+    },
+    {
+      "id": 184,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003010,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200568
+    },
+    {
+      "id": 185,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003011,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200569
+    },
+    {
+      "id": 186,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003012,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200570
+    },
+    {
+      "id": 187,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003013,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200571
+    },
+    {
+      "id": 188,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003014,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200572
+    },
+    {
+      "id": 189,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003015,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200573
+    },
+    {
+      "id": 190,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003016,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200574
+    },
+    {
+      "id": 191,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003017,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200575
+    },
+    {
+      "id": 192,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003018,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200576
+    },
+    {
+      "id": 193,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 353,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200577,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_72",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 194,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 15,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200578,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_73",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 195,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 10,
+      "costume_index": 2,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200579,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_74",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 196,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 14,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200580,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_75",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 197,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 132,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200581,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_76",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 198,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 131,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200582,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_77",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 199,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 201,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200583,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_78",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 200,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 142,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200584,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_79",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 201,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 82,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200585,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_80",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 202,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 350,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200586,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_81",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 203,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 351,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200587,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_82",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 204,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 353,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200588,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_83",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 205,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 15,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200589,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_84",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 206,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 10,
+      "costume_index": 2,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200590,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_85",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 207,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 14,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200591,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_86",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 208,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 132,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200592,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_87",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 209,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 131,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200593,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_88",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 210,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 201,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200594,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_89",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 211,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 142,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200595,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_90",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 212,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 82,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200596,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_91",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 213,
+      "event_field_id": 10005,
+      "npc_type": "character",
+      "resource_id": 350,
+      "costume_index": 1,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200597,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_92",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 214,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003017,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 200598,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_seayouagain_balloon_93",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
+    },
+    {
+      "id": 215,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003019,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005001
+    },
+    {
+      "id": 216,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003019,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005002
+    },
+    {
+      "id": 217,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003019,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005003
+    },
+    {
+      "id": 218,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003019,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005004
+    },
+    {
+      "id": 219,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003019,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005005
+    },
+    {
+      "id": 220,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003019,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005006
+    },
+    {
+      "id": 221,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003019,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005007
+    },
+    {
+      "id": 222,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003019,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005008
+    },
+    {
+      "id": 223,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003019,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005009
+    },
+    {
+      "id": 224,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003019,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005010
+    },
+    {
+      "id": 225,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003019,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005011
+    },
+    {
+      "id": 226,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003019,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005012
+    },
+    {
+      "id": 227,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003019,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005013
+    },
+    {
+      "id": 228,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003019,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005014
+    },
+    {
+      "id": 229,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003019,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005015
+    },
+    {
+      "id": 230,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003019,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005016
+    },
+    {
+      "id": 231,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003004,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005017
+    },
+    {
+      "id": 232,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003005,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005018
+    },
+    {
+      "id": 233,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003006,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005019
+    },
+    {
+      "id": 234,
+      "event_field_id": 10005,
+      "npc_type": "npc",
+      "resource_id": 7003005,
+      "name_tag_resource": "sprite_event_seayouagain",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "interaction_marker": "sprite_btn_event_seayouagain",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2005020
+    },
+    {
       "id": 9991,
       "event_field_id": 99999,
       "npc_localkey_name": "Locale_Character:10_name",

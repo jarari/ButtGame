@@ -1,0 +1,3484 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_ex_seayouagain_18_1",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_1",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "mast_s",
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "helm_s",
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "LogHouseIn_n",
+      "set_start_camera": "17",
+      "set_end_camera": "17",
+      "set_camera_duration": 1.0,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_2",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_2",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "17",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_leisuretime",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_3",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_3",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_4",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "helm_s",
+      "speaker": "helm_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_4",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "5",
+      "set_end_camera": "50",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_5",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "helm_s",
+      "speaker": "helm_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_5",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "50",
+      "set_end_camera": "50",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_6",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_6",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 0.7,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_7",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_7",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_8",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_8",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_9",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_9",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_10",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_10",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_11",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "helm_s",
+      "speaker": "helm_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_30",
+      "set_end_camera": "4",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_12",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_12",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "4",
+      "set_end_camera": "4",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_13",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Choice",
+      "speaker": "Choice",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_13",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "4",
+      "set_end_camera": "4",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_ex_seayouagain_18_15"
+    },
+    {
+      "id": "d_ex_seayouagain_18_14",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Choice",
+      "speaker": "Choice",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_14",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "4",
+      "set_end_camera": "4",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_ex_seayouagain_18_15"
+    },
+    {
+      "id": "d_ex_seayouagain_18_15",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_15",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "4",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_16",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_16",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_17",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_17",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_18",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_18",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "sad2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_19",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "helm_s",
+      "speaker": "helm_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_19",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "sad2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "4",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_20",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "helm_s",
+      "speaker": "helm_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_20",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "4",
+      "set_end_camera": "4",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_21",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "helm_s",
+      "speaker": "helm_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_21",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "4",
+      "set_end_camera": "4",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_22",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "helm_s",
+      "speaker": "helm_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_22",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "4",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_23",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_23",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_24",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_24",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_25",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_25",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {
+          "hide_char_id": "helm_s",
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_26",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_26",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_27",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_27",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_28",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_28",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_29",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_29",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_30",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_30",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_31",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_31",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_32",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_32",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_33",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_33",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_34",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_34",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_35",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_35",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_36",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_36",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_37",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_37",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_38",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_38",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_39",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_39",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_40",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_40",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_41",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_41",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_30",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_42",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_42",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_43",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_43",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "d_ex_seayouagain_18_44",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_44",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "17",
+      "set_end_camera": "1700",
+      "set_camera_duration": 0.3,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_45",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_45",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1700",
+      "set_end_camera": "1700",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_46",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_46",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1700",
+      "set_end_camera": "1700",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_47",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_47",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1700",
+      "set_end_camera": "1700",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_48",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_48",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1700",
+      "set_end_camera": "1700",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_49",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_49",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_30",
+      "set_end_camera": "S_300",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_50",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_50",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_300",
+      "set_end_camera": "S_300",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_51",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_51",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_52",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_52",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_53",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_53",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_54",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_54",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_55",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_55",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_56",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_56",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_30",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_57",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_57",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_58",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_58",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_59",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_59",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_60",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_60",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_61",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_61",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_62",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_62",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_63",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_63",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "17",
+      "set_end_camera": "170",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_64",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_64",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "170",
+      "set_end_camera": "1700",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "d_ex_seayouagain_18_65",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_65",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "d_ex_seayouagain_18_66",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_66",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_67",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_67",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_68",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_68",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "17",
+      "set_end_camera": "170",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "d_ex_seayouagain_18_69",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_69",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "170",
+      "set_end_camera": "1700",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "d_ex_seayouagain_18_70",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_70",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_71",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_71",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_72",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_72",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1700",
+      "set_end_camera": "1700",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_73",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_73",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 0.7,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_74",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_74",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_75",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_75",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_76",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_76",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_77",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_77",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_78",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_78",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_79",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_79",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_80",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_80",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_81",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_81",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_82",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_82",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_83",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_83",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle2"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_30",
+      "set_end_camera": "S_30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_84",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_84",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_30",
+      "set_end_camera": "S_30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_85",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_85",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_30",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_86",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_86",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_87",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_87",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_88",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_88",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_89",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_89",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_90",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_90",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_91",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_91",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_92",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "anchor",
+      "speaker": "anchor",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_92",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_93",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_93",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "angry"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_94",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Speech",
+      "highlight": "mast_s",
+      "speaker": "mast_s",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_94",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_ex_seayouagain_18_95",
+      "event_id": 80600,
+      "group_id": "d_ex_seayouagain_18",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_SuddenStory:d_ex_seayouagain_18_95",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anchor",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

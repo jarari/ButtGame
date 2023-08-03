@@ -318,6 +318,37 @@
       "ui_prefab": "goldenship"
     },
     {
+      "id": 10024,
+      "event_id": 40024,
+      "name": "Locale_System:STORY_DUNGEON_TITLE24",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION24",
+      "prologue_scenario": "event_seayouagain1_prologue",
+      "auto_charge_id": 10024,
+      "event_item_type": "Item",
+      "event_item_id": 7060024,
+      "dungeon_id": 24,
+      "album_category_group": 1024,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "ui_prefab": "seayouagain_part01"
+    },
+    {
+      "id": 10025,
+      "event_id": 40025,
+      "name": "Locale_System:STORY_DUNGEON_TITLE25",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION25",
+      "auto_charge_id": 10024,
+      "event_item_type": "Item",
+      "event_item_id": 7060024,
+      "dungeon_id": 25,
+      "album_category_group": 1025,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "ui_prefab": "seayouagain_part02"
+    },
+    {
       "id": 40001,
       "event_id": 60001,
       "name": "Locale_System:STORY_DUNGEON_TITLE",
@@ -406,6 +437,21 @@
       "contents_shop_id": 0,
       "dice_id": 0,
       "challenge_monster_resource": "full_ebg001"
+    },
+    {
+      "id": 40024,
+      "event_id": 60024,
+      "name": "Locale_System:STORY_DUNGEON_TITLE",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION",
+      "auto_charge_id": 40024,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1024,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_mbg002"
     }
   ]
 }
