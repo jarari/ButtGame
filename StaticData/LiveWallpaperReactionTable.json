@@ -1070,18 +1070,6 @@
       "order": 3
     },
     {
-      "id": 2504,
-      "reaction_target_id": 25,
-      "reaction_type": "Touch",
-      "speecher_type": "Character",
-      "speecher_resource_id": 350,
-      "locale_file": "Locale_MainScenario",
-      "target_chapter": 0,
-      "speech_localkey": "Locale_MainScenario:event_seayouagain2_06_s_25",
-      "reaction_voice": "event_seayouagain2_06_s_25",
-      "order": 4
-    },
-    {
       "id": 2505,
       "reaction_target_id": 25,
       "reaction_type": "Touch",
@@ -1091,7 +1079,7 @@
       "target_chapter": 0,
       "speech_localkey": "Locale_MainScenario:event_seayouagain2_06_s_40",
       "reaction_voice": "event_seayouagain2_06_s_40",
-      "order": 5
+      "order": 4
     },
     {
       "id": 2506,
@@ -1103,7 +1091,7 @@
       "target_chapter": 0,
       "speech_localkey": "Locale_MainScenario:event_seayouagain2_06_s_41",
       "reaction_voice": "event_seayouagain2_06_s_41",
-      "order": 6
+      "order": 5
     },
     {
       "id": 2507,
@@ -3035,6 +3023,30 @@
       "target_chapter": 0,
       "speech_localkey": "Locale_LiveWallpaper:live_wallpaper_desc_50351",
       "reaction_voice": "c351_Ult_Skill_1",
+      "order": 1
+    },
+    {
+      "id": 5009000,
+      "reaction_target_id": 5026001,
+      "reaction_type": "Touch",
+      "speecher_type": "Character",
+      "speecher_resource_id": 260,
+      "locale_file": "Locale_LiveWallpaper",
+      "target_chapter": 0,
+      "speech_localkey": "Locale_LiveWallpaper:live_wallpaper_desc_5026001",
+      "reaction_voice": "c260_01_Ult_Skill_1",
+      "order": 1
+    },
+    {
+      "id": 5009001,
+      "reaction_target_id": 5026001,
+      "reaction_type": "Stay",
+      "speecher_type": "Character",
+      "speecher_resource_id": 260,
+      "locale_file": "Locale_LiveWallpaper",
+      "target_chapter": 0,
+      "speech_localkey": "Locale_LiveWallpaper:live_wallpaper_desc_5026001",
+      "reaction_voice": "c260_01_Ult_Skill_1",
       "order": 1
     }
   ]

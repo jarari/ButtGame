@@ -2,19 +2,3319 @@
   "version": "0.0.1",
   "records": [
     {
-      "id": "event_firstaffection_03_01",
-      "event_id": 0,
+      "id": "event_firstaffection_3_1",
+      "event_id": 130002,
       "group_id": "event_firstaffection_03",
       "speech_window": "Speech",
-      "highlight": "shifty",
-      "speaker": "shifty",
-      "scenario_localkey": "Locale_SubScenario:event_fullfoolday_01_3",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_1",
       "play_lipSync": true,
       "characters": [
         {
-          "set_char_position": "OP_center",
+          "show_char_id": "marian_p",
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "anis",
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "show_char_id": "neon",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "rapi",
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "NikkeRoom",
+      "set_start_camera": "9",
+      "set_end_camera": "3",
+      "set_camera_duration": 2.0,
+      "play_bgm": "bgm_story_herecomestrouble",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_2",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_2",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "3",
+      "set_end_camera": "3",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_3",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "neon",
+      "speaker": "neon",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_3",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "3",
+      "set_end_camera": "113",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_4",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_4",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "13",
           "set_char_anim": "think"
         },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "113",
+      "set_end_camera": "113",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_5",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "neon",
+      "speaker": "neon",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_5",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "113",
+      "set_end_camera": "113",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_6",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_6",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "113",
+      "set_end_camera": "113",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_7",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_7",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "113",
+      "set_end_camera": "9",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_8",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_8",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "9",
+      "set_end_camera": "90",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_9",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "neon",
+      "speaker": "neon",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_9",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "90",
+      "set_end_camera": "90",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_10",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_10",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "90",
+      "set_end_camera": "900",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_11",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "900",
+      "set_end_camera": "900",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_12",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_12",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "113",
+      "set_end_camera": "113",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_13",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_13",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "113",
+      "set_end_camera": "113",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_14",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_14",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "113",
+      "set_end_camera": "113",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_15",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "neon",
+      "speaker": "neon",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_15",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "113",
+      "set_end_camera": "113",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_16",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_16",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "113",
+      "set_end_camera": "113",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_17",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "neon",
+      "speaker": "neon",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_17",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "113",
+      "set_end_camera": "113",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_18",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_18",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "113",
+      "set_end_camera": "31",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_19",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_19",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "9",
+          "set_char_anim": "delight"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "31",
+      "set_end_camera": "113",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_20",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_20",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "hide_char_id": "marian_p",
+          "set_char_position": "9",
+          "set_char_anim": "delight"
+        },
+        {
+          "hide_char_id": "anis",
+          "set_char_position": "3",
+          "set_char_anim": "angry"
+        },
+        {
+          "hide_char_id": "neon",
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {
+          "hide_char_id": "rapi",
+          "set_char_position": "13",
+          "set_char_anim": "angry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "ShowerRoom",
+      "set_start_camera": "9",
+      "set_end_camera": "1",
+      "set_camera_duration": 3.0,
+      "play_bgm": "bgm_story_whosdumber",
+      "effects": [
+        {},
+        {}
+      ],
+      "fade": "black"
+    },
+    {
+      "id": "event_firstaffection_3_21",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "neon",
+      "speaker": "neon",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_21",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_22",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_22",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_23",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_23",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_24",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_24",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_25",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_25",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_26",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Self",
+      "highlight": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_26",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_27",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_27",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_28",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_28",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_29",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Self",
+      "highlight": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_29",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_30",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_30",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_31",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Narration",
+      "highlight": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_31",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "fade": "black"
+    },
+    {
+      "id": "event_firstaffection_3_32",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_32",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_33",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_33",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_34",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_34",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_35",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_35",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_36",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_36",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_37",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "neon",
+      "speaker": "neon",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_37",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_38",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_38",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_39",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "neon",
+      "speaker": "neon",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_39",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_40",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_40",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_41",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_41",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_42",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_42",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_43",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_43",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_44",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_44",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_45",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_45",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_46",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "neon",
+      "speaker": "neon",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_46",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_47",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_47",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_48",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_48",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_49",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_49",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_50",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_50",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_51",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Narration",
+      "highlight": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_51",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_stockingripped",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_52",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_52",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_53",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_53",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_54",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "neon",
+      "speaker": "neon",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_54",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_55",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_55",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_56",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_56",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_57",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Self",
+      "highlight": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_57",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_58",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_58",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_59",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_59",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_60",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Self",
+      "highlight": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_60",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_61",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_61",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_62",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_62",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_63",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Self",
+      "highlight": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_63",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_64",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Monologue",
+      "highlight": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_64",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "CommanderRoom",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "fade": "black"
+    },
+    {
+      "id": "event_firstaffection_3_65",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Monologue",
+      "highlight": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_65",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_66",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Monologue",
+      "highlight": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_66",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_67",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Monologue",
+      "highlight": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_67",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_68",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Monologue",
+      "highlight": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_68",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "ShowerRoom",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_69",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_69",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_70",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_70",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_71",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_71",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_72",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_72",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_73",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_73",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_74",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Self",
+      "highlight": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_74",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_75",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_75",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_76",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_76",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_77",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_77",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_78",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_78",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_79",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_79",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_80",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_80",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_81",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "neon",
+      "speaker": "neon",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_81",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_82",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_82",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_83",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_83",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_84",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_84",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_85",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_85",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_86",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_86",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_87",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_87",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_88",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_88",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_89",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_89",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_90",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Self",
+      "highlight": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_90",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_91",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_91",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_92",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_92",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_93",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Self",
+      "highlight": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_93",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_94",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_94",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_95",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_95",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_96",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_96",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_97",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_97",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_98",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_98",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_99",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_99",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_100",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "marian_p",
+      "speaker": "marian_p",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_100",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_101",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_101",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_102",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "neon",
+      "speaker": "neon",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_102",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_103",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_103",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_104",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Self",
+      "highlight": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_104",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_105",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_105",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_firstaffection_3_106",
+      "event_id": 130002,
+      "group_id": "event_firstaffection_03",
+      "speech_window": "Self",
+      "highlight": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_SubScenario:event_firstaffection_3_106",
+      "play_lipSync": false,
+      "characters": [
+        {},
         {},
         {},
         {},
