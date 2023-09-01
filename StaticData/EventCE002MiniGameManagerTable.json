@@ -1,0 +1,28 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "event_id": 80703,
+      "ui_prefab": "CE002MiniGame",
+      "enter_scenario": "d_contents_ce002_mini_01",
+      "ce002minigame_data_group": 1,
+      "end_alert_start_time": 1000,
+      "player_full_resource": "ce002_minigame_player_full",
+      "player_hit_1_resource": "ce002_minigame_player_hit_1",
+      "player_hit_2_resource": "ce002_minigame_player_hit_2",
+      "player_hp": 300,
+      "player_size_ratio": 50,
+      "player_move_speed": 1000,
+      "player_angle_rotational_per_sec": 60000,
+      "enermy_search_distance": 20000,
+      "hit_damage_immune_time": 100,
+      "player_projectile_damage": 100,
+      "player_projectile_per_sec": 1000,
+      "player_projectile_speed": 2000,
+      "player_projectile_duration": 3000,
+      "enermy_projectile_autotarget": true,
+      "tutorial_group_id": 1001
+    }
+  ]
+}

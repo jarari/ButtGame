@@ -349,6 +349,37 @@
       "ui_prefab": "seayouagain_part02"
     },
     {
+      "id": 10026,
+      "event_id": 40026,
+      "name": "Locale_System:STORY_DUNGEON_TITLE26",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION26",
+      "prologue_scenario": "event_ce02_1_prologue",
+      "auto_charge_id": 10026,
+      "event_item_type": "Item",
+      "event_item_id": 7060026,
+      "dungeon_id": 26,
+      "album_category_group": 1026,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "ui_prefab": "ce002_part1"
+    },
+    {
+      "id": 10027,
+      "event_id": 40027,
+      "name": "Locale_System:STORY_DUNGEON_TITLE27",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION27",
+      "auto_charge_id": 10026,
+      "event_item_type": "Item",
+      "event_item_id": 7060026,
+      "dungeon_id": 27,
+      "album_category_group": 1027,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "ui_prefab": "ce002_part2"
+    },
+    {
       "id": 40001,
       "event_id": 60001,
       "name": "Locale_System:STORY_DUNGEON_TITLE",
@@ -452,6 +483,21 @@
       "contents_shop_id": 0,
       "dice_id": 0,
       "challenge_monster_resource": "full_mbg002"
+    },
+    {
+      "id": 40026,
+      "event_id": 60026,
+      "name": "Locale_System:STORY_DUNGEON_TITLE",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION",
+      "auto_charge_id": 40026,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1026,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_ebg002_dmtr"
     }
   ]
 }

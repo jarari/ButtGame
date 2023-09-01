@@ -1072,6 +1072,68 @@
       "trigger_active_type": "OncePerDay",
       "trigger_action_type": "Manual",
       "interaction_marker_resource": "sprite_btn_timeline_trigger"
+    },
+    {
+      "id": 300601,
+      "field_type": "Event",
+      "field_id": 10006,
+      "trigger_type": "TimeLineAction",
+      "trigger_type_value": "febg_factory_001_timeline_butterfly",
+      "quest_type": "None",
+      "is_awake_load": true,
+      "is_use_spawn_condition": false,
+      "is_use_despawn_condition": false,
+      "trigger_active_type": "Repeat",
+      "trigger_action_type": "Manual",
+      "interaction_marker_resource": "sprite_btn_timeline_trigger"
+    },
+    {
+      "id": 300602,
+      "field_type": "Event",
+      "field_id": 10006,
+      "trigger_type": "TimeLineAction",
+      "trigger_type_value": "febg_factory_001_timeline_c303_1",
+      "quest_type": "None",
+      "is_awake_load": false,
+      "is_use_spawn_condition": true,
+      "spawn_condition_time": "2023-09-01T20:00:00",
+      "is_use_despawn_condition": true,
+      "despawn_condition_field_item": 55006105,
+      "trigger_active_type": "Once",
+      "trigger_action_type": "Manual",
+      "interaction_marker_resource": "sprite_btn_timeline_trigger"
+    },
+    {
+      "id": 300603,
+      "field_type": "Event",
+      "field_id": 10006,
+      "trigger_type": "TimeLineAction",
+      "trigger_type_value": "febg_factory_001_timeline_box",
+      "quest_type": "None",
+      "is_awake_load": false,
+      "is_use_spawn_condition": true,
+      "spawn_condition_time": "2023-09-02T20:00:00",
+      "is_use_despawn_condition": true,
+      "despawn_condition_field_item": 55006135,
+      "trigger_active_type": "Once",
+      "trigger_action_type": "Manual",
+      "interaction_marker_resource": "sprite_btn_timeline_trigger"
+    },
+    {
+      "id": 300604,
+      "field_type": "Event",
+      "field_id": 10006,
+      "trigger_type": "TimeLineAction",
+      "trigger_type_value": "febg_factory_001_timeline_c303",
+      "quest_type": "None",
+      "is_awake_load": false,
+      "is_use_spawn_condition": true,
+      "spawn_condition_time": "2023-09-10T20:00:00",
+      "is_use_despawn_condition": true,
+      "despawn_condition_field_item": 55006115,
+      "trigger_active_type": "Once",
+      "trigger_action_type": "Manual",
+      "interaction_marker_resource": "sprite_btn_timeline_trigger"
     }
   ]
 }

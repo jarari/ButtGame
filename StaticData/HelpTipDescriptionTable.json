@@ -90,7 +90,7 @@
       "group": 100,
       "order": 13,
       "type": "Description",
-      "value": "HELP_NIKKE_04_02"
+      "value": "HELP_NIKKE_04_02_230901"
     },
     {
       "id": 10014,
@@ -98,6 +98,27 @@
       "order": 14,
       "type": "Description",
       "value": "HELP_NIKKE_04_03"
+    },
+    {
+      "id": 10015,
+      "group": 100,
+      "order": 15,
+      "type": "Description",
+      "value": "HELP_NIKKE_04_04"
+    },
+    {
+      "id": 10016,
+      "group": 100,
+      "order": 16,
+      "type": "Description",
+      "value": "HELP_NIKKE_04_05"
+    },
+    {
+      "id": 10017,
+      "group": 100,
+      "order": 17,
+      "type": "Description",
+      "value": "HELP_NIKKE_04_06"
     },
     {
       "id": 11001,
@@ -4111,72 +4132,79 @@
       "value": "HELP_SORTOUT_EVENT_07_02"
     },
     {
-      "id": 47001,
+      "id": 47000,
       "group": 470,
       "order": 1,
+      "type": "Image",
+      "value": "guide_con_pass"
+    },
+    {
+      "id": 47001,
+      "group": 470,
+      "order": 2,
       "type": "Title",
       "value": "HELP_PASS_01"
     },
     {
       "id": 47002,
       "group": 470,
-      "order": 2,
+      "order": 3,
       "type": "Description",
       "value": "HELP_PASS_01_01"
     },
     {
       "id": 47003,
       "group": 470,
-      "order": 3,
+      "order": 4,
       "type": "Description",
       "value": "HELP_PASS_01_02"
     },
     {
       "id": 47004,
       "group": 470,
-      "order": 4,
+      "order": 5,
       "type": "Description",
       "value": "HELP_PASS_01_03"
     },
     {
       "id": 47005,
       "group": 470,
-      "order": 5,
+      "order": 6,
       "type": "Title",
       "value": "HELP_PASS_02"
     },
     {
       "id": 47006,
       "group": 470,
-      "order": 6,
+      "order": 7,
       "type": "Description",
       "value": "HELP_PASS_02_01"
     },
     {
       "id": 47007,
       "group": 470,
-      "order": 7,
+      "order": 8,
       "type": "Description",
       "value": "HELP_PASS_02_02"
     },
     {
       "id": 47008,
       "group": 470,
-      "order": 8,
+      "order": 9,
       "type": "Title",
       "value": "HELP_PASS_03"
     },
     {
       "id": 47009,
       "group": 470,
-      "order": 9,
+      "order": 10,
       "type": "Description",
       "value": "HELP_PASS_03_01"
     },
     {
       "id": 47010,
       "group": 470,
-      "order": 10,
+      "order": 11,
       "type": "Description",
       "value": "HELP_PASS_03_02"
     },
@@ -4331,34 +4359,41 @@
       "id": 48114,
       "group": 481,
       "order": 14,
-      "type": "Description",
-      "value": "HELP_PASS_02_01"
+      "type": "Image",
+      "value": "guide_con_pass"
     },
     {
       "id": 48115,
       "group": 481,
       "order": 15,
       "type": "Description",
-      "value": "HELP_PASS_02_02"
+      "value": "HELP_PASS_02_01"
     },
     {
       "id": 48116,
       "group": 481,
       "order": 16,
-      "type": "Title",
-      "value": "HELP_COMEBACK_EVENT_06"
+      "type": "Description",
+      "value": "HELP_PASS_02_02"
     },
     {
       "id": 48117,
       "group": 481,
       "order": 17,
-      "type": "Description",
-      "value": "HELP_PASS_03_01"
+      "type": "Title",
+      "value": "HELP_COMEBACK_EVENT_06"
     },
     {
       "id": 48118,
       "group": 481,
       "order": 18,
+      "type": "Description",
+      "value": "HELP_PASS_03_01"
+    },
+    {
+      "id": 48119,
+      "group": 481,
+      "order": 19,
       "type": "Description",
       "value": "HELP_PASS_03_02"
     },
@@ -8477,6 +8512,251 @@
       "order": 42,
       "type": "Description",
       "value": "HELP_BBQ_TYCOON_EVENT_11_03"
+    },
+    {
+      "id": 150001,
+      "group": 1500,
+      "order": 1,
+      "type": "Title",
+      "value": "HELP_LOGIN_REPLENISH_01"
+    },
+    {
+      "id": 150002,
+      "group": 1500,
+      "order": 2,
+      "type": "Description",
+      "value": "HELP_LOGIN_REPLENISH_01_01"
+    },
+    {
+      "id": 150003,
+      "group": 1500,
+      "order": 3,
+      "type": "Title",
+      "value": "HELP_LOGIN_REPLENISH_02"
+    },
+    {
+      "id": 150004,
+      "group": 1500,
+      "order": 4,
+      "type": "Description",
+      "value": "HELP_LOGIN_REPLENISH_02_01"
+    },
+    {
+      "id": 150005,
+      "group": 1500,
+      "order": 5,
+      "type": "Title",
+      "value": "HELP_LOGIN_REPLENISH_03"
+    },
+    {
+      "id": 150006,
+      "group": 1500,
+      "order": 6,
+      "type": "Description",
+      "value": "HELP_LOGIN_REPLENISH_03_01"
+    },
+    {
+      "id": 160001,
+      "group": 1600,
+      "order": 1,
+      "type": "Title",
+      "value": "HELP_CE002_MINIGAME_EVENT_01"
+    },
+    {
+      "id": 160002,
+      "group": 1600,
+      "order": 2,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_01_01"
+    },
+    {
+      "id": 160003,
+      "group": 1600,
+      "order": 3,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_01_02"
+    },
+    {
+      "id": 160004,
+      "group": 1600,
+      "order": 4,
+      "type": "Title",
+      "value": "HELP_CE002_MINIGAME_EVENT_02"
+    },
+    {
+      "id": 160005,
+      "group": 1600,
+      "order": 5,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_02_01"
+    },
+    {
+      "id": 160006,
+      "group": 1600,
+      "order": 6,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_02_02"
+    },
+    {
+      "id": 160007,
+      "group": 1600,
+      "order": 7,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_02_03"
+    },
+    {
+      "id": 160008,
+      "group": 1600,
+      "order": 8,
+      "type": "Title",
+      "value": "HELP_CE002_MINIGAME_EVENT_03"
+    },
+    {
+      "id": 160009,
+      "group": 1600,
+      "order": 9,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_03_01"
+    },
+    {
+      "id": 160010,
+      "group": 1600,
+      "order": 10,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_03_02"
+    },
+    {
+      "id": 160011,
+      "group": 1600,
+      "order": 11,
+      "type": "Title",
+      "value": "HELP_CE002_MINIGAME_EVENT_04"
+    },
+    {
+      "id": 160012,
+      "group": 1600,
+      "order": 12,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_04_01"
+    },
+    {
+      "id": 160013,
+      "group": 1600,
+      "order": 13,
+      "type": "Title",
+      "value": "HELP_CE002_MINIGAME_EVENT_05"
+    },
+    {
+      "id": 160014,
+      "group": 1600,
+      "order": 14,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_05_01"
+    },
+    {
+      "id": 160015,
+      "group": 1600,
+      "order": 15,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_05_02"
+    },
+    {
+      "id": 160016,
+      "group": 1600,
+      "order": 16,
+      "type": "Title",
+      "value": "HELP_CE002_MINIGAME_EVENT_06"
+    },
+    {
+      "id": 160017,
+      "group": 1600,
+      "order": 17,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_06_01"
+    },
+    {
+      "id": 160018,
+      "group": 1600,
+      "order": 18,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_06_02"
+    },
+    {
+      "id": 160019,
+      "group": 1600,
+      "order": 19,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_06_03"
+    },
+    {
+      "id": 160020,
+      "group": 1600,
+      "order": 20,
+      "type": "Title",
+      "value": "HELP_CE002_MINIGAME_EVENT_07"
+    },
+    {
+      "id": 160021,
+      "group": 1600,
+      "order": 21,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_07_01"
+    },
+    {
+      "id": 160022,
+      "group": 1600,
+      "order": 22,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_07_02"
+    },
+    {
+      "id": 160023,
+      "group": 1600,
+      "order": 23,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_07_03"
+    },
+    {
+      "id": 160024,
+      "group": 1600,
+      "order": 24,
+      "type": "Title",
+      "value": "HELP_CE002_MINIGAME_EVENT_08"
+    },
+    {
+      "id": 160025,
+      "group": 1600,
+      "order": 25,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_08_01"
+    },
+    {
+      "id": 160026,
+      "group": 1600,
+      "order": 26,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_08_02"
+    },
+    {
+      "id": 160027,
+      "group": 1600,
+      "order": 27,
+      "type": "Title",
+      "value": "HELP_CE002_MINIGAME_EVENT_09"
+    },
+    {
+      "id": 160028,
+      "group": 1600,
+      "order": 28,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_09_01"
+    },
+    {
+      "id": 160029,
+      "group": 1600,
+      "order": 29,
+      "type": "Description",
+      "value": "HELP_CE002_MINIGAME_EVENT_09_02"
     }
   ]
 }

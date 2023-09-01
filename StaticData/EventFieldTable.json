@@ -148,6 +148,35 @@
           "event_field_currency_type": "None"
         }
       ]
+    },
+    {
+      "id": 10006,
+      "event_id": 80700,
+      "field_design_map": "febg_factory_001",
+      "field_art_map_standard": "febg_factory_001",
+      "field_hud": "hud_event_field_ce002",
+      "field_first_entry_resource": "event_enter_ce002",
+      "link_event_pass_id": 1000007,
+      "progress_event_group_id": 1006,
+      "is_use_roaming_npc": true,
+      "roaming_npc_limit": 5,
+      "roaming_npc_type": "UserCharacter",
+      "roaming_npc_speed_minimum": 100,
+      "roaming_npc_speed_maximum": 250,
+      "player_squad_type": "UserSquad",
+      "player_squad_value": 5,
+      "player_squad_speed": 100,
+      "sd_character_size": 100,
+      "event_mission_group": 26,
+      "event_field_currency_list": [
+        {
+          "event_field_currency_type": "Material",
+          "event_field_currency_id": 7060026
+        },
+        {
+          "event_field_currency_type": "None"
+        }
+      ]
     }
   ]
 }

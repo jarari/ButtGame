@@ -11424,7 +11424,7 @@
       "type_value": "eba003",
       "default": false,
       "bgm_trigger_event_type": "target_appear",
-      "bgm_loop": "event_bgm_boss_ce01"
+      "bgm_loop": "event_bgm_ce002_boss"
     },
     {
       "id": 7000015,
@@ -11479,6 +11479,33 @@
       "default": false,
       "bgm_trigger_event_type": "target_appear",
       "bgm_loop": "bgm_boss_mbg001"
+    },
+    {
+      "id": 7000021,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "raid",
+      "type_value": "eba003_psid",
+      "default": false,
+      "bgm_trigger_event_type": "target_appear",
+      "bgm_loop": "event_bgm_ce002_boss"
+    },
+    {
+      "id": 7000022,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "raid",
+      "type_value": "eba003_zeus",
+      "default": false,
+      "bgm_trigger_event_type": "target_appear",
+      "bgm_loop": "event_bgm_ce002_boss"
+    },
+    {
+      "id": 7000023,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "raid",
+      "type_value": "bbg003_ce002",
+      "default": false,
+      "bgm_trigger_event_type": "target_appear",
+      "bgm_loop": "event_bgm_ce002_boss"
     },
     {
       "id": 8000001,
@@ -12329,6 +12356,382 @@
       "bgm_loop": "event_bgm_spot_bassbomb"
     },
     {
+      "id": 8040001,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102610101",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040002,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102610102",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040003,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102610103",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040004,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102610104",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040005,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102610105",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040006,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102610106",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040007,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102610107",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040008,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102610108",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040009,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102610109",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040010,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102610110",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040011,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102610111",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040012,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102610112",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040013,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102610113",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040014,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102610114",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040015,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102610115",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040016,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102710101",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040017,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102710102",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040018,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102710103",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040019,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102710104",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040020,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102710105",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040021,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102710106",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040022,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102710107",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040023,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102710108",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040024,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102710109",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040025,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102710110",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040026,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102710111",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040027,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102710112",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040028,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102710113",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040029,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102710114",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040030,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102710115",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040031,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102710116",
+      "default": false,
+      "bgm_loop": "event_bgm_ce002_boss"
+    },
+    {
+      "id": 8040032,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102720101",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040033,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102720102",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040034,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102720103",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040035,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102720104",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040036,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102720105",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040037,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102720106",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040038,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102720107",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040039,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102720108",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040040,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102720109",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040041,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102720110",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040042,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102720111",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040043,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102720112",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040044,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102720113",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040045,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102720114",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040046,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102720115",
+      "default": false,
+      "bgm_loop": "event_bgm_spot_oblivion"
+    },
+    {
+      "id": 8040047,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "102720116",
+      "default": false,
+      "bgm_loop": "event_bgm_ce002_boss"
+    },
+    {
       "id": 9000001,
       "bgm_type": "outgame_bgm",
       "bgm_sub_type": "jukebox_lobby",
@@ -13131,6 +13534,29 @@
       "default": false,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "ambient_chapter_summernight"
+    },
+    {
+      "id": 9910801,
+      "bgm_type": "event_field_bgm",
+      "type_value": "10006",
+      "default": true,
+      "bgm_loop": "event_bgm_ce002_field"
+    },
+    {
+      "id": 9910802,
+      "bgm_type": "event_field_bgm",
+      "type_value": "100531",
+      "default": false,
+      "bgm_loop": "event_bgm_ce002_story_2"
+    },
+    {
+      "id": 9910803,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "event_field",
+      "type_value": "10006",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_chapter_1"
     }
   ]
 }

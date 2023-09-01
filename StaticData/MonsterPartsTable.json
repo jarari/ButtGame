@@ -1320,6 +1320,195 @@
       "is_main_part": false
     },
     {
+      "id": 15201301,
+      "monster_model_id": 152013,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152003,
+      "visible_hp": false,
+      "linked_parts_id": 15201301,
+      "weapon_object": [
+        "Spider_L_WP_gatling_02",
+        "Spider_R_WP_gatling_02",
+        "Spider_Bdoy_L_WP_Rocket_01",
+        "Spider_Bdoy_R_WP_Rocket_01",
+        "Spider_Head_Center_01",
+        "ce002_muz_dummy",
+        "ce002_muz_dummy_l",
+        "ce002_muz_dummy_r",
+        "socket_muzzle_fire_201",
+        "socket_muzzle_fire_211"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_03",
+        "weapon_object_04",
+        "weapon_object_05",
+        "weapon_object_06",
+        "weapon_object_07",
+        "weapon_object_08",
+        "weapon_object_09",
+        "weapon_object_10",
+        "weapon_object_11",
+        "weapon_object_12"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "bbg003_ce002_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 15201302,
+      "monster_model_id": 152013,
+      "parts_name_localkey": "Locale_Monster:parts_name_arm_left",
+      "damage_hp_ratio": 1300,
+      "hp_ratio": 1000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152003,
+      "visible_hp": true,
+      "linked_parts_id": 15201301,
+      "weapon_object": [
+        "Spider_L_Arm_WP_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01"
+      ],
+      "parts_type": "Arm_Left",
+      "parts_object": [
+        "Spider_L_Arm_02"
+      ],
+      "parts_skin": "bbg003_left_Arms_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 15201303,
+      "monster_model_id": 152013,
+      "parts_name_localkey": "Locale_Monster:parts_name_arm_right",
+      "damage_hp_ratio": 1300,
+      "hp_ratio": 1000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152003,
+      "visible_hp": true,
+      "linked_parts_id": 15201301,
+      "weapon_object": [
+        "Spider_R_Arm_WP_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_02"
+      ],
+      "parts_type": "Arm_Right",
+      "parts_object": [
+        "Spider_R_Arm_02"
+      ],
+      "parts_skin": "bbg003_right_Arms_skin",
+      "is_main_part": false
+    },
+    {
+      "id": 15201304,
+      "monster_model_id": 152013,
+      "parts_name_localkey": "Locale_Monster:parts_name_Mordernia03",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152003,
+      "visible_hp": false,
+      "linked_parts_id": 15201301,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Weapon_01",
+      "parts_object": [
+        "parts_col_103"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 15201305,
+      "monster_model_id": 152013,
+      "parts_name_localkey": "Locale_Monster:parts_name_blacksmith01",
+      "damage_hp_ratio": 1300,
+      "hp_ratio": 1000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152003,
+      "visible_hp": true,
+      "linked_parts_id": 15201301,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Weapon_02",
+      "parts_object": [
+        "Spider_Wing_L_Red_01_A"
+      ],
+      "parts_skin": "bbg003_Wing_left_Red",
+      "is_main_part": false
+    },
+    {
+      "id": 15201306,
+      "monster_model_id": 152013,
+      "parts_name_localkey": "Locale_Monster:parts_name_blacksmith02",
+      "damage_hp_ratio": 1300,
+      "hp_ratio": 1000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152003,
+      "visible_hp": true,
+      "linked_parts_id": 15201301,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Weapon_03",
+      "parts_object": [
+        "Spider_Wing_R_Red_01_A"
+      ],
+      "parts_skin": "bbg003_Wing_right_Red",
+      "is_main_part": false
+    },
+    {
       "id": 15100101,
       "monster_model_id": 151001,
       "damage_hp_ratio": 0,
@@ -2661,10 +2850,12 @@
       "visible_hp": true,
       "linked_parts_id": 22200301,
       "weapon_object": [
-        "emg003_rl_var"
+        "emg003_rl_var",
+        "body_bone02"
       ],
       "weapon_object_enum": [
-        "weapon_object_01"
+        "weapon_object_01",
+        "weapon_object_02"
       ],
       "parts_type": "Body",
       "parts_object": [
@@ -4571,7 +4762,7 @@
       "visible_hp": true,
       "linked_parts_id": 25201201,
       "weapon_object": [
-        "ebg002_weaponbody_r_00"
+        "socket_muzzle_fire_23"
       ],
       "weapon_object_enum": [
         "weapon_object_08"
@@ -4600,7 +4791,7 @@
       "visible_hp": true,
       "linked_parts_id": 25201201,
       "weapon_object": [
-        "ebg002_weaponbody_l_00"
+        "socket_muzzle_fire_22"
       ],
       "weapon_object_enum": [
         "weapon_object_09"
@@ -5426,6 +5617,386 @@
       "passive_skill_id": 7152004,
       "visible_hp": false,
       "linked_parts_id": 25102301,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Weapon_05",
+      "parts_object": [
+        "Dummy083"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 25103301,
+      "monster_model_id": 251033,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152004,
+      "visible_hp": false,
+      "linked_parts_id": 25103301,
+      "weapon_object": [
+        "Dummy101",
+        "Dummy035",
+        "Dummy036",
+        "socket_muzzle_fire_07",
+        "socket_muzzle_fire_08",
+        "Bone046"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_04",
+        "weapon_object_05",
+        "weapon_object_06"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "eba003_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 25103302,
+      "monster_model_id": 251033,
+      "parts_name_localkey": "Locale_Monster:parts_name_GateKeeper01",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152004,
+      "visible_hp": true,
+      "linked_parts_id": 25103301,
+      "weapon_object": [
+        "Dummy001",
+        "socket_muzzle_fire_03"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_07",
+        "weapon_object_08"
+      ],
+      "parts_type": "Weapon_01",
+      "parts_object": [
+        "Dummy001"
+      ],
+      "parts_skin": "eba003_laserdown_l_01",
+      "is_main_part": false
+    },
+    {
+      "id": 25103303,
+      "monster_model_id": 251033,
+      "parts_name_localkey": "Locale_Monster:parts_name_GateKeeper02",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152004,
+      "visible_hp": true,
+      "linked_parts_id": 25103301,
+      "weapon_object": [
+        "Dummy008",
+        "socket_muzzle_fire_04"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_07",
+        "weapon_object_09"
+      ],
+      "parts_type": "Weapon_02",
+      "parts_object": [
+        "Dummy008"
+      ],
+      "parts_skin": "eba003_laserdown_r_01",
+      "is_main_part": false
+    },
+    {
+      "id": 25103304,
+      "monster_model_id": 251033,
+      "parts_name_localkey": "Locale_Monster:parts_name_GateKeeper03",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152004,
+      "visible_hp": true,
+      "linked_parts_id": 25103301,
+      "weapon_object": [
+        "Dummy003",
+        "socket_muzzle_fire_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_07",
+        "weapon_object_10"
+      ],
+      "parts_type": "Weapon_03",
+      "parts_object": [
+        "Dummy003"
+      ],
+      "parts_skin": "eba003_laserup_l_01",
+      "is_main_part": false
+    },
+    {
+      "id": 25103305,
+      "monster_model_id": 251033,
+      "parts_name_localkey": "Locale_Monster:parts_name_GateKeeper04",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152004,
+      "visible_hp": true,
+      "linked_parts_id": 25103301,
+      "weapon_object": [
+        "Dummy006",
+        "socket_muzzle_fire_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_07",
+        "weapon_object_11"
+      ],
+      "parts_type": "Weapon_04",
+      "parts_object": [
+        "Dummy006"
+      ],
+      "parts_skin": "eba003_laserup_r_01",
+      "is_main_part": false
+    },
+    {
+      "id": 25103306,
+      "monster_model_id": 251033,
+      "parts_name_localkey": "Locale_Monster:parts_name_GateKeeper04",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152004,
+      "visible_hp": false,
+      "linked_parts_id": 25103301,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Weapon_05",
+      "parts_object": [
+        "Dummy083"
+      ],
+      "is_main_part": false
+    },
+    {
+      "id": 25104301,
+      "monster_model_id": 251043,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152004,
+      "visible_hp": false,
+      "linked_parts_id": 25104301,
+      "weapon_object": [
+        "Dummy101",
+        "Dummy035",
+        "Dummy036",
+        "socket_muzzle_fire_07",
+        "socket_muzzle_fire_08",
+        "Bone046",
+        "Dummy102"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_04",
+        "weapon_object_05",
+        "weapon_object_06",
+        "weapon_object_12"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "eba003_var"
+      ],
+      "is_main_part": true
+    },
+    {
+      "id": 25104302,
+      "monster_model_id": 251043,
+      "parts_name_localkey": "Locale_Monster:parts_name_GateKeeper01",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152004,
+      "visible_hp": true,
+      "linked_parts_id": 25104301,
+      "weapon_object": [
+        "Dummy001",
+        "socket_muzzle_fire_03"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_07",
+        "weapon_object_08"
+      ],
+      "parts_type": "Weapon_01",
+      "parts_object": [
+        "Dummy001"
+      ],
+      "parts_skin": "eba003_laserdown_l_01",
+      "is_main_part": false
+    },
+    {
+      "id": 25104303,
+      "monster_model_id": 251043,
+      "parts_name_localkey": "Locale_Monster:parts_name_GateKeeper02",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152004,
+      "visible_hp": true,
+      "linked_parts_id": 25104301,
+      "weapon_object": [
+        "Dummy008",
+        "socket_muzzle_fire_04"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_07",
+        "weapon_object_09"
+      ],
+      "parts_type": "Weapon_02",
+      "parts_object": [
+        "Dummy008"
+      ],
+      "parts_skin": "eba003_laserdown_r_01",
+      "is_main_part": false
+    },
+    {
+      "id": 25104304,
+      "monster_model_id": 251043,
+      "parts_name_localkey": "Locale_Monster:parts_name_GateKeeper03",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152004,
+      "visible_hp": true,
+      "linked_parts_id": 25104301,
+      "weapon_object": [
+        "Dummy003",
+        "socket_muzzle_fire_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_07",
+        "weapon_object_10"
+      ],
+      "parts_type": "Weapon_03",
+      "parts_object": [
+        "Dummy003"
+      ],
+      "parts_skin": "eba003_laserup_l_01",
+      "is_main_part": false
+    },
+    {
+      "id": 25104305,
+      "monster_model_id": 251043,
+      "parts_name_localkey": "Locale_Monster:parts_name_GateKeeper04",
+      "damage_hp_ratio": 500,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152004,
+      "visible_hp": true,
+      "linked_parts_id": 25104301,
+      "weapon_object": [
+        "Dummy006",
+        "socket_muzzle_fire_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_07",
+        "weapon_object_11"
+      ],
+      "parts_type": "Weapon_04",
+      "parts_object": [
+        "Dummy006"
+      ],
+      "parts_skin": "eba003_laserup_r_01",
+      "is_main_part": false
+    },
+    {
+      "id": 25104306,
+      "monster_model_id": 251043,
+      "parts_name_localkey": "Locale_Monster:parts_name_GateKeeper04",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 300,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152004,
+      "visible_hp": false,
+      "linked_parts_id": 25104301,
       "weapon_object": [
         "None"
       ],

@@ -1,0 +1,488 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1001,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_001",
+      "field_npc_id": 100001,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_01",
+      "field_npc_hint_resource": "ce002_minigame_npc_01",
+      "indicator_delay_time": 300,
+      "stage_id": 101,
+      "end_archive": 10001
+    },
+    {
+      "id": 1002,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1001
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_002",
+      "field_npc_id": 100002,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_03",
+      "field_npc_hint_resource": "ce002_minigame_npc_14",
+      "indicator_delay_time": 300,
+      "stage_id": 102,
+      "end_archive": 10002
+    },
+    {
+      "id": 1003,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1002
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_003",
+      "field_npc_id": 100003,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_04",
+      "field_npc_hint_resource": "ce002_minigame_npc_23",
+      "indicator_delay_time": 300,
+      "stage_id": 103,
+      "end_archive": 10003
+    },
+    {
+      "id": 1004,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1003
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 2
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_004",
+      "field_npc_id": 100004,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_01",
+      "field_npc_hint_resource": "ce002_minigame_npc_22",
+      "indicator_delay_time": 300,
+      "stage_id": 104,
+      "end_archive": 10004
+    },
+    {
+      "id": 1005,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1004
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 3
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_005",
+      "field_npc_id": 100005,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_02",
+      "field_npc_hint_resource": "ce002_minigame_npc_12",
+      "indicator_delay_time": 300,
+      "stage_id": 105,
+      "end_archive": 10005
+    },
+    {
+      "id": 1006,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1005
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 4
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_006",
+      "field_npc_id": 100006,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_01",
+      "field_npc_hint_resource": "ce002_minigame_npc_18",
+      "indicator_delay_time": 300,
+      "stage_id": 106,
+      "end_archive": 10006
+    },
+    {
+      "id": 1007,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1006
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 5
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_007",
+      "field_npc_id": 100007,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_04",
+      "field_npc_hint_resource": "ce002_minigame_npc_09",
+      "indicator_delay_time": 300,
+      "stage_id": 107,
+      "end_archive": 10007
+    },
+    {
+      "id": 1008,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1007
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 6
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_008",
+      "field_npc_id": 100008,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_03",
+      "field_npc_hint_resource": "ce002_minigame_npc_06",
+      "indicator_delay_time": 300,
+      "stage_id": 108,
+      "end_archive": 10008
+    },
+    {
+      "id": 1009,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1008
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 7
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_009",
+      "field_npc_id": 100009,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_04",
+      "field_npc_hint_resource": "ce002_minigame_npc_11",
+      "indicator_delay_time": 300,
+      "stage_id": 109,
+      "end_archive": 10009
+    },
+    {
+      "id": 1010,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1009
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 8
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_010",
+      "field_npc_id": 100010,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_04",
+      "field_npc_hint_resource": "ce002_minigame_npc_16",
+      "indicator_delay_time": 300,
+      "stage_id": 110,
+      "end_archive": 10010
+    },
+    {
+      "id": 1011,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1010
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 9
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_011",
+      "field_npc_id": 100011,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_01",
+      "field_npc_hint_resource": "ce002_minigame_npc_20",
+      "indicator_delay_time": 300,
+      "stage_id": 111,
+      "end_archive": 10011
+    },
+    {
+      "id": 1012,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1011
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 10
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_012",
+      "field_npc_id": 100012,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_02",
+      "field_npc_hint_resource": "ce002_minigame_npc_15",
+      "indicator_delay_time": 300,
+      "stage_id": 112,
+      "end_archive": 10012
+    },
+    {
+      "id": 1013,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1012
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 11
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_013",
+      "field_npc_id": 100013,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_01",
+      "field_npc_hint_resource": "ce002_minigame_npc_02",
+      "indicator_delay_time": 300,
+      "stage_id": 113,
+      "end_archive": 10013
+    },
+    {
+      "id": 1014,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1013
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 12
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_014",
+      "field_npc_id": 100014,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_03",
+      "field_npc_hint_resource": "ce002_minigame_npc_07",
+      "indicator_delay_time": 300,
+      "stage_id": 114,
+      "end_archive": 10014
+    },
+    {
+      "id": 1015,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1014
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 13
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_015",
+      "field_npc_id": 100015,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_04",
+      "field_npc_hint_resource": "ce002_minigame_npc_10",
+      "indicator_delay_time": 300,
+      "stage_id": 115,
+      "end_archive": 10015
+    },
+    {
+      "id": 1016,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1015
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 14
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_016",
+      "field_npc_id": 100016,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_01",
+      "field_npc_hint_resource": "ce002_minigame_npc_05",
+      "indicator_delay_time": 300,
+      "stage_id": 116,
+      "end_archive": 10016
+    },
+    {
+      "id": 1017,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1016
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 15
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_017",
+      "field_npc_id": 100017,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_03",
+      "field_npc_hint_resource": "ce002_minigame_npc_13",
+      "indicator_delay_time": 300,
+      "stage_id": 117,
+      "end_archive": 10017
+    },
+    {
+      "id": 1018,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1017
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 16
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_018",
+      "field_npc_id": 100018,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_01",
+      "field_npc_hint_resource": "ce002_minigame_npc_04",
+      "indicator_delay_time": 300,
+      "stage_id": 118,
+      "end_archive": 10018
+    },
+    {
+      "id": 1019,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1018
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 17
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_019",
+      "field_npc_id": 100019,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_01",
+      "field_npc_hint_resource": "ce002_minigame_npc_03",
+      "indicator_delay_time": 300,
+      "stage_id": 119,
+      "end_archive": 10019
+    },
+    {
+      "id": 1020,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1019
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 18
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_020",
+      "field_npc_id": 100020,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_03",
+      "field_npc_hint_resource": "ce002_minigame_npc_17",
+      "indicator_delay_time": 300,
+      "stage_id": 120,
+      "end_archive": 10020
+    },
+    {
+      "id": 1021,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1020
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 19
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_021",
+      "field_npc_id": 100021,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_02",
+      "field_npc_hint_resource": "ce002_minigame_npc_21",
+      "indicator_delay_time": 300,
+      "stage_id": 121,
+      "end_archive": 10021
+    },
+    {
+      "id": 1022,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1021
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 20
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_022",
+      "field_npc_id": 100022,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_02",
+      "field_npc_hint_resource": "ce002_minigame_npc_19",
+      "indicator_delay_time": 300,
+      "stage_id": 122,
+      "end_archive": 10022
+    },
+    {
+      "id": 1023,
+      "group_id": 1,
+      "open_condition_list": [
+        {
+          "open_condition_type": "EventCE002MiniGameDataClear",
+          "open_condition_value": 1022
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 21
+        }
+      ],
+      "ce002minigame_data_name": "Locale_Event:ce002_event_minigame_data_name_023",
+      "field_npc_id": 100023,
+      "field_npc_location_name": "Locale_Event:ce002_event_minigame_npc_spawn_location_03",
+      "field_npc_hint_resource": "ce002_minigame_npc_08",
+      "indicator_delay_time": 300,
+      "stage_id": 123,
+      "end_archive": 10023
+    }
+  ]
+}

@@ -1502,7 +1502,7 @@
     {
       "stage_id": 6303008,
       "group_id": "wave_Intercept_001",
-      "spot_mod": "Cooperation",
+      "spot_mod": "Cooperation_CE002",
       "battle_time": 180,
       "monster_count": 2,
       "use_intro_scene": false,
@@ -2140,6 +2140,220 @@
       "close_monster_count": 1,
       "mid_monster_count": 0,
       "far_monster_count": 0
+    },
+    {
+      "stage_id": 6303014,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "Cooperation_CE002",
+      "battle_time": 180,
+      "monster_count": 2,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_gatekeeper",
+      "point_data_fly": "point_fly_gatekeeper",
+      "background_name": "sbg_cityforest_sky_001a",
+      "theme": "Desertmbg001",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_cityforest_001",
+      "target_list": [
+        2510030122
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_fly_gatekeeper_01",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2510030122,
+              "spawn_type": "Normal"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 0,
+      "far_monster_count": 1
+    },
+    {
+      "stage_id": 6303015,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "Cooperation_CE002",
+      "battle_time": 180,
+      "monster_count": 2,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_gatekeeper",
+      "point_data_fly": "point_fly_gatekeeper",
+      "background_name": "sbg_cityforest_sky_001a",
+      "theme": "Desertmbg001",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_cityforest_001",
+      "target_list": [
+        2510030142
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_fly_gatekeeper_01",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2510030142,
+              "spawn_type": "Normal"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 0,
+      "far_monster_count": 1
     },
     {
       "stage_id": 6304001,
@@ -6636,28 +6850,28 @@
       "far_monster_count": 1
     },
     {
-      "stage_id": 6700601,
+      "stage_id": 6700501,
       "group_id": "wave_Intercept_001",
       "spot_mod": "SoloRaid_Common",
       "battle_time": 180,
-      "monster_count": 7,
+      "monster_count": 5,
       "use_intro_scene": false,
       "wave_repeat": false,
-      "point_data": "point_grd_iceland_006",
-      "point_data_fly": "point_fly_iceland_006",
-      "background_name": "sbg_iceland_006",
-      "theme": "CityForestUnder",
+      "point_data": "point_grd_blacksmith_01",
+      "point_data_fly": "point_fly_blacksmith_01",
+      "background_name": "sbg_cityforestunderbbg003_001",
+      "theme": "CityForest",
       "theme_time": "Day",
-      "stage_info_bg": "ibg_iceland_001",
+      "stage_info_bg": "ibg_cityforest_001",
       "target_list": [
-        1420050224
+        1520030135
       ],
       "wave_data": [
         {
-          "wave_path": "path_grd_mid_centurion_901",
+          "wave_path": "b_grd_blacksmith_01",
           "wave_monster_list": [
             {
-              "wave_monster_id": 1420050224,
+              "wave_monster_id": 1520030135,
               "spawn_type": "Normal"
             },
             {},
@@ -6743,7 +6957,114 @@
       "far_monster_count": 1
     },
     {
-      "stage_id": 6700501,
+      "stage_id": 6700502,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "SoloRaid_Trial",
+      "battle_time": 180,
+      "monster_count": 5,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_blacksmith_01",
+      "point_data_fly": "point_fly_blacksmith_01",
+      "background_name": "sbg_cityforestunderbbg003_001",
+      "theme": "CityForest",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_cityforest_001",
+      "target_list": [
+        1520030135
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_grd_blacksmith_01",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1520030135,
+              "spawn_type": "Normal"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 0,
+      "far_monster_count": 1
+    },
+    {
+      "stage_id": 6700601,
       "group_id": "wave_Intercept_001",
       "spot_mod": "SoloRaid_Common",
       "battle_time": 180,
