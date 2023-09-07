@@ -11385,13 +11385,22 @@
       "id": 7000010,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
+      "type_value": "ebg002_dmtr",
+      "default": false,
+      "bgm_trigger_event_type": "target_appear",
+      "bgm_loop": "bgm_boss_ebg002"
+    },
+    {
+      "id": 7000011,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "raid",
       "type_value": "eba001",
       "default": false,
       "bgm_trigger_event_type": "target_appear",
       "bgm_loop": "bgm_boss_eba001"
     },
     {
-      "id": 7000011,
+      "id": 7000012,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
       "type_value": "bba001",
@@ -11400,7 +11409,7 @@
       "bgm_loop": "bgm_boss_bba001"
     },
     {
-      "id": 7000012,
+      "id": 7000013,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
       "type_value": "mba002",
@@ -11409,7 +11418,7 @@
       "bgm_loop": "bgm_boss_mba002_phase1"
     },
     {
-      "id": 7000013,
+      "id": 7000014,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
       "type_value": "mba002",
@@ -11418,7 +11427,7 @@
       "bgm_loop": "bgm_boss_mba002_phase2"
     },
     {
-      "id": 7000014,
+      "id": 7000015,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
       "type_value": "eba003",
@@ -11427,7 +11436,7 @@
       "bgm_loop": "event_bgm_ce002_boss"
     },
     {
-      "id": 7000015,
+      "id": 7000016,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
       "type_value": "eba003_hsta",
@@ -11436,7 +11445,7 @@
       "bgm_loop": "event_bgm_boss_ce01"
     },
     {
-      "id": 7000016,
+      "id": 7000017,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
       "type_value": "eba003_dmtr",
@@ -11445,7 +11454,7 @@
       "bgm_loop": "event_bgm_boss_ce01"
     },
     {
-      "id": 7000017,
+      "id": 7000018,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
       "type_value": "bbg004_psid",
@@ -11454,7 +11463,7 @@
       "bgm_loop": "bgm_boss_bbg004"
     },
     {
-      "id": 7000018,
+      "id": 7000019,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
       "type_value": "bbg004_zeus",
@@ -11463,7 +11472,7 @@
       "bgm_loop": "bgm_boss_bbg004"
     },
     {
-      "id": 7000019,
+      "id": 7000020,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
       "type_value": "bbg004_dmtr",
@@ -11472,7 +11481,7 @@
       "bgm_loop": "bgm_boss_bbg004"
     },
     {
-      "id": 7000020,
+      "id": 7000021,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
       "type_value": "mbg001_psid",
@@ -11481,7 +11490,7 @@
       "bgm_loop": "bgm_boss_mbg001"
     },
     {
-      "id": 7000021,
+      "id": 7000022,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
       "type_value": "eba003_psid",
@@ -11490,7 +11499,7 @@
       "bgm_loop": "event_bgm_ce002_boss"
     },
     {
-      "id": 7000022,
+      "id": 7000023,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
       "type_value": "eba003_zeus",
@@ -11499,7 +11508,7 @@
       "bgm_loop": "event_bgm_ce002_boss"
     },
     {
-      "id": 7000023,
+      "id": 7000024,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "raid",
       "type_value": "bbg003_ce002",
