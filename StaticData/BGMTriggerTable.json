@@ -13287,6 +13287,29 @@
       "bgm_loop": "bgm_story_thepilgrimacv"
     },
     {
+      "id": 9910510,
+      "bgm_type": "event_field_bgm",
+      "type_value": "1010003",
+      "default": true,
+      "bgm_loop": "event_bgm_overzone"
+    },
+    {
+      "id": 9910511,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "event_field",
+      "type_value": "1010003",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_chapter_overzone"
+    },
+    {
+      "id": 9910512,
+      "bgm_type": "event_field_bgm",
+      "type_value": "10100307",
+      "default": false,
+      "bgm_loop": "event_bgm_satellites"
+    },
+    {
       "id": 9910408,
       "bgm_type": "story_event_bgm",
       "type_value": "10015",
@@ -13566,6 +13589,22 @@
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "ambient_chapter_1"
+    },
+    {
+      "id": 9910412,
+      "bgm_type": "story_event_bgm",
+      "type_value": "10028",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_schooloflock"
+    },
+    {
+      "id": 9930413,
+      "bgm_type": "story_event_bgm",
+      "type_value": "10029",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_dazzlingcupid"
     }
   ]
 }

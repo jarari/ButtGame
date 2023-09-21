@@ -6009,50 +6009,44 @@
       "progress_event_group_id": 2006062
     },
     {
-      "id": 9991,
-      "event_field_id": 99999,
-      "npc_localkey_name": "Locale_Character:10_name",
+      "id": 9993,
+      "event_field_id": 10001,
+      "npc_localkey_name": "Locale_Character:191_name",
       "npc_type": "character",
-      "resource_id": 10,
-      "name_tag_resource": "sprite_event_overzone_npc_tag",
+      "resource_id": 191,
+      "name_tag_resource": "sprite_event_ce_01_npc_tag",
       "event_field_npc_event_data_list": [
-        {
-          "event_id": 40001
-        },
+        {},
         {},
         {}
       ],
       "interaction_distance": 200,
       "interaction_marker": "sprite_btn_event_miraclesnow",
       "is_interaction_after_end": false,
-      "progress_event_group_id": 209991,
       "is_use_balloon_talk": true,
-      "balloon_always_id": "d_balloon_01_a",
-      "balloon_always_play_type": "None",
-      "balloon_always_cycle": 3
+      "balloon_always_id": "event_miraclesnow_ballon_01",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
     },
     {
-      "id": 9992,
-      "event_field_id": 99999,
-      "npc_localkey_name": "Locale_Character:193_name",
+      "id": 9994,
+      "event_field_id": 10001,
+      "npc_localkey_name": "Locale_Character:190_name",
       "npc_type": "character",
-      "resource_id": 10,
-      "name_tag_resource": "sprite_event_overzone_npc_tag",
+      "resource_id": 190,
+      "name_tag_resource": "sprite_event_ce_01_npc_tag",
       "event_field_npc_event_data_list": [
-        {
-          "event_id": 40001
-        },
+        {},
         {},
         {}
       ],
       "interaction_distance": 200,
       "interaction_marker": "sprite_btn_event_miraclesnow",
       "is_interaction_after_end": false,
-      "progress_event_group_id": 209992,
       "is_use_balloon_talk": true,
-      "balloon_always_id": "d_balloon_01_a",
-      "balloon_always_play_type": "None",
-      "balloon_always_cycle": 3
+      "balloon_always_id": "event_miraclesnow_ballon_06",
+      "balloon_always_play_type": "Random",
+      "balloon_always_cycle": 4
     }
   ]
 }

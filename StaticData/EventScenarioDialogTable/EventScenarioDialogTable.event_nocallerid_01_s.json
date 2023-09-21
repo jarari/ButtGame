@@ -1043,14 +1043,17 @@
       "play_lipSync": true,
       "characters": [
         {
+          "hide_char_id": "rapi",
           "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {
+          "hide_char_id": "neon",
           "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
+          "hide_char_id": "anis",
           "set_char_position": "13",
           "set_char_anim": "void"
         },
@@ -1084,17 +1087,12 @@
       "play_lipSync": true,
       "characters": [
         {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
+          "show_char_id": "nocallerid_event",
           "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "void"
-        },
+        {},
+        {},
         {
           "hide_char_id": "andersen",
           "set_char_position": "15",
@@ -1107,9 +1105,9 @@
         {},
         {}
       ],
-      "set_background": "Desert_03",
-      "set_start_camera": "3",
-      "set_end_camera": "3",
+      "set_background": "EventScene_NoCallerID_01_bg",
+      "set_start_camera": "nocallerid_event_02",
+      "set_end_camera": "nocallerid_event_02",
       "set_camera_duration": 1.0,
       "play_bgm": "bgm_distress",
       "effects": [
@@ -1129,17 +1127,11 @@
       "play_lipSync": true,
       "characters": [
         {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
           "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "void"
-        },
+        {},
+        {},
         {},
         {},
         {},
@@ -1148,8 +1140,8 @@
         {},
         {}
       ],
-      "set_start_camera": "3",
-      "set_end_camera": "2",
+      "set_start_camera": "nocallerid_event_02",
+      "set_end_camera": "nocallerid_event_02",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1167,17 +1159,11 @@
       "play_lipSync": true,
       "characters": [
         {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
           "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "void"
-        },
+        {},
+        {},
         {},
         {},
         {},
@@ -1186,8 +1172,8 @@
         {},
         {}
       ],
-      "set_start_camera": "2",
-      "set_end_camera": "2",
+      "set_start_camera": "nocallerid_event_02",
+      "set_end_camera": "nocallerid_event_02",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1205,17 +1191,11 @@
       "play_lipSync": true,
       "characters": [
         {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
           "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "worry"
-        },
+        {},
+        {},
         {},
         {},
         {},
@@ -1224,9 +1204,9 @@
         {},
         {}
       ],
-      "set_start_camera": "2",
-      "set_end_camera": "13",
-      "set_camera_duration": 2.0,
+      "set_start_camera": "nocallerid_event_02",
+      "set_end_camera": "nocallerid_event_01",
+      "set_camera_duration": 1.0,
       "effects": [
         {},
         {}
@@ -1243,17 +1223,11 @@
       "play_lipSync": false,
       "characters": [
         {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
           "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "worry"
-        },
+        {},
+        {},
         {},
         {},
         {},
@@ -1262,8 +1236,8 @@
         {},
         {}
       ],
-      "set_start_camera": "13",
-      "set_end_camera": "13",
+      "set_start_camera": "nocallerid_event_01",
+      "set_end_camera": "nocallerid_event_01",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1281,17 +1255,11 @@
       "play_lipSync": true,
       "characters": [
         {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
           "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "void"
-        },
+        {},
+        {},
         {},
         {},
         {},
@@ -1300,8 +1268,8 @@
         {},
         {}
       ],
-      "set_start_camera": "3",
-      "set_end_camera": "3",
+      "set_start_camera": "nocallerid_event_01",
+      "set_end_camera": "nocallerid_event_01",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1319,17 +1287,11 @@
       "play_lipSync": true,
       "characters": [
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "1",
-          "set_char_anim": "delight"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "void"
-        },
+        {},
+        {},
         {},
         {},
         {},
@@ -1338,8 +1300,8 @@
         {},
         {}
       ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
+      "set_start_camera": "nocallerid_event_01",
+      "set_end_camera": "nocallerid_event_01",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1357,17 +1319,11 @@
       "play_lipSync": true,
       "characters": [
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "1",
-          "set_char_anim": "delight"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "no"
-        },
+        {},
+        {},
         {},
         {},
         {},
@@ -1376,8 +1332,8 @@
         {},
         {}
       ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "130",
+      "set_start_camera": "nocallerid_event_01",
+      "set_end_camera": "nocallerid_event_01",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1395,17 +1351,11 @@
       "play_lipSync": true,
       "characters": [
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "1",
-          "set_char_anim": "no"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "no"
-        },
+        {},
+        {},
         {},
         {},
         {},
@@ -1414,8 +1364,8 @@
         {},
         {}
       ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
+      "set_start_camera": "nocallerid_event_01",
+      "set_end_camera": "nocallerid_event_01",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1433,8 +1383,8 @@
       "play_lipSync": true,
       "characters": [
         {
-          "set_char_position": "3",
-          "set_char_anim": "think"
+          "set_char_position": "1",
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "1",
@@ -1452,9 +1402,9 @@
         {},
         {}
       ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "30",
-      "set_camera_duration": 1.5,
+      "set_start_camera": "nocallerid_event_01",
+      "set_end_camera": "nocallerid_event_01",
+      "set_camera_duration": 1.0,
       "effects": [
         {},
         {}

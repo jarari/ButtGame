@@ -1,0 +1,50 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 40001,
+      "event_system_type": "StoryEvent",
+      "event_shortcut_id": "0",
+      "included_content_type": "StoryEvent",
+      "archive_match_event_id": 40001,
+      "archive_story_progress_group_order": 1,
+      "event_start_date": "2022-11-10T06:30:00",
+      "event_end_date": "2022-11-23T19:59:59"
+    },
+    {
+      "id": 80303,
+      "event_system_type": "StoryEvent",
+      "event_shortcut_id": "0",
+      "included_content_type": "StoryEvent1",
+      "archive_match_event_id": 80303,
+      "archive_story_progress_group_order": 1,
+      "parents_event_id": 1080300
+    },
+    {
+      "id": 80304,
+      "event_system_type": "StoryEvent",
+      "event_shortcut_id": "0",
+      "included_content_type": "StoryEvent2",
+      "archive_match_event_id": 80304,
+      "archive_story_progress_group_order": 2,
+      "parents_event_id": 1080300
+    },
+    {
+      "id": 1080300,
+      "event_system_type": "FieldHubEvent",
+      "event_shortcut_id": "50001",
+      "included_content_type": "FieldEvent",
+      "archive_match_event_id": 80300,
+      "event_start_date": "2023-04-26T16:00:00",
+      "event_end_date": "2023-05-17T19:59:59"
+    },
+    {
+      "id": 1080305,
+      "event_system_type": "TextAdventure",
+      "event_shortcut_id": "60001",
+      "included_content_type": "MiniGame",
+      "archive_match_event_id": 80305,
+      "parents_event_id": 1080300
+    }
+  ]
+}

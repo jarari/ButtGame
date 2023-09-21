@@ -4,6 +4,7 @@
     {
       "id": 1001,
       "event_id": 80305,
+      "is_archive_event": false,
       "ui_prefab": "whitememory",
       "first_select_group_id": 1001,
       "ticket_auto_charge_id": 30002,
@@ -12,7 +13,25 @@
       "reward_id": 8108045,
       "first_enter_scenario_group_id": "d_contents_whitememory_01",
       "quick_end_event_page_id": 1001911,
-      "quick_end_open_condition_value": 1
+      "quick_end_open_condition_value": 1,
+      "help_tip_id": 4100200,
+      "locale_id": 1001
+    },
+    {
+      "id": 101001,
+      "event_id": 1080305,
+      "is_archive_event": true,
+      "ui_prefab": "whitememory",
+      "first_select_group_id": 101001,
+      "ticket_auto_charge_id": 30002,
+      "reward_ticket_auto_charge_id": 30003,
+      "infinity_mod_active_date": "2023-05-16T20:00:00",
+      "reward_id": 8108045,
+      "first_enter_scenario_group_id": "d_contents_whitememory_01",
+      "quick_end_event_page_id": 101001911,
+      "quick_end_open_condition_value": 1,
+      "help_tip_id": 4100200,
+      "locale_id": 101001
     }
   ]
 }
