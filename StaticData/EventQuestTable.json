@@ -267,6 +267,114 @@
       "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000212",
       "next_quest_id": 0,
       "reward_id": 0
+    },
+    {
+      "id": 1000301,
+      "event_quest_manager_id": 10003,
+      "condition_type": "Outpost_Select",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000301",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000301",
+      "next_quest_id": 1000302,
+      "end_scenario_id": "event_1yearalready_01",
+      "reward_id": 1320201
+    },
+    {
+      "id": 1000302,
+      "event_quest_manager_id": 10003,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10201,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000302",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000302",
+      "next_quest_id": 1000303,
+      "end_scenario_id": "event_1yearalready_02",
+      "reward_id": 1320202
+    },
+    {
+      "id": 1000303,
+      "event_quest_manager_id": 10003,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10601,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000303",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000303",
+      "next_quest_id": 1000304,
+      "end_scenario_id": "event_1yearalready_03",
+      "reward_id": 1320203
+    },
+    {
+      "id": 1000304,
+      "event_quest_manager_id": 10003,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10801,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000304",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000304",
+      "next_quest_id": 1000305,
+      "end_scenario_id": "event_1yearalready_04",
+      "reward_id": 1320204
+    },
+    {
+      "id": 1000305,
+      "event_quest_manager_id": 10003,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10301,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000305",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000305",
+      "next_quest_id": 1000306,
+      "end_scenario_id": "event_1yearalready_05",
+      "reward_id": 1320205
+    },
+    {
+      "id": 1000306,
+      "event_quest_manager_id": 10003,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10501,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000306",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000306",
+      "next_quest_id": 1000307,
+      "end_scenario_id": "event_1yearalready_06",
+      "reward_id": 1320206
+    },
+    {
+      "id": 1000307,
+      "event_quest_manager_id": 10003,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10401,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000307",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000307",
+      "next_quest_id": 1000308,
+      "end_scenario_id": "event_1yearalready_07",
+      "reward_id": 1320207
+    },
+    {
+      "id": 1000308,
+      "event_quest_manager_id": 10003,
+      "condition_type": "Outpost_Select",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000308",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000308",
+      "next_quest_id": 1000309,
+      "end_scenario_id": "event_1yearalready_08",
+      "reward_id": 1320208
+    },
+    {
+      "id": 1000309,
+      "event_quest_manager_id": 10003,
+      "condition_type": "Outpost_Building_Enter",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000309",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000309",
+      "next_quest_id": 1000310,
+      "end_scenario_id": "event_1yearalready_epilogue",
+      "reward_id": 1320209
+    },
+    {
+      "id": 1000310,
+      "event_quest_manager_id": 10003,
+      "condition_type": "End",
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000310",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000310",
+      "next_quest_id": 0,
+      "reward_id": 0
     }
   ]
 }

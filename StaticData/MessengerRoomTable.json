@@ -191,6 +191,17 @@
       ]
     },
     {
+      "id": "quiry",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5082,
+      "name_locale": "Locale_Character:33_name",
+      "thumbnail_image": "mi_c033_00_s",
+      "members": [
+        "quiry"
+      ]
+    },
+    {
       "id": "belorta",
       "type": "Nikke",
       "unlock_condition_squad": "None",
@@ -1027,6 +1038,17 @@
       ]
     },
     {
+      "id": "tove",
+      "type": "Nikke",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 5081,
+      "name_locale": "Locale_Character:192_name",
+      "thumbnail_image": "mi_c192_00_s",
+      "members": [
+        "tove"
+      ]
+    },
+    {
       "id": "shifty",
       "type": "Nikke",
       "unlock_condition_squad": "None",
@@ -1210,7 +1232,8 @@
       "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "poli",
-        "miranda"
+        "miranda",
+        "quiry"
       ]
     },
     {
@@ -1567,6 +1590,19 @@
         "zwei",
         "rei",
         "ein"
+      ]
+    },
+    {
+      "id": "freezeacpu",
+      "type": "Group",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:g_npc_17_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "poli",
+        "miranda",
+        "quiry"
       ]
     },
     {
@@ -3008,6 +3044,44 @@
       ]
     },
     {
+      "id": "edennotice_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_296_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "cecil",
+        "noah",
+        "isabel",
+        "johan",
+        "harran",
+        "dorothy"
+      ]
+    },
+    {
+      "id": "tacticaltitac_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_354_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "tacticaltitac"
+      ]
+    },
+    {
+      "id": "raptilion_s",
+      "type": "None",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_149_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "raptilion"
+      ]
+    },
+    {
       "id": "chilipepper",
       "type": "Quest",
       "unlock_condition_squad": "None",
@@ -3411,6 +3485,28 @@
       "thumbnail_image": "icon_messenger_logo_profile",
       "members": [
         "shelter2admin"
+      ]
+    },
+    {
+      "id": "tacticaltitac",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_354_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "tacticaltitac"
+      ]
+    },
+    {
+      "id": "pira",
+      "type": "Quest",
+      "unlock_condition_squad": "None",
+      "unlock_condition_character": 0,
+      "name_locale": "Locale_Character:npc_355_name",
+      "thumbnail_image": "icon_messenger_logo_profile",
+      "members": [
+        "pira"
       ]
     },
     {

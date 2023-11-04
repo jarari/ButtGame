@@ -19,7 +19,6 @@
       "player_squad_value": 1010031,
       "player_squad_speed": 100,
       "sd_character_size": 100,
-      "event_mission_group": 13,
       "event_field_currency_list": [
         {
           "event_field_currency_type": "Material",
@@ -27,6 +26,34 @@
         },
         {
           "event_field_currency_type": "None"
+        }
+      ]
+    },
+    {
+      "id": 10001,
+      "event_id": 80100,
+      "field_design_map": "febg_christmas_001",
+      "field_art_map_standard": "febg_christmas_001_01",
+      "field_hud": "hud_event_field_miraclesnow",
+      "field_first_entry_resource": "event_enter_miraclesnow",
+      "progress_event_group_id": 1001,
+      "is_use_roaming_npc": true,
+      "roaming_npc_limit": 5,
+      "roaming_npc_type": "UserCharacter",
+      "roaming_npc_speed_minimum": 100,
+      "roaming_npc_speed_maximum": 250,
+      "player_squad_type": "UserSquad",
+      "player_squad_value": 5,
+      "player_squad_speed": 100,
+      "sd_character_size": 100,
+      "event_field_currency_list": [
+        {
+          "event_field_currency_type": "Material",
+          "event_field_currency_id": 7122003
+        },
+        {
+          "event_field_currency_type": "Material",
+          "event_field_currency_id": 7070005
         }
       ]
     }

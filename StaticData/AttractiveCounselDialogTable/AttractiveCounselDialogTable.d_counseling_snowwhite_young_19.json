@@ -1,0 +1,533 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_counseling_snowwhite_young_19_1",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Narration",
+      "attractive_point": 0,
+      "highlight": "snowwhite",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_1",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "snowwhite",
+          "set_char_position": "1",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "black",
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "play_bgm": "event_bgm_redash_alldownhill",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_snowwhite_young_19_2",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Narration",
+      "attractive_point": 0,
+      "highlight": "snowwhite_o",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_2",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "snowwhite_o",
+          "hide_char_id": "snowwhite",
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "BattleShipBridge",
+      "set_start_camera": "L_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_snowwhite_young_19_3",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Choice",
+      "attractive_point": 100,
+      "highlight": "snowwhite_o",
+      "speaker": "Choice",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_3",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_counseling_snowwhite_young_19_5"
+    },
+    {
+      "id": "d_counseling_snowwhite_young_19_4",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Choice",
+      "attractive_point": 50,
+      "highlight": "snowwhite_o",
+      "speaker": "Choice",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_4",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_counseling_snowwhite_young_19_12"
+    },
+    {
+      "id": "d_counseling_snowwhite_young_19_5",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Narration",
+      "attractive_point": 0,
+      "highlight": "snowwhite_o",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_5",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_poke",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_snowwhite_young_19_6",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "snowwhite_o",
+      "speaker": "snowwhite_o",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_6",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_snowwhite_young_19_7",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Narration",
+      "attractive_point": 0,
+      "highlight": "snowwhite_o",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_7",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_poke2",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_snowwhite_young_19_8",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "snowwhite_o",
+      "speaker": "snowwhite_o",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_8",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_snowwhite_young_19_9",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "snowwhite_o",
+      "speaker": "snowwhite_o",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_9",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_snowwhite_young_19_10",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "snowwhite_o",
+      "speaker": "snowwhite_o",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_10",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_snowwhite_young_19_11",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "snowwhite_o",
+      "speaker": "snowwhite_o",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_counseling_snowwhite_young_19_19"
+    },
+    {
+      "id": "d_counseling_snowwhite_young_19_12",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Narration",
+      "attractive_point": 0,
+      "highlight": "snowwhite_o",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_12",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_snowwhite_young_19_13",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "snowwhite_o",
+      "speaker": "snowwhite_o",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_13",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_snowwhite_young_19_14",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Narration",
+      "attractive_point": 0,
+      "highlight": "snowwhite_o",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_14",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_snowwhite_young_19_15",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "snowwhite_o",
+      "speaker": "snowwhite_o",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_15",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "d_counseling_snowwhite_young_19_16",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "snowwhite_o",
+      "speaker": "snowwhite_o",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_16",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_snowwhite_young_19_17",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "snowwhite_o",
+      "speaker": "snowwhite_o",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_17",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_snowwhite_young_19_18",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "snowwhite_o",
+      "speaker": "snowwhite_o",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_18",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_counseling_snowwhite_young_19_19"
+    },
+    {
+      "id": "d_counseling_snowwhite_young_19_19",
+      "group_id": "d_counseling_snowwhite_young_19",
+      "speech_window": "Narration",
+      "attractive_point": 0,
+      "highlight": "snowwhite_o",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_Counseling:d_counseling_snowwhite_young_19_19",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "snowwhite_o",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "none",
+      "set_start_camera": "S_100",
+      "set_end_camera": "S_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

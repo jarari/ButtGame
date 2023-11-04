@@ -6,16 +6,20 @@
       "type": "GachaPremium",
       "order_id": 478999,
       "event_id": 0,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": true,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5100,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 150,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -28,23 +32,27 @@
       "use_wish_list": true,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000001,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 2,
       "type": "GachaFriend",
       "order_id": 678998,
       "event_id": 0,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 0,
           "gacha_price_value_count_1": 0,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 0
         },
         {
           "gacha_price_type": 4000,
           "gacha_price_value_count_1": 10,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 100
         }
       ],
@@ -57,23 +65,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 0,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 3,
       "type": "GachaTutorial",
       "order_id": 178997,
       "event_id": 0,
+      "gacha_provide_count_type": "TenOnly",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5100,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 0,
           "gacha_price_value_count_1": 0,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 0
         }
       ],
@@ -86,23 +98,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 1,
       "gacha_reward_id": 0,
-      "gacha_btn_control": false
+      "previous_gacha_id": 0
     },
     {
       "id": 4,
       "type": "GachaCharge",
       "order_id": 578996,
       "event_id": 0,
+      "gacha_provide_count_type": "TenOnly",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 98,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 2000
         },
         {
           "gacha_price_type": 0,
           "gacha_price_value_count_1": 0,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 0
         }
       ],
@@ -115,23 +131,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 1,
       "gacha_reward_id": 0,
-      "gacha_btn_control": false
+      "previous_gacha_id": 0
     },
     {
       "id": 5,
       "type": "GachaPickup",
       "order_id": 278995,
       "event_id": 70001,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -144,23 +164,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 8,
       "type": "GachaPickup",
       "order_id": 278992,
       "event_id": 70004,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -173,23 +197,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 10,
       "type": "GachaCharge",
       "order_id": 377990,
       "event_id": 110001,
+      "gacha_provide_count_type": "TenOnly",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 98,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 2000
         },
         {
           "gacha_price_type": 0,
           "gacha_price_value_count_1": 0,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 0
         }
       ],
@@ -202,23 +230,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 1,
       "gacha_reward_id": 0,
-      "gacha_btn_control": false
+      "previous_gacha_id": 0
     },
     {
       "id": 101,
       "type": "GachaPickup",
       "order_id": 278899,
       "event_id": 70005,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -231,23 +263,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 102,
       "type": "GachaPickup",
       "order_id": 278898,
       "event_id": 70006,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -260,23 +296,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 103,
       "type": "GachaPickup",
       "order_id": 277897,
       "event_id": 70007,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -289,23 +329,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 104,
       "type": "GachaPickup",
       "order_id": 277896,
       "event_id": 70008,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -318,23 +362,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 105,
       "type": "GachaPickup",
       "order_id": 277895,
       "event_id": 70009,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -347,23 +395,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 106,
       "type": "GachaPickup",
       "order_id": 277894,
       "event_id": 70010,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -376,23 +428,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 107,
       "type": "GachaPickup",
       "order_id": 277893,
       "event_id": 70011,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -405,23 +461,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 108,
       "type": "GachaPickup",
       "order_id": 277892,
       "event_id": 70013,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -434,23 +494,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 109,
       "type": "GachaPickup",
       "order_id": 277891,
       "event_id": 70012,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -463,23 +527,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 110,
       "type": "GachaPickup",
       "order_id": 277890,
       "event_id": 70014,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -492,23 +560,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 111,
       "type": "GachaPickup",
       "order_id": 277889,
       "event_id": 70015,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -521,23 +593,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 112,
       "type": "GachaPickup",
       "order_id": 277888,
       "event_id": 70017,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -550,23 +626,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 113,
       "type": "GachaPickup",
       "order_id": 277887,
       "event_id": 70016,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -579,23 +659,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 114,
       "type": "GachaPickup",
       "order_id": 277886,
       "event_id": 70018,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": true,
       "daily_free_gacha_event_id": 80001,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -608,23 +692,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 115,
       "type": "GachaPickup",
       "order_id": 277885,
       "event_id": 70019,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -637,23 +725,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 116,
       "type": "GachaPickup",
       "order_id": 277884,
       "event_id": 70020,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -666,23 +758,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 117,
       "type": "GachaPickup",
       "order_id": 277883,
       "event_id": 70021,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -695,23 +791,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 118,
       "type": "GachaPickup",
       "order_id": 277882,
       "event_id": 70022,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -724,23 +824,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 119,
       "type": "GachaPickup",
       "order_id": 277881,
       "event_id": 70023,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -753,23 +857,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 120,
       "type": "GachaPickup",
       "order_id": 277880,
       "event_id": 70024,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -782,23 +890,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 121,
       "type": "GachaPickup",
       "order_id": 277879,
       "event_id": 70025,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -811,23 +923,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 122,
       "type": "GachaPickup",
       "order_id": 277878,
       "event_id": 70026,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -840,23 +956,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 123,
       "type": "GachaPickup",
       "order_id": 277877,
       "event_id": 70027,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -869,23 +989,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 124,
       "type": "GachaPickup",
       "order_id": 277876,
       "event_id": 70028,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -898,23 +1022,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 125,
       "type": "GachaPickup",
       "order_id": 277875,
       "event_id": 70029,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -927,23 +1055,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 126,
       "type": "GachaPickup",
       "order_id": 277874,
       "event_id": 70030,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -956,23 +1088,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 127,
       "type": "GachaPickup",
       "order_id": 277873,
       "event_id": 70031,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -985,23 +1121,27 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
     },
     {
       "id": 128,
       "type": "GachaPickup",
       "order_id": 277872,
       "event_id": 70032,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
       "daily_free_gacha_event_id": 0,
       "gacha_price_group": [
         {
           "gacha_price_type": 5200,
           "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 10
         },
         {
           "gacha_price_type": 99,
           "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
           "gacha_price_value_count_10": 3000
         }
       ],
@@ -1014,7 +1154,106 @@
       "use_wish_list": false,
       "gacha_play_max_count": 0,
       "gacha_reward_id": 5000002,
-      "gacha_btn_control": true
+      "previous_gacha_id": 0
+    },
+    {
+      "id": 129,
+      "type": "GachaPickup",
+      "order_id": 277871,
+      "event_id": 70033,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
+      "daily_free_gacha_event_id": 0,
+      "gacha_price_group": [
+        {
+          "gacha_price_type": 5200,
+          "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
+          "gacha_price_value_count_10": 10
+        },
+        {
+          "gacha_price_type": 99,
+          "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
+          "gacha_price_value_count_10": 3000
+        }
+      ],
+      "grade_prob_id": 2030,
+      "is_max_count": false,
+      "max_ceiling_count": 0,
+      "fixed_char_amount": 0,
+      "gacha_page_prefab": "base_gacha_type_pickup_c033",
+      "pickup_char_group_id": 502701,
+      "use_wish_list": false,
+      "gacha_play_max_count": 0,
+      "gacha_reward_id": 5000002,
+      "previous_gacha_id": 0
+    },
+    {
+      "id": 130,
+      "type": "GachaPickup",
+      "order_id": 277870,
+      "event_id": 70034,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": true,
+      "daily_free_gacha_event_id": 80002,
+      "gacha_price_group": [
+        {
+          "gacha_price_type": 5200,
+          "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
+          "gacha_price_value_count_10": 10
+        },
+        {
+          "gacha_price_type": 99,
+          "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
+          "gacha_price_value_count_10": 3000
+        }
+      ],
+      "grade_prob_id": 2031,
+      "is_max_count": false,
+      "max_ceiling_count": 0,
+      "fixed_char_amount": 0,
+      "gacha_page_prefab": "base_gacha_type_pickup_c470",
+      "pickup_char_group_id": 502801,
+      "use_wish_list": false,
+      "gacha_play_max_count": 0,
+      "gacha_reward_id": 5000002,
+      "previous_gacha_id": 0
+    },
+    {
+      "id": 131,
+      "type": "GachaPickup",
+      "order_id": 277869,
+      "event_id": 70035,
+      "gacha_provide_count_type": "OneAndTen",
+      "use_daily_discount_one": false,
+      "daily_free_gacha_event_id": 0,
+      "gacha_price_group": [
+        {
+          "gacha_price_type": 5200,
+          "gacha_price_value_count_1": 1,
+          "daily_gacha_discount_price_value_1": 0,
+          "gacha_price_value_count_10": 10
+        },
+        {
+          "gacha_price_type": 99,
+          "gacha_price_value_count_1": 300,
+          "daily_gacha_discount_price_value_1": 0,
+          "gacha_price_value_count_10": 3000
+        }
+      ],
+      "grade_prob_id": 2032,
+      "is_max_count": false,
+      "max_ceiling_count": 0,
+      "fixed_char_amount": 0,
+      "gacha_page_prefab": "base_gacha_type_pickup_c192",
+      "pickup_char_group_id": 502901,
+      "use_wish_list": false,
+      "gacha_play_max_count": 0,
+      "gacha_reward_id": 5000002,
+      "previous_gacha_id": 0
     }
   ]
 }

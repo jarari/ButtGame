@@ -1,0 +1,3827 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "group_Id": "NKS_Balloon_Dummy_Group_00",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:NKS_ScenarioDialog_001_01",
+      "duration": 0,
+      "execute_DelayTime": 900000000,
+      "execute_Rate": 0,
+      "first_show_check": true,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 999999
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 2,
+      "group_Id": "NKS_Balloon_SNW_Group_01",
+      "priority": 4,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_HpRatio_70",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 70
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 3,
+      "group_Id": "NKS_Balloon_SNW_Group_02",
+      "priority": 3,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_HpRatio_50",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 50
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 4,
+      "group_Id": "NKS_Balloon_SNW_Group_03",
+      "priority": 2,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_HpRatio_30",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 30
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 5,
+      "group_Id": "NKS_Balloon_SNW_Group_04",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_HpRatio_5",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 5
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 6,
+      "group_Id": "NKS_Balloon_SNW_Group_05",
+      "priority": 3,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_HpRatio_5_GetHealItem",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100501
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 7,
+      "group_Id": "NKS_Balloon_SNW_Group_06",
+      "priority": 2,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_HpRatio_5_GetHealItem",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 1000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100502
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 8,
+      "group_Id": "NKS_Balloon_SNW_Group_07",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_HpRatio_5_GetHealItem",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 500,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100503
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 9,
+      "group_Id": "NKS_Balloon_SNW_Group_08",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_Invincible",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100601
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10,
+      "group_Id": "NKS_Balloon_SNW_Group_09",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_Magnet",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100301
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11,
+      "group_Id": "NKS_Balloon_SNW_Group_10",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_KillMinion",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100401
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12,
+      "group_Id": "NKS_Balloon_SNW_Group_11",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_GetTreasure",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100801
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 13,
+      "group_Id": "NKS_Balloon_SNW_Group_12",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_MainWeaponMaster",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 200105
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 14,
+      "group_Id": "NKS_Balloon_SNW_Group_13",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_RareModule_A_Master",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 301105
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 15,
+      "group_Id": "NKS_Balloon_SNW_Group_14",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_RareModule_B_Master",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 301205
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 16,
+      "group_Id": "NKS_Balloon_SNW_Group_15",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_EndingItem_01",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110005
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 17,
+      "group_Id": "NKS_Balloon_SNW_Group_16",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_FieldSpecialItem_01",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110010
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 18,
+      "group_Id": "NKS_Balloon_SNW_Group_17",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_FieldSpecialItem_02",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110011
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 19,
+      "group_Id": "NKS_Balloon_SNW_Group_18",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_FieldSpecialItem_03",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110012
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20,
+      "group_Id": "NKS_Balloon_SNW_Group_19",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_FieldSpecialItem_04",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110013
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 21,
+      "group_Id": "NKS_Balloon_SNW_Group_20",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_FieldSpecialItem_05",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110014
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 22,
+      "group_Id": "NKS_Balloon_SNW_Group_21",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_FieldSpecialItem_06",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110015
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 23,
+      "group_Id": "NKS_Balloon_SNW_Group_22",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_BossMonsterSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 24,
+      "group_Id": "NKS_Balloon_SNW_Group_23",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_IceTurtleSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 25,
+      "group_Id": "NKS_Balloon_SNW_Group_24",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_GiantTankSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 26,
+      "group_Id": "NKS_Balloon_SNW_Group_25",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_SandWormSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 27,
+      "group_Id": "NKS_Balloon_SNW_Group_26",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_BirdSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 28,
+      "group_Id": "NKS_Balloon_SNW_Group_27",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_AnarSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 29,
+      "group_Id": "NKS_Balloon_SNW_Group_28",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c220",
+      "name_localkey": "Locale_Character:220_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_SnowWhite_InkSpawn_01",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 1
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 30,
+      "group_Id": "NKS_Balloon_Dummy_Group_01",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:NKS_ScenarioDialog_001_01",
+      "duration": 3,
+      "execute_DelayTime": 900000000,
+      "execute_Rate": 0,
+      "first_show_check": true,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 999999
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 31,
+      "group_Id": "NKS_Balloon_DRT_Group_01",
+      "priority": 4,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_HpRatio_70",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 70
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 32,
+      "group_Id": "NKS_Balloon_DRT_Group_02",
+      "priority": 3,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_HpRatio_50",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 50
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 33,
+      "group_Id": "NKS_Balloon_DRT_Group_03",
+      "priority": 2,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_HpRatio_30",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 30
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 34,
+      "group_Id": "NKS_Balloon_DRT_Group_04",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_HpRatio_5",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 5
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 35,
+      "group_Id": "NKS_Balloon_DRT_Group_05",
+      "priority": 3,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_HpRatio_5_GetHealItem",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100501
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 36,
+      "group_Id": "NKS_Balloon_DRT_Group_06",
+      "priority": 2,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_HpRatio_5_GetHealItem",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 1000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100502
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 37,
+      "group_Id": "NKS_Balloon_DRT_Group_07",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_HpRatio_5_GetHealItem",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 500,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100503
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 38,
+      "group_Id": "NKS_Balloon_DRT_Group_08",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_Invincible",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100601
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 39,
+      "group_Id": "NKS_Balloon_DRT_Group_09",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_Magnet",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100301
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 40,
+      "group_Id": "NKS_Balloon_DRT_Group_10",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_KillMinion",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100401
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 41,
+      "group_Id": "NKS_Balloon_DRT_Group_11",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_GetTreasure",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100801
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 42,
+      "group_Id": "NKS_Balloon_DRT_Group_12",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_MainWeaponMaster",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 200905
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 43,
+      "group_Id": "NKS_Balloon_DRT_Group_13",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_RareModule_A_Master",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 301105
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 44,
+      "group_Id": "NKS_Balloon_DRT_Group_14",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_RareModule_B_Master",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 301205
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 45,
+      "group_Id": "NKS_Balloon_DRT_Group_15",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_EndingItem_01",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110008
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 46,
+      "group_Id": "NKS_Balloon_DRT_Group_16",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_FieldSpecialItem_01",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110010
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 47,
+      "group_Id": "NKS_Balloon_DRT_Group_17",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_FieldSpecialItem_02",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110011
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 48,
+      "group_Id": "NKS_Balloon_DRT_Group_18",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_FieldSpecialItem_03",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110012
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 49,
+      "group_Id": "NKS_Balloon_DRT_Group_19",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_FieldSpecialItem_04",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110013
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 50,
+      "group_Id": "NKS_Balloon_DRT_Group_20",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_FieldSpecialItem_05",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110014
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 51,
+      "group_Id": "NKS_Balloon_DRT_Group_21",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_FieldSpecialItem_06",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110015
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 52,
+      "group_Id": "NKS_Balloon_DRT_Group_22",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_BossMonsterSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 53,
+      "group_Id": "NKS_Balloon_DRT_Group_23",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_IceTurtleSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 54,
+      "group_Id": "NKS_Balloon_DRT_Group_24",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_GiantTankSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 55,
+      "group_Id": "NKS_Balloon_DRT_Group_25",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_SandWormSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 56,
+      "group_Id": "NKS_Balloon_DRT_Group_26",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_BirdSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 57,
+      "group_Id": "NKS_Balloon_DRT_Group_27",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_AnarSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 58,
+      "group_Id": "NKS_Balloon_DRT_Group_28",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c233",
+      "name_localkey": "Locale_Character:233_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Dorothy_InkSpawn_01",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 2
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 59,
+      "group_Id": "NKS_Balloon_Dummy_Group_02",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:NKS_ScenarioDialog_001_01",
+      "duration": 3,
+      "execute_DelayTime": 900000000,
+      "execute_Rate": 0,
+      "first_show_check": true,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 999999
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 60,
+      "group_Id": "NKS_Balloon_SCR_Group_01",
+      "priority": 4,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_HpRatio_70",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 70
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 61,
+      "group_Id": "NKS_Balloon_SCR_Group_02",
+      "priority": 3,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_HpRatio_50",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 50
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 62,
+      "group_Id": "NKS_Balloon_SCR_Group_03",
+      "priority": 2,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_HpRatio_30",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 30
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 63,
+      "group_Id": "NKS_Balloon_SCR_Group_04",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_HpRatio_5",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 5
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 64,
+      "group_Id": "NKS_Balloon_SCR_Group_05",
+      "priority": 3,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_HpRatio_5_GetHealItem",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100501
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 65,
+      "group_Id": "NKS_Balloon_SCR_Group_06",
+      "priority": 2,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_HpRatio_5_GetHealItem",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 1000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100502
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 66,
+      "group_Id": "NKS_Balloon_SCR_Group_07",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_HpRatio_5_GetHealItem",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 500,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100503
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 67,
+      "group_Id": "NKS_Balloon_SCR_Group_08",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_Invincible",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100601
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 68,
+      "group_Id": "NKS_Balloon_SCR_Group_09",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_Magnet",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100301
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 69,
+      "group_Id": "NKS_Balloon_SCR_Group_10",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_KillMinion",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100401
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 70,
+      "group_Id": "NKS_Balloon_SCR_Group_11",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_GetTreasure",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100801
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 71,
+      "group_Id": "NKS_Balloon_SCR_Group_12",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_MainWeaponMaster",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 200505
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 72,
+      "group_Id": "NKS_Balloon_SCR_Group_13",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_RareModule_A_Master",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 301105
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 73,
+      "group_Id": "NKS_Balloon_SCR_Group_14",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_RareModule_B_Master",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 301205
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 74,
+      "group_Id": "NKS_Balloon_SCR_Group_15",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_EndingItem_01",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110006
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 75,
+      "group_Id": "NKS_Balloon_SCR_Group_16",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_FieldSpecialItem_01",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110010
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 76,
+      "group_Id": "NKS_Balloon_SCR_Group_17",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_FieldSpecialItem_02",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110011
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 77,
+      "group_Id": "NKS_Balloon_SCR_Group_18",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_FieldSpecialItem_03",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110012
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 78,
+      "group_Id": "NKS_Balloon_SCR_Group_19",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_FieldSpecialItem_04",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110013
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 79,
+      "group_Id": "NKS_Balloon_SCR_Group_20",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_FieldSpecialItem_05",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110014
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 80,
+      "group_Id": "NKS_Balloon_SCR_Group_21",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_FieldSpecialItem_06",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110015
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 81,
+      "group_Id": "NKS_Balloon_SCR_Group_22",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_BossMonsterSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 82,
+      "group_Id": "NKS_Balloon_SCR_Group_23",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_IceTurtleSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 83,
+      "group_Id": "NKS_Balloon_SCR_Group_24",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_GiantTankSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 84,
+      "group_Id": "NKS_Balloon_SCR_Group_25",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_SandWormSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 85,
+      "group_Id": "NKS_Balloon_SCR_Group_26",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_BirdSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 86,
+      "group_Id": "NKS_Balloon_SCR_Group_27",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_AnarSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 87,
+      "group_Id": "NKS_Balloon_SCR_Group_28",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c965",
+      "name_localkey": "Locale_Character:222_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Scarlet_InkSpawn_01",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 3
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 88,
+      "group_Id": "NKS_Balloon_Dummy_Group_03",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:NKS_ScenarioDialog_001_01",
+      "duration": 3,
+      "execute_DelayTime": 900000000,
+      "execute_Rate": 0,
+      "first_show_check": true,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 999999
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 89,
+      "group_Id": "NKS_Balloon_RPZ_Group_01",
+      "priority": 4,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_HpRatio_70",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 70
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 90,
+      "group_Id": "NKS_Balloon_RPZ_Group_02",
+      "priority": 3,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_HpRatio_50",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 50
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 91,
+      "group_Id": "NKS_Balloon_RPZ_Group_03",
+      "priority": 2,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_HpRatio_30",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 30
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 92,
+      "group_Id": "NKS_Balloon_RPZ_Group_04",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_HpRatio_5",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 5
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 93,
+      "group_Id": "NKS_Balloon_RPZ_Group_05",
+      "priority": 3,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_HpRatio_5_GetHealItem",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100501
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 94,
+      "group_Id": "NKS_Balloon_RPZ_Group_06",
+      "priority": 2,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_HpRatio_5_GetHealItem",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 1000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100502
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 95,
+      "group_Id": "NKS_Balloon_RPZ_Group_07",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_HpRatio_5_GetHealItem",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 500,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100503
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 96,
+      "group_Id": "NKS_Balloon_RPZ_Group_08",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_Invincible",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100601
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 97,
+      "group_Id": "NKS_Balloon_RPZ_Group_09",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_Magnet",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100301
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 98,
+      "group_Id": "NKS_Balloon_RPZ_Group_10",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_KillMinion",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100401
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 99,
+      "group_Id": "NKS_Balloon_RPZ_Group_11",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_GetTreasure",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100801
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 100,
+      "group_Id": "NKS_Balloon_RPZ_Group_12",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_MainWeaponMaster",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 200705
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 101,
+      "group_Id": "NKS_Balloon_RPZ_Group_13",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_RareModule_A_Master",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 301105
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 102,
+      "group_Id": "NKS_Balloon_RPZ_Group_14",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_RareModule_B_Master",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 301205
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 103,
+      "group_Id": "NKS_Balloon_RPZ_Group_15",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_EndingItem_01",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110007
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 104,
+      "group_Id": "NKS_Balloon_RPZ_Group_16",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_FieldSpecialItem_01",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110010
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 105,
+      "group_Id": "NKS_Balloon_RPZ_Group_17",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_FieldSpecialItem_02",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110011
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 106,
+      "group_Id": "NKS_Balloon_RPZ_Group_18",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_FieldSpecialItem_03",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110012
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 107,
+      "group_Id": "NKS_Balloon_RPZ_Group_19",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_FieldSpecialItem_04",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110013
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 108,
+      "group_Id": "NKS_Balloon_RPZ_Group_20",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_FieldSpecialItem_05",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110014
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 109,
+      "group_Id": "NKS_Balloon_RPZ_Group_21",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_FieldSpecialItem_06",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110015
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 110,
+      "group_Id": "NKS_Balloon_RPZ_Group_22",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_BossMonsterSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 111,
+      "group_Id": "NKS_Balloon_RPZ_Group_23",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_IceTurtleSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 112,
+      "group_Id": "NKS_Balloon_RPZ_Group_24",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_GiantTankSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 113,
+      "group_Id": "NKS_Balloon_RPZ_Group_25",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_SandWormSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 114,
+      "group_Id": "NKS_Balloon_RPZ_Group_26",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_BirdSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 115,
+      "group_Id": "NKS_Balloon_RPZ_Group_27",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_AnarSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 116,
+      "group_Id": "NKS_Balloon_RPZ_Group_28",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c966",
+      "name_localkey": "Locale_Character:221_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_Rapunzel_InkSpawn_01",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 4
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 117,
+      "group_Id": "NKS_Balloon_Dummy_Group_04",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:NKS_ScenarioDialog_001_01",
+      "duration": 3,
+      "execute_DelayTime": 900000000,
+      "execute_Rate": 0,
+      "first_show_check": true,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 999999
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 118,
+      "group_Id": "NKS_Balloon_RHD_Group_01",
+      "priority": 4,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_HpRatio_70",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 70
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 119,
+      "group_Id": "NKS_Balloon_RHD_Group_02",
+      "priority": 3,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_HpRatio_50",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 50
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 120,
+      "group_Id": "NKS_Balloon_RHD_Group_03",
+      "priority": 2,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_HpRatio_30",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 30
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 121,
+      "group_Id": "NKS_Balloon_RHD_Group_04",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_HpRatio_5",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ReachHPratio",
+          "useCondition_Value": 5
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 122,
+      "group_Id": "NKS_Balloon_RHD_Group_05",
+      "priority": 3,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_HpRatio_5_GetHealItem",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100501
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 123,
+      "group_Id": "NKS_Balloon_RHD_Group_06",
+      "priority": 2,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_HpRatio_5_GetHealItem",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 1000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100502
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 124,
+      "group_Id": "NKS_Balloon_RHD_Group_07",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_HpRatio_5_GetHealItem",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 500,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100503
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 125,
+      "group_Id": "NKS_Balloon_RHD_Group_08",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_Invincible",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100601
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 126,
+      "group_Id": "NKS_Balloon_RHD_Group_09",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_Magnet",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100301
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 127,
+      "group_Id": "NKS_Balloon_RHD_Group_10",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_KillMinion",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100401
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 128,
+      "group_Id": "NKS_Balloon_RHD_Group_11",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_GetTreasure",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 100801
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 129,
+      "group_Id": "NKS_Balloon_RHD_Group_12",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_MainWeaponMaster",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 200305
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 130,
+      "group_Id": "NKS_Balloon_RHD_Group_13",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_RareModule_A_Master",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 301105
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 131,
+      "group_Id": "NKS_Balloon_RHD_Group_14",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_RareModule_B_Master",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 301205
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 132,
+      "group_Id": "NKS_Balloon_RHD_Group_15",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_EndingItem_01",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110009
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 133,
+      "group_Id": "NKS_Balloon_RHD_Group_16",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_FieldSpecialItem_01",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110010
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 134,
+      "group_Id": "NKS_Balloon_RHD_Group_17",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_FieldSpecialItem_02",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110011
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 135,
+      "group_Id": "NKS_Balloon_RHD_Group_18",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_FieldSpecialItem_03",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110012
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 136,
+      "group_Id": "NKS_Balloon_RHD_Group_19",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_FieldSpecialItem_04",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110013
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 137,
+      "group_Id": "NKS_Balloon_RHD_Group_20",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_FieldSpecialItem_05",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110014
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 138,
+      "group_Id": "NKS_Balloon_RHD_Group_21",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_FieldSpecialItem_06",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 110015
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 139,
+      "group_Id": "NKS_Balloon_RHD_Group_22",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_BossMonsterSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 140,
+      "group_Id": "NKS_Balloon_RHD_Group_23",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_IceTurtleSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 141,
+      "group_Id": "NKS_Balloon_RHD_Group_24",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_GiantTankSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 142,
+      "group_Id": "NKS_Balloon_RHD_Group_25",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_SandWormSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 143,
+      "group_Id": "NKS_Balloon_RHD_Group_26",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_BirdSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 144,
+      "group_Id": "NKS_Balloon_RHD_Group_27",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_AnarSpawn",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 145,
+      "group_Id": "NKS_Balloon_RHD_Group_28",
+      "priority": 1,
+      "printType": "Stage",
+      "portrait_id": "NKS_characterDialog_c470",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:Event_NKS_Balloon_RedHood_InkSpawn_01",
+      "duration": 3,
+      "execute_DelayTime": 6000,
+      "execute_Rate": 10000,
+      "first_show_check": false,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 5
+        },
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 146,
+      "group_Id": "NKS_Balloon_Dummy_Group_05",
+      "priority": 1,
+      "printType": "Common",
+      "portrait_id": "NKS_characterDialog_hidden",
+      "name_localkey": "Locale_Character:470_name",
+      "scenario_localkey": "Locale_Event:NKS_ScenarioDialog_001_01",
+      "duration": 0,
+      "execute_DelayTime": 900000000,
+      "execute_Rate": 0,
+      "first_show_check": true,
+      "ConditionData": [
+        {
+          "useCondition_Type": "Check_ItemGet",
+          "useCondition_Value": 999999
+        },
+        {
+          "useCondition_Type": "Check_CurCharacter",
+          "useCondition_Value": 6
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  ]
+}

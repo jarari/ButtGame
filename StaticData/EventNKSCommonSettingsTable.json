@@ -1,0 +1,24 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "event_id": 80803,
+      "enter_scenario": "1ann_mini_prologue",
+      "FieldItem_AutoDisappearTime": 60,
+      "AutoSaveTimer": 60,
+      "ItemCalcWeight": 1.24,
+      "pcInvincibleTime": 50,
+      "Magnet_MoveTo_playerCharacter_Spd": 8,
+      "monster_common_appearEffect": "NKS_fx_monster_spawn_01",
+      "monster_common_deathEffect_Id": "NKS_fx_common_explosion_01",
+      "set_BossDeathEffectTime": 300,
+      "monster_common_KnockbackDelay": 5,
+      "monster_common_WhiteBlinkDelay": 5,
+      "Bounce_DefaultWidth": 768,
+      "Bounce_DefaultHeight": 1240,
+      "PlayableCharacter_Burst_FadeTime": 50,
+      "PlayableCharacter_Burst_Interval": 0.2
+    }
+  ]
+}

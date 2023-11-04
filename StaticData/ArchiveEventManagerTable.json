@@ -8,6 +8,7 @@
       "included_content_type": "StoryEvent",
       "archive_match_event_id": 40001,
       "archive_story_progress_group_order": 1,
+      "archive_story_progress_locale": "PROGRESS_STORY_TYPE_01",
       "event_start_date": "2022-11-10T06:30:00",
       "event_end_date": "2022-11-23T19:59:59"
     },
@@ -18,6 +19,7 @@
       "included_content_type": "StoryEvent1",
       "archive_match_event_id": 80303,
       "archive_story_progress_group_order": 1,
+      "archive_story_progress_locale": "PROGRESS_STORY_TYPE_02",
       "parents_event_id": 1080300
     },
     {
@@ -27,7 +29,50 @@
       "included_content_type": "StoryEvent2",
       "archive_match_event_id": 80304,
       "archive_story_progress_group_order": 2,
+      "archive_story_progress_locale": "PROGRESS_STORY_TYPE_03",
       "parents_event_id": 1080300
+    },
+    {
+      "id": 40010,
+      "event_system_type": "StoryEvent",
+      "event_shortcut_id": "0",
+      "included_content_type": "StoryEvent",
+      "archive_match_event_id": 40010,
+      "archive_story_progress_group_order": 1,
+      "archive_story_progress_locale": "PROGRESS_STORY_TYPE_01",
+      "event_start_date": "2023-03-15T03:00:00",
+      "event_end_date": "2023-03-28T19:59:59"
+    },
+    {
+      "id": 40012,
+      "event_system_type": "StoryEvent",
+      "event_shortcut_id": "0",
+      "included_content_type": "StoryEvent",
+      "archive_match_event_id": 40012,
+      "archive_story_progress_group_order": 1,
+      "archive_story_progress_locale": "PROGRESS_STORY_TYPE_01",
+      "event_start_date": "2023-04-13T03:00:00",
+      "event_end_date": "2023-04-26T14:59:59"
+    },
+    {
+      "id": 40003,
+      "event_system_type": "StoryEvent",
+      "event_shortcut_id": "0",
+      "included_content_type": "StoryEvent1",
+      "archive_match_event_id": 40003,
+      "archive_story_progress_group_order": 1,
+      "archive_story_progress_locale": "PROGRESS_STORY_TYPE_02",
+      "parents_event_id": 80100
+    },
+    {
+      "id": 40004,
+      "event_system_type": "StoryEvent",
+      "event_shortcut_id": "0",
+      "included_content_type": "StoryEvent2",
+      "archive_match_event_id": 40004,
+      "archive_story_progress_group_order": 2,
+      "archive_story_progress_locale": "PROGRESS_STORY_TYPE_03",
+      "parents_event_id": 80100
     },
     {
       "id": 1080300,
@@ -45,6 +90,23 @@
       "included_content_type": "MiniGame",
       "archive_match_event_id": 80305,
       "parents_event_id": 1080300
+    },
+    {
+      "id": 80100,
+      "event_system_type": "FieldHubEvent",
+      "event_shortcut_id": "50001",
+      "included_content_type": "FieldEvent",
+      "archive_match_event_id": 80100,
+      "event_start_date": "2022-12-08T07:30:00",
+      "event_end_date": "2022-12-28T19:59:59"
+    },
+    {
+      "id": 80105,
+      "event_system_type": "MiniGameSortOut",
+      "event_shortcut_id": "60001",
+      "included_content_type": "MiniGame",
+      "archive_match_event_id": 80105,
+      "parents_event_id": 80100
     }
   ]
 }

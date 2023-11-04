@@ -8838,6 +8838,217 @@
       "far_monster_count": 0
     },
     {
+      "stage_id": 6990147,
+      "group_id": "wave_test_002",
+      "spot_mod": "Campaign",
+      "battle_time": 90,
+      "monster_count": 5,
+      "use_intro_scene": true,
+      "wave_repeat": false,
+      "point_data": "point_grd_cityforestunder_004_midclear",
+      "point_data_fly": "point_fly_cityforestunder_004",
+      "background_name": "sbg_cityforestunder_004_midclear",
+      "theme": "CityForestUnder",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_cityforestunder_basedefense_001",
+      "target_list": [
+        3310040911
+      ],
+      "wave_data": [
+        {
+          "wave_path": "path_grd_mid_small_052",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3220030911,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3220030911,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3220060911,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 3220060911,
+              "spawn_type": "Jump"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_fly_mid_small_039",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3210010911,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3210010911,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1210010911,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 3210010911,
+              "spawn_type": "Jump"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_mid_small_040",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3220060911,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3220060911,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 2220030911,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 2220030911,
+              "spawn_type": "Dash"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_far_small_038",
+          "private_monster_count": 3,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3220060911,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3220060911,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3220060911,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3320071011,
+              "spawn_type": "Dash"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_fly_mid_small_024",
+          "private_monster_count": 0,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3210020911,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3210020911,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3210010911,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 3210010911,
+              "spawn_type": "Jump"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_fly_close_small_032",
+          "private_monster_count": 4,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3210020911,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3210010911,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 1210010911,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 1210010911,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_mid_small_005",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3220030911,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 3220030911,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 2220030911,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 2220030911,
+              "spawn_type": "Jump"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_fly_mid_small_002",
+          "private_monster_count": 4,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3210010911,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3210010911,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 1210010911,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3310040911,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 6,
+      "mid_monster_count": 36,
+      "far_monster_count": 6
+    },
+    {
       "stage_id": 6991001,
       "group_id": "wave_test_002",
       "spot_mod": "Campaign",
@@ -9178,7 +9389,7 @@
       "point_data": "point_grd_blacksmith_01",
       "point_data_fly": "point_fly_blacksmith_01",
       "background_name": "sbg_cityforestunderbbg003_001",
-      "theme": "CityForestUnder",
+      "theme": "CityForest",
       "theme_time": "Day",
       "stage_info_bg": "ibg_cityforest_001",
       "target_list": [
@@ -10340,8 +10551,8 @@
           ]
         }
       ],
-      "close_monster_count": 1,
-      "mid_monster_count": 0,
+      "close_monster_count": 0,
+      "mid_monster_count": 1,
       "far_monster_count": 0
     },
     {
@@ -10554,8 +10765,8 @@
           ]
         }
       ],
-      "close_monster_count": 1,
-      "mid_monster_count": 0,
+      "close_monster_count": 0,
+      "mid_monster_count": 1,
       "far_monster_count": 0
     },
     {
@@ -10661,8 +10872,8 @@
           ]
         }
       ],
-      "close_monster_count": 1,
-      "mid_monster_count": 0,
+      "close_monster_count": 0,
+      "mid_monster_count": 1,
       "far_monster_count": 0
     },
     {
