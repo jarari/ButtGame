@@ -12562,6 +12562,126 @@
       "reward_id": 0
     },
     {
+      "id": 2008501,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5081,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MainQuestClear",
+          "condition_id": 25,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_tove_01",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 2008502,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5081,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 2008501,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_tove_02",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 2008503,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5081,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 2008501,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_tove_03",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
       "id": 3000101,
       "trigger_list": [
         {
@@ -19122,6 +19242,206 @@
       ],
       "message_type": "Message",
       "tid": "m_ex_freezeacpu_06",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7001001,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 103310101,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_alonesurviver_01",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7001002,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 103310106,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7001001,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_alonesurviver_02",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7001003,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 103310108,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7001002,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_alonesurviver_03",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7001004,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 103310112,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7001003,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_alonesurviver_04",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7001005,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 103320112,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7001004,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_alonesurviver_05",
       "resource_id": 0,
       "stamina_value": 0,
       "reward_id": 0
