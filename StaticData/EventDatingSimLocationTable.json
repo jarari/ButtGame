@@ -1,0 +1,49 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "snowfalloasis_inn",
+      "manager_id": 1001,
+      "index": 1,
+      "location_name": "Locale_Event:event_snowfall_location_inn",
+      "location_resource": "HotSpringInnOut_d"
+    },
+    {
+      "id": "snowfalloasis_trail",
+      "manager_id": 1001,
+      "index": 4,
+      "location_name": "Locale_Event:event_snowfall_location_trail",
+      "location_resource": "Trail_d"
+    },
+    {
+      "id": "snowfalloasis_dining",
+      "manager_id": 1001,
+      "index": 3,
+      "location_name": "Locale_Event:event_snowfall_location_dining",
+      "location_resource": "DiningRoom_d"
+    },
+    {
+      "id": "snowfalloasis_bamboo",
+      "manager_id": 1001,
+      "index": 6,
+      "location_name": "Locale_Event:event_snowfall_location_bamboo",
+      "location_resource": "BambooForest_d",
+      "location_open_dialog_event": "snowfall_global_02"
+    },
+    {
+      "id": "snowfalloasis_hotspring",
+      "manager_id": 1001,
+      "index": 5,
+      "location_name": "Locale_Event:event_snowfall_location_hotspring",
+      "location_resource": "BigHotSpring_d",
+      "location_open_dialog_event": "snowfall_global_05"
+    },
+    {
+      "id": "snowfalloasis_waterfall",
+      "manager_id": 1001,
+      "index": 2,
+      "location_name": "Locale_Event:event_snowfall_location_waterfall",
+      "location_resource": "WaterFall_d"
+    }
+  ]
+}

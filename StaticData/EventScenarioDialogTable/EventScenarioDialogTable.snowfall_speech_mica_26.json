@@ -1,0 +1,933 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "snowfall_speech_mica_26_1",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Monologue",
+      "highlight": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_1",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "mica_w",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Trail_s",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_ambient": "amb_so_trail_2",
+      "play_bgm": "event_bgm_neverland_snowflakes_sunset",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_2",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Monologue",
+      "highlight": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_2",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_3",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Monologue",
+      "highlight": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_3",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_4",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Choice",
+      "highlight": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_4",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_speech_mica_26_7"
+    },
+    {
+      "id": "snowfall_speech_mica_26_5",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Choice",
+      "highlight": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_5",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_speech_mica_26_6"
+    },
+    {
+      "id": "snowfall_speech_mica_26_6",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Monologue",
+      "highlight": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_6",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "is_exit_scenario": true
+    },
+    {
+      "id": "snowfall_speech_mica_26_7",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Speech",
+      "highlight": "mica_w",
+      "speaker": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_7",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_8",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Speech",
+      "highlight": "mica_w",
+      "speaker": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_8",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_9",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Self",
+      "highlight": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_9",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_10",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Speech",
+      "highlight": "mica_w",
+      "speaker": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_10",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_11",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Speech",
+      "highlight": "mica_w",
+      "speaker": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_12",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Speech",
+      "highlight": "mica_w",
+      "speaker": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_12",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_13",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Speech",
+      "highlight": "mica_w",
+      "speaker": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_13",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_14",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Speech",
+      "highlight": "mica_w",
+      "speaker": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_14",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_15",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Choice",
+      "highlight": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_15",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_speech_mica_26_17"
+    },
+    {
+      "id": "snowfall_speech_mica_26_16",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Choice",
+      "highlight": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_16",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_speech_mica_26_20"
+    },
+    {
+      "id": "snowfall_speech_mica_26_17",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Speech",
+      "highlight": "mica_w",
+      "speaker": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_17",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_18",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Speech",
+      "highlight": "mica_w",
+      "speaker": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_18",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_19",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Speech",
+      "highlight": "mica_w",
+      "speaker": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_19",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_speech_mica_26_23"
+    },
+    {
+      "id": "snowfall_speech_mica_26_20",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Speech",
+      "highlight": "mica_w",
+      "speaker": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_20",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_21",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Speech",
+      "highlight": "mica_w",
+      "speaker": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_21",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_22",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Speech",
+      "highlight": "mica_w",
+      "speaker": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_22",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_speech_mica_26_23"
+    },
+    {
+      "id": "snowfall_speech_mica_26_23",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Speech",
+      "highlight": "mica_w",
+      "speaker": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_23",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_24",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Self",
+      "highlight": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_24",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_25",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Speech",
+      "highlight": "mica_w",
+      "speaker": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_25",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_26",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Speech",
+      "highlight": "mica_w",
+      "speaker": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_26",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_27",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Speech",
+      "highlight": "mica_w",
+      "speaker": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_27",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_28",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Speech",
+      "highlight": "mica_w",
+      "speaker": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_28",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_mica_26_29",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_mica_26",
+      "speech_window": "Narration",
+      "highlight": "mica_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_mica_26_29",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

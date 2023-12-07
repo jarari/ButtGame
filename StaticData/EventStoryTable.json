@@ -474,6 +474,36 @@
       "ui_prefab": "alonesurvivor"
     },
     {
+      "id": 10034,
+      "event_id": 40034,
+      "name": "Locale_System:STORY_DUNGEON_TITLE34",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION",
+      "auto_charge_id": 10034,
+      "event_item_type": "Item",
+      "event_item_id": 7060034,
+      "dungeon_id": 34,
+      "album_category_group": 1034,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "ui_prefab": "neverland_part1"
+    },
+    {
+      "id": 10035,
+      "event_id": 40035,
+      "name": "Locale_System:STORY_DUNGEON_TITLE35",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION",
+      "auto_charge_id": 10034,
+      "event_item_type": "Item",
+      "event_item_id": 7060034,
+      "dungeon_id": 35,
+      "album_category_group": 1035,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "ui_prefab": "neverland_part2"
+    },
+    {
       "id": 40001,
       "event_id": 60001,
       "name": "Locale_System:STORY_DUNGEON_TITLE",
@@ -667,6 +697,21 @@
       "contents_shop_id": 0,
       "dice_id": 0,
       "challenge_monster_resource": "full_mbg002"
+    },
+    {
+      "id": 40034,
+      "event_id": 60034,
+      "name": "Locale_System:STORY_DUNGEON_TITLE",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION",
+      "auto_charge_id": 40034,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1034,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_bbg003"
     }
   ]
 }

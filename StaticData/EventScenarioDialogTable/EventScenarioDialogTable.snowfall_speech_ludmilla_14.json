@@ -1,0 +1,899 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "snowfall_speech_ludmilla_14_1",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Monologue",
+      "highlight": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_1",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "ludmilla_w",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "BambooForest_d",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_ambient": "amb_so_bambooforest_1",
+      "play_bgm": "event_bgm_neverland_snowflakes_day",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_2",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Monologue",
+      "highlight": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_2",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_3",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Monologue",
+      "highlight": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_3",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_4",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Choice",
+      "highlight": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_4",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_speech_ludmilla_14_7"
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_5",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Choice",
+      "highlight": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_5",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_speech_ludmilla_14_6"
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_6",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Monologue",
+      "highlight": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_6",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "is_exit_scenario": true
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_7",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Self",
+      "highlight": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_7",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_8",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_8",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_9",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_9",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_10",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Self",
+      "highlight": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_10",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_11",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_12",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Self",
+      "highlight": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_12",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_13",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_13",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_14",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_14",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_15",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_15",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_16",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Self",
+      "highlight": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_16",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_17",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_17",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_18",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_18",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_19",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_19",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_20",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_20",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_21",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_21",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_22",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Choice",
+      "highlight": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_22",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_speech_ludmilla_14_24"
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_23",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Choice",
+      "highlight": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_23",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_speech_ludmilla_14_25"
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_24",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_24",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_speech_ludmilla_14_26"
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_25",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_25",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "smile"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_speech_ludmilla_14_26"
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_26",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_26",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_27",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_27",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_speech_ludmilla_14_28",
+      "event_id": 80903,
+      "group_id": "snowfall_speech_ludmilla_14",
+      "speech_window": "Narration",
+      "highlight": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_speech_ludmilla_14_28",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "snowfall_infinite_ludmilla_01_1",
+      "event_id": 80903,
+      "group_id": "snowfall_infinite_ludmilla_01",
+      "speech_window": "Monologue",
+      "highlight": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_infinite_ludmilla_01_1",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "ludmilla_w",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Trail_d",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_ambient": "amb_so_trail_1",
+      "play_bgm": "event_bgm_neverland_snowflakes_day",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_infinite_ludmilla_01_2",
+      "event_id": 80903,
+      "group_id": "snowfall_infinite_ludmilla_01",
+      "speech_window": "Monologue",
+      "highlight": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_infinite_ludmilla_01_2",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_infinite_ludmilla_01_3",
+      "event_id": 80903,
+      "group_id": "snowfall_infinite_ludmilla_01",
+      "speech_window": "Choice",
+      "highlight": "Choice",
+      "scenario_localkey": "Locale_SubScenario:snowfall_infinite_ludmilla_01_3",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_infinite_ludmilla_01_6"
+    },
+    {
+      "id": "snowfall_infinite_ludmilla_01_4",
+      "event_id": 80903,
+      "group_id": "snowfall_infinite_ludmilla_01",
+      "speech_window": "Choice",
+      "highlight": "Choice",
+      "scenario_localkey": "Locale_SubScenario:snowfall_infinite_ludmilla_01_4",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_infinite_ludmilla_01_5"
+    },
+    {
+      "id": "snowfall_infinite_ludmilla_01_5",
+      "event_id": 80903,
+      "group_id": "snowfall_infinite_ludmilla_01",
+      "speech_window": "Monologue",
+      "highlight": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_infinite_ludmilla_01_5",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "is_exit_scenario": true
+    },
+    {
+      "id": "snowfall_infinite_ludmilla_01_6",
+      "event_id": 80903,
+      "group_id": "snowfall_infinite_ludmilla_01",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_infinite_ludmilla_01_6",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_infinite_ludmilla_01_7",
+      "event_id": 80903,
+      "group_id": "snowfall_infinite_ludmilla_01",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_infinite_ludmilla_01_7",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_infinite_ludmilla_01_8",
+      "event_id": 80903,
+      "group_id": "snowfall_infinite_ludmilla_01",
+      "speech_window": "Choice",
+      "highlight": "Choice",
+      "scenario_localkey": "Locale_SubScenario:snowfall_infinite_ludmilla_01_8",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_infinite_ludmilla_01_10"
+    },
+    {
+      "id": "snowfall_infinite_ludmilla_01_9",
+      "event_id": 80903,
+      "group_id": "snowfall_infinite_ludmilla_01",
+      "speech_window": "Choice",
+      "highlight": "Choice",
+      "scenario_localkey": "Locale_SubScenario:snowfall_infinite_ludmilla_01_9",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_infinite_ludmilla_01_12"
+    },
+    {
+      "id": "snowfall_infinite_ludmilla_01_10",
+      "event_id": 80903,
+      "group_id": "snowfall_infinite_ludmilla_01",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_infinite_ludmilla_01_10",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_infinite_ludmilla_01_11",
+      "event_id": 80903,
+      "group_id": "snowfall_infinite_ludmilla_01",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_infinite_ludmilla_01_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_infinite_ludmilla_01_14"
+    },
+    {
+      "id": "snowfall_infinite_ludmilla_01_12",
+      "event_id": 80903,
+      "group_id": "snowfall_infinite_ludmilla_01",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_infinite_ludmilla_01_12",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_infinite_ludmilla_01_13",
+      "event_id": 80903,
+      "group_id": "snowfall_infinite_ludmilla_01",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_infinite_ludmilla_01_13",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_infinite_ludmilla_01_14"
+    },
+    {
+      "id": "snowfall_infinite_ludmilla_01_14",
+      "event_id": 80903,
+      "group_id": "snowfall_infinite_ludmilla_01",
+      "speech_window": "Narration",
+      "highlight": "Narration",
+      "scenario_localkey": "Locale_SubScenario:snowfall_infinite_ludmilla_01_14",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

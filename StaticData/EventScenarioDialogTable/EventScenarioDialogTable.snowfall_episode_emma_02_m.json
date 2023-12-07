@@ -1,0 +1,135 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "snowfall_episode_emma_02_m_1",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_emma_02_m",
+      "speech_window": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_emma_02_m_1",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "emma",
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "WaterFall_s",
+      "set_start_camera": "17",
+      "set_end_camera": "170",
+      "set_camera_duration": 0.3,
+      "play_sound": "sfx_scn_waterdive",
+      "play_ambient": "amb_so_waterfall_1",
+      "play_bgm": "event_bgm_neverland_hugme_sunset",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "snowfall_episode_emma_02_m_2",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_emma_02_m",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_emma_02_m_2",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_emma_02_m_3",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_emma_02_m",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_emma_02_m_3",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_emma_02_m_4",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_emma_02_m",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_emma_02_m_4",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "worry"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

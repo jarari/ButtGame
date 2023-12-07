@@ -1,0 +1,220 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "snowfall_myroom_day15_s_1",
+      "event_id": 80903,
+      "group_id": "snowfall_myroom_day15_s",
+      "speech_window": "Narration",
+      "scenario_localkey": "Locale_SubScenario:snowfall_myroom_day15_s_1",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "andersen_op_r",
+          "set_char_position": "OP_rightup",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "HotSpringInnIn_d",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_remotesignal",
+      "play_ambient": "amb_so_inn_in_1",
+      "play_bgm": "event_bgm_neverland_intermissionjam_day",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_myroom_day15_s_2",
+      "event_id": 80903,
+      "group_id": "snowfall_myroom_day15_s",
+      "speech_window": "Speech",
+      "highlight": "andersen_op_r",
+      "speaker": "andersen_op_r",
+      "scenario_localkey": "Locale_SubScenario:snowfall_myroom_day15_s_2",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "OP_rightup",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_myroom_day15_s_3",
+      "event_id": 80903,
+      "group_id": "snowfall_myroom_day15_s",
+      "speech_window": "Speech",
+      "highlight": "andersen_op_r",
+      "speaker": "andersen_op_r",
+      "scenario_localkey": "Locale_SubScenario:snowfall_myroom_day15_s_3",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "OP_rightup",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_myroom_day15_s_4",
+      "event_id": 80903,
+      "group_id": "snowfall_myroom_day15_s",
+      "speech_window": "Self",
+      "scenario_localkey": "Locale_SubScenario:snowfall_myroom_day15_s_4",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "OP_rightup",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_myroom_day15_s_5",
+      "event_id": 80903,
+      "group_id": "snowfall_myroom_day15_s",
+      "speech_window": "Narration",
+      "scenario_localkey": "Locale_SubScenario:snowfall_myroom_day15_s_5",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "andersen_op_r",
+          "set_char_position": "OP_rightup",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_over",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_myroom_day15_s_6",
+      "event_id": 80903,
+      "group_id": "snowfall_myroom_day15_s",
+      "speech_window": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_myroom_day15_s_6",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_myroom_day15_s_7",
+      "event_id": 80903,
+      "group_id": "snowfall_myroom_day15_s",
+      "speech_window": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_myroom_day15_s_7",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

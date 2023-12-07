@@ -1,0 +1,3639 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "snowfall_episode_noirblanc_03_1",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_1",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "noir_c",
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "show_char_id": "blanc_c",
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Trail_d",
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "play_bgm": "event_bgm_neverland_snowflakes_day",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_2",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Choice",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_2",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_episode_noirblanc_03_5"
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_3",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Choice",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_3",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "snowfall_episode_noirblanc_03_4"
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_4",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_4",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "is_exit_scenario": true
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_5",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Self",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_5",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_6",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_6",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_7",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_7",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_8",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Self",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_8",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_9",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_9",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_10",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_10",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_11",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_11",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_12",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_12",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_13",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Self",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_13",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_14",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_14",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_15",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_15",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_16",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_16",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_17",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_17",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_18",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_18",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_19",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_19",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_20",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Self",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_20",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_21",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_21",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_22",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_22",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_23",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_23",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_24",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_24",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_25",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_25",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_26",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Self",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_26",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_27",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_27",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_28",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_28",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_29",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Narration",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_29",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "show_char_id": "ludmilla_w",
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "15",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_30",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_30",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "15",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_31",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_31",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_32",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_32",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_33",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_33",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_34",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_34",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_35",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_35",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_36",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_36",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_37",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_37",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_38",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Self",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_38",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_39",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_39",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "15",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_40",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_40",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "15",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_41",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_41",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_42",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_42",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_43",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_43",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_44",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_44",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_45",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_45",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "15",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_46",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_46",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "15",
+      "set_end_camera": "15",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_47",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_47",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "15",
+      "set_end_camera": "15",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_48",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_48",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "15",
+      "set_end_camera": "15",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_49",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_49",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "15",
+      "set_end_camera": "15",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_50",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_50",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "15",
+      "set_end_camera": "15",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_51",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_51",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "15",
+      "set_end_camera": "15",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_52",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_52",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_53",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_53",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_54",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_54",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_55",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_55",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "15",
+      "set_end_camera": "15",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_56",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_56",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "15",
+      "set_end_camera": "15",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_57",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_57",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_130",
+      "set_end_camera": "L_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_58",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_58",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_130",
+      "set_end_camera": "L_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_59",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_59",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_130",
+      "set_end_camera": "L_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_60",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_60",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_61",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_61",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_62",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_62",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "sad"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_63",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_63",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_64",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_64",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_65",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_65",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_66",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_66",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_67",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_67",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_130",
+      "set_end_camera": "L_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_68",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_68",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_69",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_69",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "150",
+      "set_end_camera": "150",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_70",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_70",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_71",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_71",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_72",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_72",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_73",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_73",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_74",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_74",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_75",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_75",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_76",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Self",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_76",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_77",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_77",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_78",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_78",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_79",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Self",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_79",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_80",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_80",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_81",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_81",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "15",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_82",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "ludmilla_w",
+      "speaker": "ludmilla_w",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_82",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "15",
+      "set_end_camera": "15",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_83",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_83",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_84",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_84",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_85",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_85",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_86",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_86",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_87",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_87",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_88",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_88",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_89",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Self",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_89",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "12",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_90",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_90",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "12",
+      "set_end_camera": "L_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_91",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_91",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_130",
+      "set_end_camera": "L_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_92",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_92",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_130",
+      "set_end_camera": "L_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_93",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Self",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_93",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_130",
+      "set_end_camera": "L_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_94",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Self",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_94",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_130",
+      "set_end_camera": "L_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_95",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "blanc_c",
+      "speaker": "blanc_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_95",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_130",
+      "set_end_camera": "L_130",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_96",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Speech",
+      "highlight": "noir_c",
+      "speaker": "noir_c",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_96",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_130",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_97",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Self",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_97",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_98",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_98",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "snowfall_episode_noirblanc_03_99",
+      "event_id": 80903,
+      "group_id": "snowfall_episode_noirblanc_03",
+      "speech_window": "Monologue",
+      "scenario_localkey": "Locale_SubScenario:snowfall_episode_noirblanc_03_99",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "15",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

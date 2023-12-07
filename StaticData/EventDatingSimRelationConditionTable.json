@@ -1,0 +1,901 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "snowfall_episode_mica_01",
+      "manager_id": 1001,
+      "is_consume_stamina": true,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_mica",
+      "relation_appear_heroine_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 1,
+      "forced_appear_location": "snowfalloasis_waterfall",
+      "forced_appear_time": "DayTime",
+      "dialog_event_id": "snowfall_episode_mica_01",
+      "relation_result_event_type": "unlockheroine"
+    },
+    {
+      "id": "snowfall_episode_mica_02",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_mica",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_mica",
+          "event_condition_relation_lv": 1,
+          "event_condition_relation_point": 50
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 1,
+      "forced_appear_location": "snowfalloasis_trail",
+      "forced_appear_time": "Evening",
+      "dialog_event_id": "snowfall_episode_mica_02",
+      "relation_result_event_type": "relationlvup"
+    },
+    {
+      "id": "snowfall_episode_mica_03",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_mica",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_mica",
+          "event_condition_relation_lv": 2,
+          "event_condition_relation_point": 50
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {
+          "event_condition_dialog_event": "snowfall_global_01"
+        },
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 1,
+      "forced_appear_location": "snowfalloasis_waterfall",
+      "forced_appear_time": "Evening",
+      "dialog_event_id": "snowfall_episode_mica_03",
+      "relation_result_event_type": "relationlvup"
+    },
+    {
+      "id": "snowfall_episode_mica_04_e",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_mica",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_mica",
+          "event_condition_relation_lv": 3,
+          "event_condition_relation_point": 75
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {
+          "event_condition_dialog_event": "snowfall_global_04"
+        },
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 1,
+      "forced_appear_location": "snowfalloasis_waterfall",
+      "forced_appear_time": "Night",
+      "dialog_event_id": "snowfall_episode_mica_04_e",
+      "is_use_lost_item": true,
+      "lost_item_id": 100101,
+      "lost_item_occur_dialog_event_id": "snowfall_episode_mica_04_s",
+      "lost_item_require_dialog_event_id": "snowfall_episode_mica_04_m",
+      "relation_result_event_type": "relationlvup"
+    },
+    {
+      "id": "snowfall_episode_mica_05",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_mica",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_mica",
+          "event_condition_relation_lv": 4,
+          "event_condition_relation_point": 75
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 1,
+      "forced_appear_location": "snowfalloasis_waterfall",
+      "forced_appear_time": "DayTime",
+      "dialog_event_id": "snowfall_episode_mica_05",
+      "relation_result_event_type": "relationlvup"
+    },
+    {
+      "id": "snowfall_episode_mica_06",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_mica",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_mica",
+          "event_condition_relation_lv": 5,
+          "event_condition_relation_point": 75
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 1,
+      "forced_appear_location": "snowfalloasis_waterfall",
+      "forced_appear_time": "Evening",
+      "dialog_event_id": "snowfall_episode_mica_06",
+      "relation_result_event_type": "ending"
+    },
+    {
+      "id": "snowfall_episode_mica_07",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_mica",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_mica",
+          "event_condition_relation_lv": 6,
+          "event_condition_relation_point": 100
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 1,
+      "forced_appear_location": "snowfalloasis_inn",
+      "forced_appear_time": "DayTime",
+      "dialog_event_id": "snowfall_episode_mica_07",
+      "relation_result_event_type": "hiddenending"
+    },
+    {
+      "id": "snowfall_episode_emma_01_e",
+      "manager_id": 1001,
+      "is_consume_stamina": true,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_emma",
+      "relation_appear_heroine_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 1,
+      "forced_appear_location": "snowfalloasis_dining",
+      "forced_appear_time": "Evening",
+      "dialog_event_id": "snowfall_episode_emma_01_e",
+      "is_use_lost_item": true,
+      "lost_item_id": 100102,
+      "lost_item_occur_dialog_event_id": "snowfall_episode_emma_01_s",
+      "lost_item_require_dialog_event_id": "snowfall_episode_emma_01_m",
+      "relation_result_event_type": "unlockheroine"
+    },
+    {
+      "id": "snowfall_episode_emma_02_e",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_emma",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_emma",
+          "event_condition_relation_lv": 1,
+          "event_condition_relation_point": 50
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 1,
+      "forced_appear_location": "snowfalloasis_waterfall",
+      "forced_appear_time": "Evening",
+      "dialog_event_id": "snowfall_episode_emma_02_e",
+      "is_use_lost_item": true,
+      "lost_item_id": 100103,
+      "lost_item_occur_dialog_event_id": "snowfall_episode_emma_02_s",
+      "lost_item_require_dialog_event_id": "snowfall_episode_emma_02_m",
+      "relation_result_event_type": "relationlvup"
+    },
+    {
+      "id": "snowfall_episode_emma_03",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_emma",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_emma",
+          "event_condition_relation_lv": 2,
+          "event_condition_relation_point": 50
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {
+          "event_condition_dialog_event": "snowfall_global_01"
+        },
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 1,
+      "forced_appear_location": "snowfalloasis_dining",
+      "forced_appear_time": "DayTime",
+      "dialog_event_id": "snowfall_episode_emma_03",
+      "relation_result_event_type": "relationlvup"
+    },
+    {
+      "id": "snowfall_episode_emma_04",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_emma",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_emma",
+          "event_condition_relation_lv": 3,
+          "event_condition_relation_point": 75
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 1,
+      "forced_appear_location": "snowfalloasis_trail",
+      "forced_appear_time": "DayTime",
+      "dialog_event_id": "snowfall_episode_emma_04",
+      "relation_result_event_type": "relationlvup"
+    },
+    {
+      "id": "snowfall_episode_emma_05",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_emma",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_emma",
+          "event_condition_relation_lv": 4,
+          "event_condition_relation_point": 75
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {
+          "event_condition_dialog_event": "snowfall_global_02"
+        },
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 1,
+      "forced_appear_location": "snowfalloasis_dining",
+      "forced_appear_time": "DayTime",
+      "dialog_event_id": "snowfall_episode_emma_05",
+      "relation_result_event_type": "relationlvup"
+    },
+    {
+      "id": "snowfall_episode_emma_06",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_emma",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_emma",
+          "event_condition_relation_lv": 5,
+          "event_condition_relation_point": 75
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 1,
+      "forced_appear_location": "snowfalloasis_dining",
+      "forced_appear_time": "Night",
+      "dialog_event_id": "snowfall_episode_emma_06",
+      "relation_result_event_type": "ending"
+    },
+    {
+      "id": "snowfall_episode_emma_07",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_emma",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_emma",
+          "event_condition_relation_lv": 6,
+          "event_condition_relation_point": 100
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 1,
+      "forced_appear_location": "snowfalloasis_inn",
+      "forced_appear_time": "Night",
+      "dialog_event_id": "snowfall_episode_emma_07",
+      "relation_result_event_type": "hiddenending"
+    },
+    {
+      "id": "snowfall_episode_ludmilla_01",
+      "manager_id": 1001,
+      "is_consume_stamina": true,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_ludmilla",
+      "relation_appear_heroine_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 4,
+      "forced_appear_location": "snowfalloasis_trail",
+      "forced_appear_time": "Night",
+      "dialog_event_id": "snowfall_episode_ludmilla_01",
+      "relation_result_event_type": "unlockheroine"
+    },
+    {
+      "id": "snowfall_episode_ludmilla_02",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_ludmilla",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_ludmilla",
+          "event_condition_relation_lv": 1,
+          "event_condition_relation_point": 50
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 4,
+      "forced_appear_location": "snowfalloasis_trail",
+      "forced_appear_time": "Evening",
+      "dialog_event_id": "snowfall_episode_ludmilla_02",
+      "relation_result_event_type": "relationlvup"
+    },
+    {
+      "id": "snowfall_episode_ludmilla_03_e",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_ludmilla",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_ludmilla",
+          "event_condition_relation_lv": 2,
+          "event_condition_relation_point": 50
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 4,
+      "forced_appear_location": "snowfalloasis_bamboo",
+      "forced_appear_time": "Evening",
+      "dialog_event_id": "snowfall_episode_ludmilla_03_e",
+      "is_use_lost_item": true,
+      "lost_item_id": 100104,
+      "lost_item_occur_dialog_event_id": "snowfall_episode_ludmilla_03_s",
+      "lost_item_require_dialog_event_id": "snowfall_episode_ludmilla_03_m",
+      "relation_result_event_type": "relationlvup"
+    },
+    {
+      "id": "snowfall_episode_ludmilla_04",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_ludmilla",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_ludmilla",
+          "event_condition_relation_lv": 3,
+          "event_condition_relation_point": 75
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 4,
+      "forced_appear_location": "snowfalloasis_inn",
+      "forced_appear_time": "DayTime",
+      "dialog_event_id": "snowfall_episode_ludmilla_04",
+      "relation_result_event_type": "relationlvup"
+    },
+    {
+      "id": "snowfall_episode_ludmilla_05",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_ludmilla",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_ludmilla",
+          "event_condition_relation_lv": 4,
+          "event_condition_relation_point": 75
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {
+          "event_condition_dialog_event": "snowfall_global_08"
+        },
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 4,
+      "forced_appear_location": "snowfalloasis_hotspring",
+      "forced_appear_time": "Evening",
+      "dialog_event_id": "snowfall_episode_ludmilla_05",
+      "relation_result_event_type": "relationlvup"
+    },
+    {
+      "id": "snowfall_episode_ludmilla_06",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_ludmilla",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_ludmilla",
+          "event_condition_relation_lv": 5,
+          "event_condition_relation_point": 75
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 4,
+      "forced_appear_location": "snowfalloasis_trail",
+      "forced_appear_time": "Night",
+      "dialog_event_id": "snowfall_episode_ludmilla_06",
+      "relation_result_event_type": "ending"
+    },
+    {
+      "id": "snowfall_episode_ludmilla_07",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_ludmilla",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_ludmilla",
+          "event_condition_relation_lv": 6,
+          "event_condition_relation_point": 100
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 4,
+      "forced_appear_location": "snowfalloasis_trail",
+      "forced_appear_time": "Night",
+      "dialog_event_id": "snowfall_episode_ludmilla_07",
+      "relation_result_event_type": "hiddenending"
+    },
+    {
+      "id": "snowfall_episode_noir_01",
+      "manager_id": 1001,
+      "is_consume_stamina": true,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_noir",
+      "relation_appear_heroine_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 8,
+      "forced_appear_location": "snowfalloasis_bamboo",
+      "forced_appear_time": "DayTime",
+      "dialog_event_id": "snowfall_episode_noir_01",
+      "relation_result_event_type": "unlockheroine"
+    },
+    {
+      "id": "snowfall_episode_noir_03_e",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_noir",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_noir",
+          "event_condition_relation_lv": 2,
+          "event_condition_relation_point": 50
+        },
+        {
+          "condition_target_heroine": "snowfalloasis_blanc",
+          "event_condition_relation_lv": 3,
+          "event_condition_relation_point": 0
+        },
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 8,
+      "forced_appear_location": "snowfalloasis_trail",
+      "forced_appear_time": "Evening",
+      "dialog_event_id": "snowfall_episode_noir_03_e",
+      "is_use_lost_item": true,
+      "lost_item_id": 100105,
+      "lost_item_occur_dialog_event_id": "snowfall_episode_noir_03_s",
+      "lost_item_require_dialog_event_id": "snowfall_episode_noir_03_m",
+      "relation_result_event_type": "relationlvup"
+    },
+    {
+      "id": "snowfall_episode_blanc_01",
+      "manager_id": 1001,
+      "is_consume_stamina": true,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_blanc",
+      "relation_appear_heroine_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 9,
+      "forced_appear_location": "snowfalloasis_hotspring",
+      "forced_appear_time": "DayTime",
+      "dialog_event_id": "snowfall_episode_blanc_01",
+      "relation_result_event_type": "unlockheroine"
+    },
+    {
+      "id": "snowfall_episode_blanc_03",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": false,
+      "target_heroine_id": "snowfalloasis_blanc",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_blanc",
+          "event_condition_relation_lv": 2,
+          "event_condition_relation_point": 50
+        },
+        {},
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 9,
+      "forced_appear_location": "snowfalloasis_trail",
+      "forced_appear_time": "Night",
+      "dialog_event_id": "snowfall_episode_blanc_03",
+      "relation_result_event_type": "relationlvup"
+    },
+    {
+      "id": "snowfall_episode_noirblanc_02",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": true,
+      "target_heroine_id": "snowfalloasis_bunnysisters",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_noir",
+          "event_condition_relation_lv": 1,
+          "event_condition_relation_point": 50
+        },
+        {
+          "condition_target_heroine": "snowfalloasis_blanc",
+          "event_condition_relation_lv": 1,
+          "event_condition_relation_point": 50
+        },
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {
+          "event_condition_dialog_event": "snowfall_global_09"
+        },
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 9,
+      "forced_appear_location": "snowfalloasis_inn",
+      "forced_appear_time": "DayTime",
+      "dialog_event_id": "snowfall_episode_noirblanc_02",
+      "relation_result_event_type": "relationlvup"
+    },
+    {
+      "id": "snowfall_episode_noirblanc_04",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": true,
+      "target_heroine_id": "snowfalloasis_bunnysisters",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_noir",
+          "event_condition_relation_lv": 3,
+          "event_condition_relation_point": 75
+        },
+        {
+          "condition_target_heroine": "snowfalloasis_blanc",
+          "event_condition_relation_lv": 3,
+          "event_condition_relation_point": 75
+        },
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 9,
+      "forced_appear_location": "snowfalloasis_inn",
+      "forced_appear_time": "DayTime",
+      "dialog_event_id": "snowfall_episode_noirblanc_04",
+      "relation_result_event_type": "ending"
+    },
+    {
+      "id": "snowfall_episode_noirblanc_05",
+      "manager_id": 1001,
+      "is_consume_stamina": false,
+      "is_heroine_group": true,
+      "target_heroine_id": "snowfalloasis_bunnysisters",
+      "relation_appear_heroine_condition_list": [
+        {
+          "condition_target_heroine": "snowfalloasis_noir",
+          "event_condition_relation_lv": 4,
+          "event_condition_relation_point": 100
+        },
+        {
+          "condition_target_heroine": "snowfalloasis_blanc",
+          "event_condition_relation_lv": 4,
+          "event_condition_relation_point": 100
+        },
+        {}
+      ],
+      "relation_appear_dialog_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "relation_appear_selection_condition_list": [
+        {},
+        {},
+        {}
+      ],
+      "forced_appear_start_day": 9,
+      "forced_appear_location": "snowfalloasis_hotspring",
+      "forced_appear_time": "DayTime",
+      "dialog_event_id": "snowfall_episode_noirblanc_05",
+      "relation_result_event_type": "hiddenending"
+    }
+  ]
+}

@@ -210,6 +210,38 @@
           "event_field_currency_type": "None"
         }
       ]
+    },
+    {
+      "id": 10008,
+      "event_id": 80900,
+      "field_design_map": "febg_hotspring_001",
+      "field_art_map_standard": "febg_hotspring_001_01",
+      "field_hud": "hud_event_field_neverland",
+      "field_first_entry_resource": "event_enter_neverland",
+      "link_event_pass_id": 1000009,
+      "progress_event_group_id": 1008,
+      "is_use_roaming_npc": false,
+      "roaming_npc_limit": 0,
+      "roaming_npc_type": "UserCharacter",
+      "roaming_npc_speed_minimum": 100,
+      "roaming_npc_speed_maximum": 250,
+      "player_squad_type": "UserSquad",
+      "player_squad_value": 5,
+      "player_squad_speed": 100,
+      "sd_character_size": 100,
+      "event_mission_group": 34,
+      "recollection_hub_group_id": 10008,
+      "field_enter_scenario": "event_neverland1_prologue",
+      "field_enter_scenario_story_event_id": 40034,
+      "event_field_currency_list": [
+        {
+          "event_field_currency_type": "Material",
+          "event_field_currency_id": 7060034
+        },
+        {
+          "event_field_currency_type": "None"
+        }
+      ]
     }
   ]
 }

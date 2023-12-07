@@ -15281,13 +15281,6 @@
     },
     {
       "id": 9910902,
-      "bgm_type": "outgame_bgm",
-      "type_value": "50004",
-      "default": true,
-      "bgm_loop": "event_bgm_redash_goddesssquadready"
-    },
-    {
-      "id": 9910903,
       "bgm_type": "ambient",
       "bgm_sub_type": "event_field",
       "type_value": "10007",
@@ -15296,7 +15289,7 @@
       "bgm_loop": "ambient_redash_1"
     },
     {
-      "id": 9910904,
+      "id": 9910903,
       "bgm_type": "ambient",
       "bgm_sub_type": "event_field",
       "type_value": "100703",
@@ -15305,7 +15298,7 @@
       "bgm_loop": "ambient_redash_2"
     },
     {
-      "id": 9910905,
+      "id": 9910904,
       "bgm_type": "ambient",
       "bgm_sub_type": "event_field",
       "type_value": "100706",
@@ -15314,7 +15307,7 @@
       "bgm_loop": "ambient_redash_2"
     },
     {
-      "id": 9910906,
+      "id": 9910905,
       "bgm_type": "ambient",
       "bgm_sub_type": "event_field",
       "type_value": "100708",
@@ -15323,7 +15316,7 @@
       "bgm_loop": "ambient_redash_2"
     },
     {
-      "id": 9910907,
+      "id": 9910906,
       "bgm_type": "ambient",
       "bgm_sub_type": "event_field",
       "type_value": "100710",
@@ -15332,7 +15325,7 @@
       "bgm_loop": "ambient_redash_2"
     },
     {
-      "id": 9910908,
+      "id": 9910907,
       "bgm_type": "ambient",
       "bgm_sub_type": "event_field",
       "type_value": "100711",
@@ -15341,7 +15334,7 @@
       "bgm_loop": "ambient_redash_1"
     },
     {
-      "id": 9910909,
+      "id": 9910908,
       "bgm_type": "ambient",
       "bgm_sub_type": "event_field",
       "type_value": "100712",
@@ -15350,7 +15343,7 @@
       "bgm_loop": "ambient_redash_1"
     },
     {
-      "id": 9910910,
+      "id": 9910909,
       "bgm_type": "ambient",
       "bgm_sub_type": "event_field",
       "type_value": "100715",
@@ -15359,7 +15352,7 @@
       "bgm_loop": "ambient_redash_1"
     },
     {
-      "id": 9910911,
+      "id": 9910910,
       "bgm_type": "ambient",
       "bgm_sub_type": "event_field",
       "type_value": "100716",
@@ -15368,7 +15361,7 @@
       "bgm_loop": "ambient_redash_1"
     },
     {
-      "id": 9910912,
+      "id": 9910911,
       "bgm_type": "ambient",
       "bgm_sub_type": "event_field",
       "type_value": "100717",
@@ -15377,7 +15370,7 @@
       "bgm_loop": "ambient_redash_1"
     },
     {
-      "id": 9910913,
+      "id": 9910912,
       "bgm_type": "ambient",
       "bgm_sub_type": "event_field",
       "type_value": "100719",
@@ -15386,7 +15379,7 @@
       "bgm_loop": "ambient_redash_1"
     },
     {
-      "id": 9910914,
+      "id": 9910913,
       "bgm_type": "ambient",
       "bgm_sub_type": "event_field",
       "type_value": "100721",
@@ -15395,7 +15388,7 @@
       "bgm_loop": "ambient_redash_2"
     },
     {
-      "id": 9910915,
+      "id": 9910914,
       "bgm_type": "ambient",
       "bgm_sub_type": "event_field",
       "type_value": "100722",
@@ -15404,7 +15397,7 @@
       "bgm_loop": "ambient_redash_2"
     },
     {
-      "id": 9910916,
+      "id": 9910915,
       "bgm_type": "ambient",
       "bgm_sub_type": "event_field",
       "type_value": "100724",
@@ -15413,7 +15406,7 @@
       "bgm_loop": "ambient_redash_1"
     },
     {
-      "id": 9910917,
+      "id": 9910916,
       "bgm_type": "ambient",
       "bgm_sub_type": "event_field",
       "type_value": "100725",
@@ -15422,7 +15415,7 @@
       "bgm_loop": "ambient_redash_1"
     },
     {
-      "id": 9910918,
+      "id": 9910917,
       "bgm_type": "ambient",
       "bgm_sub_type": "event_field",
       "type_value": "100727",
@@ -15455,6 +15448,36 @@
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "event_bgm_alonesurvivor"
+    },
+    {
+      "id": 9911001,
+      "bgm_type": "event_field_bgm",
+      "type_value": "10008",
+      "default": true,
+      "bgm_loop": "event_bgm_inneverland_1"
+    },
+    {
+      "id": 9911002,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "event_field",
+      "type_value": "10008",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_neverland_1"
+    },
+    {
+      "id": 9911003,
+      "bgm_type": "event_field_bgm",
+      "type_value": "100802",
+      "default": false,
+      "bgm_loop": "event_bgm_inneverland_2"
+    },
+    {
+      "id": 9911004,
+      "bgm_type": "event_field_bgm",
+      "type_value": "100803",
+      "default": false,
+      "bgm_loop": "event_bgm_inneverland_1"
     }
   ]
 }
