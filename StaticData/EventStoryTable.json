@@ -504,6 +504,22 @@
       "ui_prefab": "neverland_part2"
     },
     {
+      "id": 10036,
+      "event_id": 40036,
+      "name": "Locale_System:STORY_DUNGEON_TITLE36",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION",
+      "prologue_scenario": "event_newyearnewsword_prologue",
+      "auto_charge_id": 10036,
+      "event_item_type": "Item",
+      "event_item_id": 7060036,
+      "dungeon_id": 36,
+      "album_category_group": 1036,
+      "mission_group": 36,
+      "contents_shop_id": 9003601,
+      "dice_id": 0,
+      "ui_prefab": "newyearnewsword"
+    },
+    {
       "id": 40001,
       "event_id": 60001,
       "name": "Locale_System:STORY_DUNGEON_TITLE",
@@ -712,6 +728,21 @@
       "contents_shop_id": 0,
       "dice_id": 0,
       "challenge_monster_resource": "full_bbg003"
+    },
+    {
+      "id": 40036,
+      "event_id": 60036,
+      "name": "Locale_System:STORY_DUNGEON_TITLE",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION",
+      "auto_charge_id": 40036,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1036,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_bbg001"
     }
   ]
 }

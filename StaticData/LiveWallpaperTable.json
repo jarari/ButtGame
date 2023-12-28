@@ -450,6 +450,22 @@
       "condition_id": 0
     },
     {
+      "id": 36,
+      "livewallpaper_type": "Scenario",
+      "sub_type": "Event",
+      "order": 20024,
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_36",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_36",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_NewyearNewsword_01",
+      "thumbnail_resource_id": "EventScene_NewyearNewsword_01_mi",
+      "si_resource_id": "EventScene_NewyearNewsword_01_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "condition_type": "None",
+      "condition_resource_id": 0,
+      "condition_id": 0
+    },
+    {
       "id": 50010,
       "livewallpaper_type": "SkillCutScene",
       "sub_type": "None",
@@ -1906,6 +1922,22 @@
       "condition_id": 306204
     },
     {
+      "id": 50225,
+      "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
+      "order": 30094,
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50225",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50225",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_c225_cutscene",
+      "thumbnail_resource_id": "EventScene_c225_cutscene_mi",
+      "si_resource_id": "EventScene_c225_cutscene_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "condition_type": "Character",
+      "condition_resource_id": 225,
+      "condition_id": 422504
+    },
+    {
       "id": 5010101,
       "livewallpaper_type": "SkillCutScene",
       "sub_type": "None",
@@ -1984,6 +2016,22 @@
       "condition_type": "Costume",
       "condition_resource_id": 233,
       "condition_id": 50007
+    },
+    {
+      "id": 5043002,
+      "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
+      "order": 40006,
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_5043002",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_5043002",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_c430_02_cutscene",
+      "thumbnail_resource_id": "EventScene_c430_02_cutscene_mi",
+      "si_resource_id": "EventScene_c430_02_cutscene_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "condition_type": "Costume",
+      "condition_resource_id": 430,
+      "condition_id": 50010
     }
   ]
 }

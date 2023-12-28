@@ -14521,6 +14521,15 @@
       "bgm_loop": "event_bgm_weaponxweapon"
     },
     {
+      "id": 9500006,
+      "bgm_type": "outgame_bgm",
+      "bgm_sub_type": "gacha",
+      "type_value": "135",
+      "default": false,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_camilla_loop"
+    },
+    {
       "id": 9000009,
       "bgm_type": "outgame_bgm",
       "type_value": "6008",
@@ -15478,6 +15487,14 @@
       "type_value": "100803",
       "default": false,
       "bgm_loop": "event_bgm_inneverland_1"
+    },
+    {
+      "id": 9910416,
+      "bgm_type": "story_event_bgm",
+      "type_value": "10036",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_camilla"
     }
   ]
 }

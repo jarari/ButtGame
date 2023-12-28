@@ -1751,6 +1751,24 @@
       "stack_max": 9999999
     },
     {
+      "id": 9303002,
+      "use_condition_type": "None",
+      "use_condition_value": 0,
+      "name_localkey": "Locale_Item:bundle_box_2024_new_year",
+      "description_localkey": "Locale_Item:bundle_box_2024_new_year_desc",
+      "resource_id": "icn_consume_bundlebox_2024_new_year",
+      "item_type": "Consume",
+      "item_sub_type": "BundleBox",
+      "item_rare": "SSR",
+      "use_type": "BundleBox",
+      "use_id": 3002,
+      "percent_display_type": "None",
+      "use_value": 1,
+      "use_frag_cost": 1,
+      "use_limit_count": false,
+      "stack_max": 9999999
+    },
+    {
       "id": 9401001,
       "use_condition_type": "None",
       "use_condition_value": 0,
@@ -3261,6 +3279,25 @@
       "use_value": 1,
       "use_frag_cost": 1,
       "use_limit_count": false,
+      "stack_max": 9999999
+    },
+    {
+      "id": 9601001,
+      "use_condition_type": "None",
+      "use_condition_value": 0,
+      "name_localkey": "Locale_Item:select_box_piece_ssr_stepup_1",
+      "description_localkey": "Locale_Item:select_box_piece_ssr_stepup_1_desc",
+      "resource_id": "icn_consume_selectbox_nikke",
+      "item_type": "Consume",
+      "item_sub_type": "Box",
+      "item_rare": "SSR",
+      "use_type": "SelectBoxRowCharacter",
+      "use_id": 1,
+      "percent_display_type": "None",
+      "use_value": 0,
+      "use_frag_cost": 1,
+      "use_limit_count": true,
+      "use_limit_count_value": 1,
       "stack_max": 9999999
     }
   ]
