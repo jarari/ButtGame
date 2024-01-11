@@ -7,7 +7,10 @@
       "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_HARDER_01",
       "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_HARDER_01",
       "set_char_anim": "delight",
-      "weight": 1000
+      "weight": 1000,
+      "oc_mode_use": false,
+      "oc_level_min": 0,
+      "oc_level_max": 0
     },
     {
       "id": 112,
@@ -15,7 +18,10 @@
       "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_HARDER_02",
       "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_HARDER_02",
       "set_char_anim": "delight",
-      "weight": 1000
+      "weight": 1000,
+      "oc_mode_use": false,
+      "oc_level_min": 0,
+      "oc_level_max": 0
     },
     {
       "id": 113,
@@ -23,7 +29,43 @@
       "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_HARDER_03",
       "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_HARDER_03",
       "set_char_anim": "delight",
-      "weight": 1000
+      "weight": 1000,
+      "oc_mode_use": false,
+      "oc_level_min": 0,
+      "oc_level_max": 0
+    },
+    {
+      "id": 114,
+      "dialogue_type": "Harder",
+      "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_HARDER_OC_01",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_HARDER_OC_01",
+      "set_char_anim": "delight",
+      "weight": 1000,
+      "oc_mode_use": true,
+      "oc_level_min": 1,
+      "oc_level_max": 99
+    },
+    {
+      "id": 115,
+      "dialogue_type": "Harder",
+      "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_HARDER_OC_02",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_HARDER_OC_02",
+      "set_char_anim": "special",
+      "weight": 1000,
+      "oc_mode_use": true,
+      "oc_level_min": 1,
+      "oc_level_max": 99
+    },
+    {
+      "id": 116,
+      "dialogue_type": "Harder",
+      "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_HARDER_OC_03",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_HARDER_OC_03",
+      "set_char_anim": "idle",
+      "weight": 1000,
+      "oc_mode_use": true,
+      "oc_level_min": 1,
+      "oc_level_max": 99
     },
     {
       "id": 121,
@@ -31,7 +73,10 @@
       "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_HARD_01",
       "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_HARD_01",
       "set_char_anim": "idle",
-      "weight": 1000
+      "weight": 1000,
+      "oc_mode_use": false,
+      "oc_level_min": 0,
+      "oc_level_max": 0
     },
     {
       "id": 122,
@@ -39,7 +84,10 @@
       "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_HARD_02",
       "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_HARD_02",
       "set_char_anim": "idle",
-      "weight": 1000
+      "weight": 1000,
+      "oc_mode_use": false,
+      "oc_level_min": 0,
+      "oc_level_max": 0
     },
     {
       "id": 123,
@@ -47,7 +95,43 @@
       "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_HARD_03",
       "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_HARD_03",
       "set_char_anim": "idle",
-      "weight": 1000
+      "weight": 1000,
+      "oc_mode_use": false,
+      "oc_level_min": 0,
+      "oc_level_max": 0
+    },
+    {
+      "id": 124,
+      "dialogue_type": "Hard",
+      "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_HARD_OC_01",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_HARD_OC_01",
+      "set_char_anim": "idle",
+      "weight": 1000,
+      "oc_mode_use": true,
+      "oc_level_min": 1,
+      "oc_level_max": 99
+    },
+    {
+      "id": 125,
+      "dialogue_type": "Hard",
+      "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_HARD_OC_02",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_HARD_OC_02",
+      "set_char_anim": "special",
+      "weight": 1000,
+      "oc_mode_use": true,
+      "oc_level_min": 1,
+      "oc_level_max": 99
+    },
+    {
+      "id": 126,
+      "dialogue_type": "Hard",
+      "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_HARD_OC_03",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_HARD_OC_03",
+      "set_char_anim": "think",
+      "weight": 1000,
+      "oc_mode_use": true,
+      "oc_level_min": 1,
+      "oc_level_max": 99
     },
     {
       "id": 131,
@@ -55,7 +139,10 @@
       "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_EASY_01",
       "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_EASY_01",
       "set_char_anim": "angry",
-      "weight": 1000
+      "weight": 1000,
+      "oc_mode_use": false,
+      "oc_level_min": 0,
+      "oc_level_max": 0
     },
     {
       "id": 132,
@@ -63,7 +150,10 @@
       "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_EASY_02",
       "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_EASY_02",
       "set_char_anim": "angry",
-      "weight": 1000
+      "weight": 1000,
+      "oc_mode_use": false,
+      "oc_level_min": 0,
+      "oc_level_max": 0
     },
     {
       "id": 133,
@@ -71,7 +161,43 @@
       "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_EASY_03",
       "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_EASY_03",
       "set_char_anim": "angry",
-      "weight": 1000
+      "weight": 1000,
+      "oc_mode_use": false,
+      "oc_level_min": 0,
+      "oc_level_max": 0
+    },
+    {
+      "id": 134,
+      "dialogue_type": "Easy",
+      "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_EASY_OC_01",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_EASY_OC_01",
+      "set_char_anim": "angry",
+      "weight": 1000,
+      "oc_mode_use": true,
+      "oc_level_min": 1,
+      "oc_level_max": 99
+    },
+    {
+      "id": 135,
+      "dialogue_type": "Easy",
+      "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_EASY_OC_02",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_EASY_OC_02",
+      "set_char_anim": "angry",
+      "weight": 1000,
+      "oc_mode_use": true,
+      "oc_level_min": 1,
+      "oc_level_max": 99
+    },
+    {
+      "id": 136,
+      "dialogue_type": "Easy",
+      "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_EASY_OC_03",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_EASY_OC_03",
+      "set_char_anim": "angry",
+      "weight": 1000,
+      "oc_mode_use": true,
+      "oc_level_min": 1,
+      "oc_level_max": 99
     },
     {
       "id": 211,
@@ -79,7 +205,10 @@
       "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_EASIER_01",
       "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_EASIER_01",
       "set_char_anim": "angry",
-      "weight": 1000
+      "weight": 1000,
+      "oc_mode_use": false,
+      "oc_level_min": 0,
+      "oc_level_max": 0
     },
     {
       "id": 212,
@@ -87,7 +216,10 @@
       "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_EASIER_02",
       "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_EASIER_02",
       "set_char_anim": "angry",
-      "weight": 1000
+      "weight": 1000,
+      "oc_mode_use": false,
+      "oc_level_min": 0,
+      "oc_level_max": 0
     },
     {
       "id": 213,
@@ -95,7 +227,43 @@
       "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_EASIER_03",
       "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_EASIER_03",
       "set_char_anim": "angry",
-      "weight": 1000
+      "weight": 1000,
+      "oc_mode_use": false,
+      "oc_level_min": 0,
+      "oc_level_max": 0
+    },
+    {
+      "id": 214,
+      "dialogue_type": "Easier",
+      "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_EASIER_OC_01",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_EASIER_OC_01",
+      "set_char_anim": "angry",
+      "weight": 1000,
+      "oc_mode_use": true,
+      "oc_level_min": 1,
+      "oc_level_max": 99
+    },
+    {
+      "id": 215,
+      "dialogue_type": "Easier",
+      "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_EASIER_OC_02",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_EASIER_OC_02",
+      "set_char_anim": "angry",
+      "weight": 1000,
+      "oc_mode_use": true,
+      "oc_level_min": 1,
+      "oc_level_max": 99
+    },
+    {
+      "id": 216,
+      "dialogue_type": "Easier",
+      "dialogue_localkey": "Locale_System:SIMULATIONROOM_DIALOGUE_BATTLE_EASIER_OC_03",
+      "dialogue_voice": "c928_SIMULATIONROOM_DIALOGUE_BATTLE_EASIER_OC_03",
+      "set_char_anim": "angry",
+      "weight": 1000,
+      "oc_mode_use": true,
+      "oc_level_min": 1,
+      "oc_level_max": 99
     }
   ]
 }

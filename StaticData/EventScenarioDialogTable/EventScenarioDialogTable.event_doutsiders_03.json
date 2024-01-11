@@ -1104,6 +1104,8 @@
       "play_lipSync": true,
       "characters": [
         {
+          "show_char_id": "doutsiders_event",
+          "hide_char_id": "viper",
           "set_char_position": "1",
           "set_char_anim": "good"
         },
@@ -1117,8 +1119,9 @@
         {},
         {}
       ],
-      "set_start_camera": "10",
-      "set_end_camera": "10",
+      "set_background": "none",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1136,9 +1139,8 @@
       "play_lipSync": true,
       "characters": [
         {
-          "hide_char_id": "viper",
           "set_char_position": "1",
-          "set_char_anim": "good"
+          "set_char_anim": "idle"
         },
         {},
         {},
@@ -1150,7 +1152,6 @@
         {},
         {}
       ],
-      "set_background": "EventScene_Doutsiders",
       "set_start_camera": "viper_1",
       "set_end_camera": "viper_1",
       "set_camera_duration": 1.0,
@@ -1173,7 +1174,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "good"
+          "set_char_anim": "idle"
         },
         {},
         {},
@@ -1205,7 +1206,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "good"
+          "set_char_anim": "idle"
         },
         {},
         {},
@@ -1237,7 +1238,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "good"
+          "set_char_anim": "idle"
         },
         {},
         {},
@@ -1269,7 +1270,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "good"
+          "set_char_anim": "idle"
         },
         {},
         {},
@@ -1301,7 +1302,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "good"
+          "set_char_anim": "idle"
         },
         {},
         {},
@@ -1333,7 +1334,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "delight"
+          "set_char_anim": "idle"
         },
         {},
         {},
@@ -1365,7 +1366,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "angry"
+          "set_char_anim": "idle"
         },
         {},
         {},
@@ -1397,7 +1398,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "angry"
+          "set_char_anim": "idle"
         },
         {},
         {},
@@ -1429,7 +1430,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "angry"
+          "set_char_anim": "idle"
         },
         {},
         {},
@@ -1462,7 +1463,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "angry"
+          "set_char_anim": "idle"
         },
         {},
         {},
@@ -1494,7 +1495,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "angry"
+          "set_char_anim": "idle"
         },
         {},
         {},
@@ -1526,7 +1527,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "angry"
+          "set_char_anim": "idle"
         },
         {},
         {},
@@ -1558,6 +1559,7 @@
       "characters": [
         {
           "show_char_id": "viper",
+          "hide_char_id": "doutsiders_event",
           "set_char_position": "1",
           "set_char_anim": "sad"
         },

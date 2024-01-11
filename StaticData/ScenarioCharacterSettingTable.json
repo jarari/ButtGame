@@ -4442,13 +4442,22 @@
     {
       "id": "timi",
       "name_localkey": "Locale_Character:npc_316_name",
-      "resource_id": 999,
+      "resource_id": 975,
       "skin_id": "default",
       "frame_type": "none",
-      "address": "spine/standing/c999/00_HD"
+      "address": "spine/standing/c975/00_HD"
     },
     {
       "id": "leona",
+      "name_localkey": "Locale_Character:382_name",
+      "resource_id": 382,
+      "skin_id": "acc",
+      "frame_type": "none",
+      "address": "spine/standing/c382/00_HD",
+      "sd_resource_address": "c382_00_var"
+    },
+    {
+      "id": "leona_no",
       "name_localkey": "Locale_Character:382_name",
       "resource_id": 382,
       "skin_id": "default",
@@ -5376,6 +5385,22 @@
       "address": "spine/standing/c974/00_HD"
     },
     {
+      "id": "ruby",
+      "name_localkey": "Locale_Character:npc_372_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "gray",
+      "name_localkey": "Locale_Character:npc_373_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
       "id": "newyearnewsword_event",
       "name_localkey": "Locale_Character:10_name",
       "resource_id": 10,
@@ -5422,6 +5447,160 @@
       "skin_id": "default",
       "frame_type": "none",
       "address": "spine/standing/c974/00_HD"
+    },
+    {
+      "id": "guillotine_d",
+      "name_localkey": "Locale_Character:180_name",
+      "resource_id": 180,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c180/01_HD",
+      "sd_resource_address": "c180_01_var"
+    },
+    {
+      "id": "sugar_g",
+      "name_localkey": "Locale_Character:140_name",
+      "resource_id": 140,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c140/02_HD",
+      "sd_resource_address": "c140_02_var"
+    },
+    {
+      "id": "lionheart_event",
+      "name_localkey": "Locale_Character:10_name",
+      "resource_id": 10,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/events/EventScene_LionHeart_01"
+    },
+    {
+      "id": "doutsiders_event",
+      "name_localkey": "Locale_Character:10_name",
+      "resource_id": 10,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/events/EventScene_D-Outsider_01"
+    },
+    {
+      "id": "purewoman",
+      "name_localkey": "Locale_Character:npc_381_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "haggardwoman",
+      "name_localkey": "Locale_Character:npc_382_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "sadman",
+      "name_localkey": "Locale_Character:npc_383_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "storywoman",
+      "name_localkey": "Locale_Character:npc_384_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "pricklywoman",
+      "name_localkey": "Locale_Character:npc_385_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "angryman",
+      "name_localkey": "Locale_Character:npc_386_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "sickwoman",
+      "name_localkey": "Locale_Character:npc_387_name",
+      "resource_id": 912,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c912/00_HD"
+    },
+    {
+      "id": "backyard_event",
+      "name_localkey": "Locale_Character:10_name",
+      "resource_id": 10,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/events/EventScene_DirtyBackyard_01"
+    },
+    {
+      "id": "foghollowman",
+      "name_localkey": "Locale_Character:npc_379_name",
+      "resource_id": 918,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c918/00_HD"
+    },
+    {
+      "id": "happyman",
+      "name_localkey": "Locale_Character:npc_375_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "slummen",
+      "name_localkey": "Locale_Character:npc_378_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "ourterrimman_02",
+      "name_localkey": "Locale_Character:npc_329_name",
+      "resource_id": 919,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c919/00_HD"
+    },
+    {
+      "id": "cryingboy",
+      "name_localkey": "Locale_Character:npc_377_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "malehomeless",
+      "name_localkey": "Locale_Character:npc_376_name",
+      "resource_id": 919,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c919/00_HD"
+    },
+    {
+      "id": "foghollowwoman",
+      "name_localkey": "Locale_Character:npc_380_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
     }
   ]
 }

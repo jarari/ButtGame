@@ -1,0 +1,896 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "group_id": 100,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_LEVELOVERFIX",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_LEVELOVERFIX_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_LEVELOVERFIX",
+      "option_overclock_level": 1,
+      "option_battle_power": 1250,
+      "normalbattle_monster_level_up": 5,
+      "elitebattle_monster_level_up": 5,
+      "bossbattle_monster_level_up": 5,
+      "specialbattle_monster_level_up": 5,
+      "fix_option": true,
+      "option_data": [
+        {
+          "option_function": "LevelOverFix",
+          "option_target": [],
+          "option_value": 400
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "group_id": 101,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ATTACK_UP_1",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ATTACK_UP_1_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_ATTACK_UP_1",
+      "option_overclock_level": 1,
+      "option_battle_power": 1250,
+      "normalbattle_monster_level_up": 5,
+      "elitebattle_monster_level_up": 5,
+      "bossbattle_monster_level_up": 5,
+      "specialbattle_monster_level_up": 5,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999287
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "group_id": 101,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ATTACK_UP_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ATTACK_UP_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_ATTACK_UP_2",
+      "option_overclock_level": 2,
+      "option_battle_power": 2500,
+      "normalbattle_monster_level_up": 10,
+      "elitebattle_monster_level_up": 10,
+      "bossbattle_monster_level_up": 10,
+      "specialbattle_monster_level_up": 10,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999288
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "group_id": 101,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ATTACK_UP_3",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ATTACK_UP_3_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_ATTACK_UP_3",
+      "option_overclock_level": 3,
+      "option_battle_power": 3750,
+      "normalbattle_monster_level_up": 15,
+      "elitebattle_monster_level_up": 15,
+      "bossbattle_monster_level_up": 15,
+      "specialbattle_monster_level_up": 15,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999289
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "group_id": 101,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ATTACK_UP_4",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ATTACK_UP_4_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_ATTACK_UP_4",
+      "option_overclock_level": 4,
+      "option_battle_power": 5000,
+      "normalbattle_monster_level_up": 20,
+      "elitebattle_monster_level_up": 20,
+      "bossbattle_monster_level_up": 20,
+      "specialbattle_monster_level_up": 20,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999290
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "group_id": 102,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_DEF_UP_1",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_DEF_UP_1_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_DEF_UP_1",
+      "option_overclock_level": 1,
+      "option_battle_power": 1250,
+      "normalbattle_monster_level_up": 5,
+      "elitebattle_monster_level_up": 5,
+      "bossbattle_monster_level_up": 5,
+      "specialbattle_monster_level_up": 5,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999292
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "group_id": 102,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_DEF_UP_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_DEF_UP_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_DEF_UP_2",
+      "option_overclock_level": 2,
+      "option_battle_power": 2500,
+      "normalbattle_monster_level_up": 10,
+      "elitebattle_monster_level_up": 10,
+      "bossbattle_monster_level_up": 10,
+      "specialbattle_monster_level_up": 10,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999293
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "group_id": 102,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_DEF_UP_3",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_DEF_UP_3_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_DEF_UP_3",
+      "option_overclock_level": 3,
+      "option_battle_power": 3750,
+      "normalbattle_monster_level_up": 15,
+      "elitebattle_monster_level_up": 15,
+      "bossbattle_monster_level_up": 15,
+      "specialbattle_monster_level_up": 15,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999294
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "group_id": 102,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_DEF_UP_4",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_DEF_UP_4_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_DEF_UP_4",
+      "option_overclock_level": 4,
+      "option_battle_power": 5000,
+      "normalbattle_monster_level_up": 20,
+      "elitebattle_monster_level_up": 20,
+      "bossbattle_monster_level_up": 20,
+      "specialbattle_monster_level_up": 20,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999295
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "group_id": 103,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_HP_UP_1",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_HP_UP_1_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_HP_UP_1",
+      "option_overclock_level": 1,
+      "option_battle_power": 1250,
+      "normalbattle_monster_level_up": 5,
+      "elitebattle_monster_level_up": 5,
+      "bossbattle_monster_level_up": 5,
+      "specialbattle_monster_level_up": 5,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999297
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "group_id": 103,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_HP_UP_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_HP_UP_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_HP_UP_2",
+      "option_overclock_level": 2,
+      "option_battle_power": 2500,
+      "normalbattle_monster_level_up": 10,
+      "elitebattle_monster_level_up": 10,
+      "bossbattle_monster_level_up": 10,
+      "specialbattle_monster_level_up": 10,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999298
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "group_id": 103,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_HP_UP_3",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_HP_UP_3_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_HP_UP_3",
+      "option_overclock_level": 3,
+      "option_battle_power": 3750,
+      "normalbattle_monster_level_up": 15,
+      "elitebattle_monster_level_up": 15,
+      "bossbattle_monster_level_up": 15,
+      "specialbattle_monster_level_up": 15,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999299
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "group_id": 103,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_HP_UP_4",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_HP_UP_4_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_HP_UP_4",
+      "option_overclock_level": 4,
+      "option_battle_power": 5000,
+      "normalbattle_monster_level_up": 20,
+      "elitebattle_monster_level_up": 20,
+      "bossbattle_monster_level_up": 20,
+      "specialbattle_monster_level_up": 20,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999300
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "group_id": 104,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ATTRACTON_STATUS_DISABLE",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ATTRACTON_STATUS_DISABLE_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_ATTRACTON_STATUS_DISABLE",
+      "option_overclock_level": 2,
+      "option_battle_power": 2500,
+      "normalbattle_monster_level_up": 10,
+      "elitebattle_monster_level_up": 10,
+      "bossbattle_monster_level_up": 10,
+      "specialbattle_monster_level_up": 10,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "AttractionStatusDisable",
+          "option_target": []
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "group_id": 105,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_RECYCLE_ROOM_DISABLE",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_RECYCLE_ROOM_DISABLE_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_RECYCLE_ROOM_DISABLE",
+      "option_overclock_level": 2,
+      "option_battle_power": 2500,
+      "normalbattle_monster_level_up": 10,
+      "elitebattle_monster_level_up": 10,
+      "bossbattle_monster_level_up": 10,
+      "specialbattle_monster_level_up": 10,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "RecycleRoomDisable",
+          "option_target": []
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "group_id": 106,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_HARD_BATTLE_ONLY",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_HARD_BATTLE_ONLY_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_HARD_BATTLE_ONLY",
+      "option_overclock_level": 5,
+      "option_battle_power": 6250,
+      "normalbattle_monster_level_up": 25,
+      "elitebattle_monster_level_up": 25,
+      "bossbattle_monster_level_up": 25,
+      "specialbattle_monster_level_up": 25,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "LocationStartChange",
+          "option_target": [],
+          "option_value": 1000
+        },
+        {
+          "option_function": "LocationRandomChange",
+          "option_target": [],
+          "option_value": 302013
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "group_id": 107,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_CAMPAIGN_BATTLE_TIME_DECREASE_1",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_CAMPAIGN_BATTLE_TIME_DECREASE_1_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_CAMPAIGN_BATTLE_TIME_DECREASE_1",
+      "option_overclock_level": 2,
+      "option_battle_power": 2500,
+      "normalbattle_monster_level_up": 10,
+      "elitebattle_monster_level_up": 10,
+      "bossbattle_monster_level_up": 10,
+      "specialbattle_monster_level_up": 10,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "CampaignTimeDecrease",
+          "option_target": [],
+          "option_value": 1000
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "group_id": 107,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_CAMPAIGN_BATTLE_TIME_DECREASE_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_CAMPAIGN_BATTLE_TIME_DECREASE_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_CAMPAIGN_BATTLE_TIME_DECREASE_2",
+      "option_overclock_level": 3,
+      "option_battle_power": 3750,
+      "normalbattle_monster_level_up": 15,
+      "elitebattle_monster_level_up": 15,
+      "bossbattle_monster_level_up": 15,
+      "specialbattle_monster_level_up": 15,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "CampaignTimeDecrease",
+          "option_target": [],
+          "option_value": 2000
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "group_id": 107,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_CAMPAIGN_BATTLE_TIME_DECREASE_3",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_CAMPAIGN_BATTLE_TIME_DECREASE_3_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_CAMPAIGN_BATTLE_TIME_DECREASE_3",
+      "option_overclock_level": 4,
+      "option_battle_power": 5000,
+      "normalbattle_monster_level_up": 20,
+      "elitebattle_monster_level_up": 20,
+      "bossbattle_monster_level_up": 20,
+      "specialbattle_monster_level_up": 20,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "CampaignTimeDecrease",
+          "option_target": [],
+          "option_value": 3000
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "group_id": 108,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_STEP1_SMG_BAN",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_STEP1_SMG_BAN_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_STEP1_SMG_BAN",
+      "option_overclock_level": 2,
+      "option_battle_power": 2500,
+      "normalbattle_monster_level_up": 10,
+      "elitebattle_monster_level_up": 10,
+      "bossbattle_monster_level_up": 10,
+      "specialbattle_monster_level_up": 10,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "BanNikke",
+          "option_target": [
+            "SMG",
+            "Burst1"
+          ]
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "group_id": 108,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_STEP1_COOLTIME_INCREASE",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_STEP1_COOLTIME_INCREASE_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_STEP1_COOLTIME_INCREASE",
+      "option_overclock_level": 3,
+      "option_battle_power": 3750,
+      "normalbattle_monster_level_up": 15,
+      "elitebattle_monster_level_up": 15,
+      "bossbattle_monster_level_up": 15,
+      "specialbattle_monster_level_up": 15,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Burst1"
+          ],
+          "option_value": 1999307
+        },
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Burst1"
+          ],
+          "option_value": 1999308
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "group_id": 109,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_STEP2_AR_BAN",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_STEP2_AR_BAN_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_STEP2_AR_BAN",
+      "option_overclock_level": 2,
+      "option_battle_power": 2500,
+      "normalbattle_monster_level_up": 10,
+      "elitebattle_monster_level_up": 10,
+      "bossbattle_monster_level_up": 10,
+      "specialbattle_monster_level_up": 10,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "BanNikke",
+          "option_target": [
+            "AR",
+            "Burst2"
+          ]
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "group_id": 109,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_STEP2_COOLTIME_INCREASE",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_STEP2_COOLTIME_INCREASE_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_STEP2_COOLTIME_INCREASE",
+      "option_overclock_level": 3,
+      "option_battle_power": 3750,
+      "normalbattle_monster_level_up": 15,
+      "elitebattle_monster_level_up": 15,
+      "bossbattle_monster_level_up": 15,
+      "specialbattle_monster_level_up": 15,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Burst2"
+          ],
+          "option_value": 1999307
+        },
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Burst2"
+          ],
+          "option_value": 1999308
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "group_id": 110,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_FIX_DMTR",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_FIX_DMTR_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_FIX_DMTR",
+      "option_overclock_level": 1,
+      "option_battle_power": 1250,
+      "normalbattle_monster_level_up": 5,
+      "elitebattle_monster_level_up": 5,
+      "bossbattle_monster_level_up": 5,
+      "specialbattle_monster_level_up": 5,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "BattleEventGroupChange",
+          "option_target": [],
+          "option_value": 101
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "group_id": 110,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_FIX_DMTR_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_FIX_DMTR_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_FIX_DMTR_2",
+      "option_overclock_level": 4,
+      "option_battle_power": 5000,
+      "normalbattle_monster_level_up": 20,
+      "elitebattle_monster_level_up": 20,
+      "bossbattle_monster_level_up": 20,
+      "specialbattle_monster_level_up": 20,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "BattleEventGroupChange",
+          "option_target": [],
+          "option_value": 101
+        },
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Target"
+          ],
+          "option_value": 1999315
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "group_id": 111,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_RAMNENT_1",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_RAMNENT_1_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_APPEAR_RAMNENT_1",
+      "option_overclock_level": 2,
+      "option_battle_power": 2500,
+      "normalbattle_monster_level_up": 10,
+      "elitebattle_monster_level_up": 10,
+      "bossbattle_monster_level_up": 10,
+      "specialbattle_monster_level_up": 10,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Stage"
+          ],
+          "option_value": 1999309
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "group_id": 111,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_RAMNENT_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_RAMNENT_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_APPEAR_RAMNENT_2",
+      "option_overclock_level": 3,
+      "option_battle_power": 3750,
+      "normalbattle_monster_level_up": 15,
+      "elitebattle_monster_level_up": 15,
+      "bossbattle_monster_level_up": 15,
+      "specialbattle_monster_level_up": 15,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Stage"
+          ],
+          "option_value": 1999312
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "group_id": 112,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_PONYTAIL_1",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_PONYTAIL_1_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_APPEAR_SPARROW_1",
+      "option_overclock_level": 2,
+      "option_battle_power": 2500,
+      "normalbattle_monster_level_up": 10,
+      "elitebattle_monster_level_up": 10,
+      "bossbattle_monster_level_up": 10,
+      "specialbattle_monster_level_up": 10,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Stage"
+          ],
+          "option_value": 1999310
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "group_id": 112,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_PONYTAIL_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_PONYTAIL_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_APPEAR_SPARROW_2",
+      "option_overclock_level": 3,
+      "option_battle_power": 3750,
+      "normalbattle_monster_level_up": 15,
+      "elitebattle_monster_level_up": 15,
+      "bossbattle_monster_level_up": 15,
+      "specialbattle_monster_level_up": 15,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Stage"
+          ],
+          "option_value": 1999313
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "group_id": 113,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_MOTHERWHALE",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_MOTHERWHALE_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_APPEAR_MOTHERWHALE",
+      "option_overclock_level": 3,
+      "option_battle_power": 3750,
+      "normalbattle_monster_level_up": 15,
+      "elitebattle_monster_level_up": 15,
+      "bossbattle_monster_level_up": 15,
+      "specialbattle_monster_level_up": 15,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Stage"
+          ],
+          "option_value": 1999311
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "group_id": 114,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_SPECIALSTAGE",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_SPECIALSTAGE_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_SPECIALSTAGE",
+      "option_overclock_level": 5,
+      "option_battle_power": 6250,
+      "normalbattle_monster_level_up": 25,
+      "elitebattle_monster_level_up": 25,
+      "bossbattle_monster_level_up": 25,
+      "specialbattle_monster_level_up": 25,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "LocationJustBeforeEndChange",
+          "option_target": [],
+          "option_value": 1000000
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    }
+  ]
+}

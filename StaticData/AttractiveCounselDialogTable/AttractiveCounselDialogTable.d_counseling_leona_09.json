@@ -1,0 +1,418 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "d_counseling_leona_09_1",
+      "group_id": "d_counseling_leona_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "leona",
+      "speaker": "timi",
+      "scenario_localkey": "Locale_Counseling:d_counseling_leona_09_1",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "leona",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "CommanderRoom",
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_liongrowl",
+      "play_bgm": "bgm_story_backtonormal",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_leona_09_2",
+      "group_id": "d_counseling_leona_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "leona",
+      "speaker": "leona",
+      "scenario_localkey": "Locale_Counseling:d_counseling_leona_09_2",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_leona_09_3",
+      "group_id": "d_counseling_leona_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "leona",
+      "speaker": "timi",
+      "scenario_localkey": "Locale_Counseling:d_counseling_leona_09_3",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_lionroar",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_leona_09_4",
+      "group_id": "d_counseling_leona_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "leona",
+      "speaker": "leona",
+      "scenario_localkey": "Locale_Counseling:d_counseling_leona_09_4",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_leona_09_5",
+      "group_id": "d_counseling_leona_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "leona",
+      "speaker": "leona",
+      "scenario_localkey": "Locale_Counseling:d_counseling_leona_09_5",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_leona_09_6",
+      "group_id": "d_counseling_leona_09",
+      "speech_window": "Choice",
+      "attractive_point": 100,
+      "highlight": "leona",
+      "scenario_localkey": "Locale_Counseling:d_counseling_leona_09_6",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_counseling_leona_09_8"
+    },
+    {
+      "id": "d_counseling_leona_09_7",
+      "group_id": "d_counseling_leona_09",
+      "speech_window": "Choice",
+      "attractive_point": 50,
+      "highlight": "leona",
+      "scenario_localkey": "Locale_Counseling:d_counseling_leona_09_7",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_counseling_leona_09_12"
+    },
+    {
+      "id": "d_counseling_leona_09_8",
+      "group_id": "d_counseling_leona_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "leona",
+      "speaker": "leona",
+      "scenario_localkey": "Locale_Counseling:d_counseling_leona_09_8",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_leona_09_9",
+      "group_id": "d_counseling_leona_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "leona",
+      "speaker": "leona",
+      "scenario_localkey": "Locale_Counseling:d_counseling_leona_09_9",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_100",
+      "set_end_camera": "L_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_leona_09_10",
+      "group_id": "d_counseling_leona_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "leona",
+      "speaker": "leona",
+      "scenario_localkey": "Locale_Counseling:d_counseling_leona_09_10",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_100",
+      "set_end_camera": "L_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_leona_09_11",
+      "group_id": "d_counseling_leona_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "leona",
+      "speaker": "leona",
+      "scenario_localkey": "Locale_Counseling:d_counseling_leona_09_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "shy"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_100",
+      "set_end_camera": "L_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_counseling_leona_09_15"
+    },
+    {
+      "id": "d_counseling_leona_09_12",
+      "group_id": "d_counseling_leona_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "leona",
+      "speaker": "leona",
+      "scenario_localkey": "Locale_Counseling:d_counseling_leona_09_12",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_leona_09_13",
+      "group_id": "d_counseling_leona_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "leona",
+      "speaker": "leona",
+      "scenario_localkey": "Locale_Counseling:d_counseling_leona_09_13",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_100",
+      "set_end_camera": "L_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_counseling_leona_09_14",
+      "group_id": "d_counseling_leona_09",
+      "speech_window": "Speech",
+      "attractive_point": 0,
+      "highlight": "leona",
+      "speaker": "leona",
+      "scenario_localkey": "Locale_Counseling:d_counseling_leona_09_14",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_100",
+      "set_end_camera": "L_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "d_counseling_leona_09_15"
+    },
+    {
+      "id": "d_counseling_leona_09_15",
+      "group_id": "d_counseling_leona_09",
+      "speech_window": "Narration",
+      "attractive_point": 0,
+      "highlight": "leona",
+      "scenario_localkey": "Locale_Counseling:d_counseling_leona_09_15",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "hide_char_id": "leona",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "none",
+      "set_start_camera": "L_100",
+      "set_end_camera": "L_100",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

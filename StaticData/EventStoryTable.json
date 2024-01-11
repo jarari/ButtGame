@@ -520,6 +520,38 @@
       "ui_prefab": "newyearnewsword"
     },
     {
+      "id": 10037,
+      "event_id": 40037,
+      "name": "Locale_System:STORY_DUNGEON_TITLE37",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION",
+      "prologue_scenario": "event_lionheart_prologue",
+      "auto_charge_id": 10037,
+      "event_item_type": "Item",
+      "event_item_id": 7060037,
+      "dungeon_id": 37,
+      "album_category_group": 1037,
+      "mission_group": 37,
+      "contents_shop_id": 9003701,
+      "dice_id": 0,
+      "ui_prefab": "lionheart"
+    },
+    {
+      "id": 10038,
+      "event_id": 40038,
+      "name": "Locale_System:STORY_DUNGEON_TITLE38",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION",
+      "prologue_scenario": "event_dirtybackyard_prologue",
+      "auto_charge_id": 10038,
+      "event_item_type": "Item",
+      "event_item_id": 7060038,
+      "dungeon_id": 38,
+      "album_category_group": 1038,
+      "mission_group": 38,
+      "contents_shop_id": 9003801,
+      "dice_id": 0,
+      "ui_prefab": "dirtybackyard"
+    },
+    {
       "id": 40001,
       "event_id": 60001,
       "name": "Locale_System:STORY_DUNGEON_TITLE",
@@ -743,6 +775,36 @@
       "contents_shop_id": 0,
       "dice_id": 0,
       "challenge_monster_resource": "full_bbg001"
+    },
+    {
+      "id": 40037,
+      "event_id": 60037,
+      "name": "Locale_System:STORY_DUNGEON_TITLE",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION",
+      "auto_charge_id": 40037,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1037,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_mbg001"
+    },
+    {
+      "id": 40038,
+      "event_id": 60038,
+      "name": "Locale_System:STORY_DUNGEON_TITLE",
+      "description": "Locale_System:STORY_DUNGEON_DESCRIPTION",
+      "auto_charge_id": 40038,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1038,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_eba001"
     }
   ]
 }

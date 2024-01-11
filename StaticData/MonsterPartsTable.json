@@ -2144,6 +2144,590 @@
       "is_main_part": false
     },
     {
+      "id": 15100201,
+      "monster_model_id": 151002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "bba001_l_tail_044",
+        "socket_laser",
+        "socket_summon_02",
+        "socket_muzzle_fire_26"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_04"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "bba001_var"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": true
+    },
+    {
+      "id": 15100202,
+      "monster_model_id": 151002,
+      "parts_name_localkey": "Locale_Monster:parts_name_motherwhale01",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "bba001_l_summon_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_05"
+      ],
+      "parts_type": "Weapon_01",
+      "parts_object": [
+        "bba001_l_summon_01"
+      ],
+      "parts_skin": "bba001_left_boil_01_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 15100203,
+      "monster_model_id": 151002,
+      "parts_name_localkey": "Locale_Monster:parts_name_motherwhale02",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "bba001_l_summon_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_06"
+      ],
+      "parts_type": "Weapon_02",
+      "parts_object": [
+        "bba001_l_summon_02"
+      ],
+      "parts_skin": "bba001_left_boil_02_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 15100204,
+      "monster_model_id": 151002,
+      "parts_name_localkey": "Locale_Monster:parts_name_motherwhale03",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "bba001_l_summon_03"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_07"
+      ],
+      "parts_type": "Weapon_03",
+      "parts_object": [
+        "bba001_l_summon_03"
+      ],
+      "parts_skin": "bba001_left_boil_03_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 15100205,
+      "monster_model_id": 151002,
+      "parts_name_localkey": "Locale_Monster:parts_name_motherwhale04",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "bba001_r_summon_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_08"
+      ],
+      "parts_type": "Weapon_04",
+      "parts_object": [
+        "bba001_r_summon_01"
+      ],
+      "parts_skin": "bba001_right_boil_01_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 15100206,
+      "monster_model_id": 151002,
+      "parts_name_localkey": "Locale_Monster:parts_name_motherwhale05",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "bba001_r_summon_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_09"
+      ],
+      "parts_type": "Weapon_05",
+      "parts_object": [
+        "bba001_r_summon_02"
+      ],
+      "parts_skin": "bba001_right_boil_02_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 15100207,
+      "monster_model_id": 151002,
+      "parts_name_localkey": "Locale_Monster:parts_name_motherwhale06",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "bba001_r_summon_03"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_10"
+      ],
+      "parts_type": "Weapon_06",
+      "parts_object": [
+        "bba001_r_summon_03"
+      ],
+      "parts_skin": "bba001_right_boil_03_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 15100208,
+      "monster_model_id": 151002,
+      "parts_name_localkey": "Locale_Monster:parts_name_motherwhale07",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Weapon_07",
+      "parts_object": [
+        "bba001_l_cover_01"
+      ],
+      "parts_skin": "bba001_left_cover_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 15100209,
+      "monster_model_id": 151002,
+      "parts_name_localkey": "Locale_Monster:parts_name_motherwhale08",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Weapon_08",
+      "parts_object": [
+        "bba001_r_cover_01"
+      ],
+      "parts_skin": "bba001_right_cover_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 15100210,
+      "monster_model_id": 151002,
+      "parts_name_localkey": "Locale_Monster:parts_name_motherwhale09",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Weapon_09",
+      "parts_object": [
+        "socket_summon_01"
+      ],
+      "parts_skin": "bba001_core_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 15100211,
+      "monster_model_id": 151002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Arm_Left",
+      "parts_object": [
+        "aim_control_01"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 15100212,
+      "monster_model_id": 151002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Arm_Right",
+      "parts_object": [
+        "aim_control_02"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 15100213,
+      "monster_model_id": 151002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Body_Lower",
+      "parts_object": [
+        "aim_control_03"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 15100214,
+      "monster_model_id": 151002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Body_Upper",
+      "parts_object": [
+        "aim_control_04"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 15100215,
+      "monster_model_id": 151002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Chest",
+      "parts_object": [
+        "aim_control_05"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 15100216,
+      "monster_model_id": 151002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Belly",
+      "parts_object": [
+        "aim_control_06"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 15100217,
+      "monster_model_id": 151002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Leg_Front_Left",
+      "parts_object": [
+        "aim_control_07"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 15100218,
+      "monster_model_id": 151002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Leg_Front_Right",
+      "parts_object": [
+        "aim_control_08"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 15100219,
+      "monster_model_id": 151002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Leg_Back_Left",
+      "parts_object": [
+        "aim_control_09"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 15100220,
+      "monster_model_id": 151002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152009,
+      "visible_hp": false,
+      "linked_parts_id": 15100201,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Leg_Back_Right",
+      "parts_object": [
+        "aim_control_10"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
       "id": 15200401,
       "monster_model_id": 152004,
       "damage_hp_ratio": 0,

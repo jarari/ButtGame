@@ -25771,7 +25771,7 @@
       "skill_cooltime": 1700,
       "attack_type": "Electronic",
       "counter_type": "Metal_Type",
-      "prefer_target": "LowHP",
+      "prefer_target": "HighAttack",
       "prefer_target_condition": "None",
       "skill_type": "SetBuff",
       "skill_value_data": [
@@ -25819,7 +25819,7 @@
       "skill_cooltime": 1700,
       "attack_type": "Electronic",
       "counter_type": "Metal_Type",
-      "prefer_target": "LowHP",
+      "prefer_target": "HighAttack",
       "prefer_target_condition": "None",
       "skill_type": "SetBuff",
       "skill_value_data": [
@@ -25867,7 +25867,7 @@
       "skill_cooltime": 1700,
       "attack_type": "Electronic",
       "counter_type": "Metal_Type",
-      "prefer_target": "LowHP",
+      "prefer_target": "HighAttack",
       "prefer_target_condition": "None",
       "skill_type": "SetBuff",
       "skill_value_data": [
@@ -25915,7 +25915,7 @@
       "skill_cooltime": 1700,
       "attack_type": "Electronic",
       "counter_type": "Metal_Type",
-      "prefer_target": "LowHP",
+      "prefer_target": "HighAttack",
       "prefer_target_condition": "None",
       "skill_type": "SetBuff",
       "skill_value_data": [
@@ -25963,7 +25963,7 @@
       "skill_cooltime": 1700,
       "attack_type": "Electronic",
       "counter_type": "Metal_Type",
-      "prefer_target": "LowHP",
+      "prefer_target": "HighAttack",
       "prefer_target_condition": "None",
       "skill_type": "SetBuff",
       "skill_value_data": [
@@ -26011,7 +26011,7 @@
       "skill_cooltime": 1700,
       "attack_type": "Electronic",
       "counter_type": "Metal_Type",
-      "prefer_target": "LowHP",
+      "prefer_target": "HighAttack",
       "prefer_target_condition": "None",
       "skill_type": "SetBuff",
       "skill_value_data": [
@@ -26059,7 +26059,7 @@
       "skill_cooltime": 1700,
       "attack_type": "Electronic",
       "counter_type": "Metal_Type",
-      "prefer_target": "LowHP",
+      "prefer_target": "HighAttack",
       "prefer_target_condition": "None",
       "skill_type": "SetBuff",
       "skill_value_data": [
@@ -26107,7 +26107,7 @@
       "skill_cooltime": 1700,
       "attack_type": "Electronic",
       "counter_type": "Metal_Type",
-      "prefer_target": "LowHP",
+      "prefer_target": "HighAttack",
       "prefer_target_condition": "None",
       "skill_type": "SetBuff",
       "skill_value_data": [
@@ -26155,7 +26155,7 @@
       "skill_cooltime": 1700,
       "attack_type": "Electronic",
       "counter_type": "Metal_Type",
-      "prefer_target": "LowHP",
+      "prefer_target": "HighAttack",
       "prefer_target_condition": "None",
       "skill_type": "SetBuff",
       "skill_value_data": [
@@ -26203,7 +26203,7 @@
       "skill_cooltime": 1700,
       "attack_type": "Electronic",
       "counter_type": "Metal_Type",
-      "prefer_target": "LowHP",
+      "prefer_target": "HighAttack",
       "prefer_target_condition": "None",
       "skill_type": "SetBuff",
       "skill_value_data": [
@@ -102959,6 +102959,1976 @@
       ],
       "resource_name": "c225_ulti",
       "icon": "icn_skill_c225_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1281201,
+      "skill_cooltime": 0,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "InstantNumber",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 3
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        128120101
+      ],
+      "resource_name": "c281_skill2",
+      "icon": "icn_skill_stathp_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1281202,
+      "skill_cooltime": 0,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "InstantNumber",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 3
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        128120201
+      ],
+      "resource_name": "c281_skill2",
+      "icon": "icn_skill_stathp_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1281203,
+      "skill_cooltime": 0,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "InstantNumber",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 3
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        128120301
+      ],
+      "resource_name": "c281_skill2",
+      "icon": "icn_skill_stathp_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1281204,
+      "skill_cooltime": 0,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "InstantNumber",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 3
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        128120401
+      ],
+      "resource_name": "c281_skill2",
+      "icon": "icn_skill_stathp_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1281205,
+      "skill_cooltime": 0,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "InstantNumber",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 3
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        128120501
+      ],
+      "resource_name": "c281_skill2",
+      "icon": "icn_skill_stathp_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1281206,
+      "skill_cooltime": 0,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "InstantNumber",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 3
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        128120601
+      ],
+      "resource_name": "c281_skill2",
+      "icon": "icn_skill_stathp_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1281207,
+      "skill_cooltime": 0,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "InstantNumber",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 3
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        128120701
+      ],
+      "resource_name": "c281_skill2",
+      "icon": "icn_skill_stathp_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1281208,
+      "skill_cooltime": 0,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "InstantNumber",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 3
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        128120801
+      ],
+      "resource_name": "c281_skill2",
+      "icon": "icn_skill_stathp_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1281209,
+      "skill_cooltime": 0,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "InstantNumber",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 3
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        128120901
+      ],
+      "resource_name": "c281_skill2",
+      "icon": "icn_skill_stathp_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1281210,
+      "skill_cooltime": 0,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "InstantNumber",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 3
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        128121001
+      ],
+      "resource_name": "c281_skill2",
+      "icon": "icn_skill_stathp_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1281301,
+      "skill_cooltime": 4000,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 1146
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1440
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1028102
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        128130105
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        128130101,
+        128130102,
+        128130103,
+        128130104,
+        128130106
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c281_ulti",
+      "icon": "icn_skill_c281_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1281302,
+      "skill_cooltime": 4000,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 1182
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1440
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1028102
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        128130105
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        128130201,
+        128130202,
+        128130203,
+        128130204,
+        128130106
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c281_ulti",
+      "icon": "icn_skill_c281_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1281303,
+      "skill_cooltime": 4000,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 1218
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1440
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1028102
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        128130105
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        128130301,
+        128130302,
+        128130303,
+        128130304,
+        128130106
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c281_ulti",
+      "icon": "icn_skill_c281_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1281304,
+      "skill_cooltime": 4000,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 1254
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1440
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1028102
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        128130105
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        128130401,
+        128130402,
+        128130403,
+        128130404,
+        128130106
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c281_ulti",
+      "icon": "icn_skill_c281_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1281305,
+      "skill_cooltime": 4000,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 1290
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1440
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1028102
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        128130105
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        128130501,
+        128130502,
+        128130503,
+        128130504,
+        128130106
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c281_ulti",
+      "icon": "icn_skill_c281_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1281306,
+      "skill_cooltime": 4000,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 1326
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1440
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1028102
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        128130105
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        128130601,
+        128130602,
+        128130603,
+        128130604,
+        128130106
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c281_ulti",
+      "icon": "icn_skill_c281_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1281307,
+      "skill_cooltime": 4000,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 1362
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1440
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1028102
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        128130105
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        128130701,
+        128130702,
+        128130703,
+        128130704,
+        128130106
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c281_ulti",
+      "icon": "icn_skill_c281_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1281308,
+      "skill_cooltime": 4000,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 1398
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1440
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1028102
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        128130105
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        128130801,
+        128130802,
+        128130803,
+        128130804,
+        128130106
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c281_ulti",
+      "icon": "icn_skill_c281_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1281309,
+      "skill_cooltime": 4000,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 1434
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1440
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1028102
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        128130105
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        128130901,
+        128130902,
+        128130903,
+        128130904,
+        128130106
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c281_ulti",
+      "icon": "icn_skill_c281_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1281310,
+      "skill_cooltime": 4000,
+      "attack_type": "Electronic",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "ChangeWeapon",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Percent",
+          "skill_value": 1470
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1440
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1028102
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        128130105
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        128131001,
+        128131002,
+        128131003,
+        128131004,
+        128130106
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c281_ulti",
+      "icon": "icn_skill_c281_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1382201,
+      "skill_cooltime": 0,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "OnlySG",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 2
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        138220103
+      ],
+      "resource_name": "c382_skill2",
+      "icon": "icn_skill_statshotcount_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1382202,
+      "skill_cooltime": 0,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "OnlySG",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 2
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        138220203
+      ],
+      "resource_name": "c382_skill2",
+      "icon": "icn_skill_statshotcount_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1382203,
+      "skill_cooltime": 0,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "OnlySG",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 2
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        138220303
+      ],
+      "resource_name": "c382_skill2",
+      "icon": "icn_skill_statshotcount_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1382204,
+      "skill_cooltime": 0,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "OnlySG",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 2
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        138220403
+      ],
+      "resource_name": "c382_skill2",
+      "icon": "icn_skill_statshotcount_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1382205,
+      "skill_cooltime": 0,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "OnlySG",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 2
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        138220503
+      ],
+      "resource_name": "c382_skill2",
+      "icon": "icn_skill_statshotcount_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1382206,
+      "skill_cooltime": 0,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "OnlySG",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 2
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        138220603
+      ],
+      "resource_name": "c382_skill2",
+      "icon": "icn_skill_statshotcount_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1382207,
+      "skill_cooltime": 0,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "OnlySG",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 2
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        138220703
+      ],
+      "resource_name": "c382_skill2",
+      "icon": "icn_skill_statshotcount_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1382208,
+      "skill_cooltime": 0,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "OnlySG",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 2
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        138220803
+      ],
+      "resource_name": "c382_skill2",
+      "icon": "icn_skill_statshotcount_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1382209,
+      "skill_cooltime": 0,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "OnlySG",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 2
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        138220903
+      ],
+      "resource_name": "c382_skill2",
+      "icon": "icn_skill_statshotcount_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1382210,
+      "skill_cooltime": 0,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "OnlySG",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 2
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        138221003
+      ],
+      "resource_name": "c382_skill2",
+      "icon": "icn_skill_statshotcount_01",
+      "shake_id": 1
+    },
+    {
+      "id": 1382301,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        138230101,
+        138230102
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c382_ulti",
+      "icon": "icn_skill_c382_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1382302,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        138230201,
+        138230202
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c382_ulti",
+      "icon": "icn_skill_c382_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1382303,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        138230301,
+        138230302
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c382_ulti",
+      "icon": "icn_skill_c382_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1382304,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        138230401,
+        138230402
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c382_ulti",
+      "icon": "icn_skill_c382_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1382305,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        138230501,
+        138230502
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c382_ulti",
+      "icon": "icn_skill_c382_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1382306,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        138230601,
+        138230602
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c382_ulti",
+      "icon": "icn_skill_c382_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1382307,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        138230701,
+        138230702
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c382_ulti",
+      "icon": "icn_skill_c382_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1382308,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        138230801,
+        138230802
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c382_ulti",
+      "icon": "icn_skill_c382_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1382309,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        138230901,
+        138230902
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c382_ulti",
+      "icon": "icn_skill_c382_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1382310,
+      "skill_cooltime": 2000,
+      "attack_type": "Water",
+      "counter_type": "Metal_Type",
+      "prefer_target": "HighAttack",
+      "prefer_target_condition": "None",
+      "skill_type": "SetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 10000
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        }
+      ],
+      "duration_type": "None",
+      "duration_value": 0,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        138231001,
+        138231002
+      ],
+      "after_hurt_function_id_list": [
+        0
+      ],
+      "resource_name": "c382_ulti",
+      "icon": "icn_skill_c382_ult",
       "shake_id": 1
     }
   ]

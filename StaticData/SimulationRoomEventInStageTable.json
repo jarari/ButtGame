@@ -592,6 +592,38 @@
       "event_sub_type": "RandomSelection",
       "is_repeated": true,
       "weight": 100
+    },
+    {
+      "id": 5,
+      "stage_group_id": 1000000,
+      "event_main_type": "Battle",
+      "event_sub_type": "SpecialBattle",
+      "is_repeated": true,
+      "weight": 10000
+    },
+    {
+      "id": 300055,
+      "stage_group_id": 302013,
+      "event_main_type": "Battle",
+      "event_sub_type": "EliteBattle",
+      "is_repeated": true,
+      "weight": 9500
+    },
+    {
+      "id": 300056,
+      "stage_group_id": 302013,
+      "event_main_type": "Selection",
+      "event_sub_type": "RandomSelection",
+      "is_repeated": false,
+      "weight": 250
+    },
+    {
+      "id": 300057,
+      "stage_group_id": 302013,
+      "event_main_type": "Selection",
+      "event_sub_type": "Maintenance",
+      "is_repeated": false,
+      "weight": 250
     }
   ]
 }

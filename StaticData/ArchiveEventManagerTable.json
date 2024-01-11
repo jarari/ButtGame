@@ -8,7 +8,7 @@
       "included_content_type": "StoryEvent",
       "archive_match_event_id": 40001,
       "archive_story_progress_group_order": 1,
-      "archive_story_progress_locale": "PROGRESS_STORY_TYPE_01",
+      "archive_story_progress_locale": "Locale_System:PROGRESS_STORY_TYPE_01",
       "event_start_date": "2022-11-10T06:30:00",
       "event_end_date": "2022-11-23T19:59:59"
     },
@@ -19,7 +19,7 @@
       "included_content_type": "StoryEvent1",
       "archive_match_event_id": 80303,
       "archive_story_progress_group_order": 1,
-      "archive_story_progress_locale": "PROGRESS_STORY_TYPE_02",
+      "archive_story_progress_locale": "Locale_System:PROGRESS_STORY_TYPE_02",
       "parents_event_id": 1080300
     },
     {
@@ -29,7 +29,7 @@
       "included_content_type": "StoryEvent2",
       "archive_match_event_id": 80304,
       "archive_story_progress_group_order": 2,
-      "archive_story_progress_locale": "PROGRESS_STORY_TYPE_03",
+      "archive_story_progress_locale": "Locale_System:PROGRESS_STORY_TYPE_03",
       "parents_event_id": 1080300
     },
     {
@@ -39,7 +39,7 @@
       "included_content_type": "StoryEvent",
       "archive_match_event_id": 40010,
       "archive_story_progress_group_order": 1,
-      "archive_story_progress_locale": "PROGRESS_STORY_TYPE_01",
+      "archive_story_progress_locale": "Locale_System:PROGRESS_STORY_TYPE_01",
       "event_start_date": "2023-03-15T03:00:00",
       "event_end_date": "2023-03-28T19:59:59"
     },
@@ -50,7 +50,7 @@
       "included_content_type": "StoryEvent",
       "archive_match_event_id": 40012,
       "archive_story_progress_group_order": 1,
-      "archive_story_progress_locale": "PROGRESS_STORY_TYPE_01",
+      "archive_story_progress_locale": "Locale_System:PROGRESS_STORY_TYPE_01",
       "event_start_date": "2023-04-13T03:00:00",
       "event_end_date": "2023-04-26T14:59:59"
     },
@@ -61,7 +61,7 @@
       "included_content_type": "StoryEvent1",
       "archive_match_event_id": 40003,
       "archive_story_progress_group_order": 1,
-      "archive_story_progress_locale": "PROGRESS_STORY_TYPE_02",
+      "archive_story_progress_locale": "Locale_System:PROGRESS_STORY_TYPE_02",
       "parents_event_id": 80100
     },
     {
@@ -71,7 +71,7 @@
       "included_content_type": "StoryEvent2",
       "archive_match_event_id": 40004,
       "archive_story_progress_group_order": 2,
-      "archive_story_progress_locale": "PROGRESS_STORY_TYPE_03",
+      "archive_story_progress_locale": "Locale_System:PROGRESS_STORY_TYPE_03",
       "parents_event_id": 80100
     },
     {
@@ -81,7 +81,7 @@
       "included_content_type": "StoryEvent",
       "archive_match_event_id": 40015,
       "archive_story_progress_group_order": 1,
-      "archive_story_progress_locale": "PROGRESS_STORY_TYPE_01",
+      "archive_story_progress_locale": "Locale_System:PROGRESS_STORY_TYPE_01",
       "event_start_date": "2023-06-01T03:00:00",
       "event_end_date": "2023-06-14T19:59:59"
     },
@@ -92,9 +92,31 @@
       "included_content_type": "StoryEvent",
       "archive_match_event_id": 40022,
       "archive_story_progress_group_order": 1,
-      "archive_story_progress_locale": "PROGRESS_STORY_TYPE_01",
+      "archive_story_progress_locale": "Locale_System:PROGRESS_STORY_TYPE_01",
       "event_start_date": "2023-07-06T03:00:00",
       "event_end_date": "2023-07-19T19:59:59"
+    },
+    {
+      "id": 40011,
+      "event_system_type": "StoryEvent",
+      "event_shortcut_id": "0",
+      "included_content_type": "StoryEvent",
+      "archive_match_event_id": 40011,
+      "archive_story_progress_group_order": 1,
+      "archive_story_progress_locale": "Locale_System:PROGRESS_STORY_TYPE_01",
+      "event_start_date": "2023-03-30T03:00:00",
+      "event_end_date": "2023-04-12T19:59:59"
+    },
+    {
+      "id": 40006,
+      "event_system_type": "StoryEvent",
+      "event_shortcut_id": "0",
+      "included_content_type": "StoryEvent",
+      "archive_match_event_id": 40006,
+      "archive_story_progress_group_order": 1,
+      "archive_story_progress_locale": "Locale_System:PROGRESS_STORY_TYPE_01",
+      "event_start_date": "2023-01-11T16:00:00",
+      "event_end_date": "2023-01-25T14:59:59"
     },
     {
       "id": 1080300,

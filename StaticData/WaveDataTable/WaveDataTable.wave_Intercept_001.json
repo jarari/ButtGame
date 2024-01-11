@@ -3540,12 +3540,12 @@
       "monster_count": 7,
       "use_intro_scene": false,
       "wave_repeat": false,
-      "point_data": "point_grd_greathole_004",
-      "point_data_fly": "point_fly_greathole_004",
-      "background_name": "sbg_greathole_004",
-      "theme": "GreatHole",
-      "theme_time": "Day",
-      "stage_info_bg": "ibg_greathole_001",
+      "point_data": "point_grd_wasteland_003",
+      "point_data_fly": "point_fly_wasteland_003",
+      "background_name": "sbg_wasteland_003",
+      "theme": "Wasteland",
+      "theme_time": "Night",
+      "stage_info_bg": "ibg_wasteland_001",
       "target_list": [
         3420050224
       ],
@@ -6848,6 +6848,113 @@
       "close_monster_count": 0,
       "mid_monster_count": 1,
       "far_monster_count": 0
+    },
+    {
+      "stage_id": 6304041,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "UnionRaid",
+      "battle_time": 180,
+      "monster_count": 5,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_cityforestunder_004_midclear",
+      "point_data_fly": "point_fly_cityforestunder_004",
+      "background_name": "sbg_cityforestunder_004_midclear",
+      "theme": "CityForestUnder",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_cityforestunder_001",
+      "target_list": [
+        3410030154
+      ],
+      "wave_data": [
+        {
+          "wave_path": "path_fly_mid_centurion_901",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3410030154,
+              "spawn_type": "Drop"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 0,
+      "far_monster_count": 1
     },
     {
       "stage_id": 6700101,
