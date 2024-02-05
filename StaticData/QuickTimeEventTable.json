@@ -904,7 +904,8 @@
       "id": 10056,
       "monster_id": [
         1520040121,
-        1520040122
+        1520040122,
+        1520040124
       ],
       "qte_prefab": "QTEPrefab_Kraken",
       "group_id": [
@@ -1749,6 +1750,21 @@
       "time_limit": 1200,
       "first_col_anim_time": 100,
       "element_id": 400001
+    },
+    {
+      "id": 10105,
+      "monster_id": [
+        4520010121,
+        4520010125
+      ],
+      "qte_prefab": "QTEPrefab_CrystalChamber",
+      "group_id": [
+        196
+      ],
+      "random_preset": false,
+      "time_limit": 1500,
+      "first_col_anim_time": 100,
+      "element_id": 200001
     }
   ]
 }

@@ -514,6 +514,22 @@
       "condition_id": 0
     },
     {
+      "id": 39,
+      "livewallpaper_type": "Scenario",
+      "sub_type": "Event",
+      "order": 20028,
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_39",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_39",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_PerfectMaid_01",
+      "thumbnail_resource_id": "EventScene_PerfectMaid_01_mi",
+      "si_resource_id": "EventScene_PerfectMaid_01_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "condition_type": "None",
+      "condition_resource_id": 0,
+      "condition_id": 0
+    },
+    {
       "id": 50010,
       "livewallpaper_type": "SkillCutScene",
       "sub_type": "None",
@@ -2016,6 +2032,38 @@
       "condition_type": "Character",
       "condition_resource_id": 281,
       "condition_id": 328104
+    },
+    {
+      "id": 50313,
+      "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
+      "order": 30097,
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50313",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50313",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_c313_cutscene",
+      "thumbnail_resource_id": "EventScene_c313_cutscene_mi",
+      "si_resource_id": "EventScene_c313_cutscene_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "condition_type": "Character",
+      "condition_resource_id": 313,
+      "condition_id": 231304
+    },
+    {
+      "id": 50310,
+      "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
+      "order": 30098,
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50310",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50310",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_c310_cutscene",
+      "thumbnail_resource_id": "EventScene_c310_cutscene_mi",
+      "si_resource_id": "EventScene_c310_cutscene_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "condition_type": "Character",
+      "condition_resource_id": 310,
+      "condition_id": 331004
     },
     {
       "id": 5010101,
