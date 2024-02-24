@@ -1319,8 +1319,8 @@
       "name": "I FEEL SO ALIVE",
       "order": 13,
       "artist": "Cosmograph",
-      "get_info_type": "Locale",
-      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_NONE"
+      "get_info_type": "FieldItem",
+      "get_info_value": "50027007"
     },
     {
       "id": 15,
@@ -1331,8 +1331,8 @@
       "name": "OVERCLOCKER",
       "order": 14,
       "artist": "ARForest",
-      "get_info_type": "Locale",
-      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_NONE"
+      "get_info_type": "FieldItem",
+      "get_info_value": "50028201"
     },
     {
       "id": 2001,
@@ -2129,6 +2129,19 @@
       "name": "It's SHOWTIME",
       "order": 31,
       "artist": "Cosmograph",
+      "is_default_bgm": true,
+      "get_info_type": "Locale",
+      "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM"
+    },
+    {
+      "id": 4031,
+      "theme": 4,
+      "bgm": "event_bgm_boomsday",
+      "is_loop": false,
+      "play_time": 221,
+      "name": "BOOMS DAY",
+      "order": 32,
+      "artist": "Cosmograph (feat. Hunger Noma, nonebart)",
       "is_default_bgm": true,
       "get_info_type": "Locale",
       "get_info_value": "MISSING_GOODS_JUKEBOX_OBTAIN_PRESET_BGM"
@@ -4148,6 +4161,138 @@
       "artist": "Cosmograph",
       "get_info_type": "FieldItem",
       "get_info_value": "54026203"
+    },
+    {
+      "id": 18001,
+      "theme": 18,
+      "bgm": "bgm_aztec",
+      "is_loop": true,
+      "play_time": 84,
+      "name": "Aztec [Scenario Ver.]",
+      "order": 1,
+      "artist": "Feryquitous",
+      "get_info_type": "FieldItem",
+      "get_info_value": "50027201"
+    },
+    {
+      "id": 18002,
+      "theme": 18,
+      "bgm": "bgm_aztec_a",
+      "is_loop": true,
+      "play_time": 84,
+      "name": "Aztec",
+      "order": 2,
+      "artist": "Feryquitous",
+      "get_info_type": "FieldItem",
+      "get_info_value": "50027202"
+    },
+    {
+      "id": 18003,
+      "theme": 18,
+      "bgm": "bgm_aztec_b",
+      "is_loop": true,
+      "play_time": 84,
+      "name": "Aztec - dust -",
+      "order": 3,
+      "artist": "Feryquitous",
+      "get_info_type": "FieldItem",
+      "get_info_value": "54027201"
+    },
+    {
+      "id": 18004,
+      "theme": 18,
+      "bgm": "bgm_spot_dwn_a",
+      "is_loop": true,
+      "play_time": 92,
+      "name": "Dwn",
+      "order": 4,
+      "artist": "Feryquitous",
+      "get_info_type": "FieldItem",
+      "get_info_value": "50027203"
+    },
+    {
+      "id": 18005,
+      "theme": 18,
+      "bgm": "bgm_spot_dwn_b",
+      "is_loop": true,
+      "play_time": 92,
+      "name": "Dwn - dust -",
+      "order": 5,
+      "artist": "Feryquitous",
+      "get_info_type": "FieldItem",
+      "get_info_value": "54027202"
+    },
+    {
+      "id": 18006,
+      "theme": 18,
+      "bgm": "bgm_destroyingcalamity",
+      "is_loop": true,
+      "play_time": 42,
+      "name": "Destroying Calamity [Scenario Ver.]",
+      "order": 6,
+      "artist": "KARUT",
+      "get_info_type": "FieldItem",
+      "get_info_value": "50028203"
+    },
+    {
+      "id": 18007,
+      "theme": 18,
+      "bgm": "bgm_destroyingcalamity_a",
+      "is_loop": true,
+      "play_time": 88,
+      "name": "Destroying Calamity",
+      "order": 7,
+      "artist": "KARUT",
+      "get_info_type": "FieldItem",
+      "get_info_value": "50028204"
+    },
+    {
+      "id": 18008,
+      "theme": 18,
+      "bgm": "bgm_destroyingcalamity_b",
+      "is_loop": true,
+      "play_time": 88,
+      "name": "Destroying Calamity - broken silence -",
+      "order": 8,
+      "artist": "KARUT",
+      "get_info_type": "FieldItem",
+      "get_info_value": "50028205"
+    },
+    {
+      "id": 18009,
+      "theme": 18,
+      "bgm": "bgm_spot_destroyedserenity_a",
+      "is_loop": true,
+      "play_time": 95,
+      "name": "Destroyed Serenity",
+      "order": 9,
+      "artist": "KARUT",
+      "get_info_type": "FieldItem",
+      "get_info_value": "54028201"
+    },
+    {
+      "id": 18010,
+      "theme": 18,
+      "bgm": "bgm_spot_destroyedserenity_b",
+      "is_loop": true,
+      "play_time": 95,
+      "name": "Destroyed Serenity - Shranz Mix -",
+      "order": 10,
+      "artist": "KARUT",
+      "get_info_type": "FieldItem",
+      "get_info_value": "54028202"
+    },
+    {
+      "id": 18011,
+      "theme": 18,
+      "bgm": "bgm_boss_xbg001",
+      "is_loop": false,
+      "play_time": 200,
+      "name": "We're never giving up",
+      "order": 11,
+      "artist": "Cosmograph (feat. B.A.Wheeler)",
+      "get_info_type": "FieldItem",
+      "get_info_value": "50028202"
     }
   ]
 }

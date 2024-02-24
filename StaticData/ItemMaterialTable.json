@@ -161,7 +161,7 @@
       "id": 7020010,
       "name_localkey": "Locale_Item:MaterialName_72009",
       "description_localkey": "Locale_Item:MaterialDescription_72009",
-      "resource_id": "icn_material_harmonycube_supporter",
+      "resource_id": "icn_material_harmonycube_defender",
       "item_type": "Material",
       "item_sub_type": "HarmonyCube_Material",
       "item_rare": "SSR",
@@ -1237,6 +1237,19 @@
       "stack_max": 9999999
     },
     {
+      "id": 7053037,
+      "name_localkey": "Locale_Item:present_electricshock",
+      "description_localkey": "Locale_Item:present_electricshock_desc",
+      "resource_id": "icn_material_present_squad_electricshock",
+      "item_type": "Material",
+      "item_sub_type": "AttractiveMaterial",
+      "item_rare": "SSR",
+      "item_value": 100,
+      "material_type": "Squad",
+      "material_value": 49,
+      "stack_max": 9999999
+    },
+    {
       "id": 7060001,
       "name_localkey": "Locale_Item:story_event_currency_material_001",
       "description_localkey": "Locale_Item:story_event_currency_material_001_desc",
@@ -2069,6 +2082,32 @@
       "stack_max": 9999999
     },
     {
+      "id": 7070040,
+      "name_localkey": "Locale_Item:story_event_ticket_material_040",
+      "description_localkey": "Locale_Item:story_event_ticket_material_040_desc",
+      "resource_id": "icn_event_story_ticket_boomsday",
+      "item_type": "Material",
+      "item_sub_type": "EventTicketMaterial",
+      "item_rare": "SSR",
+      "item_value": 1,
+      "material_type": "None",
+      "material_value": 0,
+      "stack_max": 9999999
+    },
+    {
+      "id": 7060040,
+      "name_localkey": "Locale_Item:story_event_currency_material_040",
+      "description_localkey": "Locale_Item:story_event_currency_material_040_desc",
+      "resource_id": "icn_event_story_currency_boomsday",
+      "item_type": "Material",
+      "item_sub_type": "EventCurrencyMaterial",
+      "item_rare": "SSR",
+      "item_value": 1,
+      "material_type": "None",
+      "material_value": 0,
+      "stack_max": 9999999
+    },
+    {
       "id": 7071001,
       "name_localkey": "Locale_Item:story_event_ticket_material_1001",
       "description_localkey": "Locale_Item:story_event_ticket_material_1001_desc_archive",
@@ -2499,6 +2538,19 @@
     },
     {
       "id": 7110039,
+      "name_localkey": "Locale_Item:challenge_stage_ticket_material_001",
+      "description_localkey": "Locale_Item:challenge_stage_ticket_material_001_desc_02",
+      "resource_id": "icn_challenge_stage_ticket_common",
+      "item_type": "Material",
+      "item_sub_type": "EventTicketMaterial",
+      "item_rare": "SSR",
+      "item_value": 1,
+      "material_type": "None",
+      "material_value": 0,
+      "stack_max": 9999999
+    },
+    {
+      "id": 7110040,
       "name_localkey": "Locale_Item:challenge_stage_ticket_material_001",
       "description_localkey": "Locale_Item:challenge_stage_ticket_material_001_desc_02",
       "resource_id": "icn_challenge_stage_ticket_common",

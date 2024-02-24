@@ -530,6 +530,22 @@
       "condition_id": 0
     },
     {
+      "id": 40,
+      "livewallpaper_type": "Scenario",
+      "sub_type": "Event",
+      "order": 20029,
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_40",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_40",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_BOOMSDAY_01",
+      "thumbnail_resource_id": "EventScene_BOOMSDAY_01_mi",
+      "si_resource_id": "EventScene_BOOMSDAY_01_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "condition_type": "None",
+      "condition_resource_id": 0,
+      "condition_id": 0
+    },
+    {
       "id": 50010,
       "livewallpaper_type": "SkillCutScene",
       "sub_type": "None",
@@ -2064,6 +2080,22 @@
       "condition_type": "Character",
       "condition_resource_id": 310,
       "condition_id": 331004
+    },
+    {
+      "id": 50500,
+      "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
+      "order": 30099,
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50500",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50500",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_c500_cutscene",
+      "thumbnail_resource_id": "EventScene_c500_cutscene_mi",
+      "si_resource_id": "EventScene_c500_cutscene_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "condition_type": "Character",
+      "condition_resource_id": 500,
+      "condition_id": 150004
     },
     {
       "id": 5010101,

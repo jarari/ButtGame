@@ -496,6 +496,20 @@
       "ui_prefab": "perfectmaid"
     },
     {
+      "id": 10040,
+      "event_id": 40040,
+      "prologue_scenario": "event_boomsday_prologue",
+      "auto_charge_id": 10040,
+      "event_item_type": "Item",
+      "event_item_id": 7060040,
+      "dungeon_id": 40,
+      "album_category_group": 1040,
+      "mission_group": 40,
+      "contents_shop_id": 9004001,
+      "dice_id": 0,
+      "ui_prefab": "boomsday"
+    },
+    {
       "id": 40001,
       "event_id": 60001,
       "auto_charge_id": 40001,
@@ -728,6 +742,19 @@
       "contents_shop_id": 0,
       "dice_id": 0,
       "challenge_monster_resource": "full_mbg002"
+    },
+    {
+      "id": 40040,
+      "event_id": 60040,
+      "auto_charge_id": 40040,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1040,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_ebg001"
     }
   ]
 }

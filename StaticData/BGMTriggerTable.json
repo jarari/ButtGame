@@ -254,6 +254,24 @@
       "bgm_loop": "ambient_chapter_26"
     },
     {
+      "id": 1000028,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "27",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_chapter_27"
+    },
+    {
+      "id": 1000029,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "28",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_chapter_28"
+    },
+    {
       "id": 1001001,
       "bgm_type": "ambient",
       "bgm_sub_type": "lost_sector",
@@ -468,6 +486,24 @@
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "lostsector_ambient_1"
+    },
+    {
+      "id": 1001025,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "lost_sector",
+      "type_value": "25",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "lostsector_ambient_1"
+    },
+    {
+      "id": 1001026,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "lost_sector",
+      "type_value": "26",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "lostsector_ambient_2"
     },
     {
       "id": 2000001,
@@ -13521,6 +13557,51 @@
       "bgm_loop": "bgm_lostsector_labyrinthofvoid"
     },
     {
+      "id": 3001025,
+      "bgm_type": "chapter_bgm",
+      "bgm_sub_type": "lost_sector",
+      "type_value": "25",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "bgm_lostsector_mazeinabyss"
+    },
+    {
+      "id": 3001026,
+      "bgm_type": "chapter_bgm",
+      "bgm_sub_type": "lost_sector",
+      "type_value": "26",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "bgm_lostsector_backandforth"
+    },
+    {
+      "id": 3001027,
+      "bgm_type": "chapter_bgm",
+      "bgm_sub_type": "lost_sector",
+      "type_value": "27",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "bgm_lostsector_labyrinthofvoid"
+    },
+    {
+      "id": 3001028,
+      "bgm_type": "chapter_bgm",
+      "bgm_sub_type": "lost_sector",
+      "type_value": "28",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "bgm_lostsector_mazeinabyss"
+    },
+    {
+      "id": 3001029,
+      "bgm_type": "chapter_bgm",
+      "bgm_sub_type": "lost_sector",
+      "type_value": "29",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "bgm_lostsector_backandforth"
+    },
+    {
       "id": 4000001,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "ALL",
@@ -16936,6 +17017,14 @@
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "event_bgm_perfectmaid_minimain"
+    },
+    {
+      "id": 9910422,
+      "bgm_type": "story_event_bgm",
+      "type_value": "10040",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_boomsday"
     }
   ]
 }
