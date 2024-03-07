@@ -1,0 +1,4053 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 100901,
+      "group_id": 1009,
+      "event_id": 81100,
+      "event_target": "Field",
+      "condition_time": "2023-12-22T20:00:00",
+      "event_type": "TimeLineAction",
+      "event_value": "febg_shop_001_timeline_intro",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200901001,
+      "group_id": 2009001,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200901002,
+      "group_id": 2009001,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200902001,
+      "group_id": 2009002,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104110112,
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200902002,
+      "group_id": 2009003,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200902003,
+      "group_id": 2009003,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104110112,
+      "condition_time": "2024-03-13T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200903001,
+      "group_id": 2009004,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104110105,
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200903002,
+      "group_id": 2009005,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200903003,
+      "group_id": 2009005,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104110105,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200904001,
+      "group_id": 2009006,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104110105,
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200904002,
+      "group_id": 2009007,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200904003,
+      "group_id": 2009007,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104110105,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200905001,
+      "group_id": 2009008,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200905002,
+      "group_id": 2009008,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200906001,
+      "group_id": 2009009,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200906002,
+      "group_id": 2009009,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200907001,
+      "group_id": 2009010,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200907002,
+      "group_id": 2009010,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200907003,
+      "group_id": 2009010,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200916001,
+      "group_id": 2009019,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200916002,
+      "group_id": 2009019,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200916003,
+      "group_id": 2009019,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200917001,
+      "group_id": 2009020,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200917002,
+      "group_id": 2009020,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200917003,
+      "group_id": 2009020,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972001,
+      "group_id": 2009650,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972002,
+      "group_id": 2009650,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972003,
+      "group_id": 2009650,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-07T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972004,
+      "group_id": 2009651,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972005,
+      "group_id": 2009651,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-07T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972006,
+      "group_id": 2009651,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-10T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972007,
+      "group_id": 2009652,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972008,
+      "group_id": 2009652,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-10T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972009,
+      "group_id": 2009652,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-11T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972010,
+      "group_id": 2009653,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972011,
+      "group_id": 2009653,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-11T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972012,
+      "group_id": 2009653,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-14T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972013,
+      "group_id": 2009654,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972014,
+      "group_id": 2009654,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-14T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972015,
+      "group_id": 2009654,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-15T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972016,
+      "group_id": 2009655,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972017,
+      "group_id": 2009655,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-15T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972018,
+      "group_id": 2009655,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-18T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972019,
+      "group_id": 2009656,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972020,
+      "group_id": 2009656,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-18T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972021,
+      "group_id": 2009656,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-19T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972022,
+      "group_id": 2009657,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972023,
+      "group_id": 2009657,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-19T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972024,
+      "group_id": 2009657,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-22T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972025,
+      "group_id": 2009658,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972026,
+      "group_id": 2009658,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-22T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972027,
+      "group_id": 2009658,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-23T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972028,
+      "group_id": 2009659,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972029,
+      "group_id": 2009659,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-23T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972030,
+      "group_id": 2009659,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972031,
+      "group_id": 2009660,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200972032,
+      "group_id": 2009660,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973001,
+      "group_id": 2009670,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973002,
+      "group_id": 2009670,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973003,
+      "group_id": 2009670,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-09T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973004,
+      "group_id": 2009671,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973005,
+      "group_id": 2009671,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-09T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973006,
+      "group_id": 2009671,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-10T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973007,
+      "group_id": 2009672,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973008,
+      "group_id": 2009672,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-10T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973009,
+      "group_id": 2009672,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-13T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973010,
+      "group_id": 2009673,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973011,
+      "group_id": 2009673,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-13T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973012,
+      "group_id": 2009673,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-14T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973013,
+      "group_id": 2009674,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973014,
+      "group_id": 2009674,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-14T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973015,
+      "group_id": 2009674,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-17T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973016,
+      "group_id": 2009675,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973017,
+      "group_id": 2009675,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-17T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973018,
+      "group_id": 2009675,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-18T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973019,
+      "group_id": 2009676,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973020,
+      "group_id": 2009676,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-18T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973021,
+      "group_id": 2009676,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-21T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973022,
+      "group_id": 2009677,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973023,
+      "group_id": 2009677,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-21T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973024,
+      "group_id": 2009677,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-22T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973025,
+      "group_id": 2009678,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973026,
+      "group_id": 2009678,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-22T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973027,
+      "group_id": 2009678,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-25T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973028,
+      "group_id": 2009679,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973029,
+      "group_id": 2009679,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-25T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973030,
+      "group_id": 2009679,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973031,
+      "group_id": 2009680,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200973032,
+      "group_id": 2009680,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974001,
+      "group_id": 2009690,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974002,
+      "group_id": 2009690,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974003,
+      "group_id": 2009690,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-08T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974004,
+      "group_id": 2009691,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974005,
+      "group_id": 2009691,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-08T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974006,
+      "group_id": 2009691,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-10T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974007,
+      "group_id": 2009692,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974008,
+      "group_id": 2009692,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-10T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974009,
+      "group_id": 2009692,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-11T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974010,
+      "group_id": 2009693,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974011,
+      "group_id": 2009693,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-11T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974012,
+      "group_id": 2009693,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-14T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974013,
+      "group_id": 2009694,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974014,
+      "group_id": 2009694,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-14T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974015,
+      "group_id": 2009694,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-16T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974016,
+      "group_id": 2009695,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974017,
+      "group_id": 2009695,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-16T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974018,
+      "group_id": 2009695,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-18T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974019,
+      "group_id": 2009696,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974020,
+      "group_id": 2009696,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-18T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974021,
+      "group_id": 2009696,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-19T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974022,
+      "group_id": 2009697,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974023,
+      "group_id": 2009697,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-19T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974024,
+      "group_id": 2009697,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-22T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974025,
+      "group_id": 2009698,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974026,
+      "group_id": 2009698,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-22T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974027,
+      "group_id": 2009698,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-24T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974028,
+      "group_id": 2009699,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974029,
+      "group_id": 2009699,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-24T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974030,
+      "group_id": 2009699,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974031,
+      "group_id": 2009700,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200974032,
+      "group_id": 2009700,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975001,
+      "group_id": 2009710,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975002,
+      "group_id": 2009710,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975003,
+      "group_id": 2009710,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-08T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975004,
+      "group_id": 2009711,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975005,
+      "group_id": 2009711,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-08T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975006,
+      "group_id": 2009711,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-10T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975007,
+      "group_id": 2009712,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975008,
+      "group_id": 2009712,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-10T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975009,
+      "group_id": 2009712,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-12T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975010,
+      "group_id": 2009713,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975011,
+      "group_id": 2009713,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-12T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975012,
+      "group_id": 2009713,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-14T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975013,
+      "group_id": 2009714,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975014,
+      "group_id": 2009714,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-14T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975015,
+      "group_id": 2009714,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-16T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975016,
+      "group_id": 2009715,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975017,
+      "group_id": 2009715,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-16T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975018,
+      "group_id": 2009715,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-18T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975019,
+      "group_id": 2009716,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975020,
+      "group_id": 2009716,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-18T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975021,
+      "group_id": 2009716,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-20T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975022,
+      "group_id": 2009717,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975023,
+      "group_id": 2009717,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-20T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975024,
+      "group_id": 2009717,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-22T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975025,
+      "group_id": 2009718,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975026,
+      "group_id": 2009718,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-22T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975027,
+      "group_id": 2009718,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-24T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975028,
+      "group_id": 2009719,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975029,
+      "group_id": 2009719,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-24T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975030,
+      "group_id": 2009719,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975031,
+      "group_id": 2009720,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200975032,
+      "group_id": 2009720,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976001,
+      "group_id": 2009730,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976002,
+      "group_id": 2009730,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976003,
+      "group_id": 2009730,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-07T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976004,
+      "group_id": 2009731,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976005,
+      "group_id": 2009731,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-07T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976006,
+      "group_id": 2009731,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-10T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976007,
+      "group_id": 2009732,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976008,
+      "group_id": 2009732,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-10T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976009,
+      "group_id": 2009732,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-11T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976010,
+      "group_id": 2009733,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976011,
+      "group_id": 2009733,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-11T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976012,
+      "group_id": 2009733,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-14T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976013,
+      "group_id": 2009734,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976014,
+      "group_id": 2009734,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-14T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976015,
+      "group_id": 2009734,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-15T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976016,
+      "group_id": 2009735,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976017,
+      "group_id": 2009735,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-15T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976018,
+      "group_id": 2009735,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-18T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976019,
+      "group_id": 2009736,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976020,
+      "group_id": 2009736,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-18T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976021,
+      "group_id": 2009736,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-19T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976022,
+      "group_id": 2009737,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976023,
+      "group_id": 2009737,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-19T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976024,
+      "group_id": 2009737,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-22T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976025,
+      "group_id": 2009738,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976026,
+      "group_id": 2009738,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-22T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976027,
+      "group_id": 2009738,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-23T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976028,
+      "group_id": 2009739,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976029,
+      "group_id": 2009739,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-23T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976030,
+      "group_id": 2009739,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976031,
+      "group_id": 2009740,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200976032,
+      "group_id": 2009740,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977001,
+      "group_id": 2009750,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977002,
+      "group_id": 2009750,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977003,
+      "group_id": 2009750,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-09T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977004,
+      "group_id": 2009751,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977005,
+      "group_id": 2009751,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-09T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977006,
+      "group_id": 2009751,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-10T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977007,
+      "group_id": 2009752,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977008,
+      "group_id": 2009752,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-10T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977009,
+      "group_id": 2009752,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-13T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977010,
+      "group_id": 2009753,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977011,
+      "group_id": 2009753,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-13T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977012,
+      "group_id": 2009753,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-14T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977013,
+      "group_id": 2009754,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977014,
+      "group_id": 2009754,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-14T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977015,
+      "group_id": 2009754,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-17T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977016,
+      "group_id": 2009755,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977017,
+      "group_id": 2009755,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-17T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977018,
+      "group_id": 2009755,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-18T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977019,
+      "group_id": 2009756,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977020,
+      "group_id": 2009756,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-18T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977021,
+      "group_id": 2009756,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-21T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977022,
+      "group_id": 2009757,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977023,
+      "group_id": 2009757,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-21T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977024,
+      "group_id": 2009757,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-22T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977025,
+      "group_id": 2009758,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977026,
+      "group_id": 2009758,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-22T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977027,
+      "group_id": 2009758,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-25T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977028,
+      "group_id": 2009759,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977029,
+      "group_id": 2009759,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-25T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977030,
+      "group_id": 2009759,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977031,
+      "group_id": 2009760,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200977032,
+      "group_id": 2009760,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978001,
+      "group_id": 2009770,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978002,
+      "group_id": 2009770,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978003,
+      "group_id": 2009770,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-08T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978004,
+      "group_id": 2009771,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978005,
+      "group_id": 2009771,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-08T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978006,
+      "group_id": 2009771,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-10T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978007,
+      "group_id": 2009772,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978008,
+      "group_id": 2009772,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-10T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978009,
+      "group_id": 2009772,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-11T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978010,
+      "group_id": 2009773,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978011,
+      "group_id": 2009773,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-11T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978012,
+      "group_id": 2009773,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-14T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978013,
+      "group_id": 2009774,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978014,
+      "group_id": 2009774,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-14T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978015,
+      "group_id": 2009774,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-16T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978016,
+      "group_id": 2009775,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978017,
+      "group_id": 2009775,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-16T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978018,
+      "group_id": 2009775,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-18T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978019,
+      "group_id": 2009776,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978020,
+      "group_id": 2009776,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-18T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978021,
+      "group_id": 2009776,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-19T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978022,
+      "group_id": 2009777,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978023,
+      "group_id": 2009777,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-19T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978024,
+      "group_id": 2009777,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-22T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978025,
+      "group_id": 2009778,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978026,
+      "group_id": 2009778,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-22T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978027,
+      "group_id": 2009778,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-24T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978028,
+      "group_id": 2009779,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978029,
+      "group_id": 2009779,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-24T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978030,
+      "group_id": 2009779,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978031,
+      "group_id": 2009780,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200978032,
+      "group_id": 2009780,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979001,
+      "group_id": 2009790,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979002,
+      "group_id": 2009790,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979003,
+      "group_id": 2009790,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-07T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979004,
+      "group_id": 2009791,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979005,
+      "group_id": 2009791,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-07T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979006,
+      "group_id": 2009791,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-09T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979007,
+      "group_id": 2009792,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979008,
+      "group_id": 2009792,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-09T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979009,
+      "group_id": 2009792,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-11T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979010,
+      "group_id": 2009793,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979011,
+      "group_id": 2009793,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-11T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979012,
+      "group_id": 2009793,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-13T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979013,
+      "group_id": 2009794,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979014,
+      "group_id": 2009794,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-13T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979015,
+      "group_id": 2009794,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-15T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979016,
+      "group_id": 2009795,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979017,
+      "group_id": 2009795,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-15T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979018,
+      "group_id": 2009795,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-17T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979019,
+      "group_id": 2009796,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979020,
+      "group_id": 2009796,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-17T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979021,
+      "group_id": 2009796,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-19T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979022,
+      "group_id": 2009797,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979023,
+      "group_id": 2009797,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-19T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979024,
+      "group_id": 2009797,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-21T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979025,
+      "group_id": 2009798,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979026,
+      "group_id": 2009798,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-21T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979027,
+      "group_id": 2009798,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-23T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979028,
+      "group_id": 2009799,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979029,
+      "group_id": 2009799,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-23T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979030,
+      "group_id": 2009799,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-25T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979031,
+      "group_id": 2009800,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979032,
+      "group_id": 2009800,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-25T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979033,
+      "group_id": 2009800,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979034,
+      "group_id": 2009800,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200979035,
+      "group_id": 2009800,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981001,
+      "group_id": 2009810,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981002,
+      "group_id": 2009810,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981003,
+      "group_id": 2009810,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-07T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981004,
+      "group_id": 2009811,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981005,
+      "group_id": 2009811,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-07T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981006,
+      "group_id": 2009811,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-09T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981007,
+      "group_id": 2009812,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981008,
+      "group_id": 2009812,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-09T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981009,
+      "group_id": 2009812,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-11T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981010,
+      "group_id": 2009813,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981011,
+      "group_id": 2009813,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-11T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981012,
+      "group_id": 2009813,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-13T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981013,
+      "group_id": 2009814,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981014,
+      "group_id": 2009814,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-13T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981015,
+      "group_id": 2009814,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-15T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981016,
+      "group_id": 2009815,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981017,
+      "group_id": 2009815,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-15T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981018,
+      "group_id": 2009815,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-17T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981019,
+      "group_id": 2009816,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981020,
+      "group_id": 2009816,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-17T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981021,
+      "group_id": 2009816,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-19T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981022,
+      "group_id": 2009817,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981023,
+      "group_id": 2009817,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-19T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981024,
+      "group_id": 2009817,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-21T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981025,
+      "group_id": 2009818,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981026,
+      "group_id": 2009818,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-21T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981027,
+      "group_id": 2009818,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-23T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981028,
+      "group_id": 2009819,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981029,
+      "group_id": 2009819,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-23T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981030,
+      "group_id": 2009819,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-25T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981031,
+      "group_id": 2009820,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981032,
+      "group_id": 2009820,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-25T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981033,
+      "group_id": 2009820,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981034,
+      "group_id": 2009821,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200981035,
+      "group_id": 2009821,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983001,
+      "group_id": 2009830,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983002,
+      "group_id": 2009830,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983003,
+      "group_id": 2009830,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-07T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983004,
+      "group_id": 2009831,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983005,
+      "group_id": 2009831,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-07T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983006,
+      "group_id": 2009831,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-09T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983007,
+      "group_id": 2009832,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983008,
+      "group_id": 2009832,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-09T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983009,
+      "group_id": 2009832,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-11T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983010,
+      "group_id": 2009833,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983011,
+      "group_id": 2009833,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-11T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983012,
+      "group_id": 2009833,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-13T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983013,
+      "group_id": 2009834,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983014,
+      "group_id": 2009834,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-13T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983015,
+      "group_id": 2009834,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-15T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983016,
+      "group_id": 2009835,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983017,
+      "group_id": 2009835,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-15T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983018,
+      "group_id": 2009835,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-17T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983019,
+      "group_id": 2009836,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983020,
+      "group_id": 2009836,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-17T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983021,
+      "group_id": 2009836,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-19T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983022,
+      "group_id": 2009837,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983023,
+      "group_id": 2009837,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-19T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983024,
+      "group_id": 2009837,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-21T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983025,
+      "group_id": 2009838,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983026,
+      "group_id": 2009838,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-21T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983027,
+      "group_id": 2009838,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-23T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983028,
+      "group_id": 2009839,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983029,
+      "group_id": 2009839,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-23T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983030,
+      "group_id": 2009839,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-25T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983031,
+      "group_id": 2009840,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983032,
+      "group_id": 2009840,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-25T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983033,
+      "group_id": 2009840,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983034,
+      "group_id": 2009841,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200983035,
+      "group_id": 2009841,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-26T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985001,
+      "group_id": 2009850,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985002,
+      "group_id": 2009850,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985003,
+      "group_id": 2009850,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-10T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985004,
+      "group_id": 2009851,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985005,
+      "group_id": 2009851,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-10T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985006,
+      "group_id": 2009851,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-13T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985007,
+      "group_id": 2009852,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985008,
+      "group_id": 2009852,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-13T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985009,
+      "group_id": 2009852,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-16T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985010,
+      "group_id": 2009853,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985011,
+      "group_id": 2009853,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-16T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985012,
+      "group_id": 2009853,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-19T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985013,
+      "group_id": 2009854,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985014,
+      "group_id": 2009854,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-19T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985015,
+      "group_id": 2009854,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-22T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985016,
+      "group_id": 2009855,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985017,
+      "group_id": 2009855,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-22T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985018,
+      "group_id": 2009855,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-25T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985019,
+      "group_id": 2009856,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200985020,
+      "group_id": 2009856,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-25T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986001,
+      "group_id": 2009860,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986002,
+      "group_id": 2009860,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986003,
+      "group_id": 2009860,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-08T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986004,
+      "group_id": 2009861,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986005,
+      "group_id": 2009861,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-08T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986006,
+      "group_id": 2009861,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-11T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986007,
+      "group_id": 2009862,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986008,
+      "group_id": 2009862,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-11T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986009,
+      "group_id": 2009862,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-14T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986010,
+      "group_id": 2009863,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986011,
+      "group_id": 2009863,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-14T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986012,
+      "group_id": 2009863,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-17T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986013,
+      "group_id": 2009864,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986014,
+      "group_id": 2009864,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-17T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986015,
+      "group_id": 2009864,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-20T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986016,
+      "group_id": 2009865,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986017,
+      "group_id": 2009865,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-20T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986018,
+      "group_id": 2009865,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-23T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986019,
+      "group_id": 2009866,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200986020,
+      "group_id": 2009866,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-23T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987001,
+      "group_id": 2009870,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987002,
+      "group_id": 2009870,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987003,
+      "group_id": 2009870,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-09T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987004,
+      "group_id": 2009871,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987005,
+      "group_id": 2009871,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-09T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987006,
+      "group_id": 2009871,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-12T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987007,
+      "group_id": 2009872,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987008,
+      "group_id": 2009872,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-12T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987009,
+      "group_id": 2009872,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-15T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987010,
+      "group_id": 2009873,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987011,
+      "group_id": 2009873,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-15T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987012,
+      "group_id": 2009873,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-18T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987013,
+      "group_id": 2009874,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987014,
+      "group_id": 2009874,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-18T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987015,
+      "group_id": 2009874,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-21T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987016,
+      "group_id": 2009875,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987017,
+      "group_id": 2009875,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-21T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987018,
+      "group_id": 2009875,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-24T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987019,
+      "group_id": 2009876,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200987020,
+      "group_id": 2009876,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-24T20:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200988001,
+      "group_id": 2009880,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200988002,
+      "group_id": 2009880,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200988003,
+      "group_id": 2009880,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104110107,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200988004,
+      "group_id": 2009881,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200988005,
+      "group_id": 2009881,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104110107,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200988006,
+      "group_id": 2009881,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104210101,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200988007,
+      "group_id": 2009882,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200988008,
+      "group_id": 2009882,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104210101,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200988009,
+      "group_id": 2009882,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104210107,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200988010,
+      "group_id": 2009883,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200988011,
+      "group_id": 2009883,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104210107,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200989001,
+      "group_id": 2009890,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200989002,
+      "group_id": 2009890,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200989003,
+      "group_id": 2009890,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104110107,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200989004,
+      "group_id": 2009891,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200989005,
+      "group_id": 2009891,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104110107,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200989006,
+      "group_id": 2009891,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104210101,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200989007,
+      "group_id": 2009892,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200989008,
+      "group_id": 2009892,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104210101,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200989009,
+      "group_id": 2009892,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104210107,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200989010,
+      "group_id": 2009893,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200989011,
+      "group_id": 2009893,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104210107,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200990001,
+      "group_id": 2009900,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200990002,
+      "group_id": 2009900,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200990003,
+      "group_id": 2009900,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104110107,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200990004,
+      "group_id": 2009901,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200990005,
+      "group_id": 2009901,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104110107,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200990006,
+      "group_id": 2009901,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104210101,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200990007,
+      "group_id": 2009902,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200990008,
+      "group_id": 2009902,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104210101,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200990009,
+      "group_id": 2009902,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104210107,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200990010,
+      "group_id": 2009903,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_time": "1999-12-31T19:59:59",
+      "event_type": "Despawn",
+      "event_check_condition": "None"
+    },
+    {
+      "id": 200990011,
+      "group_id": 2009903,
+      "event_id": 81100,
+      "event_target": "NPC",
+      "condition_stageclear": 104210107,
+      "condition_time": "2024-03-06T16:00:00",
+      "event_type": "Spawn",
+      "event_check_condition": "None"
+    }
+  ]
+}

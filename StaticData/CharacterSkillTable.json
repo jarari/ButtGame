@@ -107159,6 +107159,486 @@
       "resource_name": "c310_ulti",
       "icon": "icn_skill_c310_ult",
       "shake_id": 1
+    },
+    {
+      "id": 1043301,
+      "skill_cooltime": 2000,
+      "attack_type": "Fire",
+      "counter_type": "Metal_Type",
+      "prefer_target": "NearAim",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "HitMonsterGetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104330103
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104330102
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        104330101
+      ],
+      "resource_name": "c043_ulti",
+      "icon": "icn_skill_c043_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1043302,
+      "skill_cooltime": 2000,
+      "attack_type": "Fire",
+      "counter_type": "Metal_Type",
+      "prefer_target": "NearAim",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "HitMonsterGetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104330203
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104330202
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        104330201
+      ],
+      "resource_name": "c043_ulti",
+      "icon": "icn_skill_c043_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1043303,
+      "skill_cooltime": 2000,
+      "attack_type": "Fire",
+      "counter_type": "Metal_Type",
+      "prefer_target": "NearAim",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "HitMonsterGetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104330303
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104330302
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        104330301
+      ],
+      "resource_name": "c043_ulti",
+      "icon": "icn_skill_c043_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1043304,
+      "skill_cooltime": 2000,
+      "attack_type": "Fire",
+      "counter_type": "Metal_Type",
+      "prefer_target": "NearAim",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "HitMonsterGetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104330403
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104330402
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        104330401
+      ],
+      "resource_name": "c043_ulti",
+      "icon": "icn_skill_c043_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1043305,
+      "skill_cooltime": 2000,
+      "attack_type": "Fire",
+      "counter_type": "Metal_Type",
+      "prefer_target": "NearAim",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "HitMonsterGetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104330503
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104330502
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        104330501
+      ],
+      "resource_name": "c043_ulti",
+      "icon": "icn_skill_c043_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1043306,
+      "skill_cooltime": 2000,
+      "attack_type": "Fire",
+      "counter_type": "Metal_Type",
+      "prefer_target": "NearAim",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "HitMonsterGetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104330603
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104330602
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        104330601
+      ],
+      "resource_name": "c043_ulti",
+      "icon": "icn_skill_c043_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1043307,
+      "skill_cooltime": 2000,
+      "attack_type": "Fire",
+      "counter_type": "Metal_Type",
+      "prefer_target": "NearAim",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "HitMonsterGetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104330703
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104330702
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        104330701
+      ],
+      "resource_name": "c043_ulti",
+      "icon": "icn_skill_c043_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1043308,
+      "skill_cooltime": 2000,
+      "attack_type": "Fire",
+      "counter_type": "Metal_Type",
+      "prefer_target": "NearAim",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "HitMonsterGetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104330803
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104330802
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        104330801
+      ],
+      "resource_name": "c043_ulti",
+      "icon": "icn_skill_c043_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1043309,
+      "skill_cooltime": 2000,
+      "attack_type": "Fire",
+      "counter_type": "Metal_Type",
+      "prefer_target": "NearAim",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "HitMonsterGetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104330903
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104330902
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        104330901
+      ],
+      "resource_name": "c043_ulti",
+      "icon": "icn_skill_c043_ult",
+      "shake_id": 1
+    },
+    {
+      "id": 1043310,
+      "skill_cooltime": 2000,
+      "attack_type": "Fire",
+      "counter_type": "Metal_Type",
+      "prefer_target": "NearAim",
+      "prefer_target_condition": "IncludeNoneTargetLast",
+      "skill_type": "HitMonsterGetBuff",
+      "skill_value_data": [
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104331003
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 104331002
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "None",
+          "skill_value": 0
+        },
+        {
+          "skill_value_type": "Integer",
+          "skill_value": 1
+        }
+      ],
+      "duration_type": "TimeSec",
+      "duration_value": 1000,
+      "before_use_function_id_list": [
+        0
+      ],
+      "before_hurt_function_id_list": [
+        0
+      ],
+      "after_use_function_id_list": [
+        0
+      ],
+      "after_hurt_function_id_list": [
+        104331001
+      ],
+      "resource_name": "c043_ulti",
+      "icon": "icn_skill_c043_ult",
+      "shake_id": 1
     }
   ]
 }

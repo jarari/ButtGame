@@ -14365,6 +14365,33 @@
       "bgm_loop": "bgm_boss_xbg001_phase2"
     },
     {
+      "id": 7000028,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "raid",
+      "type_value": "xbg001_hsta",
+      "default": false,
+      "bgm_trigger_event_type": "target_appear",
+      "bgm_loop": "bgm_boss_xbg001_phase1"
+    },
+    {
+      "id": 7000029,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "raid",
+      "type_value": "xbg001_hsta",
+      "default": false,
+      "bgm_trigger_event_type": "Change Phase_2",
+      "bgm_loop": "bgm_boss_xbg001_phase2"
+    },
+    {
+      "id": 7000030,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "raid",
+      "type_value": "eba001_anmi",
+      "default": false,
+      "bgm_trigger_event_type": "target_appear",
+      "bgm_loop": "bgm_boss_eba001"
+    },
+    {
       "id": 8000001,
       "bgm_type": "spot_bgm",
       "bgm_sub_type": "event_stage",
@@ -17025,6 +17052,14 @@
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "event_bgm_boomsday"
+    },
+    {
+      "id": 9910423,
+      "bgm_type": "story_event_bgm",
+      "type_value": "10043",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_killthelord"
     }
   ]
 }

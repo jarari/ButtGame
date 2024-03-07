@@ -1313,6 +1313,24 @@
       "condition_localkey": "Locale_System:CONTENTSOPEN_CONDITION_TITLE",
       "enable_unlock_play_popup": false,
       "enable_unlock_play_button": false
+    },
+    {
+      "id": 73,
+      "view_condition_type": "StageClear",
+      "view_condition_value": 6002016,
+      "open_condition": [
+        {
+          "open_condition_type": "StageClear",
+          "open_condition_value": 6002016
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "condition_localkey": "Locale_System:CONTENTSOPEN_CONDITION_TITLE",
+      "enable_unlock_play_popup": true,
+      "enable_unlock_play_button": true
     }
   ]
 }

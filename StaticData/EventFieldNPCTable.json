@@ -10380,6 +10380,52 @@
       "balloon_always_cycle": 5
     },
     {
+      "id": 9991,
+      "event_field_id": 99999,
+      "npc_localkey_name": "Locale_Character:10_name",
+      "npc_type": "character",
+      "resource_id": 10,
+      "forced_name_tag_resource": "sprite_event_overzone_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 40001
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "forced_interaction_marker": "sprite_btn_event_miraclesnow",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 209991,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "d_balloon_01_a",
+      "balloon_always_play_type": "None",
+      "balloon_always_cycle": 3
+    },
+    {
+      "id": 9992,
+      "event_field_id": 99999,
+      "npc_localkey_name": "Locale_Character:193_name",
+      "npc_type": "character",
+      "resource_id": 10,
+      "forced_name_tag_resource": "sprite_event_overzone_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 40001
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "forced_interaction_marker": "sprite_btn_event_miraclesnow",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 209992,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "d_balloon_01_a",
+      "balloon_always_play_type": "None",
+      "balloon_always_cycle": 3
+    },
+    {
       "id": 9993,
       "event_field_id": 10001,
       "npc_localkey_name": "Locale_Character:191_name",
