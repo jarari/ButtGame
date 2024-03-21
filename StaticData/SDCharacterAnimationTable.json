@@ -3,107 +3,50 @@
   "records": [
     {
       "id": 101,
-      "name_localkey": "SD_ANIAMTION_NAME_IDLE",
-      "animator": "c000_00_animator",
-      "animator_original_name": "c000_00_idle",
-      "voice_category": 2
-    },
-    {
-      "id": 102,
-      "name_localkey": "SD_ANIAMTION_NAME_WALK",
-      "animator": "c000_00_animator",
-      "animator_original_name": "c000_00_walk",
-      "voice_category": 2
-    },
-    {
-      "id": 103,
-      "name_localkey": "SD_ANIAMTION_NAME_SHOT",
-      "animator": "c000_00_animator",
-      "animator_original_name": "c000_00_shot",
+      "name_localkey": "SD_ANIMATION_NAME_IDLE",
+      "animation_name": "Idle",
       "voice_category": 0
-    },
-    {
-      "id": 104,
-      "name_localkey": "SD_ANIAMTION_NAME_COVER_RELOAD",
-      "animator": "c000_00_animator",
-      "animator_original_name": "c000_00_cover_reload",
-      "voice_category": 0
-    },
-    {
-      "id": 105,
-      "name_localkey": "SD_ANIAMTION_NAME_STUN",
-      "animator": "c000_00_animator",
-      "animator_original_name": "c000_00_stun",
-      "voice_category": 0
-    },
-    {
-      "id": 106,
-      "name_localkey": "SD_ANIAMTION_NAME_TALK_0",
-      "animator": "c000_00_animator",
-      "animator_original_name": "c000_00_talk_0",
-      "voice_category": 2
-    },
-    {
-      "id": 107,
-      "name_localkey": "SD_ANIAMTION_NAME_TALK_1",
-      "animator": "c000_00_animator",
-      "animator_original_name": "c000_00_talk_1",
-      "voice_category": 2
     },
     {
       "id": 201,
-      "name_localkey": "SD_ANIAMTION_NAME_IDLE",
-      "animator": "c000_03_animator",
-      "animator_original_name": "c000_00_idle",
-      "voice_category": 2
-    },
-    {
-      "id": 202,
-      "name_localkey": "SD_ANIAMTION_NAME_WALK",
-      "animator": "c000_03_animator",
-      "animator_original_name": "c000_00_walk",
-      "voice_category": 2
-    },
-    {
-      "id": 203,
-      "name_localkey": "SD_ANIAMTION_NAME_SHOT",
-      "animator": "c000_03_animator",
-      "animator_original_name": "c000_00_shot",
+      "name_localkey": "SD_ANIMATION_NAME_IDLE_SPECIAL",
+      "animation_name": "IdleSpecial",
       "voice_category": 0
     },
     {
-      "id": 204,
-      "name_localkey": "SD_ANIAMTION_NAME_COVER_RELOAD",
-      "animator": "c000_03_animator",
-      "animator_original_name": "c000_00_cover_reload",
+      "id": 301,
+      "name_localkey": "SD_ANIMATION_NAME_WALK",
+      "animation_name": "Walk",
       "voice_category": 0
     },
     {
-      "id": 205,
-      "name_localkey": "SD_ANIAMTION_NAME_STUN",
-      "animator": "c000_03_animator",
-      "animator_original_name": "c000_00_stun",
+      "id": 401,
+      "name_localkey": "SD_ANIMATION_NAME_SHOT",
+      "animation_name": "Shot",
       "voice_category": 0
     },
     {
-      "id": 206,
-      "name_localkey": "SD_ANIAMTION_NAME_TALK_0",
-      "animator": "c000_03_animator",
-      "animator_original_name": "c000_00_talk_0",
+      "id": 501,
+      "name_localkey": "SD_ANIMATION_NAME_COVER_RELOAD",
+      "animation_name": "CoverReload",
+      "voice_category": 0
+    },
+    {
+      "id": 601,
+      "name_localkey": "SD_ANIMATION_NAME_STUN",
+      "animation_name": "Stun",
+      "voice_category": 0
+    },
+    {
+      "id": 701,
+      "name_localkey": "SD_ANIMATION_NAME_TALK_0",
+      "animation_name": "Talk0",
       "voice_category": 2
     },
     {
-      "id": 207,
-      "name_localkey": "SD_ANIAMTION_NAME_TALK_1",
-      "animator": "c000_03_animator",
-      "animator_original_name": "c000_00_talk_1",
-      "voice_category": 2
-    },
-    {
-      "id": 208,
-      "name_localkey": "SD_ANIAMTION_NAME_IDLE_SPECIAL",
-      "animator": "c000_03_animator",
-      "animator_original_name": "c000_00_idlespecial",
+      "id": 801,
+      "name_localkey": "SD_ANIMATION_NAME_TALK_1",
+      "animation_name": "Talk1",
       "voice_category": 2
     }
   ]

@@ -13122,6 +13122,113 @@
       "close_monster_count": 1,
       "mid_monster_count": 0,
       "far_monster_count": 0
+    },
+    {
+      "stage_id": 6991057,
+      "group_id": "wave_test_002",
+      "spot_mod": "UnionRaid",
+      "battle_time": 180,
+      "monster_count": 7,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_wasteland_003",
+      "point_data_fly": "point_fly_wasteland_003",
+      "background_name": "sbg_wasteland_003",
+      "theme": "Wasteland",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_wasteland_001",
+      "target_list": [
+        2420030229
+      ],
+      "wave_data": [
+        {
+          "wave_path": "path_grd_mid_centurion_902",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2420030229,
+              "spawn_type": "Drop"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 1,
+      "mid_monster_count": 0,
+      "far_monster_count": 0
     }
   ]
 }

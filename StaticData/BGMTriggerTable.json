@@ -14254,7 +14254,7 @@
       "type_value": "eba003",
       "default": false,
       "bgm_trigger_event_type": "target_appear",
-      "bgm_loop": "event_bgm_ce002_boss"
+      "bgm_loop": "event_bgm_ce003_boss"
     },
     {
       "id": 7000016,
@@ -14263,7 +14263,7 @@
       "type_value": "eba003_hsta",
       "default": false,
       "bgm_trigger_event_type": "target_appear",
-      "bgm_loop": "event_bgm_boss_ce01"
+      "bgm_loop": "event_bgm_ce003_boss"
     },
     {
       "id": 7000017,
@@ -14272,7 +14272,7 @@
       "type_value": "eba003_dmtr",
       "default": false,
       "bgm_trigger_event_type": "target_appear",
-      "bgm_loop": "event_bgm_boss_ce01"
+      "bgm_loop": "event_bgm_ce003_boss"
     },
     {
       "id": 7000018,
@@ -14317,7 +14317,7 @@
       "type_value": "eba003_psid",
       "default": false,
       "bgm_trigger_event_type": "target_appear",
-      "bgm_loop": "event_bgm_ce002_boss"
+      "bgm_loop": "event_bgm_ce003_boss"
     },
     {
       "id": 7000023,
@@ -14326,7 +14326,7 @@
       "type_value": "eba003_zeus",
       "default": false,
       "bgm_trigger_event_type": "target_appear",
-      "bgm_loop": "event_bgm_ce002_boss"
+      "bgm_loop": "event_bgm_ce003_boss"
     },
     {
       "id": 7000024,
@@ -15904,6 +15904,22 @@
       "bgm_loop": "event_bgm_redash_finalbattle"
     },
     {
+      "id": 8060012,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "104110112",
+      "default": false,
+      "bgm_loop": "event_bgm_ce003_boss"
+    },
+    {
+      "id": 8060024,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "104210112",
+      "default": false,
+      "bgm_loop": "event_bgm_ce003_boss"
+    },
+    {
       "id": 9000001,
       "bgm_type": "outgame_bgm",
       "bgm_sub_type": "jukebox_lobby",
@@ -17052,6 +17068,58 @@
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "event_bgm_boomsday"
+    },
+    {
+      "id": 9912001,
+      "bgm_type": "event_field_bgm",
+      "type_value": "10009",
+      "default": true,
+      "bgm_loop": "event_bgm_ce003_main"
+    },
+    {
+      "id": 9912002,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "event_field",
+      "type_value": "10009",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_ce003"
+    },
+    {
+      "id": 9912003,
+      "bgm_type": "outgame_bgm",
+      "type_value": "91002",
+      "event_id": 81101,
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_ce003_minimain"
+    },
+    {
+      "id": 9912004,
+      "bgm_type": "outgame_bgm",
+      "type_value": "91003",
+      "event_id": 81101,
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_ce003_minimain"
+    },
+    {
+      "id": 9912005,
+      "bgm_type": "outgame_bgm",
+      "type_value": "91005",
+      "event_id": 81101,
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_ce003_minimain"
+    },
+    {
+      "id": 9912006,
+      "bgm_type": "outgame_bgm",
+      "type_value": "91001",
+      "event_id": 81101,
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "event_bgm_ce003_minigame"
     },
     {
       "id": 9910423,

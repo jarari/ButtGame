@@ -1,4 +1,77 @@
 {
   "version": "0.0.1",
-  "records": []
+  "records": [
+    {
+      "id": 10001,
+      "skill_rank": 1,
+      "active_condition_value": 3000,
+      "skill_type": "CookSpeedUp",
+      "skill_value": -1000,
+      "name_localkey": "Locale_Event:cookspeedup_name",
+      "description_localkey": "Locale_Event:cookspeedup_description"
+    },
+    {
+      "id": 10002,
+      "skill_rank": 2,
+      "active_condition_value": 4000,
+      "skill_type": "CleaningSpeedUp",
+      "skill_value": -2000,
+      "name_localkey": "Locale_Event:cleaningspeedup_name",
+      "description_localkey": "Locale_Event:cleaningspeedup_description"
+    },
+    {
+      "id": 10003,
+      "skill_rank": 3,
+      "active_condition_value": 5000,
+      "skill_type": "AddCookSlot",
+      "skill_value": 1,
+      "name_localkey": "Locale_Event:addcookslot_name",
+      "description_localkey": "Locale_Event:addcookslot_description"
+    },
+    {
+      "id": 10004,
+      "skill_rank": 4,
+      "active_condition_value": 6000,
+      "skill_type": "HpReduceDown",
+      "skill_value": -2000,
+      "name_localkey": "Locale_Event:hpreducedown_name",
+      "description_localkey": "Locale_Event:hpreducedown_description"
+    },
+    {
+      "id": 10005,
+      "skill_rank": 5,
+      "active_condition_value": 7000,
+      "skill_type": "GetPointMore",
+      "skill_value": 2000,
+      "name_localkey": "Locale_Event:getmorepoint_name",
+      "description_localkey": "Locale_Event:getmorepoint_description"
+    },
+    {
+      "id": 10006,
+      "skill_rank": 6,
+      "active_condition_value": 8000,
+      "skill_type": "AddCookSlot",
+      "skill_value": 2,
+      "name_localkey": "Locale_Event:addcookslot_name",
+      "description_localkey": "Locale_Event:addcookslot_description"
+    },
+    {
+      "id": 10007,
+      "skill_rank": 7,
+      "active_condition_value": 9000,
+      "skill_type": "MaidMoveSpeedUp",
+      "skill_value": 2500,
+      "name_localkey": "Locale_Event:maidmovespeedup_name",
+      "description_localkey": "Locale_Event:maidmovespeedup_description"
+    },
+    {
+      "id": 10008,
+      "skill_rank": 8,
+      "active_condition_value": 10000,
+      "skill_type": "EventCustomerAppearUp",
+      "skill_value": 0,
+      "name_localkey": "Locale_Event:eventcustomerappearup_name",
+      "description_localkey": "Locale_Event:eventcustomerappearup_description"
+    }
+  ]
 }

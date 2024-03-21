@@ -1,4 +1,56 @@
 {
   "version": "0.0.1",
-  "records": []
+  "records": [
+    {
+      "id": 100101,
+      "stage_level": 1,
+      "enter_condition_value": 0,
+      "stage_level_name": "Locale_Event:CE003_MINI_GAME_STAGE_LEVEL_NAME_1",
+      "stage_level_desc": "Locale_Event:CE003_MINI_GAME_STAGE_LEVEL_LOW",
+      "stage_level_img": "ce003_mode_easy",
+      "time_limit": 9000,
+      "use_maid_group": 1002,
+      "npc_visit_set_group_id": 1001,
+      "event_npc_visit_upgrade_set_group_id": 1002,
+      "event_game_group_id": 1001,
+      "clean_ratio": 2500,
+      "clean_reduce_hp_value": -10,
+      "clean_get_point": 100,
+      "clean_time": 150
+    },
+    {
+      "id": 100102,
+      "stage_level": 2,
+      "enter_condition_value": 5000,
+      "stage_level_name": "Locale_Event:CE003_MINI_GAME_STAGE_LEVEL_NAME_2",
+      "stage_level_desc": "Locale_Event:CE003_MINI_GAME_STAGE_LEVEL_MIDDLE",
+      "stage_level_img": "ce003_mode_normal",
+      "time_limit": 9000,
+      "use_maid_group": 1003,
+      "npc_visit_set_group_id": 2001,
+      "event_npc_visit_upgrade_set_group_id": 2002,
+      "event_game_group_id": 2001,
+      "clean_ratio": 4000,
+      "clean_reduce_hp_value": -20,
+      "clean_get_point": 150,
+      "clean_time": 150
+    },
+    {
+      "id": 100103,
+      "stage_level": 3,
+      "enter_condition_value": 8000,
+      "stage_level_name": "Locale_Event:CE003_MINI_GAME_STAGE_LEVEL_NAME_3",
+      "stage_level_desc": "Locale_Event:CE003_MINI_GAME_STAGE_LEVEL_HIGH",
+      "stage_level_img": "ce003_mode_hard",
+      "time_limit": 9000,
+      "use_maid_group": 1004,
+      "npc_visit_set_group_id": 3001,
+      "event_npc_visit_upgrade_set_group_id": 3002,
+      "event_game_group_id": 3001,
+      "clean_ratio": 6000,
+      "clean_reduce_hp_value": -20,
+      "clean_get_point": 175,
+      "clean_time": 150
+    }
+  ]
 }

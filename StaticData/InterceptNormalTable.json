@@ -3,6 +3,8 @@
   "records": [
     {
       "id": 1,
+      "group": 1,
+      "type": 0,
       "name": "Locale_System:INTERCEPT_NORMAL_LEVEL_1_STAGE_NAME",
       "short_name": "Locale_System:INTERCEPT_NORMAL_LEVEL_1_SHORT_NAME",
       "description": "Locale_System:INTERCEPT_NORMAL_LEVEL_1_STAGE_DESC",
@@ -15,6 +17,7 @@
       "dynamic_object_stage_lv": 68,
       "cover_stage_lv": 2,
       "monster_stage_lv_change_group": 101,
+      "spot_type": "WaveData",
       "spot_id": 6301001,
       "auto_charge_id": 20001,
       "ticket_count": 1,
@@ -23,6 +26,8 @@
     },
     {
       "id": 2,
+      "group": 1,
+      "type": 1,
       "name": "Locale_System:INTERCEPT_NORMAL_LEVEL_2_STAGE_NAME",
       "short_name": "Locale_System:INTERCEPT_NORMAL_LEVEL_2_SHORT_NAME",
       "description": "Locale_System:INTERCEPT_NORMAL_LEVEL_2_STAGE_DESC",
@@ -35,6 +40,7 @@
       "dynamic_object_stage_lv": 140,
       "cover_stage_lv": 1,
       "monster_stage_lv_change_group": 102,
+      "spot_type": "WaveData",
       "spot_id": 6301002,
       "auto_charge_id": 20001,
       "ticket_count": 1,

@@ -152,6 +152,26 @@
       "event_end_date": "2023-10-04T19:59:59"
     },
     {
+      "id": 40031,
+      "event_system_type": "StoryEvent",
+      "event_shortcut_id": "0",
+      "included_content_type": "StoryEvent1",
+      "archive_match_event_id": 40031,
+      "archive_story_progress_group_order": 1,
+      "archive_story_progress_locale": "Locale_System:PROGRESS_STORY_TYPE_02",
+      "parents_event_id": 80800
+    },
+    {
+      "id": 40032,
+      "event_system_type": "StoryEvent",
+      "event_shortcut_id": "0",
+      "included_content_type": "StoryEvent2",
+      "archive_match_event_id": 40032,
+      "archive_story_progress_group_order": 2,
+      "archive_story_progress_locale": "Locale_System:PROGRESS_STORY_TYPE_03",
+      "parents_event_id": 80800
+    },
+    {
       "id": 1080300,
       "event_system_type": "FieldHubEvent",
       "event_shortcut_id": "50001",
@@ -184,6 +204,23 @@
       "included_content_type": "MiniGame",
       "archive_match_event_id": 80105,
       "parents_event_id": 80100
+    },
+    {
+      "id": 80800,
+      "event_system_type": "FieldHubEvent",
+      "event_shortcut_id": "50001",
+      "included_content_type": "FieldEvent",
+      "archive_match_event_id": 80800,
+      "event_start_date": "2023-11-01T16:00:00",
+      "event_end_date": "2023-11-22T19:59:59"
+    },
+    {
+      "id": 80803,
+      "event_system_type": "NKSMiniGame",
+      "event_shortcut_id": "60001",
+      "included_content_type": "MiniGame",
+      "archive_match_event_id": 80803,
+      "parents_event_id": 80800
     }
   ]
 }
