@@ -375,6 +375,135 @@
       "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000310",
       "next_quest_id": 0,
       "reward_id": 0
+    },
+    {
+      "id": 1000401,
+      "event_quest_manager_id": 10004,
+      "condition_type": "Outpost_Select",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000401",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000401",
+      "next_quest_id": 1000402,
+      "end_scenario_id": "event_liarsend_01",
+      "reward_id": 1320301
+    },
+    {
+      "id": 1000402,
+      "event_quest_manager_id": 10004,
+      "condition_type": "Outpost_View",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000402",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000402",
+      "next_quest_id": 1000403,
+      "end_scenario_id": "event_liarsend_02",
+      "reward_id": 1320302
+    },
+    {
+      "id": 1000403,
+      "event_quest_manager_id": 10004,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10401,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000403",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000403",
+      "next_quest_id": 1000404,
+      "end_scenario_id": "event_liarsend_03",
+      "reward_id": 1320303
+    },
+    {
+      "id": 1000404,
+      "event_quest_manager_id": 10004,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10101,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000404",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000404",
+      "next_quest_id": 1000405,
+      "end_scenario_id": "event_liarsend_04",
+      "reward_id": 1320304
+    },
+    {
+      "id": 1000405,
+      "event_quest_manager_id": 10004,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10201,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000405",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000405",
+      "next_quest_id": 1000406,
+      "end_scenario_id": "event_liarsend_05",
+      "reward_id": 1320305
+    },
+    {
+      "id": 1000406,
+      "event_quest_manager_id": 10004,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10301,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000406",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000406",
+      "next_quest_id": 1000407,
+      "end_scenario_id": "event_liarsend_06",
+      "reward_id": 1320306
+    },
+    {
+      "id": 1000407,
+      "event_quest_manager_id": 10004,
+      "condition_type": "Outpost_View",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000407",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000407",
+      "next_quest_id": 1000408,
+      "end_scenario_id": "event_liarsend_07",
+      "reward_id": 1320307
+    },
+    {
+      "id": 1000408,
+      "event_quest_manager_id": 10004,
+      "condition_type": "Normal_Chapter_View",
+      "condition_value": 2,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000408",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000408",
+      "next_quest_id": 1000409,
+      "end_scenario_id": "event_liarsend_08",
+      "reward_id": 1320308
+    },
+    {
+      "id": 1000409,
+      "event_quest_manager_id": 10004,
+      "condition_type": "EventQuest_Stage_Group_Clear",
+      "condition_value": 100401,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000409",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000409",
+      "next_quest_id": 1000410,
+      "end_scenario_id": "event_liarsend_10",
+      "reward_id": 1320309
+    },
+    {
+      "id": 1000410,
+      "event_quest_manager_id": 10004,
+      "condition_type": "EventQuest_Stage_Group_Clear",
+      "condition_value": 100402,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000410",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000410",
+      "next_quest_id": 1000411,
+      "reward_id": 1320310
+    },
+    {
+      "id": 1000411,
+      "event_quest_manager_id": 10004,
+      "condition_type": "Outpost_View",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000411",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000411",
+      "next_quest_id": 1000412,
+      "end_scenario_id": "event_liarsend_12",
+      "reward_id": 1320311
+    },
+    {
+      "id": 1000412,
+      "event_quest_manager_id": 10004,
+      "condition_type": "End",
+      "name_localkey": "Locale_SubQuest:EVENT_QUEST_NAME_1000412",
+      "description_localkey": "Locale_SubQuest:EVENT_QUEST_DESC_1000412",
+      "next_quest_id": 0,
+      "reward_id": 0
     }
   ]
 }

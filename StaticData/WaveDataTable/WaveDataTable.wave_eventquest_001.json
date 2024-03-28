@@ -2117,6 +2117,1074 @@
       "close_monster_count": 21,
       "mid_monster_count": 42,
       "far_monster_count": 0
+    },
+    {
+      "stage_id": 6600301,
+      "group_id": "wave_eventquest_001",
+      "spot_mod": "Campaign",
+      "battle_time": 90,
+      "monster_count": 4,
+      "use_intro_scene": true,
+      "wave_repeat": false,
+      "point_data": "point_grd_cityforestunder_002",
+      "point_data_fly": "point_fly_cityforestunder_002",
+      "background_name": "sbg_cityforestunder_002",
+      "theme": "CityForestUnder",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_cityforestunder_001",
+      "target_list": [
+        3320070111
+      ],
+      "wave_data": [
+        {
+          "wave_path": "path_grd_close_small_001",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Dash"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_close_elite1_801",
+          "private_monster_count": 7,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3320070111,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_close_special_024",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 2220030111,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_mid_small_061",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Dash"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_close_special_024",
+          "private_monster_count": 6,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Jump"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_mid_small_043",
+          "private_monster_count": 6,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 2220030111,
+              "spawn_type": "Dash"
+            }
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 45,
+      "mid_monster_count": 12,
+      "far_monster_count": 0
+    },
+    {
+      "stage_id": 6600302,
+      "group_id": "wave_eventquest_001",
+      "spot_mod": "Campaign",
+      "battle_time": 90,
+      "monster_count": 4,
+      "use_intro_scene": true,
+      "wave_repeat": false,
+      "point_data": "point_grd_cityforestunder_003",
+      "point_data_fly": "point_fly_cityforestunder_003",
+      "background_name": "sbg_cityforestunder_003",
+      "theme": "CityForestUnder",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_cityforestunder_001",
+      "target_list": [
+        2320050111
+      ],
+      "wave_data": [
+        {
+          "wave_path": "path_fly_close_small_017",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2110010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 2110010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 2110010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3210010111,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_close_elite1_801",
+          "private_monster_count": 7,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3120010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 2320050111,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_fly_close_special_044",
+          "private_monster_count": 9,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3110010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3110010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3210010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3210010111,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_mid_small_043",
+          "private_monster_count": 6,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3220040111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3220040111,
+              "spawn_type": "Dash"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_close_special_064",
+          "private_monster_count": 6,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3120010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3120010111,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_close_small_013",
+          "private_monster_count": 6,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3220040111,
+              "spawn_type": "Dash"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_close_small_039",
+          "private_monster_count": 6,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3220040111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3220040111,
+              "spawn_type": "Dash"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_close_special_064",
+          "private_monster_count": 8,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3220040111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 3220040111,
+              "spawn_type": "Jump"
+            }
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 72,
+      "mid_monster_count": 6,
+      "far_monster_count": 0
+    },
+    {
+      "stage_id": 6600303,
+      "group_id": "wave_eventquest_001",
+      "spot_mod": "Campaign",
+      "battle_time": 90,
+      "monster_count": 4,
+      "use_intro_scene": true,
+      "wave_repeat": false,
+      "point_data": "point_grd_cityforestunder_002",
+      "point_data_fly": "point_fly_cityforestunder_002",
+      "background_name": "sbg_cityforestunder_002",
+      "theme": "CityForestUnder",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_cityforestunder_001",
+      "target_list": [
+        1310030111
+      ],
+      "wave_data": [
+        {
+          "wave_path": "path_grd_close_special_024",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 3220070111,
+              "spawn_type": "Jump"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_fly_close_elite1_801",
+          "private_monster_count": 8,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3110010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3110010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3210010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 1310030111,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_mid_elite1_802",
+          "private_monster_count": 9,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 2220010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 2220010111,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_mid_small_043",
+          "private_monster_count": 6,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 2220010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 2220010111,
+              "spawn_type": "Dash"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_fly_close_special_046",
+          "private_monster_count": 6,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3110010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3110010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3210010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3210010111,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_mid_small_040",
+          "private_monster_count": 6,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3220070111,
+              "spawn_type": "Dash"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_fly_mid_small_036",
+          "private_monster_count": 6,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3110010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3210010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3110010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3210010111,
+              "spawn_type": "Dash"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_close_special_024",
+          "private_monster_count": 8,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 3220070111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3220070111,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 54,
+      "mid_monster_count": 27,
+      "far_monster_count": 0
+    },
+    {
+      "stage_id": 6600304,
+      "group_id": "wave_eventquest_001",
+      "spot_mod": "Campaign",
+      "battle_time": 90,
+      "monster_count": 4,
+      "use_intro_scene": true,
+      "wave_repeat": false,
+      "point_data": "point_grd_cityforestunder_001",
+      "point_data_fly": "point_fly_cityforestunder_001",
+      "background_name": "sbg_cityforestunder_001",
+      "theme": "CityForestUnder",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_cityforestunder_001",
+      "target_list": [
+        3310050111
+      ],
+      "wave_data": [
+        {
+          "wave_path": "path_grd_mid_small_075",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1220050111,
+              "spawn_type": "Dash"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_fly_close_elite1_801",
+          "private_monster_count": 5,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2110010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 2110010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3210040111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3310050111,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_mid_elite1_802",
+          "private_monster_count": 6,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 2120010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 1220050111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3320060211,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_mid_small_012",
+          "private_monster_count": 6,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 3120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1220050111,
+              "spawn_type": "Dash"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_fly_close_special_044",
+          "private_monster_count": 6,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2110010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 2110010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3210040111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3210040111,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_mid_small_043",
+          "private_monster_count": 8,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3120010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 1220050111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 3120010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 1220050111,
+              "spawn_type": "Jump"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_fly_close_small_029",
+          "private_monster_count": 10,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2110010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 2110010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3210040111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3210040111,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_close_small_042",
+          "private_monster_count": 4,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1220050111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1220050111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1220050111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1220050111,
+              "spawn_type": "Dash"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_fly_close_special_046",
+          "private_monster_count": 8,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2110010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 2110010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 2110010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 3210040111,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 51,
+      "mid_monster_count": 27,
+      "far_monster_count": 0
+    },
+    {
+      "stage_id": 6600305,
+      "group_id": "wave_eventquest_001",
+      "spot_mod": "Campaign",
+      "battle_time": 90,
+      "monster_count": 5,
+      "use_intro_scene": true,
+      "wave_repeat": false,
+      "point_data": "point_grd_cityforestunder_005",
+      "point_data_fly": "point_fly_cityforestunder_005",
+      "background_name": "sbg_cityforestunder_005",
+      "theme": "CityForestUnder",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_cityforestunder_001",
+      "target_list": [
+        1320060111
+      ],
+      "wave_data": [
+        {
+          "wave_path": "path_grd_close_small_042",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1220050111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1220050111,
+              "spawn_type": "Dash"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_mid_elite1_802",
+          "private_monster_count": 3,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 1320060211,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 2320020211,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_close_small_048",
+          "private_monster_count": 6,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3220060111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 1220050111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 1320060111,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_close_special_064",
+          "private_monster_count": 8,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 3220060111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3220060111,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_fly_close_small_029",
+          "private_monster_count": 8,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3210040111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3210040111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 1210010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 1210010111,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_close_special_024",
+          "private_monster_count": 15,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1220050111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 3220060111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 1120010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 1320060211,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_mid_small_052",
+          "private_monster_count": 6,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1210010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3210040111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 1210010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3210040111,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_close_elite1_801",
+          "private_monster_count": 10,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1220050111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1220050111,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 2220010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 1320060211,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_close_special_024",
+          "private_monster_count": 8,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1220050111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 1220050111,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 2220010111,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 1320060211,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 72,
+      "mid_monster_count": 15,
+      "far_monster_count": 0
     }
   ]
 }

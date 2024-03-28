@@ -11324,6 +11324,174 @@
         {},
         {}
       ]
+    },
+    {
+      "id": 800101,
+      "group_Id": 800100,
+      "timeline_Value": 0,
+      "timeline_actionType": "Countdown",
+      "timeline_actionType_Value": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800102,
+      "group_Id": 800100,
+      "timeline_Value": 100,
+      "timeline_isLoop": false,
+      "timeline_Spawn_Group": 1000001,
+      "timeline_actionType": "BossMonsterSpawnWithAdvanceTime",
+      "timeline_actionType_Value": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800103,
+      "group_Id": 800100,
+      "timeline_Value": 17700,
+      "timeline_actionType": "KillBoss",
+      "timeline_actionType_Value": [
+        {
+          "timeline_actionType_Value": "800001"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800104,
+      "group_Id": 800100,
+      "timeline_Value": 18000,
+      "timeline_actionType": "CommonStageClear",
+      "timeline_actionType_Value": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800201,
+      "group_Id": 800200,
+      "timeline_Value": 0,
+      "timeline_actionType": "Countdown",
+      "timeline_actionType_Value": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800202,
+      "group_Id": 800200,
+      "timeline_Value": 100,
+      "timeline_isLoop": false,
+      "timeline_Spawn_Group": 1000002,
+      "timeline_actionType": "BossMonsterSpawnWithAdvanceTime",
+      "timeline_actionType_Value": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800203,
+      "group_Id": 800200,
+      "timeline_Value": 17700,
+      "timeline_actionType": "KillBoss",
+      "timeline_actionType_Value": [
+        {
+          "timeline_actionType_Value": "800002"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800204,
+      "group_Id": 800200,
+      "timeline_Value": 18000,
+      "timeline_actionType": "CommonStageClear",
+      "timeline_actionType_Value": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
     }
   ]
 }

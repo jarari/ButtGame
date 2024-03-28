@@ -11725,6 +11725,56 @@
       "resistance_knockBack": false
     },
     {
+      "id": 800001,
+      "resource_id": "boss_armybase",
+      "monster_scale": 3.0,
+      "col_Type": "Ground",
+      "isCollide": false,
+      "grade": "Boss",
+      "behavior_Tree": "NKSmini_BT_boss02",
+      "stat_mvSpd": 1.0,
+      "stat_hp": 15000,
+      "stat_atk": 4,
+      "stat_def": 10,
+      "stat_projSpd": 1,
+      "stat_projSize": 1,
+      "stat_colDmg": 8,
+      "drop_item": [
+        {},
+        {},
+        {}
+      ],
+      "spawnEffect_resource_id": "NKS_fx_monster_boss_spawn_01",
+      "hitEffect_resource_Id": "NKS_fx_monster_hit_02",
+      "deathEffect_resource_Id": "NKS_fx_boss_explosion_01",
+      "resistance_knockBack": true
+    },
+    {
+      "id": 800002,
+      "resource_id": "boss_desert",
+      "monster_scale": 1.5,
+      "col_Type": "Ground",
+      "isCollide": false,
+      "grade": "Boss",
+      "behavior_Tree": "NKSmini_BT_boss03",
+      "stat_mvSpd": 1.6,
+      "stat_hp": 35000,
+      "stat_atk": 8,
+      "stat_def": 10,
+      "stat_projSpd": 1,
+      "stat_projSize": 1,
+      "stat_colDmg": 8,
+      "drop_item": [
+        {},
+        {},
+        {}
+      ],
+      "spawnEffect_resource_id": "NKS_fx_monster_boss_spawn_01",
+      "hitEffect_resource_Id": "NKS_fx_monster_hit_02",
+      "deathEffect_resource_Id": "NKS_fx_boss_explosion_01",
+      "resistance_knockBack": true
+    },
+    {
       "id": 900100,
       "resource_id": "NKS_monster_mmg005",
       "monster_scale": 1.0,

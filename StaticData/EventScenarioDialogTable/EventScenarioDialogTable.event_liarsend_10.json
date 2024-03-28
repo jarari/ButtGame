@@ -1,0 +1,421 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "event_liarsend_10_1",
+      "event_id": 130004,
+      "group_id": "event_liarsend_10",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "Locale_SubScenario:event_liarsend_10_1",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "show_char_id": "syuen",
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "CityForest_02",
+      "set_start_camera": "S_100",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_rapturefin",
+      "play_bgm": "bgm_story_kneeldownfools",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_liarsend_10_2",
+      "event_id": 130004,
+      "group_id": "event_liarsend_10",
+      "speech_window": "Self",
+      "highlight": "syuen",
+      "scenario_localkey": "Locale_SubScenario:event_liarsend_10_2",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_liarsend_10_3",
+      "event_id": 130004,
+      "group_id": "event_liarsend_10",
+      "speech_window": "Monologue",
+      "highlight": "syuen",
+      "scenario_localkey": "Locale_SubScenario:event_liarsend_10_3",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_liarsend_10_4",
+      "event_id": 130004,
+      "group_id": "event_liarsend_10",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "Locale_SubScenario:event_liarsend_10_4",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_liarsend_10_5",
+      "event_id": 130004,
+      "group_id": "event_liarsend_10",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "Locale_SubScenario:event_liarsend_10_5",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_liarsend_10_6",
+      "event_id": 130004,
+      "group_id": "event_liarsend_10",
+      "speech_window": "Choice",
+      "highlight": "syuen",
+      "scenario_localkey": "Locale_SubScenario:event_liarsend_10_6",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "event_liarsend_10_9"
+    },
+    {
+      "id": "event_liarsend_10_7",
+      "event_id": 130004,
+      "group_id": "event_liarsend_10",
+      "speech_window": "Choice",
+      "highlight": "syuen",
+      "scenario_localkey": "Locale_SubScenario:event_liarsend_10_7",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "event_liarsend_10_9"
+    },
+    {
+      "id": "event_liarsend_10_8",
+      "event_id": 130004,
+      "group_id": "event_liarsend_10",
+      "speech_window": "Choice",
+      "highlight": "syuen",
+      "scenario_localkey": "Locale_SubScenario:event_liarsend_10_8",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "delight"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "jump_target": "event_liarsend_10_9"
+    },
+    {
+      "id": "event_liarsend_10_9",
+      "event_id": 130004,
+      "group_id": "event_liarsend_10",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "Locale_SubScenario:event_liarsend_10_9",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_10",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_liarsend_10_10",
+      "event_id": 130004,
+      "group_id": "event_liarsend_10",
+      "speech_window": "Self",
+      "highlight": "syuen",
+      "scenario_localkey": "Locale_SubScenario:event_liarsend_10_10",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_liarsend_10_11",
+      "event_id": 130004,
+      "group_id": "event_liarsend_10",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "Locale_SubScenario:event_liarsend_10_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_liarsend_10_12",
+      "event_id": 130004,
+      "group_id": "event_liarsend_10",
+      "speech_window": "Self",
+      "highlight": "syuen",
+      "scenario_localkey": "Locale_SubScenario:event_liarsend_10_12",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_liarsend_10_13",
+      "event_id": 130004,
+      "group_id": "event_liarsend_10",
+      "speech_window": "Speech",
+      "highlight": "syuen",
+      "speaker": "syuen",
+      "scenario_localkey": "Locale_SubScenario:event_liarsend_10_13",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "think"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "S_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}
