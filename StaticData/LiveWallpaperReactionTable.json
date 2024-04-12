@@ -2306,6 +2306,42 @@
       "order": 1
     },
     {
+      "id": 4301,
+      "reaction_target_id": 43,
+      "reaction_type": "Touch",
+      "speecher_type": "Character",
+      "speecher_resource_id": 30,
+      "locale_file": "Locale_SubScenario",
+      "target_chapter": 0,
+      "speech_localkey": "Locale_SubScenario:event_onemoretime_06_e_65",
+      "reaction_voice": "0",
+      "order": 1
+    },
+    {
+      "id": 4302,
+      "reaction_target_id": 43,
+      "reaction_type": "Touch",
+      "speecher_type": "Character",
+      "speecher_resource_id": 550,
+      "locale_file": "Locale_SubScenario",
+      "target_chapter": 0,
+      "speech_localkey": "Locale_SubScenario:event_onemoretime_06_e_73",
+      "reaction_voice": "0",
+      "order": 2
+    },
+    {
+      "id": 4303,
+      "reaction_target_id": 43,
+      "reaction_type": "Stay",
+      "speecher_type": "Character",
+      "speecher_resource_id": 550,
+      "locale_file": "Locale_SubScenario",
+      "target_chapter": 0,
+      "speech_localkey": "Locale_SubScenario:event_onemoretime_06_e_73",
+      "reaction_voice": "0",
+      "order": 1
+    },
+    {
       "id": 1000101,
       "reaction_target_id": 10001,
       "reaction_type": "Touch",
@@ -5123,6 +5159,30 @@
       "target_chapter": 0,
       "speech_localkey": "Locale_LiveWallpaper:live_wallpaper_desc_50901",
       "reaction_voice": "c901_Ult_Skill_1",
+      "order": 1
+    },
+    {
+      "id": 5010470,
+      "reaction_target_id": 50550,
+      "reaction_type": "Touch",
+      "speecher_type": "Character",
+      "speecher_resource_id": 550,
+      "locale_file": "Locale_LiveWallpaper",
+      "target_chapter": 0,
+      "speech_localkey": "Locale_LiveWallpaper:live_wallpaper_desc_50550",
+      "reaction_voice": "c550_Ult_Skill_1",
+      "order": 1
+    },
+    {
+      "id": 5010471,
+      "reaction_target_id": 50550,
+      "reaction_type": "Stay",
+      "speecher_type": "Character",
+      "speecher_resource_id": 550,
+      "locale_file": "Locale_LiveWallpaper",
+      "target_chapter": 0,
+      "speech_localkey": "Locale_LiveWallpaper:live_wallpaper_desc_50550",
+      "reaction_voice": "c550_Ult_Skill_1",
       "order": 1
     }
   ]

@@ -550,6 +550,20 @@
       "ui_prefab": "killthelord"
     },
     {
+      "id": 10044,
+      "event_id": 40044,
+      "prologue_scenario": "event_onemoretime_prologue",
+      "auto_charge_id": 10044,
+      "event_item_type": "Item",
+      "event_item_id": 7060044,
+      "dungeon_id": 44,
+      "album_category_group": 1044,
+      "mission_group": 44,
+      "contents_shop_id": 9004401,
+      "dice_id": 0,
+      "ui_prefab": "onemoretime"
+    },
+    {
       "id": 40001,
       "event_id": 60001,
       "auto_charge_id": 40001,
@@ -821,6 +835,19 @@
       "contents_shop_id": 0,
       "dice_id": 0,
       "challenge_monster_resource": "full_bbg003"
+    },
+    {
+      "id": 40044,
+      "event_id": 60044,
+      "auto_charge_id": 40044,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1044,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_bbg001"
     }
   ]
 }

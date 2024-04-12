@@ -578,6 +578,22 @@
       "condition_id": 0
     },
     {
+      "id": 43,
+      "livewallpaper_type": "Scenario",
+      "sub_type": "Event",
+      "order": 20032,
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_43",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_43",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_OneMoreTime_01",
+      "thumbnail_resource_id": "EventScene_OneMoreTime_01_mi",
+      "si_resource_id": "EventScene_OneMoreTime_01_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "condition_type": "None",
+      "condition_resource_id": 0,
+      "condition_id": 0
+    },
+    {
       "id": 50010,
       "livewallpaper_type": "SkillCutScene",
       "sub_type": "None",
@@ -2223,6 +2239,22 @@
       "condition_type": "None",
       "condition_resource_id": 901,
       "condition_id": 0
+    },
+    {
+      "id": 50550,
+      "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
+      "order": 30104,
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50550",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50550",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_c550_cutscene",
+      "thumbnail_resource_id": "EventScene_c550_cutscene_mi",
+      "si_resource_id": "EventScene_c550_cutscene_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "condition_type": "Character",
+      "condition_resource_id": 550,
+      "condition_id": 355004
     },
     {
       "id": 5010101,

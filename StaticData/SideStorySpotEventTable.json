@@ -1,0 +1,113 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10080201,
+      "spot_cut_id": 100802,
+      "step": 1,
+      "state_effect_function_id": 200202,
+      "condition_type": "UserBattleModeStart",
+      "condition_id": "100"
+    },
+    {
+      "id": 10080202,
+      "spot_cut_id": 100802,
+      "step": 2,
+      "spot_dialog_group_id": "s001_09_b1",
+      "condition_type": "SpotEventClear",
+      "condition_id": "900",
+      "condition_value": "10080201",
+      "dialog_spot_pause": true
+    },
+    {
+      "id": 10080301,
+      "spot_cut_id": 100803,
+      "step": 1,
+      "state_effect_function_id": 200201,
+      "condition_type": "UserBattleModeStart",
+      "condition_id": "100"
+    },
+    {
+      "id": 10080302,
+      "spot_cut_id": 100803,
+      "step": 2,
+      "spot_dialog_group_id": "s001_09_b2",
+      "condition_type": "SpotEventClear",
+      "condition_id": "900",
+      "condition_value": "10080301",
+      "dialog_spot_pause": true
+    },
+    {
+      "id": 10080401,
+      "spot_cut_id": 100804,
+      "step": 1,
+      "state_effect_function_id": 200201,
+      "condition_type": "UserBattleModeStart",
+      "condition_id": "100"
+    },
+    {
+      "id": 10080402,
+      "spot_cut_id": 100804,
+      "step": 2,
+      "spot_dialog_group_id": "s001_09_b3",
+      "condition_type": "TargetHPRatioFirst",
+      "condition_id": "1000",
+      "condition_value": "5000",
+      "dialog_spot_pause": true
+    },
+    {
+      "id": 10130201,
+      "spot_cut_id": 101302,
+      "step": 1,
+      "state_effect_function_id": 200301,
+      "condition_type": "UserBattleModeStart",
+      "condition_id": "100"
+    },
+    {
+      "id": 10130202,
+      "spot_cut_id": 101302,
+      "step": 2,
+      "spot_dialog_group_id": "s001_14_b1",
+      "condition_type": "SpotEventClear",
+      "condition_id": "900",
+      "condition_value": "10130201",
+      "dialog_spot_pause": true
+    },
+    {
+      "id": 10130401,
+      "spot_cut_id": 101304,
+      "step": 1,
+      "state_effect_function_id": 200301,
+      "condition_type": "UserBattleModeStart",
+      "condition_id": "100"
+    },
+    {
+      "id": 10130402,
+      "spot_cut_id": 101304,
+      "step": 2,
+      "spot_dialog_group_id": "s001_14_b2",
+      "condition_type": "SpotEventClear",
+      "condition_id": "900",
+      "condition_value": "10130401",
+      "dialog_spot_pause": true
+    },
+    {
+      "id": 10130601,
+      "spot_cut_id": 101306,
+      "step": 1,
+      "state_effect_function_id": 200301,
+      "condition_type": "UserBattleModeStart",
+      "condition_id": "100"
+    },
+    {
+      "id": 10130602,
+      "spot_cut_id": 101306,
+      "step": 2,
+      "spot_dialog_group_id": "s001_14_b3",
+      "condition_type": "SpotEventClear",
+      "condition_id": "900",
+      "condition_value": "10130601",
+      "dialog_spot_pause": true
+    }
+  ]
+}

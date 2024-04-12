@@ -15082,6 +15082,126 @@
       "reward_id": 0
     },
     {
+      "id": 2009401,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5111,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MainQuestClear",
+          "condition_id": 25,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_bay_01",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 2009402,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5111,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 2009401,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_bay_02",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 2009403,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5111,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 2009401,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_bay_03",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
       "id": 3000101,
       "trigger_list": [
         {
@@ -23566,6 +23686,166 @@
       ],
       "message_type": "Message",
       "tid": "m_ex_liarsend_04",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7001701,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 104410105,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_onemoretime_01",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7001702,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 104410105,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7001701,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_onemoretime_02",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7001703,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 104410110,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7001702,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_onemoretime_03",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7001704,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 104410112,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7001703,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_onemoretime_04",
       "resource_id": 0,
       "stamina_value": 0,
       "reward_id": 0

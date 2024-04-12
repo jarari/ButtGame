@@ -1,0 +1,204 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 100001,
+      "stage_id": 1000,
+      "step": 1,
+      "scenario_group_id": "s001_01",
+      "condition_type": "ScenarioClear"
+    },
+    {
+      "id": 100101,
+      "stage_id": 1001,
+      "step": 1,
+      "scenario_group_id": "s001_02",
+      "condition_type": "ScenarioClear"
+    },
+    {
+      "id": 100201,
+      "stage_id": 1002,
+      "step": 1,
+      "scenario_group_id": "s001_03",
+      "condition_type": "ScenarioClear"
+    },
+    {
+      "id": 100301,
+      "stage_id": 1003,
+      "step": 1,
+      "scenario_group_id": "s001_04",
+      "condition_type": "ScenarioClear"
+    },
+    {
+      "id": 100401,
+      "stage_id": 1004,
+      "step": 1,
+      "scenario_group_id": "s001_05",
+      "condition_type": "ScenarioClear"
+    },
+    {
+      "id": 100501,
+      "stage_id": 1005,
+      "step": 1,
+      "scenario_group_id": "s001_06",
+      "condition_type": "ScenarioClear"
+    },
+    {
+      "id": 100601,
+      "stage_id": 1006,
+      "step": 1,
+      "scenario_group_id": "s001_07",
+      "condition_type": "ScenarioClear"
+    },
+    {
+      "id": 100701,
+      "stage_id": 1007,
+      "step": 1,
+      "scenario_group_id": "s001_08",
+      "condition_type": "ScenarioClear"
+    },
+    {
+      "id": 100801,
+      "stage_id": 1008,
+      "step": 1,
+      "scenario_group_id": "s001_09",
+      "condition_type": "ScenarioClear"
+    },
+    {
+      "id": 100802,
+      "stage_id": 1008,
+      "step": 2,
+      "wave_id": 5000101,
+      "condition_type": "SpotBattleClear",
+      "monster_stage_lv": 42,
+      "dynamic_object_stage_lv": 26,
+      "sidestory_character_group": 1001,
+      "is_include_wave_info": true
+    },
+    {
+      "id": 100803,
+      "stage_id": 1008,
+      "step": 3,
+      "wave_id": 5000102,
+      "condition_type": "SpotBattleClear",
+      "monster_stage_lv": 60,
+      "dynamic_object_stage_lv": 60,
+      "sidestory_character_group": 1002,
+      "is_include_wave_info": true
+    },
+    {
+      "id": 100804,
+      "stage_id": 1008,
+      "step": 4,
+      "wave_id": 5000103,
+      "condition_type": "SpotBattleClear",
+      "monster_stage_lv": 60,
+      "dynamic_object_stage_lv": 60,
+      "sidestory_character_group": 1003,
+      "is_include_wave_info": true
+    },
+    {
+      "id": 100805,
+      "stage_id": 1008,
+      "step": 5,
+      "scenario_group_id": "s001_09_b3_e",
+      "condition_type": "ScenarioClear"
+    },
+    {
+      "id": 100906,
+      "stage_id": 1009,
+      "step": 1,
+      "scenario_group_id": "s001_10",
+      "condition_type": "ScenarioClear"
+    },
+    {
+      "id": 101001,
+      "stage_id": 1010,
+      "step": 1,
+      "scenario_group_id": "s001_11",
+      "condition_type": "ScenarioClear"
+    },
+    {
+      "id": 101101,
+      "stage_id": 1011,
+      "step": 1,
+      "scenario_group_id": "s001_12",
+      "condition_type": "ScenarioClear"
+    },
+    {
+      "id": 101201,
+      "stage_id": 1012,
+      "step": 1,
+      "scenario_group_id": "s001_13",
+      "condition_type": "ScenarioClear"
+    },
+    {
+      "id": 101301,
+      "stage_id": 1013,
+      "step": 1,
+      "scenario_group_id": "s001_14",
+      "condition_type": "ScenarioClear"
+    },
+    {
+      "id": 101302,
+      "stage_id": 1013,
+      "step": 2,
+      "wave_id": 5000104,
+      "condition_type": "SpotBattleClear",
+      "monster_stage_lv": 30,
+      "dynamic_object_stage_lv": 30,
+      "sidestory_character_group": 1004,
+      "is_include_wave_info": true
+    },
+    {
+      "id": 101303,
+      "stage_id": 1013,
+      "step": 3,
+      "scenario_group_id": "s001_14_b1_e",
+      "condition_type": "ScenarioClear"
+    },
+    {
+      "id": 101304,
+      "stage_id": 1013,
+      "step": 4,
+      "wave_id": 5000105,
+      "condition_type": "SpotBattleClear",
+      "monster_stage_lv": 45,
+      "dynamic_object_stage_lv": 45,
+      "sidestory_character_group": 1005,
+      "is_include_wave_info": true
+    },
+    {
+      "id": 101305,
+      "stage_id": 1013,
+      "step": 5,
+      "scenario_group_id": "s001_14_b2_e",
+      "condition_type": "ScenarioClear"
+    },
+    {
+      "id": 101306,
+      "stage_id": 1013,
+      "step": 6,
+      "wave_id": 5000106,
+      "condition_type": "SpotBattleClear",
+      "monster_stage_lv": 12,
+      "dynamic_object_stage_lv": 12,
+      "sidestory_character_group": 1006,
+      "is_include_wave_info": true
+    },
+    {
+      "id": 101307,
+      "stage_id": 1013,
+      "step": 7,
+      "scenario_group_id": "s001_14_b3_e",
+      "condition_type": "ScenarioClear"
+    },
+    {
+      "id": 101401,
+      "stage_id": 1014,
+      "step": 1,
+      "scenario_group_id": "s001_15",
+      "condition_type": "ScenarioClear"
+    }
+  ]
+}
