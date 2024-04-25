@@ -564,6 +564,45 @@
       "ui_prefab": "onemoretime"
     },
     {
+      "id": 10045,
+      "event_id": 40045,
+      "auto_charge_id": 10045,
+      "event_item_type": "Item",
+      "event_item_id": 7060045,
+      "dungeon_id": 45,
+      "album_category_group": 1045,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "ui_prefab": "lastkingdom_part1"
+    },
+    {
+      "id": 10046,
+      "event_id": 40046,
+      "auto_charge_id": 10045,
+      "event_item_type": "Item",
+      "event_item_id": 7060045,
+      "dungeon_id": 46,
+      "album_category_group": 1046,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "ui_prefab": "lastkingdom_part2"
+    },
+    {
+      "id": 10047,
+      "event_id": 40047,
+      "auto_charge_id": 10047,
+      "event_item_type": "Item",
+      "event_item_id": 7060047,
+      "dungeon_id": 47,
+      "album_category_group": 1047,
+      "mission_group": 47,
+      "contents_shop_id": 9004701,
+      "dice_id": 0,
+      "ui_prefab": "darkhero"
+    },
+    {
       "id": 40001,
       "event_id": 60001,
       "auto_charge_id": 40001,
@@ -848,6 +887,32 @@
       "contents_shop_id": 0,
       "dice_id": 0,
       "challenge_monster_resource": "full_bbg001"
+    },
+    {
+      "id": 40045,
+      "event_id": 60045,
+      "auto_charge_id": 40045,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1045,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_eba001"
+    },
+    {
+      "id": 40047,
+      "event_id": 60047,
+      "auto_charge_id": 40047,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1047,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_eba001"
     }
   ]
 }

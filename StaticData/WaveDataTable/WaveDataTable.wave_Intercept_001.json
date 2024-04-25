@@ -1724,7 +1724,7 @@
       "point_data": "point_grd_talkertive_01",
       "point_data_fly": "point_fly_talkertive_01",
       "background_name": "sbg_cityforestunderbbg003_001",
-      "theme": "Desertmbg001",
+      "theme": "CityForestUnder",
       "theme_time": "Day",
       "stage_info_bg": "ibg_cityforest_001",
       "target_list": [
@@ -10272,6 +10272,220 @@
       "close_monster_count": 0,
       "mid_monster_count": 0,
       "far_monster_count": 1
+    },
+    {
+      "stage_id": 6701301,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "SoloRaid_Common",
+      "battle_time": 180,
+      "monster_count": 7,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_indivilia_01",
+      "point_data_fly": "point_fly_indivilia_01",
+      "background_name": "sbg_desertebg003_custom",
+      "theme": "Desertmbg001",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_desert_001",
+      "target_list": [
+        2520030145
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_g_indivilia_01",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2520030145,
+              "spawn_type": "Normal"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 1,
+      "far_monster_count": 0
+    },
+    {
+      "stage_id": 6701302,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "SoloRaid_Trial",
+      "battle_time": 180,
+      "monster_count": 7,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_indivilia_01",
+      "point_data_fly": "point_fly_indivilia_01",
+      "background_name": "sbg_desertebg003_custom",
+      "theme": "Desertmbg001",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_desert_001",
+      "target_list": [
+        2520030148
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_g_indivilia_01",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2520030148,
+              "spawn_type": "Normal"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 1,
+      "far_monster_count": 0
     }
   ]
 }

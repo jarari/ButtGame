@@ -1,0 +1,87 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 100101,
+      "stage_id": 100107,
+      "start_condition_type": "WaveStart",
+      "start_condition_value": 100110703,
+      "start_delay": 1200,
+      "cinematic_type": "TimeLineAction",
+      "cinematic_type_value": "timeline_tdbg_grassland_003_talkative_main",
+      "timeline_action_start_frame": 1,
+      "timeline_action_end_frame": 77,
+      "is_loop_action": false
+    },
+    {
+      "id": 100102,
+      "stage_id": 100107,
+      "start_condition_type": "AfterCinematic",
+      "start_condition_value": 100101,
+      "start_delay": 0,
+      "cinematic_type": "TimeLineAction",
+      "cinematic_type_value": "timeline_tdbg_grassland_003_talkative_main",
+      "timeline_action_start_frame": 78,
+      "timeline_action_end_frame": 313,
+      "is_loop_action": true
+    },
+    {
+      "id": 100103,
+      "stage_id": 100107,
+      "start_condition_type": "WaveStart",
+      "start_condition_value": 100110709,
+      "start_delay": 0,
+      "cinematic_type": "TimeLineAction",
+      "cinematic_type_value": "timeline_tdbg_grassland_003_talkative_main",
+      "timeline_action_start_frame": 314,
+      "timeline_action_end_frame": 380,
+      "is_loop_action": false
+    },
+    {
+      "id": 100104,
+      "stage_id": 100107,
+      "start_condition_type": "AfterDialog",
+      "start_condition_value": 10010703,
+      "start_delay": 1300,
+      "cinematic_type": "SpawnTowerGroup",
+      "cinematic_type_value": "1",
+      "tower_spawn_delay": 50
+    },
+    {
+      "id": 100105,
+      "stage_id": 100110,
+      "start_condition_type": "AfterDialog",
+      "start_condition_value": 10011003,
+      "start_delay": 0,
+      "cinematic_type": "TimeLineAction",
+      "cinematic_type_value": "timeline_tdbg_grassland_004_castlebreak_main",
+      "timeline_action_start_frame": 1,
+      "timeline_action_end_frame": 39,
+      "is_loop_action": false
+    },
+    {
+      "id": 100106,
+      "stage_id": 100110,
+      "start_condition_type": "AfterDialog",
+      "start_condition_value": 10011004,
+      "start_delay": 0,
+      "cinematic_type": "TimeLineAction",
+      "cinematic_type_value": "timeline_tdbg_grassland_004_castlebreak_main",
+      "timeline_action_start_frame": 40,
+      "timeline_action_end_frame": 151,
+      "is_loop_action": false
+    },
+    {
+      "id": 100107,
+      "stage_id": 100116,
+      "start_condition_type": "WaveStart",
+      "start_condition_value": 100111605,
+      "start_delay": 1800,
+      "cinematic_type": "TimeLineAction",
+      "cinematic_type_value": "timeline_tdbg_oldcastle_001_castlebreak_main",
+      "timeline_action_start_frame": 58,
+      "timeline_action_end_frame": 490,
+      "is_loop_action": false
+    }
+  ]
+}

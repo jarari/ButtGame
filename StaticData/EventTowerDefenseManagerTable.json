@@ -1,0 +1,39 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1001,
+      "event_id": 81201,
+      "ui_prefab_keyword": "ForTheKing",
+      "hero_slot_open_cost": 110,
+      "hero_slot_open_cost_increase": 40,
+      "tower_refund_percentage": 70,
+      "wave_quick_start_burst_skill_acceleration": 100,
+      "monster_limit": 200,
+      "tower_build_time": 100,
+      "tower_demolish_time": 50,
+      "area_vertical_diameter": 75,
+      "ui_control_game_speed_deceleration": 7000,
+      "zoom_max_value": 30,
+      "zoom_speed": 100,
+      "resource_default_scale": 200,
+      "monster_default_scale": 240,
+      "upgrade_currency_resource": "icn_fortheking_upgradepoint",
+      "upgrade_currency_name": "Locale_Event:td_fortheking_upgradepoint_name",
+      "upgrade_currency_description": "Locale_Event:td_fortheking_upgradepoint_description",
+      "toast_message_print_time": 2,
+      "daily_mission_toast_message_title_locale": "Locale_Event:td_fortheking_mission_toast_type_daily",
+      "daily_mission_toast_message_locale": "Locale_Event:td_fortheking_mission_toast_daily_mission_complete",
+      "daily_mission_toast_message_icon": "icn_fortheking_mission",
+      "daily_mission_toast_message_print_value": 100,
+      "achievement_mission_toast_message_title_locale": "Locale_Event:td_fortheking_mission_toast_type_achievement",
+      "achievement_mission_toast_message_icon": "icn_fortheking_mission",
+      "ingame_dialog_print_speed": 10,
+      "burst_dialog_print_time": 500,
+      "buff_termination_notice_time": 300,
+      "buff_termination_notice_blink_rate": 7,
+      "stage_clear_delay": 100,
+      "burst_guide_toast_hold_time": 250
+    }
+  ]
+}

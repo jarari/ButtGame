@@ -1,0 +1,109 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10010101,
+      "manager_id": 1001,
+      "stage_id": 100101,
+      "output_condition_type": "StageStart",
+      "dialog_list_group_id": 10010101
+    },
+    {
+      "id": 10010401,
+      "manager_id": 1001,
+      "stage_id": 100104,
+      "output_condition_type": "StageStart",
+      "dialog_list_group_id": 10010201
+    },
+    {
+      "id": 10010701,
+      "manager_id": 1001,
+      "stage_id": 100107,
+      "output_condition_type": "StageStart",
+      "dialog_list_group_id": 10010301
+    },
+    {
+      "id": 10010702,
+      "manager_id": 1001,
+      "stage_id": 100107,
+      "output_condition_type": "AfterCinematic",
+      "output_condition_value": 100101,
+      "delay_time": 800,
+      "dialog_list_group_id": 10010302
+    },
+    {
+      "id": 10010703,
+      "manager_id": 1001,
+      "stage_id": 100107,
+      "output_condition_type": "WaveStart",
+      "output_condition_value": 100110707,
+      "delay_time": 2400,
+      "dialog_list_group_id": 10010303
+    },
+    {
+      "id": 10010704,
+      "manager_id": 1001,
+      "stage_id": 100107,
+      "output_condition_type": "AfterCinematic",
+      "output_condition_value": 100104,
+      "delay_time": 600,
+      "dialog_list_group_id": 10010304
+    },
+    {
+      "id": 10010705,
+      "manager_id": 1001,
+      "stage_id": 100107,
+      "output_condition_type": "Victory",
+      "dialog_list_group_id": 10010305
+    },
+    {
+      "id": 10011001,
+      "manager_id": 1001,
+      "stage_id": 100110,
+      "output_condition_type": "StageStart",
+      "dialog_list_group_id": 10010401
+    },
+    {
+      "id": 10011002,
+      "manager_id": 1001,
+      "stage_id": 100110,
+      "output_condition_type": "WaveStart",
+      "output_condition_value": 100111009,
+      "delay_time": 1500,
+      "dialog_list_group_id": 10010402
+    },
+    {
+      "id": 10011003,
+      "manager_id": 1001,
+      "stage_id": 100110,
+      "output_condition_type": "Victory",
+      "dialog_list_group_id": 10010403
+    },
+    {
+      "id": 10011004,
+      "manager_id": 1001,
+      "stage_id": 100110,
+      "output_condition_type": "AfterCinematic",
+      "output_condition_value": 100105,
+      "dialog_list_group_id": 10010404
+    },
+    {
+      "id": 10011301,
+      "manager_id": 1001,
+      "stage_id": 100113,
+      "output_condition_type": "WaveStart",
+      "output_condition_value": 100111309,
+      "delay_time": 1200,
+      "dialog_list_group_id": 10010501
+    },
+    {
+      "id": 10011601,
+      "manager_id": 1001,
+      "stage_id": 100116,
+      "output_condition_type": "WaveStart",
+      "output_condition_value": 100111609,
+      "delay_time": 1200,
+      "dialog_list_group_id": 10010601
+    }
+  ]
+}

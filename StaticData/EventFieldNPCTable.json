@@ -12956,6 +12956,764 @@
       "progress_event_group_id": 2009780
     },
     {
+      "id": 725,
+      "list_button_index": 1,
+      "event_field_id": 10010,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_22",
+      "npc_localkey_contents": "Locale_Event:event_contents_storydungeon_before",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 40045
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 300,
+      "forced_interaction_marker": "sprite_btn_event_lastkingdom",
+      "is_interaction_after_end": false
+    },
+    {
+      "id": 726,
+      "event_field_id": 10010,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_23",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 300,
+      "forced_interaction_marker": "sprite_btn_event_lastkingdom",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010001
+    },
+    {
+      "id": 727,
+      "list_button_index": 2,
+      "event_field_id": 10010,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_23",
+      "npc_localkey_contents": "Locale_Event:event_contents_storydungeon_after",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 40046
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 300,
+      "forced_interaction_marker": "sprite_btn_event_lastkingdom",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010002
+    },
+    {
+      "id": 728,
+      "list_button_index": 3,
+      "event_field_id": 10010,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_24",
+      "npc_localkey_contents": "Locale_Event:event_contents_challenge",
+      "npc_type": "npc",
+      "resource_id": 7001007,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 60045
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 400,
+      "forced_interaction_marker": "sprite_btn_event_lastkingdom",
+      "is_interaction_after_end": false
+    },
+    {
+      "id": 729,
+      "event_field_id": 10010,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_25",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 300,
+      "forced_interaction_marker": "sprite_btn_event_lastkingdom",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010003
+    },
+    {
+      "id": 730,
+      "list_button_index": 4,
+      "event_field_id": 10010,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_25",
+      "npc_localkey_contents": "Locale_Event:event_contents_minigame",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 81201
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 300,
+      "forced_interaction_marker": "sprite_btn_event_lastkingdom",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010004
+    },
+    {
+      "id": 731,
+      "list_button_index": 5,
+      "event_field_id": 10010,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_26",
+      "npc_localkey_contents": "Locale_Event:event_contents_login",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 81203
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 300,
+      "forced_interaction_marker": "sprite_btn_event_lastkingdom",
+      "is_interaction_after_end": true
+    },
+    {
+      "id": 732,
+      "list_button_index": 6,
+      "event_field_id": 10010,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_27",
+      "npc_localkey_contents": "Locale_Event:event_contents_shop",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 81202
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 300,
+      "forced_interaction_marker": "sprite_btn_event_lastkingdom",
+      "is_interaction_after_end": true
+    },
+    {
+      "id": 733,
+      "event_field_id": 10010,
+      "npc_type": "npc",
+      "resource_id": 7006001,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010005,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_01",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 734,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 361,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010006,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_02",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 735,
+      "event_field_id": 10010,
+      "npc_type": "npc",
+      "resource_id": 7006001,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010007,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_03",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 736,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 260,
+      "costume_index": 2,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010008,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_04",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 737,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 361,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010009,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_05",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 738,
+      "event_field_id": 10010,
+      "npc_type": "npc",
+      "resource_id": 7006001,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010010,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_06",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 739,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 260,
+      "costume_index": 2,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010011,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_07",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 740,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 361,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010012,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_08",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 741,
+      "event_field_id": 10010,
+      "npc_type": "npc",
+      "resource_id": 7006001,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010013,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_09",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 742,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 260,
+      "costume_index": 2,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010014,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_10",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 743,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 361,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010015,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_11",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 744,
+      "event_field_id": 10010,
+      "npc_type": "npc",
+      "resource_id": 7006001,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010016,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_12",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 745,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 260,
+      "costume_index": 2,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010017,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_13",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 746,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 361,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010018,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_14",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 747,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 260,
+      "costume_index": 2,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010019,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_15",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 748,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 361,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010020,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_16",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 749,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 260,
+      "costume_index": 2,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010021,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_17",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 750,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 361,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010022,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_18",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 751,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 222,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010023,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_19",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 752,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 220,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010024,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_20",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 753,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 221,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010025,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_21",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 754,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 221,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010026,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_22",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 755,
+      "event_field_id": 10010,
+      "npc_type": "npc",
+      "resource_id": 7006001,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010027,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_23",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 756,
+      "event_field_id": 10010,
+      "npc_type": "npc",
+      "resource_id": 7006001,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010028,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_24",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 757,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 260,
+      "costume_index": 2,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010029,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_25",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 758,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 361,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010030,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_26",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 759,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 222,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010031,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_27",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 760,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 220,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010032,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_28",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 761,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 221,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010033,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_29",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 762,
+      "event_field_id": 10010,
+      "npc_type": "npc",
+      "resource_id": 7006001,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010034,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_30",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 763,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 260,
+      "costume_index": 2,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010035,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_31",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 764,
+      "event_field_id": 10010,
+      "npc_type": "character",
+      "resource_id": 361,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010036,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_32",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 765,
+      "event_field_id": 10010,
+      "npc_type": "npc",
+      "resource_id": 7006001,
+      "forced_name_tag_resource": "sprite_event_lastkingdom_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2010037,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_lastkingdom_balloon_33",
+      "balloon_always_cycle": 5
+    },
+    {
       "id": 9991,
       "event_field_id": 99999,
       "npc_localkey_name": "Locale_Character:10_name",

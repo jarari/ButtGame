@@ -1,0 +1,3942 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10101,
+      "skill_group_id": 101,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_acidbomb_lv1",
+      "skill_description": "Locale_Event:td_skill_description_acidbomb_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_acidbomb",
+      "skill_icon_background": "icn_skill_acidbomb_green",
+      "skill_projectile": "fx_m_fortheking_skill_projectile_chemical",
+      "skill_projectile_muzzle_type": "Muzzle",
+      "skill_hit_effect": "fx_m_fortheking_skill_hit_chemical",
+      "skill_hit_effect_type": "HitPoint",
+      "use_skill_spine_animation": true,
+      "skill_level": 1,
+      "skill_cost": 270,
+      "skill_use_type": "AttackCountAuto",
+      "skill_use_attack_count": 4,
+      "skill_type": "EnhanceNextNormalAttack",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 400,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 2500
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001031,
+          "skill_effect_hold_time": 350
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10102,
+      "skill_group_id": 101,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_acidbomb_lv2",
+      "skill_description": "Locale_Event:td_skill_description_acidbomb_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_acidbomb",
+      "skill_icon_background": "icn_skill_acidbomb_green",
+      "skill_projectile": "fx_m_fortheking_skill_projectile_chemical",
+      "skill_projectile_muzzle_type": "Muzzle",
+      "skill_hit_effect": "fx_m_fortheking_skill_hit_chemical",
+      "skill_hit_effect_type": "HitPoint",
+      "use_skill_spine_animation": true,
+      "skill_level": 2,
+      "skill_cost": 160,
+      "skill_use_type": "AttackCountAuto",
+      "skill_use_attack_count": 4,
+      "skill_type": "EnhanceNextNormalAttack",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 400,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 5000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001032,
+          "skill_effect_hold_time": 450
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10103,
+      "skill_group_id": 101,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_acidbomb_lv3",
+      "skill_description": "Locale_Event:td_skill_description_acidbomb_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_acidbomb",
+      "skill_icon_background": "icn_skill_acidbomb_green",
+      "skill_projectile": "fx_m_fortheking_skill_projectile_chemical",
+      "skill_projectile_muzzle_type": "Muzzle",
+      "skill_hit_effect": "fx_m_fortheking_skill_hit_chemical",
+      "skill_hit_effect_type": "HitPoint",
+      "use_skill_spine_animation": true,
+      "skill_level": 3,
+      "skill_cost": 320,
+      "skill_use_type": "AttackCountAuto",
+      "skill_use_attack_count": 3,
+      "skill_type": "EnhanceNextNormalAttack",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 400,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 7500
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001033,
+          "skill_effect_hold_time": 450
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10201,
+      "skill_group_id": 102,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rpmincrease_lv1",
+      "skill_description": "Locale_Event:td_skill_description_rpmincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rpmincrease",
+      "skill_icon_background": "icn_skill_rpmincrease_darkgrey",
+      "skill_level": 1,
+      "skill_cost": 210,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RpmIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 800
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10202,
+      "skill_group_id": 102,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rpmincrease_lv2",
+      "skill_description": "Locale_Event:td_skill_description_rpmincrease_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rpmincrease",
+      "skill_icon_background": "icn_skill_rpmincrease_darkgrey",
+      "skill_level": 2,
+      "skill_cost": 280,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RpmIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 1600
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10203,
+      "skill_group_id": 102,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rpmincrease_lv3",
+      "skill_description": "Locale_Event:td_skill_description_rpmincrease_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rpmincrease",
+      "skill_icon_background": "icn_skill_rpmincrease_darkgrey",
+      "skill_level": 3,
+      "skill_cost": 350,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RpmIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 2400
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10301,
+      "skill_group_id": 103,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_overheat_lv1",
+      "skill_description": "Locale_Event:td_skill_description_overheat_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_overheat",
+      "skill_icon_background": "icn_skill_overheat_darkorange",
+      "skill_spine_resource_parameter_on": true,
+      "skill_spine_resource_parameter_hold_time": 600,
+      "skill_level": 1,
+      "skill_cost": 270,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "Self",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011011,
+          "skill_effect_hold_time": 600
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10302,
+      "skill_group_id": 103,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_overheat_lv2",
+      "skill_description": "Locale_Event:td_skill_description_overheat_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_overheat",
+      "skill_icon_background": "icn_skill_overheat_darkorange",
+      "skill_spine_resource_parameter_on": true,
+      "skill_spine_resource_parameter_hold_time": 600,
+      "skill_level": 2,
+      "skill_cost": 160,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "Self",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011012,
+          "skill_effect_hold_time": 600
+        },
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011141,
+          "skill_effect_hold_time": 600
+        },
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011151,
+          "skill_effect_hold_time": 600
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10303,
+      "skill_group_id": 103,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_overheat_lv3",
+      "skill_description": "Locale_Event:td_skill_description_overheat_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_overheat",
+      "skill_icon_background": "icn_skill_overheat_darkorange",
+      "skill_spine_resource_parameter_on": true,
+      "skill_spine_resource_parameter_hold_time": 800,
+      "skill_level": 3,
+      "skill_cost": 320,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "Self",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011013,
+          "skill_effect_hold_time": 800
+        },
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011142,
+          "skill_effect_hold_time": 800
+        },
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011152,
+          "skill_effect_hold_time": 800
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10401,
+      "skill_group_id": 104,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rangeincrease_lv1",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rangeincrease",
+      "skill_icon_background": "icn_skill_rangeincrease_darkgrey",
+      "skill_level": 1,
+      "skill_cost": 210,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RangeIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 150
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10402,
+      "skill_group_id": 104,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rangeincrease_lv2",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rangeincrease",
+      "skill_icon_background": "icn_skill_rangeincrease_darkgrey",
+      "skill_level": 2,
+      "skill_cost": 280,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RangeIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 300
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10403,
+      "skill_group_id": 104,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rangeincrease_lv3",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rangeincrease",
+      "skill_icon_background": "icn_skill_rangeincrease_darkgrey",
+      "skill_level": 3,
+      "skill_cost": 350,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RangeIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 450
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10501,
+      "skill_group_id": 105,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_marksman_lv1",
+      "skill_description": "Locale_Event:td_skill_description_marksman_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_marksman",
+      "skill_icon_background": "icn_skill_marksman_orange",
+      "skill_projectile": "fx_m_fortheking_skill_projectile_pulsesniper_red",
+      "skill_projectile_muzzle_type": "Muzzle",
+      "skill_hit_effect": "fx_m_fortheking_skill_hit_pulsesniper_red",
+      "skill_hit_effect_type": "Everyone",
+      "use_skill_spine_animation": true,
+      "skill_level": 1,
+      "skill_cost": 300,
+      "skill_use_type": "AttackCountAuto",
+      "skill_use_attack_count": 3,
+      "skill_type": "EnhanceNextNormalAttack",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_count": 1,
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10000
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10502,
+      "skill_group_id": 105,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_marksman_lv2",
+      "skill_description": "Locale_Event:td_skill_description_marksman_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_marksman",
+      "skill_icon_background": "icn_skill_marksman_orange",
+      "skill_projectile": "fx_m_fortheking_skill_projectile_pulsesniper_red",
+      "skill_projectile_muzzle_type": "Muzzle",
+      "skill_hit_effect": "fx_m_fortheking_skill_hit_pulsesniper_red",
+      "skill_hit_effect_type": "Everyone",
+      "use_skill_spine_animation": true,
+      "skill_level": 2,
+      "skill_cost": 170,
+      "skill_use_type": "AttackCountAuto",
+      "skill_use_attack_count": 3,
+      "skill_type": "EnhanceNextNormalAttack",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_count": 1,
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 12000
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10503,
+      "skill_group_id": 105,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_marksman_lv3",
+      "skill_description": "Locale_Event:td_skill_description_marksman_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_marksman",
+      "skill_icon_background": "icn_skill_marksman_orange",
+      "skill_projectile": "fx_m_fortheking_skill_projectile_pulsesniper_red",
+      "skill_projectile_muzzle_type": "Muzzle",
+      "skill_hit_effect": "fx_m_fortheking_skill_hit_pulsesniper_red",
+      "skill_hit_effect_type": "Everyone",
+      "use_skill_spine_animation": true,
+      "skill_level": 3,
+      "skill_cost": 350,
+      "skill_use_type": "AttackCountAuto",
+      "skill_use_attack_count": 2,
+      "skill_type": "EnhanceNextNormalAttack",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_count": 1,
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 13000
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10601,
+      "skill_group_id": 106,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_atkincrease_lv1",
+      "skill_description": "Locale_Event:td_skill_description_atkincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_atkincrease",
+      "skill_icon_background": "icn_skill_atkincrease_darkgrey",
+      "skill_level": 1,
+      "skill_cost": 210,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "AtkIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 3
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10602,
+      "skill_group_id": 106,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_atkincrease_lv2",
+      "skill_description": "Locale_Event:td_skill_description_atkincrease_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_atkincrease",
+      "skill_icon_background": "icn_skill_atkincrease_darkgrey",
+      "skill_level": 2,
+      "skill_cost": 310,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "AtkIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 6
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10603,
+      "skill_group_id": 106,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_atkincrease_lv3",
+      "skill_description": "Locale_Event:td_skill_description_atkincrease_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_atkincrease",
+      "skill_icon_background": "icn_skill_atkincrease_darkgrey",
+      "skill_level": 3,
+      "skill_cost": 390,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "AtkIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 9
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10701,
+      "skill_group_id": 107,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_overcharge_lv1",
+      "skill_description": "Locale_Event:td_skill_description_overcharge_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_overcharge",
+      "skill_icon_background": "icn_skill_overcharge_indigo",
+      "skill_projectile": "fx_m_fortheking_skill_projectile_railcannon",
+      "skill_projectile_muzzle_type": "Muzzle",
+      "skill_hit_effect": "fx_m_fortheking_skill_hit_railcannon",
+      "skill_hit_effect_type": "HitPoint",
+      "use_skill_spine_animation": true,
+      "skill_level": 1,
+      "skill_cost": 300,
+      "skill_use_type": "AttackCountAuto",
+      "skill_use_attack_count": 2,
+      "skill_type": "EnhanceNextNormalAttack",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 900,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 4000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001041,
+          "skill_effect_hold_time": 300
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10702,
+      "skill_group_id": 107,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_overcharge_lv2",
+      "skill_description": "Locale_Event:td_skill_description_overcharge_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_overcharge",
+      "skill_icon_background": "icn_skill_overcharge_indigo",
+      "skill_projectile": "fx_m_fortheking_skill_projectile_railcannon",
+      "skill_projectile_muzzle_type": "Muzzle",
+      "skill_hit_effect": "fx_m_fortheking_skill_hit_railcannon",
+      "skill_hit_effect_type": "HitPoint",
+      "use_skill_spine_animation": true,
+      "skill_level": 2,
+      "skill_cost": 170,
+      "skill_use_type": "AttackCountAuto",
+      "skill_use_attack_count": 2,
+      "skill_type": "EnhanceNextNormalAttack",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 900,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 8000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001042,
+          "skill_effect_hold_time": 400
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10703,
+      "skill_group_id": 107,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_overcharge_lv3",
+      "skill_description": "Locale_Event:td_skill_description_overcharge_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_overcharge",
+      "skill_icon_background": "icn_skill_overcharge_indigo",
+      "skill_projectile": "fx_m_fortheking_skill_projectile_railcannon",
+      "skill_projectile_muzzle_type": "Muzzle",
+      "skill_hit_effect": "fx_m_fortheking_skill_hit_railcannon",
+      "skill_hit_effect_type": "HitPoint",
+      "use_skill_spine_animation": true,
+      "skill_level": 3,
+      "skill_cost": 350,
+      "skill_use_type": "AttackCountAuto",
+      "skill_use_attack_count": 1,
+      "skill_type": "EnhanceNextNormalAttack",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 900,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001043,
+          "skill_effect_hold_time": 500
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10801,
+      "skill_group_id": 108,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rpmincrease_lv1",
+      "skill_description": "Locale_Event:td_skill_description_rpmincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rpmincrease",
+      "skill_icon_background": "icn_skill_rpmincrease_darkgrey",
+      "skill_level": 1,
+      "skill_cost": 210,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RpmIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 1200
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10802,
+      "skill_group_id": 108,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rpmincrease_lv2",
+      "skill_description": "Locale_Event:td_skill_description_rpmincrease_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rpmincrease",
+      "skill_icon_background": "icn_skill_rpmincrease_darkgrey",
+      "skill_level": 2,
+      "skill_cost": 310,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RpmIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 2400
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10803,
+      "skill_group_id": 108,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rpmincrease_lv3",
+      "skill_description": "Locale_Event:td_skill_description_rpmincrease_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rpmincrease",
+      "skill_icon_background": "icn_skill_rpmincrease_darkgrey",
+      "skill_level": 3,
+      "skill_cost": 390,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RpmIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 3600
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10901,
+      "skill_group_id": 109,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_killermissile_lv1",
+      "skill_description": "Locale_Event:td_skill_description_killermissile_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_killermissile",
+      "skill_icon_background": "icn_skill_killermissile_brown",
+      "skill_projectile": "fx_m_fortheking_skill_projectile_missile",
+      "skill_projectile_muzzle_type": "Muzzle",
+      "skill_fire_effect": "fx_m_fortheking_skill_fire_missile",
+      "skill_hit_effect": "fx_m_fortheking_skill_hit_missile",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 1,
+      "skill_cost": 350,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "MissileProjectile",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 400,
+      "skill_missile_projectile_count": 8,
+      "skill_missile_projectile_fire_delay": 7,
+      "skill_projectile_approach_time": 180,
+      "skill_projectile_max_height": 2400,
+      "skill_projectile_missile_propulsion_start_timing": 75,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 2400
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10902,
+      "skill_group_id": 109,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_killermissile_lv2",
+      "skill_description": "Locale_Event:td_skill_description_killermissile_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_killermissile",
+      "skill_icon_background": "icn_skill_killermissile_brown",
+      "skill_projectile": "fx_m_fortheking_skill_projectile_missile",
+      "skill_projectile_muzzle_type": "Muzzle",
+      "skill_fire_effect": "fx_m_fortheking_skill_fire_missile",
+      "skill_hit_effect": "fx_m_fortheking_skill_hit_missile",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 2,
+      "skill_cost": 210,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "MissileProjectile",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 400,
+      "skill_missile_projectile_count": 8,
+      "skill_missile_projectile_fire_delay": 7,
+      "skill_projectile_approach_time": 180,
+      "skill_projectile_max_height": 2400,
+      "skill_projectile_missile_propulsion_start_timing": 75,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 2800
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10903,
+      "skill_group_id": 109,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_killermissile_lv3",
+      "skill_description": "Locale_Event:td_skill_description_killermissile_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_killermissile",
+      "skill_icon_background": "icn_skill_killermissile_brown",
+      "skill_projectile": "fx_m_fortheking_skill_projectile_missile",
+      "skill_projectile_muzzle_type": "Muzzle",
+      "skill_fire_effect": "fx_m_fortheking_skill_fire_missile",
+      "skill_hit_effect": "fx_m_fortheking_skill_hit_missile",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 3,
+      "skill_cost": 420,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "MissileProjectile",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 400,
+      "skill_missile_projectile_count": 12,
+      "skill_missile_projectile_fire_delay": 7,
+      "skill_projectile_approach_time": 180,
+      "skill_projectile_max_height": 2400,
+      "skill_projectile_missile_propulsion_start_timing": 75,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 2800
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11001,
+      "skill_group_id": 110,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rangeincrease_lv1",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rangeincrease",
+      "skill_icon_background": "icn_skill_rangeincrease_darkgrey",
+      "skill_level": 1,
+      "skill_cost": 210,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RangeIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 150
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11002,
+      "skill_group_id": 110,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rangeincrease_lv2",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rangeincrease",
+      "skill_icon_background": "icn_skill_rangeincrease_darkgrey",
+      "skill_level": 2,
+      "skill_cost": 360,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RangeIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 200
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11003,
+      "skill_group_id": 110,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rangeincrease_lv3",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rangeincrease",
+      "skill_icon_background": "icn_skill_rangeincrease_darkgrey",
+      "skill_level": 3,
+      "skill_cost": 460,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RangeIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 300
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11101,
+      "skill_group_id": 111,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_shockwave_lv1",
+      "skill_description": "Locale_Event:td_skill_description_shockwave_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_shockwave",
+      "skill_icon_background": "icn_skill_shockwave_yellowbrown",
+      "skill_area_effect": "fx_m_fortheking_skill_emp",
+      "skill_area_effect_type": "MyPosition",
+      "skill_level": 1,
+      "skill_cost": 350,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "SelfSetArea",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 2000,
+      "skill_area_hold_time": 550,
+      "skill_area_effect_duration": 100,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 2000
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11102,
+      "skill_group_id": 111,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_shockwave_lv2",
+      "skill_description": "Locale_Event:td_skill_description_shockwave_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_shockwave",
+      "skill_icon_background": "icn_skill_shockwave_yellowbrown",
+      "skill_area_effect": "fx_m_fortheking_skill_emp",
+      "skill_area_effect_type": "MyPosition",
+      "skill_level": 2,
+      "skill_cost": 210,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "SelfSetArea",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 2000,
+      "skill_area_hold_time": 550,
+      "skill_area_effect_duration": 100,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 2500
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11103,
+      "skill_group_id": 111,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_shockwave_lv3",
+      "skill_description": "Locale_Event:td_skill_description_shockwave_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_shockwave",
+      "skill_icon_background": "icn_skill_shockwave_yellowbrown",
+      "skill_area_effect": "fx_m_fortheking_skill_emp",
+      "skill_area_effect_type": "MyPosition",
+      "skill_level": 3,
+      "skill_cost": 420,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "SelfSetArea",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 2000,
+      "skill_area_hold_time": 550,
+      "skill_area_effect_duration": 80,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 2800
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11201,
+      "skill_group_id": 112,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_atkincrease_lv1",
+      "skill_description": "Locale_Event:td_skill_description_atkincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_atkincrease",
+      "skill_icon_background": "icn_skill_atkincrease_darkgrey",
+      "skill_level": 1,
+      "skill_cost": 210,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "AtkIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 5
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11202,
+      "skill_group_id": 112,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_atkincrease_lv2",
+      "skill_description": "Locale_Event:td_skill_description_atkincrease_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_atkincrease",
+      "skill_icon_background": "icn_skill_atkincrease_darkgrey",
+      "skill_level": 2,
+      "skill_cost": 360,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "AtkIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 10
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11203,
+      "skill_group_id": 112,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_atkincrease_lv3",
+      "skill_description": "Locale_Event:td_skill_description_atkincrease_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_atkincrease",
+      "skill_icon_background": "icn_skill_atkincrease_darkgrey",
+      "skill_level": 3,
+      "skill_cost": 460,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "AtkIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 15
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11301,
+      "skill_group_id": 113,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_absolutezero_lv1",
+      "skill_description": "Locale_Event:td_skill_description_absolutezero_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_absolutezero",
+      "skill_icon_background": "icn_skill_absolutezero_skyblue",
+      "skill_hit_effect": "fx_m_fortheking_skill_blizzard",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 1,
+      "skill_cost": 320,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 2400,
+      "skill_type": "SelfRadius",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 2600,
+      "skill_instant_effect_apply_delay": 150,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_count": 4,
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001051,
+          "skill_effect_hold_time": 50
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11302,
+      "skill_group_id": 113,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_absolutezero_lv2",
+      "skill_description": "Locale_Event:td_skill_description_absolutezero_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_absolutezero",
+      "skill_icon_background": "icn_skill_absolutezero_skyblue",
+      "skill_hit_effect": "fx_m_fortheking_skill_blizzard",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 2,
+      "skill_cost": 190,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 2200,
+      "skill_type": "SelfRadius",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 2600,
+      "skill_instant_effect_apply_delay": 150,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 12000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_count": 4,
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001052,
+          "skill_effect_hold_time": 75
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11303,
+      "skill_group_id": 113,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_absolutezero_lv3",
+      "skill_description": "Locale_Event:td_skill_description_absolutezero_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_absolutezero",
+      "skill_icon_background": "icn_skill_absolutezero_skyblue",
+      "skill_hit_effect": "fx_m_fortheking_skill_blizzard",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 3,
+      "skill_cost": 380,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 2000,
+      "skill_type": "SelfRadius",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 2800,
+      "skill_instant_effect_apply_delay": 150,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 15000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_count": 5,
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001053,
+          "skill_effect_hold_time": 100
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11401,
+      "skill_group_id": 114,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_debuffpowerup_lv1",
+      "skill_description": "Locale_Event:td_skill_description_debuffpowerup_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_debuffpowerup",
+      "skill_icon_background": "icn_skill_debuffpowerup_darkgrey",
+      "skill_level": 1,
+      "skill_cost": 210,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "DebuffPowerUp",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 400
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11402,
+      "skill_group_id": 114,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_debuffpowerup_lv2",
+      "skill_description": "Locale_Event:td_skill_description_debuffpowerup_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_debuffpowerup",
+      "skill_icon_background": "icn_skill_debuffpowerup_darkgrey",
+      "skill_level": 2,
+      "skill_cost": 340,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "DebuffPowerUp",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 800
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11403,
+      "skill_group_id": 114,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_debuffpowerup_lv3",
+      "skill_description": "Locale_Event:td_skill_description_debuffpowerup_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_debuffpowerup",
+      "skill_icon_background": "icn_skill_debuffpowerup_darkgrey",
+      "skill_level": 3,
+      "skill_cost": 420,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "DebuffPowerUp",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 1200
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11501,
+      "skill_group_id": 115,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_overcooling_lv1",
+      "skill_description": "Locale_Event:td_skill_description_overcooling_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_overcooling",
+      "skill_icon_background": "icn_skill_overcooling_skyblue",
+      "skill_spine_resource_parameter_on": true,
+      "skill_spine_resource_parameter_hold_time": 600,
+      "skill_level": 1,
+      "skill_cost": 320,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "Self",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011031,
+          "skill_effect_hold_time": 600
+        },
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011201,
+          "skill_effect_hold_time": 600
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11502,
+      "skill_group_id": 115,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_overcooling_lv2",
+      "skill_description": "Locale_Event:td_skill_description_overcooling_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_overcooling",
+      "skill_icon_background": "icn_skill_overcooling_skyblue",
+      "skill_spine_resource_parameter_on": true,
+      "skill_spine_resource_parameter_hold_time": 600,
+      "skill_level": 2,
+      "skill_cost": 190,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "Self",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011032,
+          "skill_effect_hold_time": 600
+        },
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011202,
+          "skill_effect_hold_time": 600
+        },
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011021,
+          "skill_effect_hold_time": 600
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11503,
+      "skill_group_id": 115,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_overcooling_lv3",
+      "skill_description": "Locale_Event:td_skill_description_overcooling_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_overcooling",
+      "skill_icon_background": "icn_skill_overcooling_skyblue",
+      "skill_spine_resource_parameter_on": true,
+      "skill_spine_resource_parameter_hold_time": 800,
+      "skill_level": 3,
+      "skill_cost": 380,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "Self",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011033,
+          "skill_effect_hold_time": 800
+        },
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011203,
+          "skill_effect_hold_time": 800
+        },
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011022,
+          "skill_effect_hold_time": 800
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11601,
+      "skill_group_id": 116,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rangeincrease_lv1",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rangeincrease",
+      "skill_icon_background": "icn_skill_rangeincrease_darkgrey",
+      "skill_level": 1,
+      "skill_cost": 210,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RangeIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 150
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11602,
+      "skill_group_id": 116,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rangeincrease_lv2",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rangeincrease",
+      "skill_icon_background": "icn_skill_rangeincrease_darkgrey",
+      "skill_level": 2,
+      "skill_cost": 340,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RangeIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 300
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11603,
+      "skill_group_id": 116,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rangeincrease_lv3",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rangeincrease",
+      "skill_icon_background": "icn_skill_rangeincrease_darkgrey",
+      "skill_level": 3,
+      "skill_cost": 420,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RangeIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 450
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11701,
+      "skill_group_id": 117,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_highspeedlearning_lv1",
+      "skill_description": "Locale_Event:td_skill_description_highspeedlearning_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_marian_skill",
+      "skill_icon_background": "icn_skill_marian_skill_purple",
+      "skill_aura_effect": "fx_m_fortheking_marian_skill",
+      "skill_aura_effect_type": "Hold",
+      "skill_aura_effect_target_type": "Self",
+      "skill_aura_effect_hold_time": 600,
+      "skill_level": 1,
+      "skill_cost": 410,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "Self",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011161,
+          "skill_effect_hold_time": 600
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11702,
+      "skill_group_id": 117,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_highspeedlearning_lv2",
+      "skill_description": "Locale_Event:td_skill_description_highspeedlearning_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_marian_skill",
+      "skill_icon_background": "icn_skill_marian_skill_purple",
+      "skill_aura_effect": "fx_m_fortheking_marian_skill",
+      "skill_aura_effect_type": "Hold",
+      "skill_aura_effect_target_type": "Self",
+      "skill_aura_effect_hold_time": 600,
+      "skill_level": 2,
+      "skill_cost": 240,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "Self",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011162,
+          "skill_effect_hold_time": 600
+        },
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011041,
+          "skill_effect_hold_time": 600
+        },
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011171,
+          "skill_effect_hold_time": 600
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11703,
+      "skill_group_id": 117,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_highspeedlearning_lv3",
+      "skill_description": "Locale_Event:td_skill_description_highspeedlearning_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_marian_skill",
+      "skill_icon_background": "icn_skill_marian_skill_purple",
+      "skill_aura_effect": "fx_m_fortheking_marian_skill",
+      "skill_aura_effect_type": "Hold",
+      "skill_aura_effect_target_type": "Self",
+      "skill_aura_effect_hold_time": 800,
+      "skill_level": 3,
+      "skill_cost": 480,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "Self",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011163,
+          "skill_effect_hold_time": 800
+        },
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011042,
+          "skill_effect_hold_time": 800
+        },
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011172,
+          "skill_effect_hold_time": 800
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11801,
+      "skill_group_id": 118,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rpmincrease_lv1",
+      "skill_description": "Locale_Event:td_skill_description_rpmincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rpmincrease",
+      "skill_icon_background": "icn_skill_rpmincrease_darkgrey",
+      "skill_level": 1,
+      "skill_cost": 210,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RpmIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 800
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11802,
+      "skill_group_id": 118,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rpmincrease_lv2",
+      "skill_description": "Locale_Event:td_skill_description_rpmincrease_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rpmincrease",
+      "skill_icon_background": "icn_skill_rpmincrease_darkgrey",
+      "skill_level": 2,
+      "skill_cost": 420,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RpmIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 1600
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11803,
+      "skill_group_id": 118,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rpmincrease_lv3",
+      "skill_description": "Locale_Event:td_skill_description_rpmincrease_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rpmincrease",
+      "skill_icon_background": "icn_skill_rpmincrease_darkgrey",
+      "skill_level": 3,
+      "skill_cost": 530,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RpmIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 2400
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11901,
+      "skill_group_id": 119,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_royalmajesty_lv1",
+      "skill_description": "Locale_Event:td_skill_description_royalmajesty_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_crown_skill",
+      "skill_icon_background": "icn_skill_crown_skill_lightbrown",
+      "skill_projectile": "fx_m_fortheking_crown_skill_projectile",
+      "skill_projectile_muzzle_type": "SkillPoint",
+      "skill_hit_effect": "fx_m_fortheking_crown_skill_hit",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 1,
+      "skill_cost": 410,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "MissileProjectile",
+      "skill_target_select_priority": "BossFirst",
+      "skill_effect_range": 200,
+      "skill_missile_projectile_count": 3,
+      "skill_missile_projectile_fire_delay": 10,
+      "skill_projectile_approach_time": 160,
+      "skill_projectile_max_height": 1800,
+      "skill_projectile_missile_propulsion_start_timing": 60,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 11000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001061,
+          "skill_effect_hold_time": 800
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11902,
+      "skill_group_id": 119,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_royalmajesty_lv2",
+      "skill_description": "Locale_Event:td_skill_description_royalmajesty_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_crown_skill",
+      "skill_icon_background": "icn_skill_crown_skill_lightbrown",
+      "skill_projectile": "fx_m_fortheking_crown_skill_projectile",
+      "skill_projectile_muzzle_type": "SkillPoint",
+      "skill_hit_effect": "fx_m_fortheking_crown_skill_hit",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 2,
+      "skill_cost": 240,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "MissileProjectile",
+      "skill_target_select_priority": "BossFirst",
+      "skill_effect_range": 300,
+      "skill_missile_projectile_count": 3,
+      "skill_missile_projectile_fire_delay": 10,
+      "skill_projectile_approach_time": 160,
+      "skill_projectile_max_height": 1800,
+      "skill_projectile_missile_propulsion_start_timing": 60,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 14000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001062,
+          "skill_effect_hold_time": 800
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11903,
+      "skill_group_id": 119,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_royalmajesty_lv3",
+      "skill_description": "Locale_Event:td_skill_description_royalmajesty_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_crown_skill",
+      "skill_icon_background": "icn_skill_crown_skill_lightbrown",
+      "skill_projectile": "fx_m_fortheking_crown_skill_projectile",
+      "skill_projectile_muzzle_type": "SkillPoint",
+      "skill_hit_effect": "fx_m_fortheking_crown_skill_hit",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 3,
+      "skill_cost": 480,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "MissileProjectile",
+      "skill_target_select_priority": "BossFirst",
+      "skill_effect_range": 400,
+      "skill_missile_projectile_count": 5,
+      "skill_missile_projectile_fire_delay": 10,
+      "skill_projectile_approach_time": 160,
+      "skill_projectile_max_height": 1800,
+      "skill_projectile_missile_propulsion_start_timing": 60,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 14000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001063,
+          "skill_effect_hold_time": 800
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12001,
+      "skill_group_id": 120,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rangeincrease_lv1",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rangeincrease",
+      "skill_icon_background": "icn_skill_rangeincrease_darkgrey",
+      "skill_level": 1,
+      "skill_cost": 210,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RangeIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 150
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12002,
+      "skill_group_id": 120,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rangeincrease_lv2",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rangeincrease",
+      "skill_icon_background": "icn_skill_rangeincrease_darkgrey",
+      "skill_level": 2,
+      "skill_cost": 420,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RangeIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 300
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12003,
+      "skill_group_id": 120,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rangeincrease_lv3",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rangeincrease",
+      "skill_icon_background": "icn_skill_rangeincrease_darkgrey",
+      "skill_level": 3,
+      "skill_cost": 530,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RangeIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 450
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12101,
+      "skill_group_id": 121,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_synchronize_lv1",
+      "skill_description": "Locale_Event:td_skill_description_synchronize_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_kilo_skill",
+      "skill_icon_background": "icn_skill_kilo_skill_orange",
+      "skill_aura_effect": "fx_m_fortheking_kilo_skill",
+      "skill_aura_effect_type": "Hold",
+      "skill_aura_effect_target_type": "All",
+      "skill_aura_effect_hold_time": 800,
+      "skill_level": 1,
+      "skill_cost": 410,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1800,
+      "skill_type": "Self",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 2400,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Ally",
+          "skill_effect_target_count": 2,
+          "skill_effect_target_priority": "TowerProximate",
+          "skill_effect_value": 10011181,
+          "skill_effect_hold_time": 800
+        },
+        {
+          "skill_effect_type": "ImmediatelySelfSetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011051,
+          "skill_effect_hold_time": 800
+        },
+        {
+          "skill_effect_type": "ImmediatelySelfSetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011061,
+          "skill_effect_hold_time": 800
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12102,
+      "skill_group_id": 121,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_synchronize_lv2",
+      "skill_description": "Locale_Event:td_skill_description_synchronize_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_kilo_skill",
+      "skill_icon_background": "icn_skill_kilo_skill_orange",
+      "skill_aura_effect": "fx_m_fortheking_kilo_skill",
+      "skill_aura_effect_type": "Hold",
+      "skill_aura_effect_target_type": "All",
+      "skill_aura_effect_hold_time": 800,
+      "skill_level": 2,
+      "skill_cost": 240,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1800,
+      "skill_type": "Self",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 3200,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Ally",
+          "skill_effect_target_count": 2,
+          "skill_effect_target_priority": "TowerProximate",
+          "skill_effect_value": 10011182,
+          "skill_effect_hold_time": 800
+        },
+        {
+          "skill_effect_type": "ImmediatelySelfSetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011052,
+          "skill_effect_hold_time": 800
+        },
+        {
+          "skill_effect_type": "ImmediatelySelfSetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011062,
+          "skill_effect_hold_time": 800
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12103,
+      "skill_group_id": 121,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_synchronize_lv3",
+      "skill_description": "Locale_Event:td_skill_description_synchronize_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_kilo_skill",
+      "skill_icon_background": "icn_skill_kilo_skill_orange",
+      "skill_aura_effect": "fx_m_fortheking_kilo_skill",
+      "skill_aura_effect_type": "Hold",
+      "skill_aura_effect_target_type": "All",
+      "skill_aura_effect_hold_time": 800,
+      "skill_level": 3,
+      "skill_cost": 480,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1800,
+      "skill_type": "Self",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 4000,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Ally",
+          "skill_effect_target_count": 4,
+          "skill_effect_target_priority": "TowerProximate",
+          "skill_effect_value": 10011183,
+          "skill_effect_hold_time": 800
+        },
+        {
+          "skill_effect_type": "ImmediatelySelfSetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011053,
+          "skill_effect_hold_time": 800
+        },
+        {
+          "skill_effect_type": "ImmediatelySelfSetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011063,
+          "skill_effect_hold_time": 800
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12201,
+      "skill_group_id": 122,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_burstcooltimedecrease_lv1",
+      "skill_description": "Locale_Event:td_skill_description_burstcooltimedecrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_burstcooltimedecrease",
+      "skill_icon_background": "icn_skill_burstcooltimedecrease_darkgrey",
+      "skill_level": 1,
+      "skill_cost": 210,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "BurstCoolTimeDecrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 300
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12202,
+      "skill_group_id": 122,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_burstcooltimedecrease_lv2",
+      "skill_description": "Locale_Event:td_skill_description_burstcooltimedecrease_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_burstcooltimedecrease",
+      "skill_icon_background": "icn_skill_burstcooltimedecrease_darkgrey",
+      "skill_level": 2,
+      "skill_cost": 420,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "BurstCoolTimeDecrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 600
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12203,
+      "skill_group_id": 122,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_burstcooltimedecrease_lv3",
+      "skill_description": "Locale_Event:td_skill_description_burstcooltimedecrease_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_burstcooltimedecrease",
+      "skill_icon_background": "icn_skill_burstcooltimedecrease_darkgrey",
+      "skill_level": 3,
+      "skill_cost": 530,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "BurstCoolTimeDecrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 900
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12301,
+      "skill_group_id": 123,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_sevendwarvesV_lv1",
+      "skill_description": "Locale_Event:td_skill_description_sevendwarvesV_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_snowwhite_skill",
+      "skill_icon_background": "icn_skill_snowwhite_skill_silver",
+      "skill_projectile": "fx_m_fortheking_snowwhite_skill_projectile",
+      "skill_projectile_muzzle_type": "SkillPoint",
+      "skill_hit_effect": "fx_m_fortheking_snowwhite_skill_hit",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 1,
+      "skill_cost": 410,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "MissileProjectile",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 150,
+      "skill_missile_projectile_count": 4,
+      "skill_missile_projectile_fire_delay": 20,
+      "skill_projectile_approach_time": 200,
+      "skill_projectile_max_height": 3000,
+      "skill_projectile_missile_propulsion_start_timing": 85,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "PenetrateDamage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 3500
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12302,
+      "skill_group_id": 123,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_sevendwarvesV_lv2",
+      "skill_description": "Locale_Event:td_skill_description_sevendwarvesV_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_snowwhite_skill",
+      "skill_icon_background": "icn_skill_snowwhite_skill_silver",
+      "skill_projectile": "fx_m_fortheking_snowwhite_skill_projectile",
+      "skill_projectile_muzzle_type": "SkillPoint",
+      "skill_hit_effect": "fx_m_fortheking_snowwhite_skill_hit",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 2,
+      "skill_cost": 240,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "MissileProjectile",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 250,
+      "skill_missile_projectile_count": 4,
+      "skill_missile_projectile_fire_delay": 20,
+      "skill_projectile_approach_time": 200,
+      "skill_projectile_max_height": 3000,
+      "skill_projectile_missile_propulsion_start_timing": 85,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "PenetrateDamage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 4500
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12303,
+      "skill_group_id": 123,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_sevendwarvesV_lv3",
+      "skill_description": "Locale_Event:td_skill_description_sevendwarvesV_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_snowwhite_skill",
+      "skill_icon_background": "icn_skill_snowwhite_skill_silver",
+      "skill_projectile": "fx_m_fortheking_snowwhite_skill_projectile",
+      "skill_projectile_muzzle_type": "SkillPoint",
+      "skill_hit_effect": "fx_m_fortheking_snowwhite_skill_hit",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 3,
+      "skill_cost": 480,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "MissileProjectile",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 350,
+      "skill_missile_projectile_count": 7,
+      "skill_missile_projectile_fire_delay": 20,
+      "skill_projectile_approach_time": 200,
+      "skill_projectile_max_height": 3000,
+      "skill_projectile_missile_propulsion_start_timing": 85,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "PenetrateDamage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 4500
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12401,
+      "skill_group_id": 124,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rpmincrease_lv1",
+      "skill_description": "Locale_Event:td_skill_description_rpmincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rpmincrease",
+      "skill_icon_background": "icn_skill_rpmincrease_darkgrey",
+      "skill_level": 1,
+      "skill_cost": 210,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RpmIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 800
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12402,
+      "skill_group_id": 124,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rpmincrease_lv2",
+      "skill_description": "Locale_Event:td_skill_description_rpmincrease_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rpmincrease",
+      "skill_icon_background": "icn_skill_rpmincrease_darkgrey",
+      "skill_level": 2,
+      "skill_cost": 420,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RpmIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 1600
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12403,
+      "skill_group_id": 124,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_rpmincrease_lv3",
+      "skill_description": "Locale_Event:td_skill_description_rpmincrease_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rpmincrease",
+      "skill_icon_background": "icn_skill_rpmincrease_darkgrey",
+      "skill_level": 3,
+      "skill_cost": 530,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "RpmIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 2400
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12501,
+      "skill_group_id": 125,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_fullbloom_lv1",
+      "skill_description": "Locale_Event:td_skill_description_fullbloom_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_scarlet_skill",
+      "skill_icon_background": "icn_skill_scarlet_skill_darkorange",
+      "skill_aura_effect": "fx_m_fortheking_scarlet_skill",
+      "skill_aura_effect_type": "Hold",
+      "skill_aura_effect_target_type": "Self",
+      "skill_aura_effect_hold_time": 600,
+      "skill_level": 1,
+      "skill_cost": 410,
+      "skill_use_type": "BurstUseAuto",
+      "skill_type": "SelfImmediately",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011101,
+          "skill_effect_hold_time": 600
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12502,
+      "skill_group_id": 125,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_fullbloom_lv2",
+      "skill_description": "Locale_Event:td_skill_description_fullbloom_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_scarlet_skill",
+      "skill_icon_background": "icn_skill_scarlet_skill_darkorange",
+      "skill_aura_effect": "fx_m_fortheking_scarlet_skill",
+      "skill_aura_effect_type": "Hold",
+      "skill_aura_effect_target_type": "Self",
+      "skill_aura_effect_hold_time": 900,
+      "skill_level": 2,
+      "skill_cost": 240,
+      "skill_use_type": "BurstUseAuto",
+      "skill_type": "SelfImmediately",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011102,
+          "skill_effect_hold_time": 900
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12503,
+      "skill_group_id": 125,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_fullbloom_lv3",
+      "skill_description": "Locale_Event:td_skill_description_fullbloom_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_scarlet_skill",
+      "skill_icon_background": "icn_skill_scarlet_skill_darkorange",
+      "skill_aura_effect": "fx_m_fortheking_scarlet_skill",
+      "skill_aura_effect_type": "Hold",
+      "skill_aura_effect_target_type": "Self",
+      "skill_aura_effect_hold_time": 1000,
+      "skill_level": 3,
+      "skill_cost": 480,
+      "skill_use_type": "BurstUseAuto",
+      "skill_type": "SelfImmediately",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011103,
+          "skill_effect_hold_time": 1000
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12601,
+      "skill_group_id": 126,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_burstcooltimedecrease_lv1",
+      "skill_description": "Locale_Event:td_skill_description_burstcooltimedecrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_burstcooltimedecrease",
+      "skill_icon_background": "icn_skill_burstcooltimedecrease_darkgrey",
+      "skill_level": 1,
+      "skill_cost": 210,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "BurstCoolTimeDecrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 300
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12602,
+      "skill_group_id": 126,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_burstcooltimedecrease_lv2",
+      "skill_description": "Locale_Event:td_skill_description_burstcooltimedecrease_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_burstcooltimedecrease",
+      "skill_icon_background": "icn_skill_burstcooltimedecrease_darkgrey",
+      "skill_level": 2,
+      "skill_cost": 420,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "BurstCoolTimeDecrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 600
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12603,
+      "skill_group_id": 126,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_burstcooltimedecrease_lv3",
+      "skill_description": "Locale_Event:td_skill_description_burstcooltimedecrease_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_burstcooltimedecrease",
+      "skill_icon_background": "icn_skill_burstcooltimedecrease_darkgrey",
+      "skill_level": 3,
+      "skill_cost": 530,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "BurstCoolTimeDecrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 900
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12701,
+      "skill_group_id": 127,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_timedistortion_lv1",
+      "skill_description": "Locale_Event:td_skill_description_timedistortion_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rapunzel_skill",
+      "skill_icon_background": "icn_skill_rapunzel_skill_Teal",
+      "skill_hit_effect": "fx_m_fortheking_rapunzel_skill_hit",
+      "skill_hit_effect_type": "Everyone",
+      "skill_aura_effect": "fx_m_fortheking_rapunzel_skill",
+      "skill_aura_effect_type": "Once",
+      "skill_aura_effect_target_type": "Self",
+      "skill_level": 1,
+      "skill_cost": 410,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1600,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 200,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_count": 8,
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 9000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_count": 8,
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001071,
+          "skill_effect_hold_time": 150
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12702,
+      "skill_group_id": 127,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_timedistortion_lv2",
+      "skill_description": "Locale_Event:td_skill_description_timedistortion_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rapunzel_skill",
+      "skill_icon_background": "icn_skill_rapunzel_skill_Teal",
+      "skill_hit_effect": "fx_m_fortheking_rapunzel_skill_hit",
+      "skill_hit_effect_type": "Everyone",
+      "skill_aura_effect": "fx_m_fortheking_rapunzel_skill",
+      "skill_aura_effect_type": "Once",
+      "skill_aura_effect_target_type": "Self",
+      "skill_level": 2,
+      "skill_cost": 240,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1600,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 200,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_count": 8,
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 12000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_count": 8,
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001072,
+          "skill_effect_hold_time": 175
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12703,
+      "skill_group_id": 127,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_timedistortion_lv3",
+      "skill_description": "Locale_Event:td_skill_description_timedistortion_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_rapunzel_skill",
+      "skill_icon_background": "icn_skill_rapunzel_skill_Teal",
+      "skill_hit_effect": "fx_m_fortheking_rapunzel_skill_hit",
+      "skill_hit_effect_type": "Everyone",
+      "skill_aura_effect": "fx_m_fortheking_rapunzel_skill",
+      "skill_aura_effect_type": "Once",
+      "skill_aura_effect_target_type": "Self",
+      "skill_level": 3,
+      "skill_cost": 480,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1600,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 400,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_count": 12,
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 15000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_count": 12,
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001073,
+          "skill_effect_hold_time": 200
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12801,
+      "skill_group_id": 128,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_debuffpowerup_lv1",
+      "skill_description": "Locale_Event:td_skill_description_debuffpowerup_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_debuffpowerup",
+      "skill_icon_background": "icn_skill_debuffpowerup_darkgrey",
+      "skill_level": 1,
+      "skill_cost": 210,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "DebuffPowerUp",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 400
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12802,
+      "skill_group_id": 128,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_debuffpowerup_lv2",
+      "skill_description": "Locale_Event:td_skill_description_debuffpowerup_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_debuffpowerup",
+      "skill_icon_background": "icn_skill_debuffpowerup_darkgrey",
+      "skill_level": 2,
+      "skill_cost": 420,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "DebuffPowerUp",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 800
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12803,
+      "skill_group_id": 128,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_debuffpowerup_lv3",
+      "skill_description": "Locale_Event:td_skill_description_debuffpowerup_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_debuffpowerup",
+      "skill_icon_background": "icn_skill_debuffpowerup_darkgrey",
+      "skill_level": 3,
+      "skill_cost": 530,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "DebuffPowerUp",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 1200
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12901,
+      "skill_group_id": 129,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_kingsglory_lv1",
+      "skill_description": "Locale_Event:td_skill_description_kingsglory_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_crownnakedking_skill",
+      "skill_icon_background": "icn_skill_crownnakedking_skill_maroon",
+      "skill_projectile": "fx_m_fortheking_crownnakedking_skill_projectile",
+      "skill_projectile_muzzle_type": "SkillPoint",
+      "skill_hit_effect": "fx_m_fortheking_crownnakedking_skill_hit",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 1,
+      "skill_cost": 410,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "MissileProjectile",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 400,
+      "skill_missile_projectile_count": 3,
+      "skill_missile_projectile_fire_delay": 10,
+      "skill_projectile_approach_time": 160,
+      "skill_projectile_max_height": 1800,
+      "skill_projectile_missile_propulsion_start_timing": 60,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 3800
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001011,
+          "skill_effect_hold_time": 350
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001081,
+          "skill_effect_hold_time": 800
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12902,
+      "skill_group_id": 129,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_kingsglory_lv2",
+      "skill_description": "Locale_Event:td_skill_description_kingsglory_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_crownnakedking_skill",
+      "skill_icon_background": "icn_skill_crownnakedking_skill_maroon",
+      "skill_projectile": "fx_m_fortheking_crownnakedking_skill_projectile",
+      "skill_projectile_muzzle_type": "SkillPoint",
+      "skill_hit_effect": "fx_m_fortheking_crownnakedking_skill_hit",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 2,
+      "skill_cost": 240,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "MissileProjectile",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 500,
+      "skill_missile_projectile_count": 3,
+      "skill_missile_projectile_fire_delay": 10,
+      "skill_projectile_approach_time": 160,
+      "skill_projectile_max_height": 1800,
+      "skill_projectile_missile_propulsion_start_timing": 60,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 4300
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001012,
+          "skill_effect_hold_time": 450
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001082,
+          "skill_effect_hold_time": 800
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12903,
+      "skill_group_id": 129,
+      "skill_system_type": "Active",
+      "skill_name": "Locale_Event:td_skill_name_kingsglory_lv3",
+      "skill_description": "Locale_Event:td_skill_description_kingsglory_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_crownnakedking_skill",
+      "skill_icon_background": "icn_skill_crownnakedking_skill_maroon",
+      "skill_projectile": "fx_m_fortheking_crownnakedking_skill_projectile",
+      "skill_projectile_muzzle_type": "SkillPoint",
+      "skill_hit_effect": "fx_m_fortheking_crownnakedking_skill_hit",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 3,
+      "skill_cost": 480,
+      "skill_use_type": "CoolTimeAuto",
+      "skill_cool_time": 1200,
+      "skill_type": "MissileProjectile",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 600,
+      "skill_missile_projectile_count": 5,
+      "skill_missile_projectile_fire_delay": 10,
+      "skill_projectile_approach_time": 160,
+      "skill_projectile_max_height": 1800,
+      "skill_projectile_missile_propulsion_start_timing": 60,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 4300
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001013,
+          "skill_effect_hold_time": 550
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001083,
+          "skill_effect_hold_time": 800
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 13001,
+      "skill_group_id": 130,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_atkincrease_lv1",
+      "skill_description": "Locale_Event:td_skill_description_atkincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_atkincrease",
+      "skill_icon_background": "icn_skill_atkincrease_darkgrey",
+      "skill_level": 1,
+      "skill_cost": 210,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "AtkIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 5
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 13002,
+      "skill_group_id": 130,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_atkincrease_lv2",
+      "skill_description": "Locale_Event:td_skill_description_atkincrease_lv2",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_atkincrease",
+      "skill_icon_background": "icn_skill_atkincrease_darkgrey",
+      "skill_level": 2,
+      "skill_cost": 420,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "AtkIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 10
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 13003,
+      "skill_group_id": 130,
+      "skill_system_type": "Passive",
+      "skill_name": "Locale_Event:td_skill_name_atkincrease_lv3",
+      "skill_description": "Locale_Event:td_skill_description_atkincrease_lv3",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_atkincrease",
+      "skill_icon_background": "icn_skill_atkincrease_darkgrey",
+      "skill_level": 3,
+      "skill_cost": 530,
+      "skill_use_type": "None",
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "AtkIncrease",
+          "skill_effect_target": "Self",
+          "skill_effect_value": 15
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20101,
+      "skill_group_id": 201,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_newworld_lv1",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv1",
+      "skill_icon": "icn_skill_marian_burst",
+      "skill_icon_background": "icn_skill_marian_burst_purple",
+      "skill_hit_effect": "fx_m_fortheking_marian_burst_01_hit",
+      "skill_hit_effect_type": "Everyone",
+      "skill_area_effect": "fx_m_fortheking_marian_burst_01",
+      "skill_area_effect_type": "HitPosition",
+      "skill_level": 1,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 6000,
+      "skill_type": "InstantSetArea",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1400,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_area_hold_time": 600,
+      "skill_area_effect_duration": 80,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 6000
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20102,
+      "skill_group_id": 201,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_newworld_lv2",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv2",
+      "skill_icon": "icn_skill_marian_burst",
+      "skill_icon_background": "icn_skill_marian_burst_purple",
+      "skill_hit_effect": "fx_m_fortheking_marian_burst_01_hit",
+      "skill_hit_effect_type": "Everyone",
+      "skill_area_effect": "fx_m_fortheking_marian_burst_01",
+      "skill_area_effect_type": "HitPosition",
+      "skill_level": 2,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 6000,
+      "skill_type": "InstantSetArea",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1400,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_area_hold_time": 600,
+      "skill_area_effect_duration": 80,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 6500
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20103,
+      "skill_group_id": 201,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_newworld_lv3",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_lv3",
+      "skill_icon": "icn_skill_marian_burst",
+      "skill_icon_background": "icn_skill_marian_burst_purple",
+      "skill_hit_effect": "fx_m_fortheking_marian_burst_01_hit",
+      "skill_hit_effect_type": "Everyone",
+      "skill_area_effect": "fx_m_fortheking_marian_burst_01",
+      "skill_area_effect_type": "HitPosition",
+      "skill_level": 3,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 6000,
+      "skill_type": "InstantSetArea",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1400,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_area_hold_time": 600,
+      "skill_area_effect_duration": 80,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 7000
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20104,
+      "skill_group_id": 201,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_newworld_evl",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_newworld_evl",
+      "skill_icon": "icn_skill_marian_burst",
+      "skill_icon_background": "icn_skill_marian_burst_purple",
+      "skill_hit_effect": "fx_m_fortheking_marian_burst_02_hit",
+      "skill_hit_effect_type": "Everyone",
+      "skill_area_effect": "fx_m_fortheking_marian_burst_02",
+      "skill_area_effect_type": "HitPosition",
+      "skill_level": 4,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 6000,
+      "skill_type": "InstantSetArea",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1800,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_area_hold_time": 600,
+      "skill_area_effect_duration": 65,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 7000
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20201,
+      "skill_group_id": 202,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_kingspower_lv1",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_kingspower_lv1",
+      "skill_icon": "icn_skill_crown_burst",
+      "skill_icon_background": "icn_skill_crown_burst_lightbrown",
+      "skill_area_effect": "fx_m_fortheking_crown_burst_01",
+      "skill_area_effect_type": "HitPosition",
+      "skill_level": 1,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "InstantSetArea",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1400,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_area_hold_time": 800,
+      "skill_area_effect_duration": 120,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 9000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001091,
+          "skill_effect_hold_time": 400
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20202,
+      "skill_group_id": 202,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_kingspower_lv2",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_kingspower_lv2",
+      "skill_icon": "icn_skill_crown_burst",
+      "skill_icon_background": "icn_skill_crown_burst_lightbrown",
+      "skill_area_effect": "fx_m_fortheking_crown_burst_01",
+      "skill_area_effect_type": "HitPosition",
+      "skill_level": 2,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "InstantSetArea",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1400,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_area_hold_time": 800,
+      "skill_area_effect_duration": 120,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001092,
+          "skill_effect_hold_time": 400
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20203,
+      "skill_group_id": 202,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_kingspower_lv3",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_kingspower_lv3",
+      "skill_icon": "icn_skill_crown_burst",
+      "skill_icon_background": "icn_skill_crown_burst_lightbrown",
+      "skill_area_effect": "fx_m_fortheking_crown_burst_01",
+      "skill_area_effect_type": "HitPosition",
+      "skill_level": 3,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "InstantSetArea",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1400,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_area_hold_time": 800,
+      "skill_area_effect_duration": 120,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 11000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001093,
+          "skill_effect_hold_time": 400
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20204,
+      "skill_group_id": 202,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_kingspower_evl",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_kingspower_evl",
+      "skill_icon": "icn_skill_crown_burst",
+      "skill_icon_background": "icn_skill_crown_burst_lightbrown",
+      "skill_area_effect": "fx_m_fortheking_crown_burst_02",
+      "skill_area_effect_type": "HitPosition",
+      "skill_level": 4,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "InstantSetArea",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1800,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_area_hold_time": 1000,
+      "skill_area_effect_duration": 120,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 13000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001094,
+          "skill_effect_hold_time": 600
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20301,
+      "skill_group_id": 203,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_overdrive_lv1",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_overdrive_lv1",
+      "skill_icon": "icn_skill_kilo_burst",
+      "skill_icon_background": "icn_skill_kilo_burst_orange",
+      "skill_hit_effect": "fx_m_fortheking_kilo_burst_01",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_aura_effect": "fx_m_fortheking_kilo_burst_aura_01",
+      "skill_aura_effect_type": "Once",
+      "skill_aura_effect_target_type": "All",
+      "skill_level": 1,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1800,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Ally",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011191,
+          "skill_effect_hold_time": 1000
+        },
+        {
+          "skill_effect_type": "ImmediatelySelfSetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011071,
+          "skill_effect_hold_time": 1000
+        },
+        {
+          "skill_effect_type": "ImmediatelySelfSetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011081,
+          "skill_effect_hold_time": 1000
+        },
+        {
+          "skill_effect_type": "ImmediatelySelfSetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011091,
+          "skill_effect_hold_time": 1000
+        },
+        {}
+      ]
+    },
+    {
+      "id": 20302,
+      "skill_group_id": 203,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_overdrive_lv2",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_overdrive_lv2",
+      "skill_icon": "icn_skill_kilo_burst",
+      "skill_icon_background": "icn_skill_kilo_burst_orange",
+      "skill_hit_effect": "fx_m_fortheking_kilo_burst_01",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_aura_effect": "fx_m_fortheking_kilo_burst_aura_01",
+      "skill_aura_effect_type": "Once",
+      "skill_aura_effect_target_type": "All",
+      "skill_level": 2,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1800,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Ally",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011192,
+          "skill_effect_hold_time": 1000
+        },
+        {
+          "skill_effect_type": "ImmediatelySelfSetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011072,
+          "skill_effect_hold_time": 1000
+        },
+        {
+          "skill_effect_type": "ImmediatelySelfSetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011082,
+          "skill_effect_hold_time": 1000
+        },
+        {
+          "skill_effect_type": "ImmediatelySelfSetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011092,
+          "skill_effect_hold_time": 1000
+        },
+        {}
+      ]
+    },
+    {
+      "id": 20303,
+      "skill_group_id": 203,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_overdrive_lv3",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_overdrive_lv3",
+      "skill_icon": "icn_skill_kilo_burst",
+      "skill_icon_background": "icn_skill_kilo_burst_orange",
+      "skill_hit_effect": "fx_m_fortheking_kilo_burst_01",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_aura_effect": "fx_m_fortheking_kilo_burst_aura_01",
+      "skill_aura_effect_type": "Once",
+      "skill_aura_effect_target_type": "All",
+      "skill_level": 3,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1800,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Ally",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011193,
+          "skill_effect_hold_time": 1000
+        },
+        {
+          "skill_effect_type": "ImmediatelySelfSetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011073,
+          "skill_effect_hold_time": 1000
+        },
+        {
+          "skill_effect_type": "ImmediatelySelfSetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011083,
+          "skill_effect_hold_time": 1000
+        },
+        {
+          "skill_effect_type": "ImmediatelySelfSetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011093,
+          "skill_effect_hold_time": 1000
+        },
+        {}
+      ]
+    },
+    {
+      "id": 20304,
+      "skill_group_id": 203,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_overdrive_evl",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_overdrive_evl",
+      "skill_icon": "icn_skill_kilo_burst",
+      "skill_icon_background": "icn_skill_kilo_burst_orange",
+      "skill_hit_effect": "fx_m_fortheking_kilo_burst_02",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_aura_effect": "fx_m_fortheking_kilo_burst_aura_02",
+      "skill_aura_effect_type": "Once",
+      "skill_aura_effect_target_type": "All",
+      "skill_level": 4,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 2400,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "SetBuff",
+          "skill_effect_target": "Ally",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011194,
+          "skill_effect_hold_time": 1200
+        },
+        {
+          "skill_effect_type": "ImmediatelySelfSetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011074,
+          "skill_effect_hold_time": 1200
+        },
+        {
+          "skill_effect_type": "ImmediatelySelfSetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011084,
+          "skill_effect_hold_time": 1200
+        },
+        {
+          "skill_effect_type": "ImmediatelySelfSetBuff",
+          "skill_effect_target": "Self",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 10011094,
+          "skill_effect_hold_time": 1200
+        },
+        {}
+      ]
+    },
+    {
+      "id": 20401,
+      "skill_group_id": 204,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_sevendwarvesI_lv1",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_sevendwarvesI_lv1",
+      "skill_icon": "icn_skill_snowwhite_burst",
+      "skill_icon_background": "icn_skill_snowwhite_burst_silver",
+      "skill_hit_effect": "fx_m_fortheking_snowwhite_burst_01",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 1,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 350,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "PenetrateDamage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 48000
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20402,
+      "skill_group_id": 204,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_sevendwarvesI_lv2",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_sevendwarvesI_lv2",
+      "skill_icon": "icn_skill_snowwhite_burst",
+      "skill_icon_background": "icn_skill_snowwhite_burst_silver",
+      "skill_hit_effect": "fx_m_fortheking_snowwhite_burst_01",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 2,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 350,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "PenetrateDamage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 54500
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20403,
+      "skill_group_id": 204,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_sevendwarvesI_lv3",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_sevendwarvesI_lv3",
+      "skill_icon": "icn_skill_snowwhite_burst",
+      "skill_icon_background": "icn_skill_snowwhite_burst_silver",
+      "skill_hit_effect": "fx_m_fortheking_snowwhite_burst_01",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 3,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 350,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "PenetrateDamage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 61000
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20404,
+      "skill_group_id": 204,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_sevendwarvesI_evl",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_sevendwarvesI_evl",
+      "skill_icon": "icn_skill_snowwhite_burst",
+      "skill_icon_background": "icn_skill_snowwhite_burst_silver",
+      "skill_hit_effect": "fx_m_fortheking_snowwhite_burst_02",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 4,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 500,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "PenetrateDamage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 82000
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20501,
+      "skill_group_id": 205,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_scarletflash_lv1",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_scarletflash_lv1",
+      "skill_icon": "icn_skill_scarlet_burst",
+      "skill_icon_background": "icn_skill_scarlet_burst_darkorange",
+      "skill_hit_effect": "fx_m_fortheking_scarlet_burst_01",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 1,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 800,
+      "skill_instant_effect_apply_delay": 80,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 43000
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20502,
+      "skill_group_id": 205,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_scarletflash_lv2",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_scarletflash_lv2",
+      "skill_icon": "icn_skill_scarlet_burst",
+      "skill_icon_background": "icn_skill_scarlet_burst_darkorange",
+      "skill_hit_effect": "fx_m_fortheking_scarlet_burst_01",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 2,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 800,
+      "skill_instant_effect_apply_delay": 80,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 48000
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20503,
+      "skill_group_id": 205,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_scarletflash_lv3",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_scarletflash_lv3",
+      "skill_icon": "icn_skill_scarlet_burst",
+      "skill_icon_background": "icn_skill_scarlet_burst_darkorange",
+      "skill_hit_effect": "fx_m_fortheking_scarlet_burst_01",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 3,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 800,
+      "skill_instant_effect_apply_delay": 80,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 51500
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20504,
+      "skill_group_id": 205,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_scarletflash_evl",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_scarletflash_evl",
+      "skill_icon": "icn_skill_scarlet_burst",
+      "skill_icon_background": "icn_skill_scarlet_burst_darkorange",
+      "skill_hit_effect": "fx_m_fortheking_scarlet_burst_02",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 4,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1000,
+      "skill_instant_effect_apply_delay": 80,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 63000
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20601,
+      "skill_group_id": 206,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_spacetimedistortion_lv1",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_spacetimedistortion_lv1",
+      "skill_icon": "icn_skill_rapunzel_burst",
+      "skill_icon_background": "icn_skill_rapunzel_burst_Teal",
+      "skill_hit_effect": "fx_m_fortheking_rapunzel_burst_01",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 1,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1000,
+      "skill_instant_effect_apply_delay": 100,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 20000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001101,
+          "skill_effect_hold_time": 300
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20602,
+      "skill_group_id": 206,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_spacetimedistortion_lv2",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_spacetimedistortion_lv2",
+      "skill_icon": "icn_skill_rapunzel_burst",
+      "skill_icon_background": "icn_skill_rapunzel_burst_Teal",
+      "skill_hit_effect": "fx_m_fortheking_rapunzel_burst_01",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 2,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1000,
+      "skill_instant_effect_apply_delay": 100,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 25000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001102,
+          "skill_effect_hold_time": 325
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20603,
+      "skill_group_id": 206,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_spacetimedistortion_lv3",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_spacetimedistortion_lv3",
+      "skill_icon": "icn_skill_rapunzel_burst",
+      "skill_icon_background": "icn_skill_rapunzel_burst_Teal",
+      "skill_hit_effect": "fx_m_fortheking_rapunzel_burst_01",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 3,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1000,
+      "skill_instant_effect_apply_delay": 100,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 30000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001103,
+          "skill_effect_hold_time": 350
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20604,
+      "skill_group_id": 206,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_spacetimedistortion_evl",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_spacetimedistortion_evl",
+      "skill_icon": "icn_skill_rapunzel_burst",
+      "skill_icon_background": "icn_skill_rapunzel_burst_Teal",
+      "skill_hit_effect": "fx_m_fortheking_rapunzel_burst_02",
+      "skill_hit_effect_type": "HitPoint",
+      "skill_level": 4,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 4000,
+      "skill_type": "Instant",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1200,
+      "skill_instant_effect_apply_delay": 100,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 45000
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001104,
+          "skill_effect_hold_time": 500
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20701,
+      "skill_group_id": 207,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_kingsground_lv1",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_kingsground_lv1",
+      "skill_icon": "icn_skill_crwonnakedking_burst",
+      "skill_icon_background": "icn_skill_crwonnakedking_burst_maroon",
+      "skill_area_effect": "fx_m_fortheking_crownnakedking_burst_01",
+      "skill_area_effect_type": "HitPosition",
+      "skill_level": 1,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 6000,
+      "skill_type": "InstantSetArea",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1200,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_area_hold_time": 600,
+      "skill_area_effect_duration": 80,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 2800
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001021,
+          "skill_effect_hold_time": 400
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20702,
+      "skill_group_id": 207,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_kingsground_lv2",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_kingsground_lv2",
+      "skill_icon": "icn_skill_crwonnakedking_burst",
+      "skill_icon_background": "icn_skill_crwonnakedking_burst_maroon",
+      "skill_area_effect": "fx_m_fortheking_crownnakedking_burst_01",
+      "skill_area_effect_type": "HitPosition",
+      "skill_level": 2,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 6000,
+      "skill_type": "InstantSetArea",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1200,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_area_hold_time": 600,
+      "skill_area_effect_duration": 80,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 3100
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001022,
+          "skill_effect_hold_time": 400
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20703,
+      "skill_group_id": 207,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_kingsground_lv3",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_kingsground_lv3",
+      "skill_icon": "icn_skill_crwonnakedking_burst",
+      "skill_icon_background": "icn_skill_crwonnakedking_burst_maroon",
+      "skill_area_effect": "fx_m_fortheking_crownnakedking_burst_01",
+      "skill_area_effect_type": "HitPosition",
+      "skill_level": 3,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 6000,
+      "skill_type": "InstantSetArea",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1200,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_area_hold_time": 600,
+      "skill_area_effect_duration": 80,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 3400
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001023,
+          "skill_effect_hold_time": 400
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20704,
+      "skill_group_id": 207,
+      "skill_system_type": "BurstSkill",
+      "skill_name": "Locale_Event:td_skill_name_kingsground_evl",
+      "skill_description": "Locale_Event:td_skill_description_rangeincrease_lv1",
+      "skill_description_short": "Locale_Event:td_skill_description_short_kingsground_evl",
+      "skill_icon": "icn_skill_crwonnakedking_burst",
+      "skill_icon_background": "icn_skill_crwonnakedking_burst_maroon",
+      "skill_area_effect": "fx_m_fortheking_crownnakedking_burst_02",
+      "skill_area_effect_type": "HitPosition",
+      "skill_level": 4,
+      "skill_use_type": "Manual",
+      "skill_cool_time": 6000,
+      "skill_type": "InstantSetArea",
+      "skill_target_select_priority": "Standard",
+      "skill_effect_range": 1600,
+      "skill_instant_effect_apply_delay": 25,
+      "skill_area_hold_time": 600,
+      "skill_area_effect_duration": 65,
+      "skill_effect_list": [
+        {
+          "skill_effect_type": "Damage",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 3850
+        },
+        {
+          "skill_effect_type": "SetDebuff",
+          "skill_effect_target": "Foe",
+          "skill_effect_target_priority": "Random",
+          "skill_effect_value": 1001024,
+          "skill_effect_hold_time": 600
+        },
+        {},
+        {},
+        {}
+      ]
+    }
+  ]
+}

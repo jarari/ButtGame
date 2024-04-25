@@ -1,0 +1,660 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": "event_lastkingdom2_b01_e_1",
+      "event_id": 40046,
+      "group_id": "event_lastkingdom2_b01_e",
+      "speech_window": "Narration",
+      "scenario_localkey": "Locale_MainScenario:event_lastkingdom2_b01_e_1",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "show_char_id": "indivilia",
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {
+          "show_char_id": "talkative",
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "snowwhite",
+          "set_char_position": "3",
+          "set_char_anim": "pain"
+        },
+        {
+          "show_char_id": "hongryeon",
+          "set_char_position": "5",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "CrownCasltePanorama_d",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_regeneration",
+      "play_bgm": "event_bgm_lastkingdom_whisperoffear",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_lastkingdom2_b01_e_2",
+      "event_id": 40046,
+      "group_id": "event_lastkingdom2_b01_e",
+      "speech_window": "Narration",
+      "scenario_localkey": "Locale_MainScenario:event_lastkingdom2_b01_e_2",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "pain"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_lastkingdom2_b01_e_3",
+      "event_id": 40046,
+      "group_id": "event_lastkingdom2_b01_e",
+      "speech_window": "Speech",
+      "highlight": "indivilia",
+      "speaker": "indivilia",
+      "scenario_localkey": "Locale_MainScenario:event_lastkingdom2_b01_e_3",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "pain"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_lastkingdom2_b01_e_4",
+      "event_id": 40046,
+      "group_id": "event_lastkingdom2_b01_e",
+      "speech_window": "Narration",
+      "highlight": "indivilia",
+      "scenario_localkey": "Locale_MainScenario:event_lastkingdom2_b01_e_4",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "pain"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_lastkingdom2_b01_e_5",
+      "event_id": 40046,
+      "group_id": "event_lastkingdom2_b01_e",
+      "speech_window": "Narration",
+      "highlight": "indivilia",
+      "scenario_localkey": "Locale_MainScenario:event_lastkingdom2_b01_e_5",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "pain"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "L_10",
+      "set_end_camera": "L_100",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_sonicexplode",
+      "effects": [
+        {},
+        {}
+      ],
+      "set_camera_shake": "Low_2"
+    },
+    {
+      "id": "event_lastkingdom2_b01_e_6",
+      "event_id": 40046,
+      "group_id": "event_lastkingdom2_b01_e",
+      "speech_window": "Narration",
+      "highlight": "indivilia",
+      "scenario_localkey": "Locale_MainScenario:event_lastkingdom2_b01_e_6",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "pain"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_lastkingdom2_b01_e_7",
+      "event_id": 40046,
+      "group_id": "event_lastkingdom2_b01_e",
+      "speech_window": "Narration",
+      "highlight": "indivilia",
+      "scenario_localkey": "Locale_MainScenario:event_lastkingdom2_b01_e_7",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "pain"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_lastkingdom2_b01_e_8",
+      "event_id": 40046,
+      "group_id": "event_lastkingdom2_b01_e",
+      "speech_window": "Speech",
+      "highlight": "snowwhite",
+      "speaker": "snowwhite",
+      "scenario_localkey": "Locale_MainScenario:event_lastkingdom2_b01_e_8",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "pain"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "53",
+      "set_end_camera": "53",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_lastkingdom2_b01_e_9",
+      "event_id": 40046,
+      "group_id": "event_lastkingdom2_b01_e",
+      "speech_window": "Speech",
+      "highlight": "hongryeon",
+      "speaker": "hongryeon",
+      "scenario_localkey": "Locale_MainScenario:event_lastkingdom2_b01_e_9",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "pain"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "53",
+      "set_end_camera": "53",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_lastkingdom2_b01_e_10",
+      "event_id": 40046,
+      "group_id": "event_lastkingdom2_b01_e",
+      "speech_window": "Narration",
+      "highlight": "hongryeon",
+      "scenario_localkey": "Locale_MainScenario:event_lastkingdom2_b01_e_10",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "pain"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "CrownCastleFrontYard_d",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_lastkingdom2_b01_e_11",
+      "event_id": 40046,
+      "group_id": "event_lastkingdom2_b01_e",
+      "speech_window": "Speech",
+      "highlight": "indivilia",
+      "speaker": "indivilia",
+      "scenario_localkey": "Locale_MainScenario:event_lastkingdom2_b01_e_11",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "pain"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "113",
+      "set_end_camera": "113",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_lastkingdom2_b01_e_12",
+      "event_id": 40046,
+      "group_id": "event_lastkingdom2_b01_e",
+      "speech_window": "Speech",
+      "highlight": "talkative",
+      "speaker": "talkative",
+      "scenario_localkey": "Locale_MainScenario:event_lastkingdom2_b01_e_12",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "pain"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "113",
+      "set_end_camera": "113",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_lastkingdom2_b01_e_13",
+      "event_id": 40046,
+      "group_id": "event_lastkingdom2_b01_e",
+      "speech_window": "Speech",
+      "highlight": "indivilia",
+      "speaker": "indivilia",
+      "scenario_localkey": "Locale_MainScenario:event_lastkingdom2_b01_e_13",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {
+          "hide_char_id": "snowwhite",
+          "set_char_position": "3",
+          "set_char_anim": "pain"
+        },
+        {
+          "hide_char_id": "hongryeon",
+          "set_char_position": "5",
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "113",
+      "set_end_camera": "113",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_lastkingdom2_b01_e_14",
+      "event_id": 40046,
+      "group_id": "event_lastkingdom2_b01_e",
+      "speech_window": "Speech",
+      "highlight": "talkative",
+      "speaker": "talkative",
+      "scenario_localkey": "Locale_MainScenario:event_lastkingdom2_b01_e_14",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "113",
+      "set_end_camera": "113",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_lastkingdom2_b01_e_15",
+      "event_id": 40046,
+      "group_id": "event_lastkingdom2_b01_e",
+      "speech_window": "Speech",
+      "highlight": "kilo_op_c",
+      "speaker": "kilo_op_c",
+      "scenario_localkey": "Locale_MainScenario:event_lastkingdom2_b01_e_15",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {
+          "show_char_id": "kilo_op_c",
+          "set_char_position": "OP_kilo",
+          "set_char_anim": "no"
+        },
+        {
+          "show_char_id": "talos",
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "90",
+      "set_end_camera": "90",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_lastkingdom2_b01_e_16",
+      "event_id": 40046,
+      "group_id": "event_lastkingdom2_b01_e",
+      "speech_window": "Speech",
+      "highlight": "kilo_op_c",
+      "speaker": "kilo_op_c",
+      "scenario_localkey": "Locale_MainScenario:event_lastkingdom2_b01_e_16",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "special"
+        },
+        {
+          "set_char_position": "13",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {
+          "set_char_position": "OP_kilo",
+          "set_char_anim": "no"
+        },
+        {
+          "set_char_position": "9",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "90",
+      "set_end_camera": "90",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    }
+  ]
+}

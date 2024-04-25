@@ -786,7 +786,7 @@
       "use_intro_scene": false,
       "wave_repeat": true,
       "point_data": "point_grd_standard",
-      "point_data_fly": "point_fly_iceland_006",
+      "point_data_fly": "point_fly_mca001",
       "background_name": "sbg_iceland_sky_001",
       "theme": "CityForestUnder",
       "theme_time": "Day",
@@ -9263,6 +9263,113 @@
       "far_monster_count": 0
     },
     {
+      "stage_id": 6990150,
+      "group_id": "wave_test_002",
+      "spot_mod": "Campaign",
+      "battle_time": 180,
+      "monster_count": 7,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_cityforestunder_004",
+      "point_data_fly": "point_fly_cityforestunder_004",
+      "background_name": "sbg_cityforestunder_004_midclear",
+      "theme": "CityForestUnder",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_cityforestunder_001",
+      "target_list": [
+        2420070141
+      ],
+      "wave_data": [
+        {
+          "wave_path": "path_grd_mid_centurion_902",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2420070141,
+              "spawn_type": "Normal"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 1,
+      "far_monster_count": 0
+    },
+    {
       "stage_id": 6991001,
       "group_id": "wave_test_002",
       "spot_mod": "Campaign",
@@ -9378,7 +9485,7 @@
       "use_intro_scene": true,
       "wave_repeat": false,
       "point_data": "point_grd_cityforestunder_002",
-      "point_data_fly": "point_fly_standard",
+      "point_data_fly": "point_fly_mca001",
       "background_name": "sbg_cityforestunder_002",
       "theme": "CityForestUnder",
       "theme_time": "Day",
@@ -13228,6 +13335,113 @@
       ],
       "close_monster_count": 1,
       "mid_monster_count": 0,
+      "far_monster_count": 0
+    },
+    {
+      "stage_id": 6991071,
+      "group_id": "wave_test_002",
+      "spot_mod": "Campaign",
+      "battle_time": 180,
+      "monster_count": 7,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_indivilia_01",
+      "point_data_fly": "point_fly_indivilia_01",
+      "background_name": "sbg_desertebg003_custom",
+      "theme": "Desertmbg001",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_desert_001",
+      "target_list": [
+        2520030141
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_g_indivilia_01",
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2520030141,
+              "spawn_type": "Normal"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "wave_monster_list": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 1,
       "far_monster_count": 0
     }
   ]

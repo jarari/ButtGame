@@ -650,6 +650,15 @@
       "sd_resource_address": "c290_00_var"
     },
     {
+      "id": "mana_op",
+      "name_localkey": "Locale_Character:290_name",
+      "resource_id": 290,
+      "skin_id": "default",
+      "frame_type": "left",
+      "address": "spine/standing/c290/00_HD",
+      "sd_resource_address": "c290_00_var"
+    },
+    {
       "id": "jackal",
       "name_localkey": "Locale_Character:111_name",
       "resource_id": 111,
@@ -675,6 +684,24 @@
       "frame_type": "none",
       "address": "spine/standing/c310/00_HD",
       "sd_resource_address": "c310_00_var"
+    },
+    {
+      "id": "fragile",
+      "name_localkey": "Locale_Character:481_name",
+      "resource_id": 481,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c481/00_HD",
+      "sd_resource_address": "c481_00_var"
+    },
+    {
+      "id": "drilley",
+      "name_localkey": "Locale_Character:491_name",
+      "resource_id": 491,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c491/00_HD",
+      "sd_resource_address": "c491_00_var"
     },
     {
       "id": "soldiereg",
@@ -5674,6 +5701,15 @@
       "sd_resource_address": "c501_00_var"
     },
     {
+      "id": "trony_op_r",
+      "name_localkey": "Locale_Character:501_name",
+      "resource_id": 501,
+      "skin_id": "default",
+      "frame_type": "right",
+      "address": "spine/standing/c501/00_HD",
+      "sd_resource_address": "c501_00_var"
+    },
+    {
       "id": "trony1",
       "name_localkey": "Locale_Character:npc_398_name",
       "resource_id": 976,
@@ -6165,6 +6201,31 @@
       "address": "spine/standing/c999/00_HD"
     },
     {
+      "id": "kilo",
+      "name_localkey": "Locale_Character:361_name",
+      "resource_id": 977,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c977/00_HD"
+    },
+    {
+      "id": "talos",
+      "name_localkey": "Locale_Character:npc_403_name",
+      "resource_id": 361,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c361/00_HD"
+    },
+    {
+      "id": "crown_n",
+      "name_localkey": "Locale_Character:330_name",
+      "resource_id": 330,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c330/01_HD",
+      "sd_resource_address": "c330_01_var"
+    },
+    {
       "id": "marian_q",
       "name_localkey": "Locale_Character:13_name",
       "resource_id": 260,
@@ -6172,6 +6233,64 @@
       "frame_type": "none",
       "address": "spine/standing/c260/02_HD",
       "sd_resource_address": "c260_02_var"
+    },
+    {
+      "id": "kilo_op_c",
+      "name_localkey": "Locale_Character:361_name",
+      "resource_id": 977,
+      "skin_id": "default",
+      "frame_type": "center",
+      "address": "spine/standing/c977/00_HD"
+    },
+    {
+      "id": "kilo_talos",
+      "name_localkey": "Locale_Character:npc_441_name",
+      "resource_id": 999,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c999/00_HD"
+    },
+    {
+      "id": "brandnewyear_event",
+      "name_localkey": "Locale_Character:10_name",
+      "resource_id": 10,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/events/EventScene_BrandNewYear_02"
+    },
+    {
+      "id": "hightechtoy_event",
+      "name_localkey": "Locale_Character:10_name",
+      "resource_id": 10,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/events/EventScene_HightechToy_01"
+    },
+    {
+      "id": "black",
+      "name_localkey": "Locale_Character:570_name",
+      "resource_id": 570,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c570/00_HD",
+      "sd_resource_address": "c570_00_var"
+    },
+    {
+      "id": "black_unknown",
+      "name_localkey": "Locale_Character:npc_04_name",
+      "resource_id": 570,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/standing/c570/00_HD",
+      "sd_resource_address": "c570_00_var"
+    },
+    {
+      "id": "darkhero_event",
+      "name_localkey": "Locale_Character:10_name",
+      "resource_id": 10,
+      "skin_id": "default",
+      "frame_type": "none",
+      "address": "spine/events/EventScene_DARKHERO_01"
     }
   ]
 }
