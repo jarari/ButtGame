@@ -7980,6 +7980,132 @@
       "enter_scenario_id": "d_ex_library_08",
       "stamina_value": 1,
       "reward_id": 3000003
+    },
+    {
+      "id": 1090107,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5112,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 1010,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "event_type": "Outpost",
+      "tid": 10901,
+      "resource_id": 5112,
+      "name_localkey": "Locale_SuddenStory:d_ex_powerplant_07_title",
+      "enter_scenario_id": "d_ex_powerplant_07",
+      "stamina_value": 1,
+      "reward_id": 3000003
+    },
+    {
+      "id": 2310107,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5112,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5002,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "event_type": "Outpost",
+      "tid": 23101,
+      "resource_id": 5112,
+      "name_localkey": "Locale_SuddenStory:d_ex_elevator_07_title",
+      "enter_scenario_id": "d_ex_elevator_07",
+      "stamina_value": 1,
+      "reward_id": 3000003
+    },
+    {
+      "id": 1070109,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5112,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5011,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "event_type": "Outpost",
+      "tid": 10701,
+      "resource_id": 5112,
+      "name_localkey": "Locale_SuddenStory:d_ex_workshop_09_title",
+      "enter_scenario_id": "d_ex_workshop_09",
+      "stamina_value": 1,
+      "reward_id": 3000003
     }
   ]
 }

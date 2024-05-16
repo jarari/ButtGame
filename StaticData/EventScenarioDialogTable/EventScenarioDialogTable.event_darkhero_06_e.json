@@ -25,7 +25,8 @@
       "set_start_camera": "2",
       "set_end_camera": "20",
       "set_camera_duration": 1.0,
-      "play_bgm": "bgm_story_lastbullet",
+      "play_sound": "sfx_scn_run",
+      "play_bgm": "bgm_story_weare",
       "effects": [
         {},
         {}
@@ -440,6 +441,7 @@
       "set_start_camera": "2",
       "set_end_camera": "2",
       "set_camera_duration": 1.0,
+      "play_bgm": "none",
       "effects": [
         {},
         {}
@@ -504,6 +506,7 @@
       "set_start_camera": "darkhero_01",
       "set_end_camera": "darkhero_01",
       "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_impression",
       "effects": [
         {},
         {}
@@ -1214,8 +1217,8 @@
         {}
       ],
       "set_start_camera": "darkhero_02",
-      "set_end_camera": "darkhero_02",
-      "set_camera_duration": 1.0,
+      "set_end_camera": "darkhero_01",
+      "set_camera_duration": 2.0,
       "effects": [
         {},
         {}
@@ -1244,8 +1247,8 @@
         {},
         {}
       ],
-      "set_start_camera": "darkhero_02",
-      "set_end_camera": "darkhero_02",
+      "set_start_camera": "darkhero_01",
+      "set_end_camera": "darkhero_01",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1275,8 +1278,8 @@
         {},
         {}
       ],
-      "set_start_camera": "darkhero_02",
-      "set_end_camera": "darkhero_02",
+      "set_start_camera": "darkhero_01",
+      "set_end_camera": "darkhero_01",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1306,8 +1309,8 @@
         {},
         {}
       ],
-      "set_start_camera": "darkhero_02",
-      "set_end_camera": "darkhero_02",
+      "set_start_camera": "darkhero_01",
+      "set_end_camera": "darkhero_01",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1337,8 +1340,8 @@
         {},
         {}
       ],
-      "set_start_camera": "darkhero_02",
-      "set_end_camera": "darkhero_02",
+      "set_start_camera": "darkhero_01",
+      "set_end_camera": "darkhero_01",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1368,8 +1371,8 @@
         {},
         {}
       ],
-      "set_start_camera": "darkhero_02",
-      "set_end_camera": "darkhero_02",
+      "set_start_camera": "darkhero_01",
+      "set_end_camera": "darkhero_01",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1399,9 +1402,9 @@
         {},
         {}
       ],
-      "set_start_camera": "darkhero_02",
+      "set_start_camera": "darkhero_01",
       "set_end_camera": "darkhero_02",
-      "set_camera_duration": 1.0,
+      "set_camera_duration": 2.0,
       "effects": [
         {},
         {}
@@ -1634,11 +1637,7 @@
           "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "show_char_id": "ether",
-          "set_char_position": "12",
-          "set_char_anim": "delight"
-        },
+        {},
         {},
         {},
         {},
@@ -1671,10 +1670,7 @@
           "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "12",
-          "set_char_anim": "delight"
-        },
+        {},
         {},
         {},
         {},
@@ -1703,6 +1699,7 @@
       "characters": [
         {},
         {
+          "show_char_id": "ether",
           "set_char_position": "12",
           "set_char_anim": "delight"
         },

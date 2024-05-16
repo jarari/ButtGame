@@ -1058,7 +1058,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "fade": "black"
     },
     {
       "id": "event_darkhero_01_s_30",
@@ -1353,8 +1354,8 @@
         {}
       ],
       "set_start_camera": "1",
-      "set_end_camera": "1",
-      "set_camera_duration": 1.0,
+      "set_end_camera": "15",
+      "set_camera_duration": 1.6,
       "effects": [
         {},
         {}
@@ -1389,8 +1390,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1",
-      "set_end_camera": "1",
+      "set_start_camera": "15",
+      "set_end_camera": "15",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1427,7 +1428,7 @@
         {},
         {}
       ],
-      "set_start_camera": "1",
+      "set_start_camera": "15",
       "set_end_camera": "15",
       "set_camera_duration": 1.0,
       "effects": [
@@ -1881,7 +1882,7 @@
       ],
       "set_start_camera": "S_150",
       "set_end_camera": "S_10",
-      "set_camera_duration": 1.0,
+      "set_camera_duration": 1.2,
       "effects": [
         {},
         {}
@@ -2069,7 +2070,7 @@
         {}
       ],
       "set_start_camera": "S_30",
-      "set_end_camera": "S_30",
+      "set_end_camera": "S_300",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2099,8 +2100,8 @@
         {},
         {}
       ],
-      "set_start_camera": "S_30",
-      "set_end_camera": "S_30",
+      "set_start_camera": "S_300",
+      "set_end_camera": "S_300",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2130,8 +2131,8 @@
         {},
         {}
       ],
-      "set_start_camera": "S_30",
-      "set_end_camera": "S_30",
+      "set_start_camera": "S_300",
+      "set_end_camera": "S_300",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2161,7 +2162,7 @@
         {},
         {}
       ],
-      "set_start_camera": "S_30",
+      "set_start_camera": "S_300",
       "set_end_camera": "S_10",
       "set_camera_duration": 1.0,
       "effects": [
@@ -2290,8 +2291,8 @@
         {}
       ],
       "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
-      "set_camera_duration": 1.0,
+      "set_end_camera": "S_300",
+      "set_camera_duration": 0.7,
       "effects": [
         {},
         {}
@@ -2320,8 +2321,8 @@
         {},
         {}
       ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
+      "set_start_camera": "S_300",
+      "set_end_camera": "S_300",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2352,8 +2353,8 @@
         {},
         {}
       ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
+      "set_start_camera": "S_300",
+      "set_end_camera": "S_300",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2384,7 +2385,7 @@
         {},
         {}
       ],
-      "set_start_camera": "S_10",
+      "set_start_camera": "S_300",
       "set_end_camera": "S_10",
       "set_camera_duration": 1.0,
       "effects": [
@@ -2545,7 +2546,7 @@
         {}
       ],
       "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
+      "set_end_camera": "S_300",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2575,13 +2576,14 @@
         {},
         {}
       ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
+      "set_start_camera": "S_300",
+      "set_end_camera": "S_300",
       "set_camera_duration": 1.0,
       "effects": [
         {},
         {}
-      ]
+      ],
+      "set_camera_shake": "Low_2"
     },
     {
       "id": "event_darkhero_01_s_73",
@@ -2606,7 +2608,7 @@
         {},
         {}
       ],
-      "set_start_camera": "S_10",
+      "set_start_camera": "S_300",
       "set_end_camera": "S_10",
       "set_camera_duration": 1.0,
       "effects": [
@@ -2978,7 +2980,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "surprise"
+          "set_char_anim": "shy"
         },
         {},
         {},
@@ -3009,7 +3011,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "surprise"
+          "set_char_anim": "shy"
         },
         {},
         {},
@@ -3041,7 +3043,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "surprise"
+          "set_char_anim": "shy"
         },
         {},
         {},
@@ -3072,7 +3074,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "surprise"
+          "set_char_anim": "shy"
         },
         {},
         {},
@@ -3103,7 +3105,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "surprise"
+          "set_char_anim": "shy"
         },
         {},
         {},
@@ -3389,7 +3391,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "no"
+          "set_char_anim": "sad"
         },
         {},
         {},
@@ -3421,7 +3423,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "no"
+          "set_char_anim": "sad"
         },
         {},
         {},
@@ -3452,7 +3454,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "no"
+          "set_char_anim": "sad"
         },
         {},
         {},
@@ -3484,7 +3486,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "no"
+          "set_char_anim": "sad"
         },
         {},
         {},
@@ -3493,7 +3495,6 @@
         {},
         {}
       ],
-      "set_background": "none",
       "set_start_camera": "300",
       "set_end_camera": "300",
       "set_camera_duration": 1.0,
@@ -3538,7 +3539,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "fade": "black"
     },
     {
       "id": "event_darkhero_01_s_103",
@@ -3814,7 +3816,7 @@
       ],
       "set_start_camera": "300",
       "set_end_camera": "S_10",
-      "set_camera_duration": 2.0,
+      "set_camera_duration": 1.4,
       "effects": [
         {},
         {}
@@ -3930,44 +3932,9 @@
       "event_id": 40047,
       "group_id": "event_darkhero_01_s",
       "speech_window": "Speech",
-      "highlight": "elegg",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_01_s_114",
-      "play_lipSync": false,
-      "characters": [
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {
-          "set_char_position": "3",
-          "set_char_anim": "special"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "event_darkhero_01_s_115",
-      "event_id": 40047,
-      "group_id": "event_darkhero_01_s",
-      "speech_window": "Speech",
-      "highlight": "elegg",
-      "speaker": "elegg",
-      "scenario_localkey": "Locale_SubScenario:event_darkhero_01_s_115",
       "play_lipSync": true,
       "characters": [
         {
@@ -3988,7 +3955,42 @@
         {}
       ],
       "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
+      "set_end_camera": "300",
+      "set_camera_duration": 1.2,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_darkhero_01_s_115",
+      "event_id": 40047,
+      "group_id": "event_darkhero_01_s",
+      "speech_window": "Speech",
+      "highlight": "trony",
+      "speaker": "elegg",
+      "scenario_localkey": "Locale_SubScenario:event_darkhero_01_s_115",
+      "play_lipSync": false,
+      "characters": [
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "special"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "300",
+      "set_end_camera": "300",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4022,7 +4024,7 @@
         {},
         {}
       ],
-      "set_start_camera": "S_10",
+      "set_start_camera": "300",
       "set_end_camera": "S_10",
       "set_camera_duration": 1.0,
       "effects": [
@@ -4349,7 +4351,7 @@
       ],
       "set_start_camera": "2",
       "set_end_camera": "S_150",
-      "set_camera_duration": 2.0,
+      "set_camera_duration": 1.7,
       "effects": [
         {},
         {}
@@ -4453,7 +4455,7 @@
         },
         {
           "set_char_position": "15",
-          "set_char_anim": "delight"
+          "set_char_anim": "angry"
         },
         {},
         {},
@@ -4474,7 +4476,7 @@
       "event_id": 40047,
       "group_id": "event_darkhero_01_s",
       "speech_window": "Speech",
-      "highlight": "syuen",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_01_s_129",
       "play_lipSync": true,
@@ -4487,14 +4489,13 @@
         {},
         {},
         {
-          "hide_char_id": "trony",
           "set_char_position": "3",
           "set_char_anim": "special"
         },
         {
           "hide_char_id": "syuen",
           "set_char_position": "15",
-          "set_char_anim": "delight"
+          "set_char_anim": "angry"
         },
         {},
         {},
@@ -4502,15 +4503,16 @@
         {},
         {}
       ],
-      "set_background": "none",
-      "set_start_camera": "black",
-      "set_end_camera": "black",
+      "set_background": "NikkeRoom",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "play_bgm": "none",
       "effects": [
         {},
         {}
-      ]
+      ],
+      "fade": "black"
     },
     {
       "id": "event_darkhero_01_s_130",
@@ -4524,7 +4526,11 @@
         {},
         {},
         {},
-        {},
+        {
+          "hide_char_id": "trony",
+          "set_char_position": "3",
+          "set_char_anim": "special"
+        },
         {},
         {},
         {},
@@ -4532,7 +4538,6 @@
         {},
         {}
       ],
-      "set_background": "NikkeRoom",
       "set_start_camera": "30",
       "set_end_camera": "30",
       "set_camera_duration": 1.0,

@@ -488,7 +488,7 @@
         {
           "show_char_id": "trony",
           "set_char_position": "1",
-          "set_char_anim": "no"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -523,7 +523,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "no"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -975,7 +975,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "surprise"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -1009,7 +1009,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "surprise"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -1043,7 +1043,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "surprise"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -1078,7 +1078,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "no"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -1113,7 +1113,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "no"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -1147,7 +1147,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "no"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -1181,7 +1181,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "no"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -1215,7 +1215,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "no"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -1250,7 +1250,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "no"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -1285,7 +1285,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "no"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -1320,7 +1320,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "no"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -1355,7 +1355,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "no"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -1390,7 +1390,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "no"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -1424,7 +1424,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "no"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -1532,7 +1532,6 @@
           "set_char_anim": "idle"
         },
         {
-          "hide_char_id": "exia_op",
           "set_char_position": "OP_leftup",
           "set_char_anim": "delight"
         },
@@ -1567,8 +1566,9 @@
           "set_char_anim": "idle"
         },
         {
+          "hide_char_id": "exia_op",
           "set_char_position": "OP_leftup",
-          "set_char_anim": "idle"
+          "set_char_anim": "delight"
         },
         {},
         {},
@@ -1586,7 +1586,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "fade": "black"
     },
     {
       "id": "event_darkhero_05_s_48",
@@ -1950,7 +1951,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "no"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -1985,7 +1986,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "no"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -2019,7 +2020,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "no"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "OP_leftup",
@@ -2037,6 +2038,7 @@
       "set_start_camera": "10",
       "set_end_camera": "10",
       "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_gamepad",
       "effects": [
         {},
         {}
@@ -2172,9 +2174,10 @@
         {},
         {}
       ],
-      "set_start_camera": "10",
-      "set_end_camera": "10",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
       "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_lightout",
       "play_bgm": "none",
       "effects": [
         {},
@@ -2207,6 +2210,7 @@
         {},
         {}
       ],
+      "set_background": "SchoolCorridor_n",
       "set_start_camera": "10",
       "set_end_camera": "10",
       "set_camera_duration": 1.0,

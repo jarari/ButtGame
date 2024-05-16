@@ -30,7 +30,7 @@
       "set_start_camera": "3",
       "set_end_camera": "3",
       "set_camera_duration": 1.0,
-      "play_bgm": "bgm_story_sundayintheark",
+      "play_bgm": "bgm_frostpillar",
       "effects": [
         {},
         {}
@@ -302,7 +302,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "sad"
+          "set_char_anim": "no"
         },
         {},
         {},
@@ -334,7 +334,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "delight"
+          "set_char_anim": "no"
         },
         {},
         {},
@@ -365,7 +365,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "delight"
+          "set_char_anim": "no"
         },
         {},
         {},
@@ -397,7 +397,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "delight"
+          "set_char_anim": "no"
         },
         {},
         {},
@@ -429,7 +429,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "delight"
+          "set_char_anim": "sad"
         },
         {},
         {},
@@ -461,7 +461,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "delight"
+          "set_char_anim": "sad"
         },
         {},
         {},
@@ -493,7 +493,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "delight"
+          "set_char_anim": "sad"
         },
         {},
         {},
@@ -525,7 +525,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "delight"
+          "set_char_anim": "sad"
         },
         {},
         {},
@@ -682,7 +682,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "shy"
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -713,7 +713,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "shy"
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -744,7 +744,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "shy"
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -775,7 +775,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "special"
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -807,7 +807,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "special"
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -839,7 +839,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "special"
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -854,6 +854,7 @@
       "set_start_camera": "black",
       "set_end_camera": "black",
       "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_ringingear",
       "play_bgm": "bgm_story_trauma",
       "effects": [
         {},
@@ -873,7 +874,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "special"
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -905,7 +906,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "special"
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -937,7 +938,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "special"
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -969,7 +970,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "special"
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -1001,7 +1002,7 @@
         {},
         {
           "set_char_position": "3",
-          "set_char_anim": "special"
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -1031,14 +1032,10 @@
       "scenario_localkey": "Locale_SubScenario:event_darkhero_02_s_33",
       "play_lipSync": true,
       "characters": [
-        {
-          "show_char_id": "elegg",
-          "set_char_position": "1",
-          "set_char_anim": "surprise"
-        },
+        {},
         {
           "set_char_position": "3",
-          "set_char_anim": "special"
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -1049,9 +1046,8 @@
         {},
         {}
       ],
-      "set_background": "NikkeRoom",
-      "set_start_camera": "black",
-      "set_end_camera": "black",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1069,13 +1065,43 @@
       "scenario_localkey": "Locale_SubScenario:event_darkhero_02_s_34",
       "play_lipSync": true,
       "characters": [
-        {
-          "set_char_position": "1",
-          "set_char_anim": "surprise"
-        },
+        {},
         {
           "set_char_position": "3",
-          "set_char_anim": "special"
+          "set_char_anim": "surprise"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "30",
+      "set_end_camera": "30",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Red"
+    },
+    {
+      "id": "event_darkhero_02_s_35",
+      "event_id": 40047,
+      "group_id": "event_darkhero_02_s",
+      "speech_window": "Speech",
+      "highlight": "trony",
+      "speaker": "elegg",
+      "scenario_localkey": "Locale_SubScenario:event_darkhero_02_s_35",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -1093,43 +1119,8 @@
       "effects": [
         {},
         {}
-      ]
-    },
-    {
-      "id": "event_darkhero_02_s_35",
-      "event_id": 40047,
-      "group_id": "event_darkhero_02_s",
-      "speech_window": "Speech",
-      "highlight": "elegg",
-      "speaker": "elegg",
-      "scenario_localkey": "Locale_SubScenario:event_darkhero_02_s_35",
-      "play_lipSync": true,
-      "characters": [
-        {
-          "set_char_position": "1",
-          "set_char_anim": "surprise"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "special"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
       ],
-      "set_start_camera": "2",
-      "set_end_camera": "2",
-      "set_camera_duration": 1.0,
-      "play_bgm": "bgm_story_backtonormal",
-      "effects": [
-        {},
-        {}
-      ]
+      "set_filter_01": "Red"
     },
     {
       "id": "event_darkhero_02_s_36",
@@ -1142,12 +1133,13 @@
       "play_lipSync": true,
       "characters": [
         {
+          "show_char_id": "elegg",
           "set_char_position": "1",
           "set_char_anim": "surprise"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "special"
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -1158,13 +1150,16 @@
         {},
         {}
       ],
+      "set_background": "NikkeRoom",
       "set_start_camera": "2",
       "set_end_camera": "2",
       "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_backtonormal",
       "effects": [
         {},
         {}
-      ]
+      ],
+      "fade": "black"
     },
     {
       "id": "event_darkhero_02_s_37",
@@ -1182,7 +1177,7 @@
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "surprise"
+          "set_char_anim": "sad"
         },
         {},
         {},
@@ -1217,7 +1212,7 @@
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "surprise"
+          "set_char_anim": "sad"
         },
         {},
         {},
@@ -1252,7 +1247,7 @@
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "surprise"
+          "set_char_anim": "sad"
         },
         {},
         {},
@@ -1636,7 +1631,7 @@
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "shy"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -1670,7 +1665,7 @@
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "shy"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -1705,7 +1700,7 @@
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "shy"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -1740,7 +1735,7 @@
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "shy"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -1981,7 +1976,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "special"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
@@ -2016,7 +2011,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "special"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
@@ -2051,11 +2046,11 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "special"
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "sad"
+          "set_char_anim": "idle"
         },
         {},
         {},
@@ -2090,7 +2085,7 @@
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "sad"
+          "set_char_anim": "idle"
         },
         {},
         {},
@@ -2125,7 +2120,7 @@
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "sad"
+          "set_char_anim": "idle"
         },
         {},
         {},
@@ -2229,7 +2224,7 @@
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "shy"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -2264,7 +2259,7 @@
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "shy"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -2299,7 +2294,7 @@
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "shy"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -2334,7 +2329,7 @@
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "shy"
+          "set_char_anim": "sad"
         },
         {},
         {},
@@ -2369,7 +2364,7 @@
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "shy"
+          "set_char_anim": "sad"
         },
         {},
         {},
@@ -2404,7 +2399,7 @@
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "delight"
+          "set_char_anim": "no"
         },
         {},
         {},
@@ -2451,8 +2446,8 @@
         {}
       ],
       "set_start_camera": "2",
-      "set_end_camera": "30",
-      "set_camera_duration": 0.5,
+      "set_end_camera": "300",
+      "set_camera_duration": 0.7,
       "effects": [
         {},
         {}
@@ -2485,7 +2480,7 @@
         {},
         {}
       ],
-      "set_start_camera": "30",
+      "set_start_camera": "300",
       "set_end_camera": "300",
       "set_camera_duration": 1.0,
       "effects": [
@@ -2507,7 +2502,6 @@
           "set_char_anim": "delight"
         },
         {
-          "hide_char_id": "trony",
           "set_char_position": "3",
           "set_char_anim": "special"
         },
@@ -2541,7 +2535,10 @@
           "set_char_position": "1",
           "set_char_anim": "delight"
         },
-        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "special"
+        },
         {},
         {},
         {},
@@ -2551,8 +2548,8 @@
         {},
         {}
       ],
-      "set_start_camera": "300",
-      "set_end_camera": "1",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2571,6 +2568,10 @@
       "characters": [
         {
           "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
           "set_char_anim": "special"
         },
         {},
@@ -2580,11 +2581,10 @@
         {},
         {},
         {},
-        {},
         {}
       ],
-      "set_start_camera": "1",
-      "set_end_camera": "S_10",
+      "set_start_camera": "2",
+      "set_end_camera": "2",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2603,6 +2603,10 @@
       "characters": [
         {
           "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
           "set_char_anim": "special"
         },
         {},
@@ -2612,11 +2616,10 @@
         {},
         {},
         {},
-        {},
         {}
       ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
+      "set_start_camera": "2",
+      "set_end_camera": "2",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2635,6 +2638,10 @@
       "characters": [
         {
           "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
           "set_char_anim": "special"
         },
         {},
@@ -2644,11 +2651,10 @@
         {},
         {},
         {},
-        {},
         {}
       ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
+      "set_start_camera": "2",
+      "set_end_camera": "2",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2667,6 +2673,10 @@
       "characters": [
         {
           "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
           "set_char_anim": "special"
         },
         {},
@@ -2676,11 +2686,10 @@
         {},
         {},
         {},
-        {},
         {}
       ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
+      "set_start_camera": "2",
+      "set_end_camera": "2",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2699,6 +2708,10 @@
       "characters": [
         {
           "set_char_position": "1",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "3",
           "set_char_anim": "special"
         },
         {},
@@ -2708,11 +2721,10 @@
         {},
         {},
         {},
-        {},
         {}
       ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
+      "set_start_camera": "2",
+      "set_end_camera": "2",
       "set_camera_duration": 1.0,
       "effects": [
         {},

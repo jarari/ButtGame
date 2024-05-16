@@ -2178,8 +2178,8 @@
         {},
         {}
       ],
-      "set_start_camera": "black",
-      "set_end_camera": "black",
+      "set_start_camera": "1",
+      "set_end_camera": "S_120",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2195,6 +2195,37 @@
       "speaker": "elegg",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_02_e_66",
       "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "12",
+          "set_char_anim": "pain"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "S_120",
+      "set_end_camera": "S_120",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_darkhero_02_e_67",
+      "event_id": 40047,
+      "group_id": "event_darkhero_02_e",
+      "speech_window": "Narration",
+      "highlight": "guillotine",
+      "scenario_localkey": "Locale_SubScenario:event_darkhero_02_e_67",
+      "play_lipSync": false,
       "characters": [
         {
           "hide_char_id": "elegg",
@@ -2220,48 +2251,15 @@
         {}
       ],
       "set_background": "Backstreet",
-      "set_start_camera": "black",
-      "set_end_camera": "black",
+      "set_start_camera": "12",
+      "set_end_camera": "12",
       "set_camera_duration": 1.0,
       "play_bgm": "none",
       "effects": [
         {},
         {}
-      ]
-    },
-    {
-      "id": "event_darkhero_02_e_67",
-      "event_id": 40047,
-      "group_id": "event_darkhero_02_e",
-      "speech_window": "Narration",
-      "highlight": "guillotine",
-      "scenario_localkey": "Locale_SubScenario:event_darkhero_02_e_67",
-      "play_lipSync": false,
-      "characters": [
-        {},
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
       ],
-      "set_start_camera": "12",
-      "set_end_camera": "12",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
+      "fade": "black"
     },
     {
       "id": "event_darkhero_02_e_68",
@@ -2387,11 +2385,7 @@
           "set_char_position": "13",
           "set_char_anim": "idle"
         },
-        {
-          "show_char_id": "ingrid",
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -2399,9 +2393,8 @@
         {},
         {}
       ],
-      "set_background": "BriefingRoom",
-      "set_start_camera": "black",
-      "set_end_camera": "black",
+      "set_start_camera": "12",
+      "set_end_camera": "12",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2428,6 +2421,7 @@
           "set_char_anim": "idle"
         },
         {
+          "show_char_id": "ingrid",
           "set_char_position": "3",
           "set_char_anim": "idle"
         },
@@ -2438,6 +2432,7 @@
         {},
         {}
       ],
+      "set_background": "BriefingRoom",
       "set_start_camera": "13",
       "set_end_camera": "S_130",
       "set_camera_duration": 1.0,
@@ -2445,7 +2440,9 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "set_filter_01": "Grey",
+      "fade": "black"
     },
     {
       "id": "event_darkhero_02_e_73",
@@ -2483,7 +2480,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "set_filter_01": "Grey"
     },
     {
       "id": "event_darkhero_02_e_74",
@@ -2521,7 +2519,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "set_filter_01": "Grey"
     },
     {
       "id": "event_darkhero_02_e_75",
@@ -2559,7 +2558,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "set_filter_01": "Grey"
     },
     {
       "id": "event_darkhero_02_e_76",
@@ -2597,7 +2597,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "set_filter_01": "Grey"
     },
     {
       "id": "event_darkhero_02_e_77",
@@ -2635,7 +2636,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "set_filter_01": "Grey"
     },
     {
       "id": "event_darkhero_02_e_78",
@@ -2673,7 +2675,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "set_filter_01": "Grey"
     },
     {
       "id": "event_darkhero_02_e_79",
@@ -2711,7 +2714,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "set_filter_01": "Grey"
     },
     {
       "id": "event_darkhero_02_e_80",
@@ -2749,7 +2753,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "set_filter_01": "Grey"
     },
     {
       "id": "event_darkhero_02_e_81",
@@ -2787,7 +2792,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "set_filter_01": "Grey"
     },
     {
       "id": "event_darkhero_02_e_82",
@@ -2825,7 +2831,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "set_filter_01": "Grey"
     },
     {
       "id": "event_darkhero_02_e_83",
@@ -2863,7 +2870,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "set_filter_01": "Grey"
     },
     {
       "id": "event_darkhero_02_e_84",
@@ -2901,7 +2909,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "set_filter_01": "Grey"
     },
     {
       "id": "event_darkhero_02_e_85",
@@ -2939,7 +2948,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "set_filter_01": "Grey"
     },
     {
       "id": "event_darkhero_02_e_86",
@@ -2972,7 +2982,6 @@
         {},
         {}
       ],
-      "set_background": "Backstreet",
       "set_start_camera": "black",
       "set_end_camera": "black",
       "set_camera_duration": 1.0,
@@ -2980,7 +2989,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "set_filter_01": "Grey"
     },
     {
       "id": "event_darkhero_02_e_87",
@@ -3009,6 +3019,7 @@
         {},
         {}
       ],
+      "set_background": "Backstreet",
       "set_start_camera": "12",
       "set_end_camera": "12",
       "set_camera_duration": 1.0,
@@ -3016,7 +3027,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "fade": "black"
     },
     {
       "id": "event_darkhero_02_e_88",

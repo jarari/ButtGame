@@ -1385,7 +1385,7 @@
       "highlight": "elegg",
       "speaker": "maiden",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_05_e_41",
-      "play_lipSync": true,
+      "play_lipSync": false,
       "characters": [
         {
           "set_char_position": "2",
@@ -1720,8 +1720,8 @@
         {}
       ],
       "set_start_camera": "1",
-      "set_end_camera": "1",
-      "set_camera_duration": 1.0,
+      "set_end_camera": "S_1200",
+      "set_camera_duration": 0.7,
       "effects": [
         {},
         {}
@@ -1753,8 +1753,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1",
-      "set_end_camera": "1",
+      "set_start_camera": "S_20",
+      "set_end_camera": "S_20",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1788,7 +1788,7 @@
         {},
         {}
       ],
-      "set_start_camera": "1",
+      "set_start_camera": "S_20",
       "set_end_camera": "S_20",
       "set_camera_duration": 1.0,
       "effects": [
@@ -1929,6 +1929,7 @@
       "set_start_camera": "S_20",
       "set_end_camera": "1",
       "set_camera_duration": 0.5,
+      "play_sound": "sfx_scn_8bitexplosion",
       "play_bgm": "none",
       "effects": [
         {},

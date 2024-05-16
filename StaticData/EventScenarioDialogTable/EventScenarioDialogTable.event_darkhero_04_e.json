@@ -24,6 +24,7 @@
       "set_start_camera": "1",
       "set_end_camera": "1",
       "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_phonevibration",
       "play_bgm": "bgm_mystery",
       "effects": [
         {},
@@ -274,7 +275,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "fade": "black"
     },
     {
       "id": "event_darkhero_04_e_11",
@@ -326,6 +328,7 @@
       "set_start_camera": "1",
       "set_end_camera": "10",
       "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_rustle",
       "effects": [
         {},
         {}
@@ -2012,6 +2015,7 @@
       "set_start_camera": "XS_10",
       "set_end_camera": "XS_10",
       "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_crackle",
       "effects": [
         {},
         {}
@@ -2072,6 +2076,7 @@
       "set_start_camera": "XS_10",
       "set_end_camera": "XS_10",
       "set_camera_duration": 1.0,
+      "play_bgm": "bgm_enemyclose",
       "effects": [
         {},
         {}
@@ -2421,7 +2426,6 @@
       "set_start_camera": "XS_10",
       "set_end_camera": "XS_10",
       "set_camera_duration": 1.0,
-      "play_bgm": "bgm_story_impression",
       "effects": [
         {},
         {}

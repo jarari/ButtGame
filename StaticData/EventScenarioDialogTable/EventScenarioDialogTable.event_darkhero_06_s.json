@@ -10,8 +10,16 @@
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_1",
       "play_lipSync": false,
       "characters": [
-        {},
-        {},
+        {
+          "show_char_id": "trony",
+          "set_char_position": "1",
+          "set_char_anim": "no"
+        },
+        {
+          "show_char_id": "exia_op",
+          "set_char_position": "OP_leftup",
+          "set_char_anim": "delight"
+        },
         {},
         {},
         {},
@@ -42,12 +50,10 @@
       "play_lipSync": true,
       "characters": [
         {
-          "show_char_id": "trony",
           "set_char_position": "1",
           "set_char_anim": "no"
         },
         {
-          "show_char_id": "exia_op",
           "set_char_position": "OP_leftup",
           "set_char_anim": "delight"
         },
@@ -270,45 +276,12 @@
       "set_start_camera": "10",
       "set_end_camera": "10",
       "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_8bitexplosion",
       "effects": [
         {},
         {}
       ],
       "set_camera_shake": "Low_2"
-    },
-    {
-      "id": "event_darkhero_06_s_9",
-      "event_id": 40047,
-      "group_id": "event_darkhero_06_s",
-      "speech_window": "Monologue",
-      "highlight": "trony",
-      "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_9",
-      "play_lipSync": false,
-      "characters": [
-        {
-          "set_char_position": "1",
-          "set_char_anim": "no"
-        },
-        {
-          "set_char_position": "OP_leftup",
-          "set_char_anim": "delight"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "10",
-      "set_end_camera": "100",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
     },
     {
       "id": "event_darkhero_06_s_10",
@@ -336,7 +309,7 @@
         {},
         {}
       ],
-      "set_start_camera": "100",
+      "set_start_camera": "10",
       "set_end_camera": "100",
       "set_camera_duration": 1.0,
       "effects": [
@@ -544,7 +517,7 @@
         {}
       ],
       "set_start_camera": "160",
-      "set_end_camera": "10",
+      "set_end_camera": "160",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -578,8 +551,8 @@
         {},
         {}
       ],
-      "set_start_camera": "10",
-      "set_end_camera": "10",
+      "set_start_camera": "160",
+      "set_end_camera": "160",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -613,7 +586,7 @@
         {},
         {}
       ],
-      "set_start_camera": "10",
+      "set_start_camera": "160",
       "set_end_camera": "10",
       "set_camera_duration": 1.0,
       "effects": [
@@ -1141,6 +1114,7 @@
       "set_start_camera": "16",
       "set_end_camera": "S_160",
       "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_tragedy",
       "effects": [
         {},
         {}
@@ -1213,7 +1187,6 @@
       "set_start_camera": "S_160",
       "set_end_camera": "S_160",
       "set_camera_duration": 1.0,
-      "play_bgm": "bgm_story_armageddon",
       "effects": [
         {},
         {}
@@ -1315,8 +1288,8 @@
         {},
         {}
       ],
-      "set_start_camera": "S_130",
-      "set_end_camera": "S_130",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1874,6 +1847,7 @@
       "set_start_camera": "S_130",
       "set_end_camera": "S_130",
       "set_camera_duration": 1.0,
+      "play_bgm": "none",
       "effects": [
         {},
         {}
@@ -1925,7 +1899,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "surprise"
+          "set_char_anim": "idle"
         },
         {},
         {
@@ -1959,7 +1933,7 @@
       "characters": [
         {
           "set_char_position": "1",
-          "set_char_anim": "surprise"
+          "set_char_anim": "idle"
         },
         {},
         {
@@ -2096,147 +2070,6 @@
       "play_lipSync": false,
       "characters": [
         {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {
-          "set_char_position": "13",
-          "set_char_anim": "no"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "event_darkhero_06_s_62",
-      "event_id": 40047,
-      "group_id": "event_darkhero_06_s",
-      "speech_window": "Speech",
-      "highlight": "trony",
-      "speaker": "trony",
-      "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_62",
-      "play_lipSync": true,
-      "characters": [
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {
-          "set_char_position": "13",
-          "set_char_anim": "no"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "event_darkhero_06_s_63",
-      "event_id": 40047,
-      "group_id": "event_darkhero_06_s",
-      "speech_window": "Speech",
-      "highlight": "trony",
-      "speaker": "trony",
-      "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_63",
-      "play_lipSync": true,
-      "characters": [
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {
-          "set_char_position": "13",
-          "set_char_anim": "no"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "event_darkhero_06_s_64",
-      "event_id": 40047,
-      "group_id": "event_darkhero_06_s",
-      "speech_window": "Speech",
-      "highlight": "trony",
-      "speaker": "trony",
-      "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_64",
-      "play_lipSync": true,
-      "characters": [
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {
-          "set_char_position": "13",
-          "set_char_anim": "no"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "event_darkhero_06_s_65",
-      "event_id": 40047,
-      "group_id": "event_darkhero_06_s",
-      "speech_window": "Speech",
-      "highlight": "trony",
-      "speaker": "trony",
-      "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_65",
-      "play_lipSync": false,
-      "characters": [
-        {
-          "show_char_id": "mary",
           "hide_char_id": "trony",
           "set_char_position": "1",
           "set_char_anim": "idle"
@@ -2255,7 +2088,37 @@
         {},
         {}
       ],
-      "set_background": "Hospital",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_weare",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "event_darkhero_06_s_62",
+      "event_id": 40047,
+      "group_id": "event_darkhero_06_s",
+      "speech_window": "Speech",
+      "highlight": "trony",
+      "speaker": "trony",
+      "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_62",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_background": "Park",
       "set_start_camera": "black",
       "set_end_camera": "black",
       "set_camera_duration": 1.0,
@@ -2265,19 +2128,16 @@
       ]
     },
     {
-      "id": "event_darkhero_06_s_66",
+      "id": "event_darkhero_06_s_63",
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "mary",
+      "highlight": "trony",
       "speaker": "trony",
-      "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_66",
-      "play_lipSync": false,
+      "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_63",
+      "play_lipSync": true,
       "characters": [
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -2289,7 +2149,7 @@
         {}
       ],
       "set_start_camera": "1",
-      "set_end_camera": "XS_10",
+      "set_end_camera": "1",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2298,55 +2158,16 @@
       "set_filter_01": "Grey"
     },
     {
-      "id": "event_darkhero_06_s_67",
+      "id": "event_darkhero_06_s_64",
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "mary",
+      "highlight": "trony",
       "speaker": "trony",
-      "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_67",
-      "play_lipSync": false,
+      "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_64",
+      "play_lipSync": true,
       "characters": [
-        {
-          "show_char_id": "black",
-          "hide_char_id": "mary",
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
         {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_background": "IceLand_n",
-      "set_start_camera": "black",
-      "set_end_camera": "black",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ],
-      "set_filter_01": "Grey"
-    },
-    {
-      "id": "event_darkhero_06_s_68",
-      "event_id": 40047,
-      "group_id": "event_darkhero_06_s",
-      "speech_window": "Speech",
-      "highlight": "black",
-      "speaker": "trony",
-      "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_68",
-      "play_lipSync": false,
-      "characters": [
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
         {},
         {},
         {},
@@ -2367,20 +2188,16 @@
       "set_filter_01": "Grey"
     },
     {
-      "id": "event_darkhero_06_s_69",
+      "id": "event_darkhero_06_s_65",
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "trony",
       "speaker": "trony",
-      "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_69",
+      "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_65",
       "play_lipSync": false,
       "characters": [
-        {
-          "hide_char_id": "black",
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -2391,8 +2208,128 @@
         {},
         {}
       ],
-      "set_start_camera": "black",
-      "set_end_camera": "black",
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "event_darkhero_06_s_66",
+      "event_id": 40047,
+      "group_id": "event_darkhero_06_s",
+      "speech_window": "Speech",
+      "highlight": "trony",
+      "speaker": "trony",
+      "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_66",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "event_darkhero_06_s_67",
+      "event_id": 40047,
+      "group_id": "event_darkhero_06_s",
+      "speech_window": "Speech",
+      "highlight": "trony",
+      "speaker": "trony",
+      "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_67",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "event_darkhero_06_s_68",
+      "event_id": 40047,
+      "group_id": "event_darkhero_06_s",
+      "speech_window": "Speech",
+      "highlight": "trony",
+      "speaker": "trony",
+      "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_68",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ],
+      "set_filter_01": "Grey"
+    },
+    {
+      "id": "event_darkhero_06_s_69",
+      "event_id": 40047,
+      "group_id": "event_darkhero_06_s",
+      "speech_window": "Speech",
+      "highlight": "trony",
+      "speaker": "trony",
+      "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_69",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "1",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2405,7 +2342,7 @@
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_70",
       "play_lipSync": false,
@@ -2421,9 +2358,8 @@
         {},
         {}
       ],
-      "set_background": "Sky2",
-      "set_start_camera": "black",
-      "set_end_camera": "black",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2436,7 +2372,7 @@
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_71",
       "play_lipSync": false,
@@ -2466,7 +2402,7 @@
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_72",
       "play_lipSync": false,
@@ -2482,8 +2418,9 @@
         {},
         {}
       ],
+      "set_background": "Sky2",
       "set_start_camera": "1",
-      "set_end_camera": "100",
+      "set_end_camera": "17",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2496,7 +2433,7 @@
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_73",
       "play_lipSync": false,
@@ -2512,8 +2449,8 @@
         {},
         {}
       ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
+      "set_start_camera": "17",
+      "set_end_camera": "17",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2526,7 +2463,7 @@
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_74",
       "play_lipSync": false,
@@ -2542,8 +2479,8 @@
         {},
         {}
       ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
+      "set_start_camera": "17",
+      "set_end_camera": "17",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2556,7 +2493,7 @@
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_75",
       "play_lipSync": false,
@@ -2572,8 +2509,8 @@
         {},
         {}
       ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
+      "set_start_camera": "17",
+      "set_end_camera": "17",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2586,7 +2523,7 @@
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_76",
       "play_lipSync": false,
@@ -2602,8 +2539,8 @@
         {},
         {}
       ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
+      "set_start_camera": "17",
+      "set_end_camera": "170",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2616,7 +2553,7 @@
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_77",
       "play_lipSync": false,
@@ -2632,8 +2569,8 @@
         {},
         {}
       ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
+      "set_start_camera": "170",
+      "set_end_camera": "170",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2646,7 +2583,7 @@
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_78",
       "play_lipSync": false,
@@ -2662,8 +2599,8 @@
         {},
         {}
       ],
-      "set_start_camera": "black",
-      "set_end_camera": "black",
+      "set_start_camera": "170",
+      "set_end_camera": "17",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2676,7 +2613,7 @@
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_79",
       "play_lipSync": false,
@@ -2692,9 +2629,9 @@
         {},
         {}
       ],
-      "set_background": "NikkeRoom",
-      "set_start_camera": "black",
-      "set_end_camera": "black",
+      "set_background": "ArkRuinIndoor",
+      "set_start_camera": "17",
+      "set_end_camera": "17",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2707,7 +2644,7 @@
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_80",
       "play_lipSync": false,
@@ -2723,7 +2660,7 @@
         {},
         {}
       ],
-      "set_start_camera": "1",
+      "set_start_camera": "17",
       "set_end_camera": "10",
       "set_camera_duration": 1.0,
       "effects": [
@@ -2737,7 +2674,7 @@
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_81",
       "play_lipSync": false,
@@ -2767,7 +2704,7 @@
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_82",
       "play_lipSync": false,
@@ -2784,7 +2721,7 @@
         {}
       ],
       "set_start_camera": "10",
-      "set_end_camera": "10",
+      "set_end_camera": "1",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2797,16 +2734,12 @@
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_83",
       "play_lipSync": false,
       "characters": [
-        {
-          "show_char_id": "trony",
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -2817,9 +2750,8 @@
         {},
         {}
       ],
-      "set_background": "black",
-      "set_start_camera": "black",
-      "set_end_camera": "black",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2832,15 +2764,12 @@
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_84",
       "play_lipSync": false,
       "characters": [
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -2851,8 +2780,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1",
-      "set_end_camera": "1",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2865,15 +2794,12 @@
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_85",
       "play_lipSync": false,
       "characters": [
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -2884,8 +2810,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1",
-      "set_end_camera": "1",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2898,15 +2824,12 @@
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "maiden",
       "speaker": "maiden",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_86",
       "play_lipSync": false,
       "characters": [
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -2917,26 +2840,27 @@
         {},
         {}
       ],
-      "set_start_camera": "1",
-      "set_end_camera": "1",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
       "set_camera_duration": 1.0,
+      "play_bgm": "none",
       "effects": [
         {},
         {}
-      ],
-      "set_filter_01": "Grey"
+      ]
     },
     {
       "id": "event_darkhero_06_s_87",
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "black",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_87",
       "play_lipSync": false,
       "characters": [
         {
+          "show_char_id": "booms_event",
           "set_char_position": "1",
           "set_char_anim": "idle"
         },
@@ -2950,22 +2874,20 @@
         {},
         {}
       ],
-      "set_background": "White",
-      "set_start_camera": "1",
-      "set_end_camera": "17",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
       "set_camera_duration": 2.0,
       "effects": [
         {},
         {}
-      ],
-      "set_filter_01": "Grey"
+      ]
     },
     {
       "id": "event_darkhero_06_s_88",
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "elegg",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_88",
       "play_lipSync": false,
@@ -2974,11 +2896,7 @@
           "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "show_char_id": "elegg",
-          "set_char_position": "17",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -2988,21 +2906,21 @@
         {},
         {}
       ],
-      "set_start_camera": "17",
-      "set_end_camera": "S_170",
+      "set_start_camera": "booms_03",
+      "set_end_camera": "booms_03",
       "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_impression",
       "effects": [
         {},
         {}
-      ],
-      "set_filter_01": "Grey"
+      ]
     },
     {
       "id": "event_darkhero_06_s_89",
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "elegg",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_89",
       "play_lipSync": false,
@@ -3011,10 +2929,7 @@
           "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "17",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -3024,21 +2939,20 @@
         {},
         {}
       ],
-      "set_start_camera": "S_170",
-      "set_end_camera": "S_170",
-      "set_camera_duration": 1.0,
+      "set_start_camera": "booms_03",
+      "set_end_camera": "booms_04",
+      "set_camera_duration": 1.8,
       "effects": [
         {},
         {}
-      ],
-      "set_filter_01": "Grey"
+      ]
     },
     {
       "id": "event_darkhero_06_s_90",
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "elegg",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_90",
       "play_lipSync": false,
@@ -3047,10 +2961,7 @@
           "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "17",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -3060,21 +2971,20 @@
         {},
         {}
       ],
-      "set_start_camera": "S_170",
-      "set_end_camera": "S_170",
+      "set_start_camera": "booms_04",
+      "set_end_camera": "booms_04",
       "set_camera_duration": 1.0,
       "effects": [
         {},
         {}
-      ],
-      "set_filter_01": "Grey"
+      ]
     },
     {
       "id": "event_darkhero_06_s_91",
       "event_id": 40047,
       "group_id": "event_darkhero_06_s",
       "speech_window": "Speech",
-      "highlight": "elegg",
+      "highlight": "trony",
       "speaker": "trony",
       "scenario_localkey": "Locale_SubScenario:event_darkhero_06_s_91",
       "play_lipSync": false,
@@ -3083,10 +2993,7 @@
           "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "17",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -3096,14 +3003,13 @@
         {},
         {}
       ],
-      "set_start_camera": "S_170",
-      "set_end_camera": "S_170",
+      "set_start_camera": "booms_04",
+      "set_end_camera": "booms_04",
       "set_camera_duration": 1.0,
       "effects": [
         {},
         {}
-      ],
-      "set_filter_01": "Grey"
+      ]
     },
     {
       "id": "event_darkhero_06_s_92",
@@ -3119,11 +3025,7 @@
           "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "hide_char_id": "elegg",
-          "set_char_position": "17",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -3133,14 +3035,13 @@
         {},
         {}
       ],
-      "set_start_camera": "S_170",
-      "set_end_camera": "S_170",
+      "set_start_camera": "booms_04",
+      "set_end_camera": "booms_04",
       "set_camera_duration": 1.0,
       "effects": [
         {},
         {}
-      ],
-      "set_filter_01": "Grey"
+      ]
     },
     {
       "id": "event_darkhero_06_s_93",
@@ -3152,6 +3053,8 @@
       "play_lipSync": false,
       "characters": [
         {
+          "show_char_id": "trony",
+          "hide_char_id": "booms_event",
           "set_char_position": "1",
           "set_char_anim": "idle"
         },
@@ -3175,7 +3078,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "fade": "black"
     },
     {
       "id": "event_darkhero_06_s_94",
@@ -3242,6 +3146,7 @@
       "set_start_camera": "black",
       "set_end_camera": "black",
       "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_ringingear",
       "effects": [
         {},
         {}
@@ -3274,8 +3179,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1",
-      "set_end_camera": "1",
+      "set_start_camera": "10",
+      "set_end_camera": "10",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3309,8 +3214,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1",
-      "set_end_camera": "1",
+      "set_start_camera": "10",
+      "set_end_camera": "10",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3344,8 +3249,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1",
-      "set_end_camera": "1",
+      "set_start_camera": "10",
+      "set_end_camera": "10",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3379,7 +3284,7 @@
         {},
         {}
       ],
-      "set_start_camera": "1",
+      "set_start_camera": "10",
       "set_end_camera": "10",
       "set_camera_duration": 1.0,
       "effects": [
@@ -4013,7 +3918,7 @@
       "set_start_camera": "S_130",
       "set_end_camera": "S_1300",
       "set_camera_duration": 1.0,
-      "play_bgm": "none",
+      "play_sound": "sfx_scn_headhand",
       "effects": [
         {},
         {}
@@ -4187,7 +4092,6 @@
       "set_start_camera": "12",
       "set_end_camera": "12",
       "set_camera_duration": 1.0,
-      "play_bgm": "bgm_story_marrybad",
       "effects": [
         {},
         {}
@@ -4429,6 +4333,7 @@
       "set_start_camera": "12",
       "set_end_camera": "S_130",
       "set_camera_duration": 1.0,
+      "play_bgm": "none",
       "effects": [
         {},
         {}
@@ -4493,6 +4398,7 @@
       "set_start_camera": "S_130",
       "set_end_camera": "S_130",
       "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_marrybad",
       "effects": [
         {},
         {}
@@ -5049,8 +4955,8 @@
         {},
         {}
       ],
-      "set_start_camera": "black",
-      "set_end_camera": "black",
+      "set_start_camera": "S_1300",
+      "set_end_camera": "S_1300",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -5083,7 +4989,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "fade": "black"
     },
     {
       "id": "event_darkhero_06_s_150",
@@ -5330,9 +5237,8 @@
         {},
         {}
       ],
-      "set_background": "SchoolCorridor_n",
       "set_start_camera": "1",
-      "set_end_camera": "S_130",
+      "set_end_camera": "1",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -5363,13 +5269,15 @@
         {},
         {}
       ],
+      "set_background": "SchoolCorridor_n",
       "set_start_camera": "S_130",
       "set_end_camera": "S_130",
       "set_camera_duration": 1.0,
       "effects": [
         {},
         {}
-      ]
+      ],
+      "fade": "black"
     },
     {
       "id": "event_darkhero_06_s_160",

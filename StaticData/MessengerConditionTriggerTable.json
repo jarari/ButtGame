@@ -15202,6 +15202,126 @@
       "reward_id": 0
     },
     {
+      "id": 2009501,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5112,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MainQuestClear",
+          "condition_id": 25,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_trony_01",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 2009502,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5112,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 2009501,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_trony_02",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 2009503,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5112,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 2009501,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_trony_03",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
       "id": 3000101,
       "trigger_list": [
         {
@@ -19277,6 +19397,86 @@
       ],
       "message_type": "DailyMessage",
       "tid": "m_ex_primadonna_05",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 3003101,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5107,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5112,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "MainQuestClear",
+          "condition_id": 25,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_electricshock_01",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 3003102,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5107,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5112,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "MainQuestClear",
+          "condition_id": 25,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "RandomMessage",
+      "tid": "m_ex_electricshock_02",
       "resource_id": 0,
       "stamina_value": 0,
       "reward_id": 0
@@ -23846,6 +24046,166 @@
       ],
       "message_type": "Message",
       "tid": "m_ex_onemoretime_04",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7001801,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 104710101,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_darkhero_01",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7001802,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 104710101,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7001801,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_darkhero_02",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7001803,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 104710103,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7001802,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_darkhero_03",
+      "resource_id": 0,
+      "stamina_value": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 7001804,
+      "trigger_list": [
+        {
+          "trigger": "EventStageClear",
+          "condition_id": 104720112,
+          "condition_value": 1
+        },
+        {
+          "trigger": "MessageClear",
+          "condition_id": 7001803,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "message_type": "Message",
+      "tid": "m_ex_darkhero_04",
       "resource_id": 0,
       "stamina_value": 0,
       "reward_id": 0
