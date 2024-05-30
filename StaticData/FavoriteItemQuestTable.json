@@ -1,0 +1,314 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 502001,
+      "name_code": 5020,
+      "condition_type": "Outpost_View",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_502001",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_502001",
+      "next_quest_id": 502002,
+      "end_scenario_id": "treasurestory_diesel_01",
+      "reward_id": 0
+    },
+    {
+      "id": 502002,
+      "name_code": 5020,
+      "condition_type": "Outpost_Select",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_502002",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_502002",
+      "next_quest_id": 502003,
+      "end_scenario_id": "treasurestory_diesel_02",
+      "reward_id": 0
+    },
+    {
+      "id": 502003,
+      "name_code": 5020,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10501,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_502003",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_502003",
+      "next_quest_id": 502004,
+      "end_scenario_id": "treasurestory_diesel_03",
+      "reward_id": 0
+    },
+    {
+      "id": 502004,
+      "name_code": 5020,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10701,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_502004",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_502004",
+      "next_quest_id": 502005,
+      "end_scenario_id": "treasurestory_diesel_04",
+      "reward_id": 0
+    },
+    {
+      "id": 502005,
+      "name_code": 5020,
+      "condition_type": "Outpost_View",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_502005",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_502005",
+      "next_quest_id": 502006,
+      "end_scenario_id": "treasurestory_diesel_05",
+      "reward_id": 0
+    },
+    {
+      "id": 502006,
+      "name_code": 5020,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10601,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_502006",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_502006",
+      "next_quest_id": 502007,
+      "end_scenario_id": "treasurestory_diesel_06",
+      "reward_id": 3800101
+    },
+    {
+      "id": 502007,
+      "name_code": 5020,
+      "condition_type": "End",
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_502007",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_502007",
+      "next_quest_id": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 101001,
+      "name_code": 1010,
+      "condition_type": "Outpost_View",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_101001",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_101001",
+      "next_quest_id": 101002,
+      "end_scenario_id": "treasurestory_laplace_01",
+      "reward_id": 0
+    },
+    {
+      "id": 101002,
+      "name_code": 1010,
+      "condition_type": "Outpost_Select",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_101002",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_101002",
+      "next_quest_id": 101003,
+      "end_scenario_id": "treasurestory_laplace_02",
+      "reward_id": 0
+    },
+    {
+      "id": 101003,
+      "name_code": 1010,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10901,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_101003",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_101003",
+      "next_quest_id": 101004,
+      "end_scenario_id": "treasurestory_laplace_03",
+      "reward_id": 0
+    },
+    {
+      "id": 101004,
+      "name_code": 1010,
+      "condition_type": "FavoriteItemQuest_Stage_Group_Clear",
+      "condition_value": 1010,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_101004",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_101004",
+      "next_quest_id": 101005,
+      "reward_id": 0
+    },
+    {
+      "id": 101005,
+      "name_code": 1010,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10901,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_101005",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_101005",
+      "next_quest_id": 101006,
+      "end_scenario_id": "treasurestory_laplace_05",
+      "reward_id": 0
+    },
+    {
+      "id": 101006,
+      "name_code": 1010,
+      "condition_type": "Outpost_View",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_101006",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_101006",
+      "next_quest_id": 101007,
+      "end_scenario_id": "treasurestory_laplace_06",
+      "reward_id": 3800401
+    },
+    {
+      "id": 101007,
+      "name_code": 1010,
+      "condition_type": "End",
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_101007",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_101007",
+      "next_quest_id": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 501001,
+      "name_code": 5010,
+      "condition_type": "Outpost_View",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_501001",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_501001",
+      "next_quest_id": 501002,
+      "end_scenario_id": "treasurestory_frima_01",
+      "reward_id": 0
+    },
+    {
+      "id": 501002,
+      "name_code": 5010,
+      "condition_type": "Outpost_Select",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_501002",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_501002",
+      "next_quest_id": 501003,
+      "end_scenario_id": "treasurestory_frima_02",
+      "reward_id": 0
+    },
+    {
+      "id": 501003,
+      "name_code": 5010,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10401,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_501003",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_501003",
+      "next_quest_id": 501004,
+      "end_scenario_id": "treasurestory_frima_03",
+      "reward_id": 0
+    },
+    {
+      "id": 501004,
+      "name_code": 5010,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10201,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_501004",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_501004",
+      "next_quest_id": 501005,
+      "end_scenario_id": "treasurestory_frima_04",
+      "reward_id": 0
+    },
+    {
+      "id": 501005,
+      "name_code": 5010,
+      "condition_type": "Outpost_Select",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_501005",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_501005",
+      "next_quest_id": 501006,
+      "end_scenario_id": "treasurestory_frima_05",
+      "reward_id": 0
+    },
+    {
+      "id": 501006,
+      "name_code": 5010,
+      "condition_type": "FavoriteItemQuest_Stage_Group_Clear",
+      "condition_value": 5010,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_501006",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_501006",
+      "next_quest_id": 501007,
+      "reward_id": 0
+    },
+    {
+      "id": 501007,
+      "name_code": 5010,
+      "condition_type": "Outpost_View",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_501007",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_501007",
+      "next_quest_id": 501008,
+      "end_scenario_id": "treasurestory_frima_07",
+      "reward_id": 3800301
+    },
+    {
+      "id": 501008,
+      "name_code": 5010,
+      "condition_type": "End",
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_501008",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_501008",
+      "next_quest_id": 0,
+      "reward_id": 0
+    },
+    {
+      "id": 500301,
+      "name_code": 5003,
+      "condition_type": "Outpost_View",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_500301",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_500301",
+      "next_quest_id": 500302,
+      "end_scenario_id": "treasurestory_exia_01",
+      "reward_id": 0
+    },
+    {
+      "id": 500302,
+      "name_code": 5003,
+      "condition_type": "Outpost_Select",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_500302",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_500302",
+      "next_quest_id": 500303,
+      "end_scenario_id": "treasurestory_exia_02",
+      "reward_id": 0
+    },
+    {
+      "id": 500303,
+      "name_code": 5003,
+      "condition_type": "Lobby_Enter",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_500303",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_500303",
+      "next_quest_id": 500304,
+      "end_scenario_id": "treasurestory_exia_03",
+      "reward_id": 0
+    },
+    {
+      "id": 500304,
+      "name_code": 5003,
+      "condition_type": "Ark_View",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_500304",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_500304",
+      "next_quest_id": 500305,
+      "end_scenario_id": "treasurestory_exia_04",
+      "reward_id": 0
+    },
+    {
+      "id": 500305,
+      "name_code": 5003,
+      "condition_type": "Lobby_Enter",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_500305",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_500305",
+      "next_quest_id": 500306,
+      "end_scenario_id": "treasurestory_exia_05",
+      "reward_id": 0
+    },
+    {
+      "id": 500306,
+      "name_code": 5003,
+      "condition_type": "Outpost_View",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_500306",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_500306",
+      "next_quest_id": 500307,
+      "end_scenario_id": "treasurestory_exia_06",
+      "reward_id": 3800201
+    },
+    {
+      "id": 500307,
+      "name_code": 5003,
+      "condition_type": "End",
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_500307",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_500307",
+      "next_quest_id": 0,
+      "reward_id": 0
+    }
+  ]
+}

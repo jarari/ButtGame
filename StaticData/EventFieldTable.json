@@ -306,6 +306,38 @@
           "event_field_currency_type": "None"
         }
       ]
+    },
+    {
+      "id": 10011,
+      "event_id": 81300,
+      "field_design_map": "febg_coinrush_001",
+      "field_art_map_standard": "febg_coinrush_001_01",
+      "field_hud": "hud_event_field_goldencoinrush",
+      "field_first_entry_resource": "event_enter_goldencoinrush",
+      "link_event_pass_id": 1000014,
+      "progress_event_group_id": 1011,
+      "is_use_roaming_npc": false,
+      "roaming_npc_limit": 0,
+      "roaming_npc_type": "UserCharacter",
+      "roaming_npc_speed_minimum": 100,
+      "roaming_npc_speed_maximum": 250,
+      "player_squad_type": "UserSquad",
+      "player_squad_value": 5,
+      "player_squad_speed": 100,
+      "sd_character_size": 100,
+      "event_mission_group": 48,
+      "recollection_hub_group_id": 10011,
+      "field_enter_scenario": "event_goldencoinrush1_prologue",
+      "field_enter_scenario_story_event_id": 40048,
+      "event_field_currency_list": [
+        {
+          "event_field_currency_type": "Material",
+          "event_field_currency_id": 7060048
+        },
+        {
+          "event_field_currency_type": "None"
+        }
+      ]
     }
   ]
 }

@@ -706,6 +706,50 @@
       "currency_value": 50000
     },
     {
+      "id": 5004,
+      "group_id": 5000,
+      "name_localkey": "Locale_System:ACADEMY_LESSON_DISPATCH",
+      "function_localkey": "Locale_System:ACADEMY_LESSON_DISPATCH_4",
+      "lesson_type": "DispatchCollection",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 1,
+          "lesson_reward_value": 1
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3001,
+      "character_condition_value_2": 0,
+      "character_condition_value_3": 0,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 5003
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 50000
+    },
+    {
       "id": 6001,
       "group_id": 6000,
       "name_localkey": "Locale_System:ACADEMY_LESSON_SYNCHRODEVICE",
@@ -1320,6 +1364,446 @@
       ],
       "currency_id": 2000,
       "currency_value": 900000
+    },
+    {
+      "id": 10001,
+      "group_id": 10000,
+      "name_localkey": "Locale_System:ACADEMY_LESSON_SYNCHRODEVICE",
+      "function_localkey": "Locale_System:ACADEMY_LESSON_SYNCHRODEVICE_1",
+      "lesson_type": "SynchroDevice",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 5
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3001,
+      "character_condition_value_2": 3005,
+      "character_condition_value_3": 3002,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 5003
+        },
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 9004
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 1000000
+    },
+    {
+      "id": 10002,
+      "group_id": 10000,
+      "name_localkey": "Locale_System:ACADEMY_LESSON_DISPATCH",
+      "function_localkey": "Locale_System:ACADEMY_LESSON_DISPATCH_6",
+      "lesson_type": "DispatchCollection",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 2,
+          "lesson_reward_value": 1
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3003,
+      "character_condition_value_2": 3008,
+      "character_condition_value_3": 3007,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 10001
+        },
+        {
+          "condition_type": "StageClear",
+          "condition_value": 6011032
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 1000000
+    },
+    {
+      "id": 11001,
+      "group_id": 11000,
+      "name_localkey": "Locale_System:ACADEMY_LESSON_INTERCEPT",
+      "function_localkey": "Locale_System:ACADEMY_LESSON_INTERCEPT_3",
+      "lesson_type": "Intercept",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 2,
+          "lesson_reward_value": 24002
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3008,
+      "character_condition_value_2": 3005,
+      "character_condition_value_3": 3007,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 10002
+        },
+        {
+          "condition_type": "StageClear",
+          "condition_value": 6013001
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 1000000
+    },
+    {
+      "id": 11002,
+      "group_id": 11000,
+      "name_localkey": "Locale_System:ACADEMY_LESSON_DISPATCH",
+      "function_localkey": "Locale_System:ACADEMY_LESSON_DISPATCH_7",
+      "lesson_type": "DispatchCollection",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 3,
+          "lesson_reward_value": 1
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3010,
+      "character_condition_value_2": 3001,
+      "character_condition_value_3": 3003,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 11001
+        },
+        {
+          "condition_type": "StageClear",
+          "condition_value": 6013034
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 1000000
+    },
+    {
+      "id": 11003,
+      "group_id": 11000,
+      "name_localkey": "Locale_System:ACADEMY_LESSON_DISPATCH",
+      "function_localkey": "Locale_System:ACADEMY_LESSON_DISPATCH_5",
+      "lesson_type": "DispatchCollection",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 4,
+          "lesson_reward_value": 1
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3002,
+      "character_condition_value_2": 3006,
+      "character_condition_value_3": 3009,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 11002
+        },
+        {
+          "condition_type": "StageClear",
+          "condition_value": 6014040
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 1000000
+    },
+    {
+      "id": 12001,
+      "group_id": 12000,
+      "name_localkey": "Locale_System:ACADEMY_LESSON_SYNCHRODEVICE",
+      "function_localkey": "Locale_System:ACADEMY_LESSON_SYNCHRODEVICE_1",
+      "lesson_type": "SynchroDevice",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 5
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3005,
+      "character_condition_value_2": 3010,
+      "character_condition_value_3": 3008,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 11003
+        },
+        {
+          "condition_type": "StageClear",
+          "condition_value": 6015021
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 1000000
+    },
+    {
+      "id": 12002,
+      "group_id": 12000,
+      "name_localkey": "Locale_System:ACADEMY_LESSON_DISPATCH",
+      "function_localkey": "Locale_System:ACADEMY_LESSON_DISPATCH_7",
+      "lesson_type": "DispatchCollection",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 5,
+          "lesson_reward_value": 1
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3007,
+      "character_condition_value_2": 3003,
+      "character_condition_value_3": 3001,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 12001
+        },
+        {
+          "condition_type": "StageClear",
+          "condition_value": 6016007
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 1000000
+    },
+    {
+      "id": 13001,
+      "group_id": 13000,
+      "name_localkey": "Locale_System:ACADEMY_LESSON_INTERCEPT",
+      "function_localkey": "Locale_System:ACADEMY_LESSON_INTERCEPT_3",
+      "lesson_type": "Intercept",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 2,
+          "lesson_reward_value": 24002
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3006,
+      "character_condition_value_2": 3001,
+      "character_condition_value_3": 3008,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 12002
+        },
+        {
+          "condition_type": "StageClear",
+          "condition_value": 6017012
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 1000000
+    },
+    {
+      "id": 13002,
+      "group_id": 13000,
+      "name_localkey": "Locale_System:ACADEMY_LESSON_DISPATCH",
+      "function_localkey": "Locale_System:ACADEMY_LESSON_DISPATCH_5",
+      "lesson_type": "DispatchCollection",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 6,
+          "lesson_reward_value": 1
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3010,
+      "character_condition_value_2": 3007,
+      "character_condition_value_3": 3005,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 13001
+        },
+        {
+          "condition_type": "StageClear",
+          "condition_value": 6017043
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 1000000
+    },
+    {
+      "id": 13003,
+      "group_id": 13000,
+      "name_localkey": "Locale_System:ACADEMY_LESSON_DISPATCH",
+      "function_localkey": "Locale_System:ACADEMY_LESSON_DISPATCH_8",
+      "lesson_type": "DispatchFavorite",
+      "lesson_reward": [
+        {
+          "lesson_reward_id": 1,
+          "lesson_reward_value": 1
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        },
+        {
+          "lesson_reward_id": 0,
+          "lesson_reward_value": 0
+        }
+      ],
+      "character_condition_value_1": 3002,
+      "character_condition_value_2": 3009,
+      "character_condition_value_3": 3003,
+      "lesson_condition": [
+        {
+          "condition_type": "OpenLesson",
+          "condition_value": 13002
+        },
+        {
+          "condition_type": "StageClear",
+          "condition_value": 6018045
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_value": 0
+        }
+      ],
+      "currency_id": 2000,
+      "currency_value": 1000000
     }
   ]
 }

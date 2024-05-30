@@ -13714,6 +13714,1178 @@
       "balloon_always_cycle": 5
     },
     {
+      "id": 766,
+      "list_button_index": 1,
+      "event_field_id": 10011,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_28",
+      "npc_localkey_contents": "Locale_Event:event_contents_storydungeon_before",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 40048
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 300,
+      "forced_interaction_marker": "sprite_btn_event_goldencoinrush",
+      "is_interaction_after_end": false
+    },
+    {
+      "id": 767,
+      "event_field_id": 10011,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_29",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 300,
+      "forced_interaction_marker": "sprite_btn_event_goldencoinrush",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011001
+    },
+    {
+      "id": 768,
+      "list_button_index": 2,
+      "event_field_id": 10011,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_29",
+      "npc_localkey_contents": "Locale_Event:event_contents_storydungeon_after",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 40049
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 300,
+      "forced_interaction_marker": "sprite_btn_event_goldencoinrush",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011002
+    },
+    {
+      "id": 769,
+      "list_button_index": 3,
+      "event_field_id": 10011,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_30",
+      "npc_localkey_contents": "Locale_Event:event_contents_challenge",
+      "npc_type": "npc",
+      "resource_id": 7001007,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 60048
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 400,
+      "forced_interaction_marker": "sprite_btn_event_goldencoinrush",
+      "is_interaction_after_end": false
+    },
+    {
+      "id": 770,
+      "event_field_id": 10011,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_31",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 500,
+      "forced_interaction_marker": "sprite_btn_event_goldencoinrush",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011003
+    },
+    {
+      "id": 771,
+      "list_button_index": 4,
+      "event_field_id": 10011,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_31",
+      "npc_localkey_contents": "Locale_Event:event_contents_minigame",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 81301
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 500,
+      "forced_interaction_marker": "sprite_btn_event_goldencoinrush",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011004
+    },
+    {
+      "id": 772,
+      "list_button_index": 5,
+      "event_field_id": 10011,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_32",
+      "npc_localkey_contents": "Locale_Event:event_contents_login",
+      "npc_type": "npc",
+      "resource_id": 7007002,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 81303
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 300,
+      "forced_interaction_marker": "sprite_btn_event_goldencoinrush",
+      "is_interaction_after_end": true
+    },
+    {
+      "id": 773,
+      "list_button_index": 6,
+      "event_field_id": 10011,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_33",
+      "npc_localkey_contents": "Locale_Event:event_contents_shop",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 81302
+        },
+        {},
+        {}
+      ],
+      "interaction_distance": 500,
+      "forced_interaction_marker": "sprite_btn_event_goldencoinrush",
+      "is_interaction_after_end": true
+    },
+    {
+      "id": 774,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 270,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011005,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_01",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 775,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 271,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011006,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_02",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 776,
+      "event_field_id": 10011,
+      "npc_type": "npc",
+      "resource_id": 7007007,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011007,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_03",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 777,
+      "event_field_id": 10011,
+      "npc_type": "npc",
+      "resource_id": 7007007,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011008,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_04",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 778,
+      "event_field_id": 10011,
+      "npc_type": "npc",
+      "resource_id": 7007001,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011009,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_05",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 779,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 314,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011010,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_06",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 780,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 195,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011011,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_07",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 781,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 431,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011012,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_08",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 782,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 242,
+      "costume_index": 1,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011013,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_09",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 783,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 141,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011014,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_10",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 784,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 130,
+      "costume_index": 1,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011015,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_11",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 785,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 200,
+      "costume_index": 1,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011016,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_12",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 786,
+      "event_field_id": 10011,
+      "npc_type": "npc",
+      "resource_id": 7007001,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011017,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_13",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 787,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 141,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011018,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_14",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 788,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 140,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011019,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_15",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 789,
+      "event_field_id": 10011,
+      "npc_type": "npc",
+      "resource_id": 7007001,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011020,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_16",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 790,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 200,
+      "costume_index": 1,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011021,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_17",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 791,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 314,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011022,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_18",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 792,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 195,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011023,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_19",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 793,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 242,
+      "costume_index": 1,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011024,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_20",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 794,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 430,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011025,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_21",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 795,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 212,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011026,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_22",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 796,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 242,
+      "costume_index": 1,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011027,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_23",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 797,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 314,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011028,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_24",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 798,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 195,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011029,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_25",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 799,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 431,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011030,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_26",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 800,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 432,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011031,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_27",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 801,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 430,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011032,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_28",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 802,
+      "event_field_id": 10011,
+      "npc_type": "npc",
+      "resource_id": 7007001,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011033,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_29",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 803,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 314,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011034,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_30",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 804,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 195,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011035,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_31",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 805,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 141,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011036,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_32",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 806,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 200,
+      "costume_index": 1,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011037,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_33",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 807,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 242,
+      "costume_index": 1,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011038,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_34",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 808,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 431,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011039,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_35",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 809,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 200,
+      "costume_index": 1,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011040,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_36",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 810,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 130,
+      "costume_index": 1,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011041,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_37",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 811,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 190,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011042,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_38",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 812,
+      "event_field_id": 10011,
+      "npc_type": "npc",
+      "resource_id": 7007003,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011043,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_39",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 813,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 190,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011044,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_40",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 814,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 190,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011045,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_41",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 815,
+      "event_field_id": 10011,
+      "npc_type": "npc",
+      "resource_id": 7007002,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011046,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_42",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 816,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 212,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011047,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_43",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 817,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 212,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011048,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_44",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 818,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 212,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011049,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_45",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 819,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 195,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011050,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_46",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 820,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 190,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011051,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_47",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 821,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 195,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011052,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_48",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 822,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 190,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011053,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_49",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 823,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 195,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011054,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_50",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 824,
+      "event_field_id": 10011,
+      "npc_type": "character",
+      "resource_id": 190,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011055,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_goldencoinrush_balloon_51",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 825,
+      "event_field_id": 10011,
+      "npc_type": "npc",
+      "resource_id": 7007005,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011056
+    },
+    {
+      "id": 826,
+      "event_field_id": 10011,
+      "npc_type": "npc",
+      "resource_id": 7007004,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false
+    },
+    {
+      "id": 827,
+      "event_field_id": 10011,
+      "npc_type": "npc",
+      "resource_id": 7007004,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false
+    },
+    {
+      "id": 828,
+      "event_field_id": 10011,
+      "npc_type": "npc",
+      "resource_id": 7007006,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011057
+    },
+    {
+      "id": 829,
+      "event_field_id": 10011,
+      "npc_type": "npc",
+      "resource_id": 7007006,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011058
+    },
+    {
+      "id": 830,
+      "event_field_id": 10011,
+      "npc_type": "npc",
+      "resource_id": 7007006,
+      "forced_name_tag_resource": "sprite_event_goldencoinrush_npc_tag",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2011059
+    },
+    {
       "id": 9991,
       "event_field_id": 99999,
       "npc_localkey_name": "Locale_Character:10_name",

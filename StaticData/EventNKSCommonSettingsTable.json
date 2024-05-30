@@ -3,7 +3,9 @@
   "records": [
     {
       "id": 1,
+      "group_id": 100,
       "event_id": 80803,
+      "versionType": "MOG1",
       "isSpecialMode": false,
       "is_archive_event": false,
       "enter_scenario": "1ann_mini_prologue",
@@ -20,11 +22,19 @@
       "Bounce_DefaultWidth": 768,
       "Bounce_DefaultHeight": 1240,
       "PlayableCharacter_Burst_FadeTime": 50,
-      "PlayableCharacter_Burst_Interval": 0.2
+      "PlayableCharacter_Burst_Interval": 0.2,
+      "coinSkillStore_reRollAmount": 0,
+      "coinSkillStore_lockAddAmount": 0,
+      "coinRevive_maxCount": 0,
+      "levelupSlot_maxRerollCount": 0,
+      "maxCombineWeapon": 0,
+      "maxCombineModule": 0
     },
     {
       "id": 2,
+      "group_id": 200,
       "event_id": 80803,
+      "versionType": "MOG1",
       "isSpecialMode": false,
       "is_archive_event": true,
       "enter_scenario": "1ann_mini_prologue",
@@ -41,11 +51,48 @@
       "Bounce_DefaultWidth": 768,
       "Bounce_DefaultHeight": 1240,
       "PlayableCharacter_Burst_FadeTime": 50,
-      "PlayableCharacter_Burst_Interval": 0.2
+      "PlayableCharacter_Burst_Interval": 0.2,
+      "coinSkillStore_reRollAmount": 0,
+      "coinSkillStore_lockAddAmount": 0,
+      "coinRevive_maxCount": 0,
+      "levelupSlot_maxRerollCount": 0,
+      "maxCombineWeapon": 0,
+      "maxCombineModule": 0
+    },
+    {
+      "id": 3,
+      "group_id": 200,
+      "event_id": 0,
+      "versionType": "MOG2",
+      "isSpecialMode": false,
+      "is_archive_event": false,
+      "enter_scenario": "mog2_prologue",
+      "FieldItem_AutoDisappearTime": 60,
+      "AutoSaveTimer": 60,
+      "ItemCalcWeight": 1.24,
+      "pcInvincibleTime": 50,
+      "Magnet_MoveTo_playerCharacter_Spd": 8,
+      "monster_common_appearEffect": "NKS_fx_monster_spawn_01",
+      "monster_common_deathEffect_Id": "NKS_fx_common_explosion_01",
+      "set_BossDeathEffectTime": 300,
+      "monster_common_KnockbackDelay": 5,
+      "monster_common_WhiteBlinkDelay": 5,
+      "Bounce_DefaultWidth": 768,
+      "Bounce_DefaultHeight": 1240,
+      "PlayableCharacter_Burst_FadeTime": 50,
+      "PlayableCharacter_Burst_Interval": 0.2,
+      "coinSkillStore_reRollAmount": 10000,
+      "coinSkillStore_lockAddAmount": 5000,
+      "coinRevive_maxCount": 0,
+      "levelupSlot_maxRerollCount": 3,
+      "maxCombineWeapon": 3,
+      "maxCombineModule": 0
     },
     {
       "id": 90001,
+      "group_id": 90000,
       "event_id": 0,
+      "versionType": "MOG1",
       "isSpecialMode": true,
       "is_archive_event": false,
       "checkBoss": 800001,
@@ -62,11 +109,19 @@
       "Bounce_DefaultWidth": 768,
       "Bounce_DefaultHeight": 1240,
       "PlayableCharacter_Burst_FadeTime": 50,
-      "PlayableCharacter_Burst_Interval": 0.2
+      "PlayableCharacter_Burst_Interval": 0.2,
+      "coinSkillStore_reRollAmount": 0,
+      "coinSkillStore_lockAddAmount": 0,
+      "coinRevive_maxCount": 0,
+      "levelupSlot_maxRerollCount": 0,
+      "maxCombineWeapon": 0,
+      "maxCombineModule": 0
     },
     {
       "id": 90002,
+      "group_id": 90100,
       "event_id": 0,
+      "versionType": "MOG1",
       "isSpecialMode": true,
       "is_archive_event": false,
       "checkBoss": 800002,
@@ -83,7 +138,13 @@
       "Bounce_DefaultWidth": 768,
       "Bounce_DefaultHeight": 1240,
       "PlayableCharacter_Burst_FadeTime": 50,
-      "PlayableCharacter_Burst_Interval": 0.2
+      "PlayableCharacter_Burst_Interval": 0.2,
+      "coinSkillStore_reRollAmount": 0,
+      "coinSkillStore_lockAddAmount": 0,
+      "coinRevive_maxCount": 0,
+      "levelupSlot_maxRerollCount": 0,
+      "maxCombineWeapon": 0,
+      "maxCombineModule": 0
     }
   ]
 }

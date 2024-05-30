@@ -8106,6 +8106,258 @@
       "enter_scenario_id": "d_ex_workshop_09",
       "stamina_value": 1,
       "reward_id": 3000003
+    },
+    {
+      "id": 1230107,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5114,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5092,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "event_type": "Outpost",
+      "tid": 12301,
+      "resource_id": 5114,
+      "name_localkey": "Locale_SuddenStory:d_ex_gym_07_title",
+      "enter_scenario_id": "d_ex_gym_07",
+      "stamina_value": 1,
+      "reward_id": 3000003
+    },
+    {
+      "id": 1030109,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5114,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5110,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "event_type": "Outpost",
+      "tid": 10301,
+      "resource_id": 5114,
+      "name_localkey": "Locale_SuddenStory:d_ex_hotel_09_title",
+      "enter_scenario_id": "d_ex_hotel_09",
+      "stamina_value": 1,
+      "reward_id": 3000003
+    },
+    {
+      "id": 1080108,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5114,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5023,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "event_type": "Outpost",
+      "tid": 10801,
+      "resource_id": 5114,
+      "name_localkey": "Locale_SuddenStory:d_ex_armory_08_title",
+      "enter_scenario_id": "d_ex_armory_08",
+      "stamina_value": 1,
+      "reward_id": 3000003
+    },
+    {
+      "id": 1020109,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5113,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5082,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5017,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "event_type": "Outpost",
+      "tid": 10201,
+      "resource_id": 5113,
+      "name_localkey": "Locale_SuddenStory:d_ex_police_09_title",
+      "enter_scenario_id": "d_ex_police_09",
+      "stamina_value": 1,
+      "reward_id": 3000003
+    },
+    {
+      "id": 1100108,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5113,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "event_type": "Outpost",
+      "tid": 11001,
+      "resource_id": 5113,
+      "name_localkey": "Locale_SuddenStory:d_ex_modernbar_08_title",
+      "enter_scenario_id": "d_ex_modernbar_08",
+      "stamina_value": 1,
+      "reward_id": 3000003
+    },
+    {
+      "id": 1040109,
+      "trigger_list": [
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5113,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5009,
+          "condition_value": 1
+        },
+        {
+          "trigger": "ObtainCharacter",
+          "condition_id": 5008,
+          "condition_value": 1
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        },
+        {
+          "trigger": "None",
+          "condition_id": 0,
+          "condition_value": 0
+        }
+      ],
+      "event_type": "Outpost",
+      "tid": 10401,
+      "resource_id": 5113,
+      "name_localkey": "Locale_SuddenStory:d_ex_maidcafe_09_title",
+      "enter_scenario_id": "d_ex_maidcafe_09",
+      "stamina_value": 1,
+      "reward_id": 3000003
     }
   ]
 }

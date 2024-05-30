@@ -10394,6 +10394,20 @@
       "reward_id": 2901001
     },
     {
+      "id": 901002,
+      "trigger": "CampaignClear",
+      "condition_id": 6006004,
+      "condition_value": 1,
+      "before_trigger_id": 0,
+      "handler_type": "Achievement",
+      "print_value": true,
+      "shortcut_type": "None",
+      "shortcut_value": 0,
+      "description_localkey": "Locale_Trigger:trigger_desc_CampaignClear_6006004",
+      "point_value": 1,
+      "reward_id": 2901002
+    },
+    {
       "id": 999999,
       "trigger": "FirstPaidGacha_Legecy",
       "condition_id": 0,
