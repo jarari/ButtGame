@@ -630,6 +630,20 @@
       "ui_prefab": "goldencoinrush_part2"
     },
     {
+      "id": 10050,
+      "event_id": 40050,
+      "prologue_scenario": "event_claymore_prologue",
+      "auto_charge_id": 10050,
+      "event_item_type": "Item",
+      "event_item_id": 7060050,
+      "dungeon_id": 50,
+      "album_category_group": 1050,
+      "mission_group": 50,
+      "contents_shop_id": 9005001,
+      "dice_id": 0,
+      "ui_prefab": "claymore"
+    },
+    {
       "id": 40001,
       "event_id": 60001,
       "auto_charge_id": 40001,
@@ -953,6 +967,19 @@
       "contents_shop_id": 0,
       "dice_id": 0,
       "challenge_monster_resource": "full_ebg002"
+    },
+    {
+      "id": 40050,
+      "event_id": 60050,
+      "auto_charge_id": 40050,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1050,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_ebg001"
     }
   ]
 }
