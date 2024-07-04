@@ -696,6 +696,24 @@
       "is_gauge": false
     },
     {
+      "id": 4015,
+      "depart_scene_code": "Lobby",
+      "arrive_scene_code": "DDMiniGame",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 10,
+      "is_gauge": true
+    },
+    {
+      "id": 4016,
+      "depart_scene_code": "DDMiniGame",
+      "arrive_scene_code": "Lobby",
+      "depart_view_type": 0,
+      "arrive_view_type": 0,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
       "id": 8070001,
       "depart_scene_code": "Lobby",
       "arrive_scene_code": "EventField",
@@ -882,6 +900,42 @@
       "arrive_scene_code": "None",
       "depart_view_type": 11501,
       "arrive_view_type": 6012,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 5005,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6009,
+      "arrive_view_type": 11561,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 5006,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 11561,
+      "arrive_view_type": 6009,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 5007,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 6009,
+      "arrive_view_type": 11562,
+      "transition_type": 2,
+      "is_gauge": false
+    },
+    {
+      "id": 5008,
+      "depart_scene_code": "None",
+      "arrive_scene_code": "None",
+      "depart_view_type": 11562,
+      "arrive_view_type": 6009,
       "transition_type": 2,
       "is_gauge": false
     }

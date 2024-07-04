@@ -1,0 +1,57 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "navi_type": "WaterAndGround",
+      "squad_riding_together": false,
+      "squad_change_riding_effect": "fx_febg_tropical_003_switch_water",
+      "riding_change_squad_effect": "fx_febg_tropical_003_switch_ground",
+      "riding_player_squad_type": "UserSquad",
+      "riding_player_squad_value": 5,
+      "riding_player_squad_speed": 15,
+      "riding_sd_character_size": 100,
+      "change_delay_time": 100,
+      "riding_resource": "event_field_riding_fishing_boat_var",
+      "riding_resource_size": 65,
+      "contents_value": [
+        {
+          "event_field_riding_contents_type": "Fishing",
+          "contents_sd_model": "field_npc_swim_suit_maiden_001_var",
+          "contents_model_change_effect": "fx_event_field_appear_smoke"
+        },
+        {
+          "event_field_riding_contents_type": "Photo",
+          "contents_sd_model": "field_npc_swim_suit_viper_001_var",
+          "contents_model_change_effect": "fx_event_field_appear_smoke"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "navi_type": "WaterAndGround",
+      "squad_riding_together": false,
+      "squad_change_riding_effect": "fx_febg_tropical_003_switch_water",
+      "riding_change_squad_effect": "fx_febg_tropical_003_switch_ground",
+      "riding_player_squad_type": "UserSquad",
+      "riding_player_squad_value": 5,
+      "riding_player_squad_speed": 15,
+      "riding_sd_character_size": 100,
+      "change_delay_time": 100,
+      "riding_resource": "event_field_riding_night_fishing_boat_var",
+      "riding_resource_size": 65,
+      "contents_value": [
+        {
+          "event_field_riding_contents_type": "Fishing",
+          "contents_sd_model": "field_npc_swim_suit_maiden_001_var",
+          "contents_model_change_effect": "fx_event_field_appear_smoke"
+        },
+        {
+          "event_field_riding_contents_type": "Photo",
+          "contents_sd_model": "field_npc_swim_suit_viper_001_var",
+          "contents_model_change_effect": "fx_event_field_appear_smoke"
+        }
+      ]
+    }
+  ]
+}

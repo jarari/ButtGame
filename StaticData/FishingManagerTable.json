@@ -1,0 +1,33 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "event_id": 81401,
+      "is_archive_event": false,
+      "enter_scenario": "d_contents_2024summer_fishing_01",
+      "use_fish_collection_data": "1",
+      "use_spot_group_id": 1,
+      "casting_bonus_ratio": 1000,
+      "casting_limit_time": 10,
+      "special_pattern_decrease_hp_ratio": 100,
+      "judgment_start_distance": 8000,
+      "perfect_zone_distance": 300,
+      "great_zone_distance": 450,
+      "good_zone_distance": 600,
+      "perfect_decrease_hp": 500,
+      "great_decrease_hp": 400,
+      "good_decrease_hp": 300,
+      "small_hp_decrease_ratio": 120,
+      "mid_hp_decrease_ratio": 70,
+      "large_hp_decrease_ratio": 50,
+      "penalty_hp": 1000,
+      "time_alert": 300,
+      "gain_gold_ratio": 10000,
+      "catch_double_ratio": 500,
+      "fishing_maximum_size_ratio": 0,
+      "pattern_start_delay_time": 100,
+      "result_window_delay_time": 0
+    }
+  ]
+}

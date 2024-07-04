@@ -1731,6 +1731,19 @@
       "stack_max": 9999999
     },
     {
+      "id": 7061013,
+      "name_localkey": "Locale_Item:box_gacha_event_currency_material_009",
+      "description_localkey": "Locale_Item:box_gacha_event_currency_material_009_desc",
+      "resource_id": "icn_event_box_gacha_ticket_009",
+      "item_type": "Material",
+      "item_sub_type": "EventCurrencyMaterial",
+      "item_rare": "SSR",
+      "item_value": 1,
+      "material_type": "None",
+      "material_value": 0,
+      "stack_max": 9999999
+    },
+    {
       "id": 7070001,
       "name_localkey": "Locale_Item:story_event_ticket_material_001",
       "description_localkey": "Locale_Item:story_event_ticket_material_001_desc",
@@ -2381,6 +2394,32 @@
       "stack_max": 9999999
     },
     {
+      "id": 7070051,
+      "name_localkey": "Locale_Item:story_event_ticket_material_051",
+      "description_localkey": "Locale_Item:story_event_ticket_material_051_desc",
+      "resource_id": "icn_event_story_ticket_beautyfullshot",
+      "item_type": "Material",
+      "item_sub_type": "EventTicketMaterial",
+      "item_rare": "SSR",
+      "item_value": 1,
+      "material_type": "None",
+      "material_value": 0,
+      "stack_max": 9999999
+    },
+    {
+      "id": 7060051,
+      "name_localkey": "Locale_Item:story_event_currency_material_051",
+      "description_localkey": "Locale_Item:story_event_currency_material_051_desc",
+      "resource_id": "icn_event_story_currency_beautyfullshot",
+      "item_type": "Material",
+      "item_sub_type": "EventCurrencyMaterial",
+      "item_rare": "SSR",
+      "item_value": 1,
+      "material_type": "None",
+      "material_value": 0,
+      "stack_max": 9999999
+    },
+    {
       "id": 7071001,
       "name_localkey": "Locale_Item:story_event_ticket_material_1001",
       "description_localkey": "Locale_Item:story_event_ticket_material_1001_desc_archive",
@@ -2927,6 +2966,19 @@
       "stack_max": 9999999
     },
     {
+      "id": 7110051,
+      "name_localkey": "Locale_Item:challenge_stage_ticket_material_001",
+      "description_localkey": "Locale_Item:challenge_stage_ticket_material_001_desc_02",
+      "resource_id": "icn_challenge_stage_ticket_common",
+      "item_type": "Material",
+      "item_sub_type": "EventTicketMaterial",
+      "item_rare": "SSR",
+      "item_value": 1,
+      "material_type": "None",
+      "material_value": 0,
+      "stack_max": 9999999
+    },
+    {
       "id": 7120001,
       "name_localkey": "Locale_Item:event_archive_ticket",
       "description_localkey": "Locale_Item:event_archive_ticket_desc",
@@ -3382,6 +3434,32 @@
       "stack_max": 9999999
     },
     {
+      "id": 7123020,
+      "name_localkey": "Locale_Item:story_event_ticket_material_020",
+      "description_localkey": "Locale_Item:story_event_ticket_material_020_desc_archive",
+      "resource_id": "icn_event_story_ticket_bluewaterisland",
+      "item_type": "Material",
+      "item_sub_type": "EventCurrencyMaterial",
+      "item_rare": "SSR",
+      "item_value": 1,
+      "material_type": "None",
+      "material_value": 0,
+      "stack_max": 9999999
+    },
+    {
+      "id": 7122020,
+      "name_localkey": "Locale_Item:story_event_currency_material_020",
+      "description_localkey": "Locale_Item:story_event_currency_material_020_desc_archive",
+      "resource_id": "icn_event_story_currency_bluewaterisland",
+      "item_type": "Material",
+      "item_sub_type": "EventCurrencyMaterial",
+      "item_rare": "SSR",
+      "item_value": 1,
+      "material_type": "None",
+      "material_value": 0,
+      "stack_max": 9999999
+    },
+    {
       "id": 7140001,
       "name_localkey": "Locale_Item:synchro_device_slot_open",
       "description_localkey": "Locale_Item:synchro_device_slot_open_desc",
@@ -3442,8 +3520,8 @@
       "item_sub_type": "FavoriteTranscendMaterial",
       "item_rare": "SSR",
       "item_value": 1,
-      "material_type": "None",
-      "material_value": 0,
+      "material_type": "FavoriteItem",
+      "material_value": 200101,
       "stack_max": 9999999
     },
     {
@@ -3455,8 +3533,8 @@
       "item_sub_type": "FavoriteTranscendMaterial",
       "item_rare": "SSR",
       "item_value": 1,
-      "material_type": "None",
-      "material_value": 0,
+      "material_type": "FavoriteItem",
+      "material_value": 200301,
       "stack_max": 9999999
     },
     {
@@ -3468,8 +3546,8 @@
       "item_sub_type": "FavoriteTranscendMaterial",
       "item_rare": "SSR",
       "item_value": 1,
-      "material_type": "None",
-      "material_value": 0,
+      "material_type": "FavoriteItem",
+      "material_value": 200201,
       "stack_max": 9999999
     },
     {
@@ -3481,8 +3559,21 @@
       "item_sub_type": "FavoriteTranscendMaterial",
       "item_rare": "SSR",
       "item_value": 1,
-      "material_type": "None",
-      "material_value": 0,
+      "material_type": "FavoriteItem",
+      "material_value": 200401,
+      "stack_max": 9999999
+    },
+    {
+      "id": 7150106,
+      "name_localkey": "Locale_Item:favoriteitem_favorite_level_c112_00",
+      "description_localkey": "Locale_Item:favoriteitem_favorite_level_c112_00_desc",
+      "resource_id": "icn_material_favoriteitem_favorite_c112",
+      "item_type": "Material",
+      "item_sub_type": "FavoriteTranscendMaterial",
+      "item_rare": "SSR",
+      "item_value": 1,
+      "material_type": "FavoriteItem",
+      "material_value": 200501,
       "stack_max": 9999999
     },
     {

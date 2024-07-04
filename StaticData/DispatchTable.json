@@ -7053,7 +7053,7 @@
       "dispatch_type": "DispatchFavorite",
       "dispatch_group": 71000,
       "select_type": "Select",
-      "select_order": 2,
+      "select_order": 3,
       "dispatch_grade_id": 5,
       "dispatch_description": "Locale_Dispatch2:dispatch_description_5001",
       "slot_max": 1,
@@ -7082,7 +7082,7 @@
       "dispatch_type": "DispatchFavorite",
       "dispatch_group": 71000,
       "select_type": "Select",
-      "select_order": 3,
+      "select_order": 4,
       "dispatch_grade_id": 5,
       "dispatch_description": "Locale_Dispatch2:dispatch_description_5001",
       "slot_max": 1,
@@ -7111,7 +7111,7 @@
       "dispatch_type": "DispatchFavorite",
       "dispatch_group": 71000,
       "select_type": "Select",
-      "select_order": 4,
+      "select_order": 5,
       "dispatch_grade_id": 5,
       "dispatch_description": "Locale_Dispatch2:dispatch_description_5001",
       "slot_max": 1,
@@ -7140,7 +7140,7 @@
       "dispatch_type": "DispatchFavorite",
       "dispatch_group": 71000,
       "select_type": "Select",
-      "select_order": 5,
+      "select_order": 6,
       "dispatch_grade_id": 5,
       "dispatch_description": "Locale_Dispatch2:dispatch_description_5001",
       "slot_max": 1,
@@ -7162,6 +7162,35 @@
         }
       ],
       "reward_id": 3180605,
+      "time_min": 150
+    },
+    {
+      "id": 40006,
+      "dispatch_type": "DispatchFavorite",
+      "dispatch_group": 71000,
+      "select_type": "Select",
+      "select_order": 2,
+      "dispatch_grade_id": 5,
+      "dispatch_description": "Locale_Dispatch2:dispatch_description_5001",
+      "slot_max": 1,
+      "dispatch_slot_array": [
+        {
+          "dispatch_slot_type": "CHARACTER",
+          "rare": "SSR",
+          "slot_value": 1022
+        },
+        {
+          "dispatch_slot_type": "None",
+          "rare": "None",
+          "slot_value": 0
+        },
+        {
+          "dispatch_slot_type": "None",
+          "rare": "None",
+          "slot_value": 0
+        }
+      ],
+      "reward_id": 3180606,
       "time_min": 150
     }
   ]

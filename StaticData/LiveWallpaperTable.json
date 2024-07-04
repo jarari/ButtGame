@@ -690,6 +690,38 @@
       "condition_id": 0
     },
     {
+      "id": 48,
+      "livewallpaper_type": "Scenario",
+      "sub_type": "Event",
+      "order": 20039,
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_48",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_48",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_BeautyFullShot_03",
+      "thumbnail_resource_id": "EventScene_BeautyFullShot_03_mi",
+      "si_resource_id": "EventScene_BeautyFullShot_03_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "condition_type": "None",
+      "condition_resource_id": 0,
+      "condition_id": 0
+    },
+    {
+      "id": 49,
+      "livewallpaper_type": "Scenario",
+      "sub_type": "Event",
+      "order": 20040,
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_49",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_49",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_Aesigthediver_01",
+      "thumbnail_resource_id": "EventScene_Aesigthediver_01_mi",
+      "si_resource_id": "EventScene_Aesigthediver_01_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "condition_type": "None",
+      "condition_resource_id": 0,
+      "condition_id": 0
+    },
+    {
       "id": 50010,
       "livewallpaper_type": "SkillCutScene",
       "sub_type": "None",
@@ -2449,6 +2481,38 @@
       "condition_id": 355104
     },
     {
+      "id": 50283,
+      "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
+      "order": 30112,
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50283",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50283",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_c283_cutscene",
+      "thumbnail_resource_id": "EventScene_c283_cutscene_mi",
+      "si_resource_id": "EventScene_c283_cutscene_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "condition_type": "Character",
+      "condition_resource_id": 283,
+      "condition_id": 328304
+    },
+    {
+      "id": 50284,
+      "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
+      "order": 30113,
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_50284",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_50284",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_c284_cutscene",
+      "thumbnail_resource_id": "EventScene_c284_cutscene_mi",
+      "si_resource_id": "EventScene_c284_cutscene_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "condition_type": "Character",
+      "condition_resource_id": 284,
+      "condition_id": 328404
+    },
+    {
       "id": 5010101,
       "livewallpaper_type": "SkillCutScene",
       "sub_type": "None",
@@ -2593,6 +2657,22 @@
       "condition_id": 120002
     },
     {
+      "id": 5011202,
+      "livewallpaper_type": "SkillCutScene",
+      "sub_type": "None",
+      "order": 40010,
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_5011202",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_5011202",
+      "live_wallpaper_resource_id": "livewallpaper/EventScene_c112_02_cutscene",
+      "thumbnail_resource_id": "EventScene_c112_02_cutscene_mi",
+      "si_resource_id": "EventScene_c112_02_cutscene_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "condition_type": "Costume",
+      "condition_resource_id": 112,
+      "condition_id": 10009
+    },
+    {
       "id": 7007201,
       "livewallpaper_type": "FavoriteItem",
       "sub_type": "None",
@@ -2655,6 +2735,22 @@
       "condition_type": "FavoriteItem",
       "condition_resource_id": 100,
       "condition_id": 200401
+    },
+    {
+      "id": 7011201,
+      "livewallpaper_type": "FavoriteItem",
+      "sub_type": "None",
+      "order": 70005,
+      "name_localkey": "Locale_LiveWallpaper:live_wallpaper_name_7011201",
+      "description_localkey": "Locale_LiveWallpaper:live_wallpaper_description_7011201",
+      "live_wallpaper_resource_id": "favoriteitem/FavoriteItemScene_c112_00",
+      "thumbnail_resource_id": "FavoriteItemScene_c112_00_mi",
+      "si_resource_id": "FavoriteItemScene_c112_00_si",
+      "bgm_resource_id": "bgm_Speed_01",
+      "is_secret": true,
+      "condition_type": "FavoriteItem",
+      "condition_resource_id": 112,
+      "condition_id": 200501
     }
   ]
 }

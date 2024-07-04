@@ -338,6 +338,38 @@
           "event_field_currency_type": "None"
         }
       ]
+    },
+    {
+      "id": 10012,
+      "event_id": 81400,
+      "field_design_map": "febg_tropical_003",
+      "field_art_map_standard": "febg_tropical_003_01",
+      "field_hud": "hud_event_field_beautyfullshot_daytime",
+      "field_first_entry_resource": "event_enter_beautyfullshot",
+      "link_event_pass_id": 1000016,
+      "progress_event_group_id": 1012,
+      "is_use_roaming_npc": false,
+      "roaming_npc_limit": 0,
+      "roaming_npc_type": "UserCharacter",
+      "roaming_npc_speed_minimum": 100,
+      "roaming_npc_speed_maximum": 250,
+      "player_squad_type": "UserSquad",
+      "player_squad_value": 5,
+      "player_squad_speed": 100,
+      "sd_character_size": 100,
+      "event_mission_group": 51,
+      "recollection_hub_group_id": 10012,
+      "field_enter_scenario": "event_beautyfullshot1_prologue",
+      "field_enter_scenario_story_event_id": 40051,
+      "event_field_currency_list": [
+        {
+          "event_field_currency_type": "Material",
+          "event_field_currency_id": 7060051
+        },
+        {
+          "event_field_currency_type": "None"
+        }
+      ]
     }
   ]
 }

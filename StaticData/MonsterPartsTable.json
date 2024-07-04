@@ -3292,6 +3292,194 @@
       "is_main_part": false
     },
     {
+      "id": 15203401,
+      "monster_model_id": 152034,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7152006,
+      "visible_hp": false,
+      "linked_parts_id": 15203401,
+      "weapon_object": [
+        "bbg004_r_tube_01",
+        "bbg004_l_tube_01",
+        "bbg004_r_shoulder_02",
+        "bbg004_l_shoulder_02",
+        "bbg004_eye_01",
+        "bbg004_c_sawtooth_03",
+        "bbg004_neck_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_04",
+        "weapon_object_05"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "bbg004_golden_var"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": true
+    },
+    {
+      "id": 15203402,
+      "monster_model_id": 152034,
+      "parts_name_localkey": "Locale_Monster:parts_name_kraken01",
+      "damage_hp_ratio": 200,
+      "hp_ratio": 40,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 15203401,
+      "weapon_object": [
+        "Bone_Chain_ls_09"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_06"
+      ],
+      "parts_type": "Leg_Back_Left",
+      "parts_object": [
+        "Helper_Chain_Root_ls"
+      ],
+      "parts_skin": "bbg004_l_d_tentacle_skin",
+      "monster_destroy_anim_trigger": "Destruction_03",
+      "is_main_part": false
+    },
+    {
+      "id": 15203403,
+      "monster_model_id": 152034,
+      "parts_name_localkey": "Locale_Monster:parts_name_kraken02",
+      "damage_hp_ratio": 100,
+      "hp_ratio": 55,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 15203401,
+      "weapon_object": [
+        "bbg004_l_biglense_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_07"
+      ],
+      "parts_type": "Leg_Front_Left",
+      "parts_object": [
+        "Helper_Chain_Root_lb"
+      ],
+      "parts_skin": "bbg004_l_u_tentacle_skin",
+      "monster_destroy_anim_trigger": "Destruction_01",
+      "is_main_part": false
+    },
+    {
+      "id": 15203404,
+      "monster_model_id": 152034,
+      "parts_name_localkey": "Locale_Monster:parts_name_kraken03",
+      "damage_hp_ratio": 200,
+      "hp_ratio": 40,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 15203401,
+      "weapon_object": [
+        "Bone_Chain_rs_09"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_08"
+      ],
+      "parts_type": "Leg_Back_Right",
+      "parts_object": [
+        "Helper_Chain_Root_rs"
+      ],
+      "parts_skin": "bbg004_r_d_tentacle_skin",
+      "monster_destroy_anim_trigger": "Destruction_04",
+      "is_main_part": false
+    },
+    {
+      "id": 15203405,
+      "monster_model_id": 152034,
+      "parts_name_localkey": "Locale_Monster:parts_name_kraken04",
+      "damage_hp_ratio": 100,
+      "hp_ratio": 55,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 15203401,
+      "weapon_object": [
+        "bbg004_r_biglense_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_09"
+      ],
+      "parts_type": "Leg_Front_Right",
+      "parts_object": [
+        "Helper_Chain_Root_rb"
+      ],
+      "parts_skin": "bbg004_r_u_tentacle_skin",
+      "monster_destroy_anim_trigger": "Destruction_02",
+      "is_main_part": false
+    },
+    {
+      "id": 15203406,
+      "monster_model_id": 152034,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": false,
+      "linked_parts_id": 15203401,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Head",
+      "parts_object": [
+        "bbg004_nose_01"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
       "id": 15200601,
       "monster_model_id": 152006,
       "damage_hp_ratio": 0,

@@ -656,6 +656,47 @@
           "skill_change_slot": 1
         }
       ]
+    },
+    {
+      "id": 200501,
+      "name_localkey": "Locale_Item:favoriteitem_favorite_c112_00",
+      "description_localkey": "Locale_Item:favoriteitem_favorite_c112_00_desc",
+      "icon_resource_id": "si_favoriteitem_c112_00",
+      "img_resource_id": "favoriteitem_c112_00",
+      "prop_resource_id": "favoriteitem_common_prop_02",
+      "order": 105,
+      "favorite_rare": "SSR",
+      "favorite_type": "Favorite",
+      "weapon_type": "SG",
+      "name_code": 1022,
+      "max_level": 2,
+      "level_enhance_id": 200501,
+      "probability_group": 1022,
+      "collection_skill_group_data": [
+        {
+          "collection_skill_id": 712501
+        },
+        {
+          "collection_skill_id": 712002
+        }
+      ],
+      "favoriteitem_skill_group_data": [
+        {
+          "favorite_skill_id": 2112151,
+          "skill_table": "StateEffect",
+          "skill_change_slot": 1
+        },
+        {
+          "favorite_skill_id": 1112351,
+          "skill_table": "CharacterSkill",
+          "skill_change_slot": 3
+        },
+        {
+          "favorite_skill_id": 2112251,
+          "skill_table": "StateEffect",
+          "skill_change_slot": 2
+        }
+      ]
     }
   ]
 }

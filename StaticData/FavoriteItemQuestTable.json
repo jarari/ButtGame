@@ -309,6 +309,81 @@
       "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_500307",
       "next_quest_id": 0,
       "reward_id": 0
+    },
+    {
+      "id": 102201,
+      "name_code": 1022,
+      "condition_type": "Outpost_View",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_102201",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_102201",
+      "next_quest_id": 102202,
+      "end_scenario_id": "treasurestory_viper_01",
+      "reward_id": 0
+    },
+    {
+      "id": 102202,
+      "name_code": 1022,
+      "condition_type": "Outpost_Select",
+      "condition_value": 22401,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_102202",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_102202",
+      "next_quest_id": 102203,
+      "end_scenario_id": "treasurestory_viper_02",
+      "reward_id": 0
+    },
+    {
+      "id": 102203,
+      "name_code": 1022,
+      "condition_type": "Outpost_View",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_102203",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_102203",
+      "next_quest_id": 102204,
+      "end_scenario_id": "treasurestory_viper_03",
+      "reward_id": 0
+    },
+    {
+      "id": 102204,
+      "name_code": 1022,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10701,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_102204",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_102204",
+      "next_quest_id": 102205,
+      "end_scenario_id": "treasurestory_viper_04",
+      "reward_id": 0
+    },
+    {
+      "id": 102205,
+      "name_code": 1022,
+      "condition_type": "Outpost_View",
+      "condition_value": 0,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_102205",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_102205",
+      "next_quest_id": 102206,
+      "end_scenario_id": "treasurestory_viper_05",
+      "reward_id": 0
+    },
+    {
+      "id": 102206,
+      "name_code": 1022,
+      "condition_type": "Outpost_Select",
+      "condition_value": 10301,
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_102206",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_102206",
+      "next_quest_id": 102207,
+      "end_scenario_id": "treasurestory_viper_06",
+      "reward_id": 3800501
+    },
+    {
+      "id": 102207,
+      "name_code": 1022,
+      "condition_type": "End",
+      "name_localkey": "Locale_SubQuest:FAVORITE_QUEST_NAME_102207",
+      "description_localkey": "Locale_SubQuest:FAVORITE_QUEST_DESC_102207",
+      "next_quest_id": 0,
+      "reward_id": 0
     }
   ]
 }

@@ -196,6 +196,24 @@
       "event_end_date": "2023-10-18T19:59:59"
     },
     {
+      "id": 40020,
+      "event_system_type": "StoryEvent",
+      "event_shortcut_id": "0",
+      "archive_match_event_id": 40020,
+      "archive_story_progress_group_order": 1,
+      "archive_story_progress_locale": "Locale_System:PROGRESS_STORY_TYPE_02",
+      "parents_event_id": 80400
+    },
+    {
+      "id": 40021,
+      "event_system_type": "StoryEvent",
+      "event_shortcut_id": "0",
+      "archive_match_event_id": 40021,
+      "archive_story_progress_group_order": 2,
+      "archive_story_progress_locale": "Locale_System:PROGRESS_STORY_TYPE_03",
+      "parents_event_id": 80400
+    },
+    {
       "id": 80500,
       "event_system_type": "DiceEvent",
       "event_shortcut_id": "0",
@@ -248,6 +266,21 @@
       "event_shortcut_id": "60001",
       "archive_match_event_id": 80803,
       "parents_event_id": 80800
+    },
+    {
+      "id": 80400,
+      "event_system_type": "FieldHubEvent",
+      "event_shortcut_id": "50001",
+      "archive_match_event_id": 80400,
+      "event_start_date": "2023-06-15T03:00:00",
+      "event_end_date": "2023-07-05T19:59:59"
+    },
+    {
+      "id": 80403,
+      "event_system_type": "DiceEvent",
+      "event_shortcut_id": "40001",
+      "archive_match_event_id": 80403,
+      "parents_event_id": 80400
     }
   ]
 }

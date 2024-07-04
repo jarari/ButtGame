@@ -205,6 +205,58 @@
       ],
       "maxgauge_step_localkey": "Locale_Event:dice_event_title_clear",
       "maxgauge_step_repeat_localkey": "Locale_Event:dice_event_reward_repeatable"
+    },
+    {
+      "id": 4,
+      "name_localkey": "Locale_Event:event_contents_minigame",
+      "album_name": "Locale_System:EVENT_MINIGAME_ALBUM_TITLE1",
+      "album_description": "Locale_System:EVENT_MINIGAME_ALBUM_DESCRIPTION",
+      "is_archive": true,
+      "board_id": 1004,
+      "resource_id": 1004,
+      "event_id": 80403,
+      "ui_prefab": "voltroad",
+      "first_enter_scenario_group_id": "d_contents_voltroad_01",
+      "event_item_id": 7061002,
+      "album_category_group": 30001,
+      "help_tip_view_sub_id": 2,
+      "max_gauge": 100,
+      "max_clear": 0,
+      "dice_consume": 1,
+      "player_move_time": 20,
+      "board_finish_gauge": 50,
+      "dice_clear_reward_list": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "dice_clear_scenario_group_list": [
+        {},
+        {},
+        {
+          "clear_scenario_group_id": "d_contents_voltroad_02"
+        },
+        {},
+        {},
+        {
+          "clear_scenario_group_id": "d_contents_voltroad_03"
+        },
+        {},
+        {},
+        {},
+        {
+          "clear_scenario_group_id": "d_contents_voltroad_04"
+        }
+      ],
+      "maxgauge_step_localkey": "Locale_Event:voltroad_event_title_clear",
+      "maxgauge_step_repeat_localkey": "Locale_Event:voltroad_event_reward_repeatable"
     }
   ]
 }

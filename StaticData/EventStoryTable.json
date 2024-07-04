@@ -644,6 +644,32 @@
       "ui_prefab": "claymore"
     },
     {
+      "id": 10051,
+      "event_id": 40051,
+      "auto_charge_id": 10051,
+      "event_item_type": "Item",
+      "event_item_id": 7060051,
+      "dungeon_id": 51,
+      "album_category_group": 1051,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "ui_prefab": "beautyfullshot_part1"
+    },
+    {
+      "id": 10052,
+      "event_id": 40052,
+      "auto_charge_id": 10051,
+      "event_item_type": "Item",
+      "event_item_id": 7060051,
+      "dungeon_id": 52,
+      "album_category_group": 1052,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "ui_prefab": "beautyfullshot_part2"
+    },
+    {
       "id": 40001,
       "event_id": 60001,
       "auto_charge_id": 40001,
@@ -980,6 +1006,19 @@
       "contents_shop_id": 0,
       "dice_id": 0,
       "challenge_monster_resource": "full_ebg001"
+    },
+    {
+      "id": 40051,
+      "event_id": 60051,
+      "auto_charge_id": 40051,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1051,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_mbg004"
     }
   ]
 }
