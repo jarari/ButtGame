@@ -118,6 +118,34 @@
           "event_field_currency_id": 7061002
         }
       ]
+    },
+    {
+      "id": 10005,
+      "event_id": 80600,
+      "field_design_map": "febg_tropical_002",
+      "field_art_map_standard": "febg_tropical_002_01",
+      "field_hud": "hud_event_field_seayouagain_night",
+      "field_first_entry_resource": "event_enter_seayouagain",
+      "progress_event_group_id": 1005,
+      "is_use_roaming_npc": false,
+      "roaming_npc_limit": 5,
+      "roaming_npc_type": "UserCharacter",
+      "roaming_npc_speed_minimum": 100,
+      "roaming_npc_speed_maximum": 250,
+      "player_squad_type": "UserSquad",
+      "player_squad_value": 5,
+      "player_squad_speed": 100,
+      "sd_character_size": 100,
+      "recollection_hub_group_id": 10005,
+      "event_field_currency_list": [
+        {
+          "event_field_currency_type": "Material",
+          "event_field_currency_id": 7060024
+        },
+        {
+          "event_field_currency_type": "None"
+        }
+      ]
     }
   ]
 }

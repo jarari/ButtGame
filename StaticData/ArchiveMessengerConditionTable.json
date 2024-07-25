@@ -1615,6 +1615,139 @@
         }
       ],
       "tid": "m_ex_claymore_03"
+    },
+    {
+      "id": 7002001,
+      "archive_messenger_group_id": 40053,
+      "archive_messenger_condition_list": [
+        {
+          "condition_type": "EventStageClear",
+          "condition_id": 105310105
+        },
+        {
+          "condition_type": "None",
+          "condition_id": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_id": 0
+        }
+      ],
+      "tid": "m_ex_juveniledays_01"
+    },
+    {
+      "id": 7002002,
+      "archive_messenger_group_id": 40053,
+      "archive_messenger_condition_list": [
+        {
+          "condition_type": "EventStageClear",
+          "condition_id": 105310110
+        },
+        {
+          "condition_type": "MessageClear",
+          "condition_id": 7002001
+        },
+        {
+          "condition_type": "None",
+          "condition_id": 0
+        }
+      ],
+      "tid": "m_ex_juveniledays_02"
+    },
+    {
+      "id": 7002003,
+      "archive_messenger_group_id": 40053,
+      "archive_messenger_condition_list": [
+        {
+          "condition_type": "EventStageClear",
+          "condition_id": 105310110
+        },
+        {
+          "condition_type": "MessageClear",
+          "condition_id": 7002002
+        },
+        {
+          "condition_type": "None",
+          "condition_id": 0
+        }
+      ],
+      "tid": "m_ex_juveniledays_03"
+    },
+    {
+      "id": 7002004,
+      "archive_messenger_group_id": 40053,
+      "archive_messenger_condition_list": [
+        {
+          "condition_type": "EventStageClear",
+          "condition_id": 105320112
+        },
+        {
+          "condition_type": "MessageClear",
+          "condition_id": 7002003
+        },
+        {
+          "condition_type": "None",
+          "condition_id": 0
+        }
+      ],
+      "tid": "m_ex_juveniledays_04"
+    },
+    {
+      "id": 7002101,
+      "archive_messenger_group_id": 40054,
+      "archive_messenger_condition_list": [
+        {
+          "condition_type": "EventStageClear",
+          "condition_id": 105410106
+        },
+        {
+          "condition_type": "None",
+          "condition_id": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_id": 0
+        }
+      ],
+      "tid": "m_ex_colorless_01"
+    },
+    {
+      "id": 7002102,
+      "archive_messenger_group_id": 40054,
+      "archive_messenger_condition_list": [
+        {
+          "condition_type": "EventStageClear",
+          "condition_id": 105410110
+        },
+        {
+          "condition_type": "MessageClear",
+          "condition_id": 7002101
+        },
+        {
+          "condition_type": "None",
+          "condition_id": 0
+        }
+      ],
+      "tid": "m_ex_colorless_02"
+    },
+    {
+      "id": 7002103,
+      "archive_messenger_group_id": 40054,
+      "archive_messenger_condition_list": [
+        {
+          "condition_type": "EventStageClear",
+          "condition_id": 105410112
+        },
+        {
+          "condition_type": "MessageClear",
+          "condition_id": 7002102
+        },
+        {
+          "condition_type": "None",
+          "condition_id": 0
+        }
+      ],
+      "tid": "m_ex_colorless_03"
     }
   ]
 }

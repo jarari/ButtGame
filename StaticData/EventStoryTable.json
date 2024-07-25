@@ -670,6 +670,34 @@
       "ui_prefab": "beautyfullshot_part2"
     },
     {
+      "id": 10053,
+      "event_id": 40053,
+      "prologue_scenario": "event_juveniledays_prologue",
+      "auto_charge_id": 10053,
+      "event_item_type": "Item",
+      "event_item_id": 7060053,
+      "dungeon_id": 53,
+      "album_category_group": 1053,
+      "mission_group": 53,
+      "contents_shop_id": 9005301,
+      "dice_id": 0,
+      "ui_prefab": "juveniledays"
+    },
+    {
+      "id": 10054,
+      "event_id": 40054,
+      "prologue_scenario": "event_colorless_prologue",
+      "auto_charge_id": 10054,
+      "event_item_type": "Item",
+      "event_item_id": 7060054,
+      "dungeon_id": 54,
+      "album_category_group": 1054,
+      "mission_group": 54,
+      "contents_shop_id": 9005401,
+      "dice_id": 0,
+      "ui_prefab": "colorless"
+    },
+    {
       "id": 40001,
       "event_id": 60001,
       "auto_charge_id": 40001,
@@ -1019,6 +1047,32 @@
       "contents_shop_id": 0,
       "dice_id": 0,
       "challenge_monster_resource": "full_mbg004"
+    },
+    {
+      "id": 40053,
+      "event_id": 60053,
+      "auto_charge_id": 40053,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1053,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_eba001"
+    },
+    {
+      "id": 40054,
+      "event_id": 60054,
+      "auto_charge_id": 40054,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1054,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_bbg001"
     }
   ]
 }

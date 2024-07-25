@@ -11179,6 +11179,382 @@
       "is_main_part": false
     },
     {
+      "id": 45100101,
+      "monster_model_id": 451001,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7451001,
+      "visible_hp": false,
+      "linked_parts_id": 45100101,
+      "weapon_object": [
+        "xba001_lbarms_rwp_crystal_02",
+        "xba001_lbarms_lwp_crystal_02",
+        "xba001_starfish_crystal_04_gruop",
+        "xba001_starfish_crystal_02_gruop",
+        "xba001_starfish_01",
+        "xba001_head",
+        "socket_muzzle_fire_20",
+        "socket_muzzle_fire_21",
+        "socket_muzzle_fire_18",
+        "socket_muzzle_fire_19"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_04",
+        "weapon_object_05",
+        "weapon_object_06",
+        "weapon_object_17",
+        "weapon_object_17",
+        "weapon_object_18",
+        "weapon_object_18"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "xba001_var"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": true
+    },
+    {
+      "id": 45100102,
+      "monster_model_id": 451001,
+      "parts_name_localkey": "Locale_Monster:parts_name_MirrorContainer01",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 1,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7451002,
+      "visible_hp": true,
+      "linked_parts_id": 45100101,
+      "weapon_object": [
+        "socket_muzzle_fire_03"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_07"
+      ],
+      "parts_type": "Weapon_01",
+      "parts_object": [
+        "xba001_1phase_r1_01_group"
+      ],
+      "parts_skin": "xba001_1phase_parts_r01_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 45100103,
+      "monster_model_id": 451001,
+      "parts_name_localkey": "Locale_Monster:parts_name_MirrorContainer02",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 1,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7451002,
+      "visible_hp": true,
+      "linked_parts_id": 45100101,
+      "weapon_object": [
+        "socket_muzzle_fire_02"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_08"
+      ],
+      "parts_type": "Weapon_02",
+      "parts_object": [
+        "xba001_1phase_r2_01_group"
+      ],
+      "parts_skin": "xba001_1phase_parts_r02_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 45100104,
+      "monster_model_id": 451001,
+      "parts_name_localkey": "Locale_Monster:parts_name_MirrorContainer03",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 1,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7451002,
+      "visible_hp": true,
+      "linked_parts_id": 45100101,
+      "weapon_object": [
+        "socket_muzzle_fire_01"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_09"
+      ],
+      "parts_type": "Weapon_03",
+      "parts_object": [
+        "xba001_1phase_r3_01_group"
+      ],
+      "parts_skin": "xba001_1phase_parts_r03_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 45100105,
+      "monster_model_id": 451001,
+      "parts_name_localkey": "Locale_Monster:parts_name_MirrorContainer04",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 1,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7451002,
+      "visible_hp": true,
+      "linked_parts_id": 45100101,
+      "weapon_object": [
+        "socket_muzzle_fire_04"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_10"
+      ],
+      "parts_type": "Weapon_04",
+      "parts_object": [
+        "xba001_1phase_l1_01_group"
+      ],
+      "parts_skin": "xba001_1phase_parts_l01_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 45100106,
+      "monster_model_id": 451001,
+      "parts_name_localkey": "Locale_Monster:parts_name_MirrorContainer05",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 1,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7451002,
+      "visible_hp": true,
+      "linked_parts_id": 45100101,
+      "weapon_object": [
+        "socket_muzzle_fire_05"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_11"
+      ],
+      "parts_type": "Weapon_05",
+      "parts_object": [
+        "xba001_1phase_l2_01_group"
+      ],
+      "parts_skin": "xba001_1phase_parts_l02_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 45100107,
+      "monster_model_id": 451001,
+      "parts_name_localkey": "Locale_Monster:parts_name_MirrorContainer06",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 1,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7451002,
+      "visible_hp": true,
+      "linked_parts_id": 45100101,
+      "weapon_object": [
+        "socket_muzzle_fire_06"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_12"
+      ],
+      "parts_type": "Weapon_06",
+      "parts_object": [
+        "xba001_1phase_l3_01_group"
+      ],
+      "parts_skin": "xba001_1phase_parts_l03_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 45100108,
+      "monster_model_id": 451001,
+      "parts_name_localkey": "Locale_Monster:parts_name_MirrorContainer07",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 1,
+      "attack_ratio": 10000,
+      "defence_ratio": 0,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7451002,
+      "visible_hp": true,
+      "linked_parts_id": 45100101,
+      "weapon_object": [
+        "socket_muzzle_fire_07"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_13"
+      ],
+      "parts_type": "Weapon_07",
+      "parts_object": [
+        "xba001_2phase_ur1_01_group"
+      ],
+      "parts_skin": "xba001_2phase_parts_ur01_skin",
+      "monster_destroy_anim_trigger": "Destruction_01",
+      "is_main_part": false
+    },
+    {
+      "id": 45100109,
+      "monster_model_id": 451001,
+      "parts_name_localkey": "Locale_Monster:parts_name_MirrorContainer08",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 1,
+      "attack_ratio": 10000,
+      "defence_ratio": 0,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7451002,
+      "visible_hp": true,
+      "linked_parts_id": 45100101,
+      "weapon_object": [
+        "socket_muzzle_fire_09"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_14"
+      ],
+      "parts_type": "Weapon_08",
+      "parts_object": [
+        "xba001_2phase_dr1_01_group"
+      ],
+      "parts_skin": "xba001_2phase_parts_dr01_skin",
+      "monster_destroy_anim_trigger": "Destruction_01",
+      "is_main_part": false
+    },
+    {
+      "id": 45100110,
+      "monster_model_id": 451001,
+      "parts_name_localkey": "Locale_Monster:parts_name_MirrorContainer09",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 1,
+      "attack_ratio": 10000,
+      "defence_ratio": 0,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7451002,
+      "visible_hp": true,
+      "linked_parts_id": 45100101,
+      "weapon_object": [
+        "socket_muzzle_fire_08"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_15"
+      ],
+      "parts_type": "Weapon_09",
+      "parts_object": [
+        "xba001_2phase_ul1_01_group"
+      ],
+      "parts_skin": "xba001_2phase_parts_ul01_skin",
+      "monster_destroy_anim_trigger": "Destruction_01",
+      "is_main_part": false
+    },
+    {
+      "id": 45100111,
+      "monster_model_id": 451001,
+      "parts_name_localkey": "Locale_Monster:parts_name_MirrorContainer10",
+      "damage_hp_ratio": 0,
+      "hp_ratio": 1,
+      "attack_ratio": 10000,
+      "defence_ratio": 0,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7451002,
+      "visible_hp": true,
+      "linked_parts_id": 45100101,
+      "weapon_object": [
+        "socket_muzzle_fire_10"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_16"
+      ],
+      "parts_type": "Weapon_10",
+      "parts_object": [
+        "xba001_2phase_dl1_01_group"
+      ],
+      "parts_skin": "xba001_2phase_parts_dl01_skin",
+      "monster_destroy_anim_trigger": "Destruction_01",
+      "is_main_part": false
+    },
+    {
+      "id": 45100112,
+      "monster_model_id": 451001,
+      "parts_name_localkey": "Locale_Monster:parts_name_MirrorContainer11",
+      "damage_hp_ratio": 10,
+      "hp_ratio": 1500,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7451002,
+      "visible_hp": true,
+      "linked_parts_id": 45100101,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Head",
+      "parts_object": [
+        "xba001_cube_01"
+      ],
+      "parts_skin": "xba001_cube_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
       "id": 44200101,
       "monster_model_id": 442001,
       "damage_hp_ratio": 0,
@@ -11327,6 +11703,108 @@
       "parts_object": [
         "socket_weapon_right_02"
       ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 44200201,
+      "monster_model_id": 442002,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000033,
+      "visible_hp": false,
+      "linked_parts_id": 44200201,
+      "weapon_object": [
+        "plug_weapon_left_01",
+        "plug_weapon_right_01",
+        "plug_weapon_left_02",
+        "plug_weapon_right_02",
+        "Bone088",
+        "Bone128",
+        "Pelvis_Bone 1"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_04",
+        "weapon_object_05",
+        "weapon_object_06",
+        "weapon_object_07"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "cm_bone_41_var"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": true
+    },
+    {
+      "id": 44200202,
+      "monster_model_id": 442002,
+      "parts_name_localkey": "Locale_Monster:parts_name_armor_left",
+      "damage_hp_ratio": 50,
+      "hp_ratio": 2,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": false,
+      "linked_parts_id": 44200201,
+      "weapon_object": [
+        "Bone114"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_08"
+      ],
+      "parts_type": "Weapon_01",
+      "parts_object": [
+        "Bone114",
+        "Bone115"
+      ],
+      "parts_skin": "xcg002_larmor_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 44200203,
+      "monster_model_id": 442002,
+      "parts_name_localkey": "Locale_Monster:parts_name_armor_right",
+      "damage_hp_ratio": 50,
+      "hp_ratio": 2,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": false,
+      "linked_parts_id": 44200201,
+      "weapon_object": [
+        "Bone114(mirrored)"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_09"
+      ],
+      "parts_type": "Weapon_02",
+      "parts_object": [
+        "Bone114(mirrored)",
+        "Bone115(mirrored)"
+      ],
+      "parts_skin": "xcg002_rarmor_skin",
       "monster_destroy_anim_trigger": "None",
       "is_main_part": false
     },
