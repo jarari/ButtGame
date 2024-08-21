@@ -16800,6 +16800,2252 @@
       "balloon_always_cycle": 5
     },
     {
+      "id": 887,
+      "list_button_index": 1,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_36",
+      "npc_localkey_contents": "Locale_Event:event_contents_storydungeon_before",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_ce004_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 40055
+        },
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "forced_interaction_marker": "sprite_btn_event_ce004",
+      "is_interaction_after_end": false
+    },
+    {
+      "id": 888,
+      "event_field_id": 10013,
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "forced_interaction_marker": "sprite_btn_event_ce004",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013001
+    },
+    {
+      "id": 889,
+      "list_button_index": 2,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_37",
+      "npc_localkey_contents": "Locale_Event:event_contents_storydungeon_after",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_ce004_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 40056
+        },
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "forced_interaction_marker": "sprite_btn_event_ce004",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013002
+    },
+    {
+      "id": 890,
+      "event_field_id": 10013,
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "forced_interaction_marker": "sprite_btn_event_ce004",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013003
+    },
+    {
+      "id": 891,
+      "list_button_index": 3,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_38",
+      "npc_localkey_contents": "Locale_Event:event_contents_storydungeon_story_03",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_ce004_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 40057
+        },
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "forced_interaction_marker": "sprite_btn_event_ce004",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013004
+    },
+    {
+      "id": 892,
+      "list_button_index": 4,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_43",
+      "npc_localkey_contents": "Locale_Event:event_contents_challenge",
+      "npc_type": "npc",
+      "resource_id": 7001007,
+      "forced_name_tag_resource": "sprite_event_ce004_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 60055
+        },
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "forced_interaction_marker": "sprite_btn_event_ce004",
+      "is_interaction_after_end": false
+    },
+    {
+      "id": 893,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_40",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "forced_interaction_marker": "sprite_btn_event_ce004",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013005
+    },
+    {
+      "id": 894,
+      "list_button_index": 7,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_40",
+      "npc_localkey_contents": "Locale_Event:event_contents_minigame",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_ce004_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 81501
+        },
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "forced_interaction_marker": "sprite_btn_event_ce004",
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013006
+    },
+    {
+      "id": 895,
+      "list_button_index": 5,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_41",
+      "npc_localkey_contents": "Locale_Event:event_contents_login",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_ce004_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 81503
+        },
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "forced_interaction_marker": "sprite_btn_event_ce004",
+      "is_interaction_after_end": true
+    },
+    {
+      "id": 896,
+      "list_button_index": 6,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_39",
+      "npc_localkey_contents": "Locale_Event:event_contents_shop",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_ce004_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 81502
+        },
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "forced_interaction_marker": "sprite_btn_event_ce004",
+      "is_interaction_after_end": true
+    },
+    {
+      "id": 897,
+      "list_button_index": 8,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_42",
+      "npc_localkey_contents": "Locale_Event:cooperation_event_name",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "sprite_event_ce004_npc_tag",
+      "event_field_npc_event_data_list": [
+        {
+          "event_id": 30046,
+          "event_type": "Cooperation",
+          "event_resource_value": "30046"
+        },
+        {
+          "event_id": 30047,
+          "event_type": "Cooperation",
+          "event_resource_value": "30047"
+        },
+        {
+          "event_id": 30048,
+          "event_type": "Cooperation",
+          "event_resource_value": "30048"
+        }
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "forced_interaction_marker": "sprite_btn_event_ce004",
+      "is_interaction_after_end": true
+    },
+    {
+      "id": 898,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009004,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013007,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_01",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 899,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009005,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013008,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_02",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 900,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:321_name",
+      "npc_type": "character",
+      "resource_id": 321,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013009,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_03",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 901,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009006,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013010
+    },
+    {
+      "id": 902,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:391_name",
+      "npc_type": "npc",
+      "resource_id": 7009003,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013011,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_04",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 903,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009005,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013012,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_05",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 904,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:390_name",
+      "npc_type": "npc",
+      "resource_id": 7009002,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013013,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_06",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 905,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009006,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013014,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_07",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 906,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:321_name",
+      "npc_type": "character",
+      "resource_id": 321,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013015,
+      "is_use_balloon_talk": true
+    },
+    {
+      "id": 907,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:392_name",
+      "npc_type": "npc",
+      "resource_id": 7009001,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013016,
+      "is_use_balloon_talk": true
+    },
+    {
+      "id": 908,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:321_name",
+      "npc_type": "character",
+      "resource_id": 321,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013017,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_08",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 909,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:392_name",
+      "npc_type": "npc",
+      "resource_id": 7009001,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013018,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_09",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 910,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:391_name",
+      "npc_type": "npc",
+      "resource_id": 7009003,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013019,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_10",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 911,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:390_name",
+      "npc_type": "npc",
+      "resource_id": 7009002,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013020,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_11",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 912,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 7009009,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013021,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_12",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 913,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 7009008,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013022,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_13",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 914,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:830_name",
+      "npc_type": "character",
+      "resource_id": 830,
+      "costume_index": 1,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013023
+    },
+    {
+      "id": 915,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:831_name",
+      "npc_type": "character",
+      "resource_id": 831,
+      "costume_index": 1,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013024
+    },
+    {
+      "id": 916,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:832_name",
+      "npc_type": "character",
+      "resource_id": 832,
+      "costume_index": 1,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013025
+    },
+    {
+      "id": 917,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:833_name",
+      "npc_type": "character",
+      "resource_id": 833,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013026
+    },
+    {
+      "id": 918,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:291_name",
+      "npc_type": "character",
+      "resource_id": 291,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013027
+    },
+    {
+      "id": 919,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009004,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013028
+    },
+    {
+      "id": 920,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 7009009,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013029,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_14",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 921,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013030,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_15",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 922,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:291_name",
+      "npc_type": "character",
+      "resource_id": 291,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013031,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_16",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 923,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:833_name",
+      "npc_type": "character",
+      "resource_id": 833,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013032
+    },
+    {
+      "id": 924,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:392_name",
+      "npc_type": "npc",
+      "resource_id": 7009001,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013033,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_17",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 925,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:391_name",
+      "npc_type": "npc",
+      "resource_id": 7009003,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013034,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_18",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 926,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:390_name",
+      "npc_type": "npc",
+      "resource_id": 7009002,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013035,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_19",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 927,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013036,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_20",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 928,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013037,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_21",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 929,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:830_name",
+      "npc_type": "character",
+      "resource_id": 830,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013038
+    },
+    {
+      "id": 930,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:831_name",
+      "npc_type": "character",
+      "resource_id": 831,
+      "costume_index": 1,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013039
+    },
+    {
+      "id": 931,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:832_name",
+      "npc_type": "character",
+      "resource_id": 832,
+      "costume_index": 1,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013040
+    },
+    {
+      "id": 932,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:833_name",
+      "npc_type": "character",
+      "resource_id": 833,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013041
+    },
+    {
+      "id": 933,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 7009009,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013042,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_22",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 934,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013043,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_23",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 935,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:833_name",
+      "npc_type": "character",
+      "resource_id": 833,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013044
+    },
+    {
+      "id": 936,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:291_name",
+      "npc_type": "character",
+      "resource_id": 291,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013045
+    },
+    {
+      "id": 937,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009004,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013046,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_24",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 938,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009005,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013047,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_25",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 939,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013048,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_26",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 940,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013049,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_27",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 941,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:833_name",
+      "npc_type": "character",
+      "resource_id": 833,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013050
+    },
+    {
+      "id": 942,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:291_name",
+      "npc_type": "character",
+      "resource_id": 291,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013051
+    },
+    {
+      "id": 943,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009006,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013052
+    },
+    {
+      "id": 944,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:392_name",
+      "npc_type": "npc",
+      "resource_id": 7009001,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013053,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_28",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 945,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:391_name",
+      "npc_type": "npc",
+      "resource_id": 7009003,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013054,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_29",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 946,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:390_name",
+      "npc_type": "npc",
+      "resource_id": 7009002,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013055,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_30",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 947,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013056,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_31",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 948,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013057,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_32",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 949,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:830_name",
+      "npc_type": "character",
+      "resource_id": 830,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013058
+    },
+    {
+      "id": 950,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:831_name",
+      "npc_type": "character",
+      "resource_id": 831,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013059
+    },
+    {
+      "id": 951,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:832_name",
+      "npc_type": "character",
+      "resource_id": 832,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013060
+    },
+    {
+      "id": 952,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:321_name",
+      "npc_type": "character",
+      "resource_id": 321,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013061,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_33",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 953,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009004,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013062,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_34",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 954,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009005,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013063,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_35",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 955,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:830_name",
+      "npc_type": "character",
+      "resource_id": 830,
+      "costume_index": 1,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013064
+    },
+    {
+      "id": 956,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:831_name",
+      "npc_type": "character",
+      "resource_id": 831,
+      "costume_index": 1,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013065
+    },
+    {
+      "id": 957,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:832_name",
+      "npc_type": "character",
+      "resource_id": 832,
+      "costume_index": 1,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013066
+    },
+    {
+      "id": 958,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:833_name",
+      "npc_type": "character",
+      "resource_id": 833,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013067
+    },
+    {
+      "id": 959,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:291_name",
+      "npc_type": "character",
+      "resource_id": 291,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013068
+    },
+    {
+      "id": 960,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013069,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_36",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 961,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013070,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_37",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 962,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013071,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_38",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 963,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:833_name",
+      "npc_type": "character",
+      "resource_id": 833,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013072
+    },
+    {
+      "id": 964,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:291_name",
+      "npc_type": "character",
+      "resource_id": 291,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013073
+    },
+    {
+      "id": 965,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009006,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013074
+    },
+    {
+      "id": 966,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009004,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013075
+    },
+    {
+      "id": 967,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009005,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013076
+    },
+    {
+      "id": 968,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:392_name",
+      "npc_type": "npc",
+      "resource_id": 7009001,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013077,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_39",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 969,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009006,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013078,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_40",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 970,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 7009007,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013079,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_41",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 971,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 7009008,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013080,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_42",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 972,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 7009009,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013081,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_43",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 973,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009004,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013082
+    },
+    {
+      "id": 974,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009005,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013083
+    },
+    {
+      "id": 975,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:321_name",
+      "npc_type": "character",
+      "resource_id": 321,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013084
+    },
+    {
+      "id": 976,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009004,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013085,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_44",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 977,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009006,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013086,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_45",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 978,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009005,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013087
+    },
+    {
+      "id": 979,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:392_name",
+      "npc_type": "npc",
+      "resource_id": 7009001,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013088
+    },
+    {
+      "id": 980,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:391_name",
+      "npc_type": "npc",
+      "resource_id": 7009003,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013089
+    },
+    {
+      "id": 981,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:390_name",
+      "npc_type": "npc",
+      "resource_id": 7009002,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013090
+    },
+    {
+      "id": 982,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009004,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013091,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_46",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 983,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009005,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013092,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_47",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 984,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009006,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013093,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_48",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 985,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 7009009,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013094
+    },
+    {
+      "id": 986,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:321_name",
+      "npc_type": "character",
+      "resource_id": 321,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013095,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_49",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 987,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:391_name",
+      "npc_type": "npc",
+      "resource_id": 7009003,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013096,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_50",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 988,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:390_name",
+      "npc_type": "npc",
+      "resource_id": 7009002,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013097,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_51",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 989,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:392_name",
+      "npc_type": "npc",
+      "resource_id": 7009001,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013098,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_52",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 990,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013099,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_53",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 991,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013100,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_54",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 992,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009004,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013101
+    },
+    {
+      "id": 993,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009005,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013102
+    },
+    {
+      "id": 994,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 7009009,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013103
+    },
+    {
+      "id": 995,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:291_name",
+      "npc_type": "character",
+      "resource_id": 291,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013104
+    },
+    {
+      "id": 996,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:392_name",
+      "npc_type": "npc",
+      "resource_id": 7009001,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013105,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_55",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 997,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 7009008,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013106,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_56",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 998,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_45",
+      "npc_type": "npc",
+      "resource_id": 7009007,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013107,
+      "is_use_balloon_talk": true,
+      "balloon_always_id": "event_ce004_balloon_57",
+      "balloon_always_cycle": 5
+    },
+    {
+      "id": 999,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009004,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013108
+    },
+    {
+      "id": 1000,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009005,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013109
+    },
+    {
+      "id": 1001,
+      "event_field_id": 10013,
+      "npc_localkey_name": "Locale_Character:npc_9999999_name_44",
+      "npc_type": "npc",
+      "resource_id": 7009006,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013110
+    },
+    {
+      "id": 1002,
+      "event_field_id": 10013,
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013111
+    },
+    {
+      "id": 1003,
+      "event_field_id": 10013,
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013112
+    },
+    {
+      "id": 1004,
+      "event_field_id": 10013,
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013113
+    },
+    {
+      "id": 1005,
+      "event_field_id": 10013,
+      "npc_type": "npc",
+      "resource_id": 9999999,
+      "forced_name_tag_resource": "empty",
+      "event_field_npc_event_data_list": [
+        {},
+        {},
+        {}
+      ],
+      "interaction_type": "None",
+      "interaction_distance": 200,
+      "is_interaction_after_end": false,
+      "progress_event_group_id": 2013114
+    },
+    {
       "id": 9991,
       "event_field_id": 99999,
       "npc_localkey_name": "Locale_Character:10_name",

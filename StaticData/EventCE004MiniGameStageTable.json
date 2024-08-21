@@ -1,0 +1,1107 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 101,
+      "manager_id": 101,
+      "stage_difficulty": "Easy",
+      "stage_level": 1,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_01",
+      "name_localkey": "Locale_Event:ce004_stage_name_mma001",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_mma001",
+      "resource_id": "ce004_monster_mma001",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 101,
+      "spawn_monster_scale": 7000,
+      "clear_reward_count": 2,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 0,
+      "seed_type": "Order",
+      "seed_group": 101,
+      "help_tip_id": 10021,
+      "skill_position_group": 101
+    },
+    {
+      "id": 102,
+      "manager_id": 101,
+      "stage_difficulty": "Easy",
+      "stage_level": 2,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_02",
+      "name_localkey": "Locale_Event:ce004_stage_name_mmg005",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_mmg005",
+      "resource_id": "ce004_monster_mmg005",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 101
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 102,
+      "spawn_monster_scale": 17000,
+      "clear_reward_count": 2,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 0,
+      "seed_type": "Order",
+      "seed_group": 102,
+      "help_tip_id": 10021,
+      "skill_position_group": 102
+    },
+    {
+      "id": 103,
+      "manager_id": 101,
+      "stage_difficulty": "Easy",
+      "stage_level": 3,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_03",
+      "name_localkey": "Locale_Event:ce004_stage_name_bma002",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_bma002",
+      "resource_id": "ce004_monster_bma002",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 102
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 103,
+      "spawn_monster_scale": 14000,
+      "clear_reward_count": 2,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 0,
+      "seed_type": "Order",
+      "seed_group": 103,
+      "help_tip_id": 10021,
+      "skill_position_group": 103
+    },
+    {
+      "id": 104,
+      "manager_id": 101,
+      "stage_difficulty": "Easy",
+      "stage_level": 4,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_04",
+      "name_localkey": "Locale_Event:ce004_stage_name_mma001",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_mma001",
+      "resource_id": "ce004_monster_mma001",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 103
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 104,
+      "spawn_monster_scale": 7000,
+      "clear_reward_count": 2,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 0,
+      "seed_type": "Order",
+      "seed_group": 104,
+      "help_tip_id": 10021,
+      "skill_position_group": 104
+    },
+    {
+      "id": 105,
+      "manager_id": 101,
+      "stage_difficulty": "Easy",
+      "stage_level": 5,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_05",
+      "name_localkey": "Locale_Event:ce004_stage_name_mmg005",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_mmg005",
+      "resource_id": "ce004_monster_mmg005",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 104
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 105,
+      "spawn_monster_scale": 17000,
+      "clear_reward_count": 2,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 0,
+      "seed_type": "Order",
+      "seed_group": 101,
+      "help_tip_id": 10021,
+      "skill_position_group": 105
+    },
+    {
+      "id": 106,
+      "manager_id": 101,
+      "stage_difficulty": "Easy",
+      "stage_level": 6,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_06",
+      "name_localkey": "Locale_Event:ce004_stage_name_bma002",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_bma002",
+      "resource_id": "ce004_monster_bma002",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 105
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 106,
+      "spawn_monster_scale": 14000,
+      "clear_reward_count": 2,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 0,
+      "seed_type": "Order",
+      "seed_group": 102,
+      "help_tip_id": 10021,
+      "skill_position_group": 106
+    },
+    {
+      "id": 107,
+      "manager_id": 101,
+      "stage_difficulty": "Easy",
+      "stage_level": 7,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_07",
+      "name_localkey": "Locale_Event:ce004_stage_name_bca001",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_bca001",
+      "resource_id": "ce004_monster_bca001",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_fly",
+      "enemy_camera": "enemy_camera_fly",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 106
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 107,
+      "spawn_monster_scale": 7000,
+      "clear_reward_count": 3,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 0,
+      "seed_type": "Order",
+      "seed_group": 103,
+      "help_tip_id": 10021,
+      "skill_position_group": 107
+    },
+    {
+      "id": 201,
+      "manager_id": 101,
+      "stage_difficulty": "Normal",
+      "stage_level": 1,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_01",
+      "name_localkey": "Locale_Event:ce004_stage_name_meg006",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_meg006",
+      "resource_id": "ce004_monster_meg006",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 107
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 8
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 201,
+      "spawn_monster_scale": 15000,
+      "clear_reward_count": 2,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 0,
+      "seed_type": "Order",
+      "seed_group": 201,
+      "help_tip_id": 10022,
+      "skill_position_group": 201
+    },
+    {
+      "id": 202,
+      "manager_id": 101,
+      "stage_difficulty": "Normal",
+      "stage_level": 2,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_02",
+      "name_localkey": "Locale_Event:ce004_stage_name_eea002",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_eea002",
+      "resource_id": "ce004_monster_eea002",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 201
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 8
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 202,
+      "spawn_monster_scale": 10000,
+      "clear_reward_count": 2,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 0,
+      "seed_type": "Order",
+      "seed_group": 202,
+      "help_tip_id": 10022,
+      "skill_position_group": 202
+    },
+    {
+      "id": 203,
+      "manager_id": 101,
+      "stage_difficulty": "Normal",
+      "stage_level": 3,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_03",
+      "name_localkey": "Locale_Event:ce004_stage_name_bea001",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_bea001",
+      "resource_id": "ce004_monster_bea001",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 202
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 8
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 203,
+      "spawn_monster_scale": 18000,
+      "clear_reward_count": 2,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 0,
+      "seed_type": "Random",
+      "seed_group": 213,
+      "help_tip_id": 10022,
+      "skill_position_group": 203
+    },
+    {
+      "id": 204,
+      "manager_id": 101,
+      "stage_difficulty": "Normal",
+      "stage_level": 4,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_04",
+      "name_localkey": "Locale_Event:ce004_stage_name_meg006",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_meg006",
+      "resource_id": "ce004_monster_meg006",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 203
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 8
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 204,
+      "spawn_monster_scale": 15000,
+      "clear_reward_count": 2,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 0,
+      "seed_type": "Random",
+      "seed_group": 213,
+      "help_tip_id": 10022,
+      "skill_position_group": 204
+    },
+    {
+      "id": 205,
+      "manager_id": 101,
+      "stage_difficulty": "Normal",
+      "stage_level": 5,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_05",
+      "name_localkey": "Locale_Event:ce004_stage_name_eea002",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_eea002",
+      "resource_id": "ce004_monster_eea002",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 204
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 8
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 205,
+      "spawn_monster_scale": 10000,
+      "clear_reward_count": 2,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 0,
+      "seed_type": "Random",
+      "seed_group": 213,
+      "help_tip_id": 10022,
+      "skill_position_group": 205
+    },
+    {
+      "id": 206,
+      "manager_id": 101,
+      "stage_difficulty": "Normal",
+      "stage_level": 6,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_06",
+      "name_localkey": "Locale_Event:ce004_stage_name_bea001",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_bea001",
+      "resource_id": "ce004_monster_bea001",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 205
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 8
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 206,
+      "spawn_monster_scale": 18000,
+      "clear_reward_count": 2,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 0,
+      "seed_type": "Random",
+      "seed_group": 213,
+      "help_tip_id": 10022,
+      "skill_position_group": 206
+    },
+    {
+      "id": 207,
+      "manager_id": 101,
+      "stage_difficulty": "Normal",
+      "stage_level": 7,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_07",
+      "name_localkey": "Locale_Event:ce004_stage_name_mca001",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_mca001",
+      "resource_id": "ce004_monster_mca001",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_fly",
+      "enemy_camera": "enemy_camera_fly",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 206
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 8
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 207,
+      "spawn_monster_scale": 5500,
+      "clear_reward_count": 3,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 0,
+      "seed_type": "Random",
+      "seed_group": 213,
+      "help_tip_id": 10022,
+      "skill_position_group": 207
+    },
+    {
+      "id": 301,
+      "manager_id": 101,
+      "stage_difficulty": "Hard",
+      "stage_level": 1,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_01",
+      "name_localkey": "Locale_Event:ce004_stage_name_mcg002",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_mcg002",
+      "resource_id": "ce004_monster_mcg002",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 207
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 15
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 301,
+      "spawn_monster_scale": 13000,
+      "clear_reward_count": 2,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 0,
+      "seed_type": "Order",
+      "seed_group": 301,
+      "help_tip_id": 10023,
+      "skill_position_group": 301
+    },
+    {
+      "id": 302,
+      "manager_id": 101,
+      "stage_difficulty": "Hard",
+      "stage_level": 2,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_02",
+      "name_localkey": "Locale_Event:ce004_stage_name_bcg001",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_bcg001",
+      "resource_id": "ce004_monster_bcg001",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 301
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 15
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 302,
+      "spawn_monster_scale": 13000,
+      "clear_reward_count": 2,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 0,
+      "seed_type": "Order",
+      "seed_group": 302,
+      "help_tip_id": 10023,
+      "skill_position_group": 302
+    },
+    {
+      "id": 303,
+      "manager_id": 101,
+      "stage_difficulty": "Hard",
+      "stage_level": 3,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_03",
+      "name_localkey": "Locale_Event:ce004_stage_name_ecg001",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_ecg001",
+      "resource_id": "ce004_monster_ecg001",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 302
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 15
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 303,
+      "spawn_monster_scale": 13000,
+      "clear_reward_count": 2,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 0,
+      "seed_type": "Random",
+      "seed_group": 311,
+      "help_tip_id": 10023,
+      "skill_position_group": 303
+    },
+    {
+      "id": 304,
+      "manager_id": 101,
+      "stage_difficulty": "Hard",
+      "stage_level": 4,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_04",
+      "name_localkey": "Locale_Event:ce004_stage_name_mcg002",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_mcg002",
+      "resource_id": "ce004_monster_mcg002",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 303
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 15
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 304,
+      "spawn_monster_scale": 13000,
+      "clear_reward_count": 2,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 301,
+      "seed_type": "Random",
+      "seed_group": 312,
+      "help_tip_id": 10023,
+      "skill_position_group": 304
+    },
+    {
+      "id": 305,
+      "manager_id": 101,
+      "stage_difficulty": "Hard",
+      "stage_level": 5,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_05",
+      "name_localkey": "Locale_Event:ce004_stage_name_bcg001",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_bcg001",
+      "resource_id": "ce004_monster_bcg001",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 304
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 15
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 305,
+      "spawn_monster_scale": 13000,
+      "clear_reward_count": 2,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 301,
+      "seed_type": "Random",
+      "seed_group": 311,
+      "help_tip_id": 10023,
+      "skill_position_group": 305
+    },
+    {
+      "id": 306,
+      "manager_id": 101,
+      "stage_difficulty": "Hard",
+      "stage_level": 6,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_06",
+      "name_localkey": "Locale_Event:ce004_stage_name_ecg001",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_ecg001",
+      "resource_id": "ce004_monster_ecg001",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 305
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 15
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 306,
+      "spawn_monster_scale": 13000,
+      "clear_reward_count": 2,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 301,
+      "seed_type": "Random",
+      "seed_group": 312,
+      "help_tip_id": 10023,
+      "skill_position_group": 306
+    },
+    {
+      "id": 307,
+      "manager_id": 101,
+      "stage_difficulty": "Hard",
+      "stage_level": 7,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_07",
+      "name_localkey": "Locale_Event:ce004_stage_name_eca001",
+      "description_localkey": "Locale_Event:ce004_stage_monster_desc_eca001",
+      "resource_id": "ce004_monster_eca001",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_fly",
+      "enemy_camera": "enemy_camera_fly",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 306
+        },
+        {
+          "open_condition_type": "EventDay",
+          "open_condition_value": 15
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 307,
+      "spawn_monster_scale": 13000,
+      "clear_reward_count": 3,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 301,
+      "seed_type": "Random",
+      "seed_group": 313,
+      "help_tip_id": 10023,
+      "skill_position_group": 307
+    },
+    {
+      "id": 401,
+      "manager_id": 101,
+      "stage_difficulty": "Challenge",
+      "stage_level": 1,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_01",
+      "name_localkey": "Locale_Event:ce004_stage_challenge_name",
+      "description_localkey": "Locale_Event:ce004_stage_challenge_desc",
+      "resource_id": "ce004_monster_challenge",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 105
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 401,
+      "spawn_monster_scale": 17000,
+      "clear_reward_count": 0,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 401,
+      "seed_type": "Order",
+      "seed_group": 401,
+      "help_tip_id": 10023,
+      "skill_position_group": 401
+    },
+    {
+      "id": 402,
+      "manager_id": 101,
+      "stage_difficulty": "Challenge",
+      "stage_level": 2,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_01",
+      "name_localkey": "Locale_Event:ce004_stage_challenge_name",
+      "description_localkey": "Locale_Event:ce004_stage_challenge_desc",
+      "resource_id": "ce004_monster_challenge",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 105
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 402,
+      "spawn_monster_scale": 18000,
+      "clear_reward_count": 0,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 401,
+      "seed_type": "Order",
+      "seed_group": 402,
+      "help_tip_id": 10023,
+      "skill_position_group": 403
+    },
+    {
+      "id": 403,
+      "manager_id": 101,
+      "stage_difficulty": "Challenge",
+      "stage_level": 3,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_01",
+      "name_localkey": "Locale_Event:ce004_stage_challenge_name",
+      "description_localkey": "Locale_Event:ce004_stage_challenge_desc",
+      "resource_id": "ce004_monster_challenge",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 105
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 403,
+      "spawn_monster_scale": 13000,
+      "clear_reward_count": 0,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 401,
+      "seed_type": "Random",
+      "seed_group": 311,
+      "help_tip_id": 10023,
+      "skill_position_group": 407
+    },
+    {
+      "id": 404,
+      "manager_id": 101,
+      "stage_difficulty": "Challenge",
+      "stage_level": 4,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_01",
+      "name_localkey": "Locale_Event:ce004_stage_challenge_name",
+      "description_localkey": "Locale_Event:ce004_stage_challenge_desc",
+      "resource_id": "ce004_monster_challenge",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 105
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 404,
+      "spawn_monster_scale": 13000,
+      "clear_reward_count": 0,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 401,
+      "seed_type": "Random",
+      "seed_group": 312,
+      "help_tip_id": 10023,
+      "skill_position_group": 407
+    },
+    {
+      "id": 405,
+      "manager_id": 101,
+      "stage_difficulty": "Challenge",
+      "stage_level": 5,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_01",
+      "name_localkey": "Locale_Event:ce004_stage_challenge_name",
+      "description_localkey": "Locale_Event:ce004_stage_challenge_desc",
+      "resource_id": "ce004_monster_challenge",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_grd",
+      "enemy_camera": "enemy_camera_grd",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 105
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 405,
+      "spawn_monster_scale": 13000,
+      "clear_reward_count": 0,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 401,
+      "seed_type": "Random",
+      "seed_group": 313,
+      "help_tip_id": 10023,
+      "skill_position_group": 407
+    },
+    {
+      "id": 406,
+      "manager_id": 101,
+      "stage_difficulty": "Challenge",
+      "stage_level": 6,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_01",
+      "name_localkey": "Locale_Event:ce004_stage_challenge_name",
+      "description_localkey": "Locale_Event:ce004_stage_challenge_desc",
+      "resource_id": "ce004_monster_challenge",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_fly",
+      "enemy_camera": "enemy_camera_fly",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 105
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 406,
+      "spawn_monster_scale": 7000,
+      "clear_reward_count": 0,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 401,
+      "seed_type": "Random",
+      "seed_group": 311,
+      "help_tip_id": 10023,
+      "skill_position_group": 407
+    },
+    {
+      "id": 407,
+      "manager_id": 101,
+      "stage_difficulty": "Challenge",
+      "stage_level": 7,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_01",
+      "name_localkey": "Locale_Event:ce004_stage_challenge_name",
+      "description_localkey": "Locale_Event:ce004_stage_challenge_desc",
+      "resource_id": "ce004_monster_challenge",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_fly",
+      "enemy_camera": "enemy_camera_fly",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 105
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 407,
+      "spawn_monster_scale": 5500,
+      "clear_reward_count": 0,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 401,
+      "seed_type": "Random",
+      "seed_group": 312,
+      "help_tip_id": 10023,
+      "skill_position_group": 407
+    },
+    {
+      "id": 408,
+      "manager_id": 101,
+      "stage_difficulty": "Challenge",
+      "stage_level": 8,
+      "button_localkey": "Locale_Event:ce004_stage_button_name_01",
+      "name_localkey": "Locale_Event:ce004_stage_challenge_name",
+      "description_localkey": "Locale_Event:ce004_stage_challenge_desc",
+      "resource_id": "ce004_monster_challenge",
+      "stage_prefab": "fmbg_simulation_001",
+      "main_camera": "main_camera_fly",
+      "enemy_camera": "enemy_camera_fly",
+      "battle_action_zoom_in_fov": 32,
+      "out_quad_time": 3000,
+      "ce004_open_condition_type_group_data": [
+        {
+          "open_condition_type": "EventCE004MiniGameDataClear",
+          "open_condition_value": 105
+        },
+        {
+          "open_condition_type": "None",
+          "open_condition_value": 0
+        }
+      ],
+      "monster_spawn_position": "MonsterSpawner",
+      "spawn_monster_id": 408,
+      "spawn_monster_scale": 13000,
+      "clear_reward_count": 0,
+      "delay_time": 5000,
+      "hint_time": 25000,
+      "battle_time": 10000,
+      "burst_time": 20000,
+      "time_group": 401,
+      "seed_type": "Random",
+      "seed_group": 313,
+      "help_tip_id": 10023,
+      "skill_position_group": 407
+    }
+  ]
+}

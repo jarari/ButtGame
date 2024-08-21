@@ -1,0 +1,34 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 101,
+      "event_id": 81501,
+      "ui_prefab": "ce004",
+      "enter_scenario": "d_contents_ce004_mini_01",
+      "help_tip_id": 0,
+      "daily_reward_point": 500,
+      "daily_reward_id": 8138091,
+      "upgrade_currency_resource": "ce004_currency_upgrade",
+      "upgrade_currency_name": "Locale_Event:ce004_upgrade_currency_name",
+      "upgrade_currency_description": "Locale_Event:ce004_upgrade_currency_desc",
+      "character_spawn_position": "NKSpawner",
+      "burst_max": 25000,
+      "burst_charge_min": 1000,
+      "burst_charge_max": 1500,
+      "burst_push_time": 30000,
+      "charging_increase_attack": 1000,
+      "challenge_last_stage_level": 8,
+      "challenge_repeat_stage_level": 3,
+      "challenge_increase_monster_attack": 1000,
+      "challenge_increase_monster_hp": 8000,
+      "challenge_wave_interval": 10000,
+      "skill_mix_condition": 70,
+      "skill_mix_value": 1000,
+      "skill_mix_time": 10000,
+      "speed_control_stage": 102,
+      "max_point": 9999999,
+      "hint_between_time": 5000
+    }
+  ]
+}

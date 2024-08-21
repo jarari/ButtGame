@@ -1,0 +1,47 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 101,
+      "manager_id": 101,
+      "name_localkey": "Locale_Event:ce004_player_info_name_01",
+      "description_localkey": "Locale_Event:ce004_player_info_desc_01",
+      "name_short_localkey": "Locale_Event:ce004_player_info_name_01_eng",
+      "resource_id": "ce004_character_c830",
+      "character_prefab": "c830_00_m_var",
+      "fail_speech_bubble": "ce004_speechballoons_c830",
+      "attack": 100,
+      "hp": 450,
+      "skill_group": 101,
+      "event_day": 0
+    },
+    {
+      "id": 102,
+      "manager_id": 101,
+      "name_localkey": "Locale_Event:ce004_player_info_name_02",
+      "description_localkey": "Locale_Event:ce004_player_info_desc_02",
+      "name_short_localkey": "Locale_Event:ce004_player_info_name_02_eng",
+      "resource_id": "ce004_character_c831",
+      "character_prefab": "c831_00_m_var",
+      "fail_speech_bubble": "ce004_speechballoons_c831",
+      "attack": 80,
+      "hp": 700,
+      "skill_group": 102,
+      "event_day": 8
+    },
+    {
+      "id": 103,
+      "manager_id": 101,
+      "name_localkey": "Locale_Event:ce004_player_info_name_03",
+      "description_localkey": "Locale_Event:ce004_player_info_desc_03",
+      "name_short_localkey": "Locale_Event:ce004_player_info_name_03_eng",
+      "resource_id": "ce004_character_c832",
+      "character_prefab": "c832_00_m_var",
+      "fail_speech_bubble": "ce004_speechballoons_c832",
+      "attack": 95,
+      "hp": 400,
+      "skill_group": 103,
+      "event_day": 15
+    }
+  ]
+}

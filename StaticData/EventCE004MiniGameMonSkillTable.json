@@ -1,0 +1,1265 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10101,
+      "skill_group": 101,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 10102,
+      "skill_group": 101,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 10201,
+      "skill_group": 102,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 10202,
+      "skill_group": 102,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 10301,
+      "skill_group": 103,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 10302,
+      "skill_group": 103,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 10401,
+      "skill_group": 104,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 10402,
+      "skill_group": 104,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 10501,
+      "skill_group": 105,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 10502,
+      "skill_group": 105,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 10601,
+      "skill_group": 106,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 10602,
+      "skill_group": 106,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 10701,
+      "skill_group": 107,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 10702,
+      "skill_group": 107,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 20101,
+      "skill_group": 201,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 20102,
+      "skill_group": 201,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 20103,
+      "skill_group": 201,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 20104,
+      "skill_group": 201,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 20201,
+      "skill_group": 202,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 20202,
+      "skill_group": 202,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 20203,
+      "skill_group": 202,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 20204,
+      "skill_group": 202,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 20301,
+      "skill_group": 203,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 20302,
+      "skill_group": 203,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 20303,
+      "skill_group": 203,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 20304,
+      "skill_group": 203,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 20401,
+      "skill_group": 204,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 20402,
+      "skill_group": 204,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 20403,
+      "skill_group": 204,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 20404,
+      "skill_group": 204,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 20501,
+      "skill_group": 205,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 20502,
+      "skill_group": 205,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 20503,
+      "skill_group": 205,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 20504,
+      "skill_group": 205,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 20601,
+      "skill_group": 206,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 20602,
+      "skill_group": 206,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 20603,
+      "skill_group": 206,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 20604,
+      "skill_group": 206,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 20701,
+      "skill_group": 207,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 20702,
+      "skill_group": 207,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 20703,
+      "skill_group": 207,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 20704,
+      "skill_group": 207,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 30101,
+      "skill_group": 301,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 30102,
+      "skill_group": 301,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 30103,
+      "skill_group": 301,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 30104,
+      "skill_group": 301,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 30105,
+      "skill_group": 301,
+      "skill_type": "LeftCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_left_cancel",
+      "hint_position": "LeftCancellingPosition"
+    },
+    {
+      "id": 30106,
+      "skill_group": 301,
+      "skill_type": "RightCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_right_cancel",
+      "hint_position": "RightCancellingPosition"
+    },
+    {
+      "id": 30201,
+      "skill_group": 302,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 30202,
+      "skill_group": 302,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 30203,
+      "skill_group": 302,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 30204,
+      "skill_group": 302,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 30205,
+      "skill_group": 302,
+      "skill_type": "LeftCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_left_cancel",
+      "hint_position": "LeftCancellingPosition"
+    },
+    {
+      "id": 30206,
+      "skill_group": 302,
+      "skill_type": "RightCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_right_cancel",
+      "hint_position": "RightCancellingPosition"
+    },
+    {
+      "id": 30301,
+      "skill_group": 303,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 30302,
+      "skill_group": 303,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 30303,
+      "skill_group": 303,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 30304,
+      "skill_group": 303,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 30305,
+      "skill_group": 303,
+      "skill_type": "LeftCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_left_cancel",
+      "hint_position": "LeftCancellingPosition"
+    },
+    {
+      "id": 30306,
+      "skill_group": 303,
+      "skill_type": "RightCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_right_cancel",
+      "hint_position": "RightCancellingPosition"
+    },
+    {
+      "id": 30401,
+      "skill_group": 304,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 30402,
+      "skill_group": 304,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 30403,
+      "skill_group": 304,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 30404,
+      "skill_group": 304,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 30405,
+      "skill_group": 304,
+      "skill_type": "LeftCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_left_cancel",
+      "hint_position": "LeftCancellingPosition"
+    },
+    {
+      "id": 30406,
+      "skill_group": 304,
+      "skill_type": "RightCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_right_cancel",
+      "hint_position": "RightCancellingPosition"
+    },
+    {
+      "id": 30501,
+      "skill_group": 305,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 30502,
+      "skill_group": 305,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 30503,
+      "skill_group": 305,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 30504,
+      "skill_group": 305,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 30505,
+      "skill_group": 305,
+      "skill_type": "LeftCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_left_cancel",
+      "hint_position": "LeftCancellingPosition"
+    },
+    {
+      "id": 30506,
+      "skill_group": 305,
+      "skill_type": "RightCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_right_cancel",
+      "hint_position": "RightCancellingPosition"
+    },
+    {
+      "id": 30601,
+      "skill_group": 306,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 30602,
+      "skill_group": 306,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 30603,
+      "skill_group": 306,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 30604,
+      "skill_group": 306,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 30605,
+      "skill_group": 306,
+      "skill_type": "LeftCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_left_cancel",
+      "hint_position": "LeftCancellingPosition"
+    },
+    {
+      "id": 30606,
+      "skill_group": 306,
+      "skill_type": "RightCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_right_cancel",
+      "hint_position": "RightCancellingPosition"
+    },
+    {
+      "id": 30701,
+      "skill_group": 307,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 30702,
+      "skill_group": 307,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 30703,
+      "skill_group": 307,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 30704,
+      "skill_group": 307,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 30705,
+      "skill_group": 307,
+      "skill_type": "LeftCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_left_cancel",
+      "hint_position": "LeftCancellingPosition"
+    },
+    {
+      "id": 30706,
+      "skill_group": 307,
+      "skill_type": "RightCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_right_cancel",
+      "hint_position": "RightCancellingPosition"
+    },
+    {
+      "id": 40101,
+      "skill_group": 401,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 40102,
+      "skill_group": 401,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 40201,
+      "skill_group": 402,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 40202,
+      "skill_group": 402,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 40203,
+      "skill_group": 402,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 40204,
+      "skill_group": 402,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 40301,
+      "skill_group": 403,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 40302,
+      "skill_group": 403,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 40303,
+      "skill_group": 403,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 40304,
+      "skill_group": 403,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 40305,
+      "skill_group": 403,
+      "skill_type": "LeftCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_left_cancel",
+      "hint_position": "LeftCancellingPosition"
+    },
+    {
+      "id": 40306,
+      "skill_group": 403,
+      "skill_type": "RightCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_right_cancel",
+      "hint_position": "RightCancellingPosition"
+    },
+    {
+      "id": 40401,
+      "skill_group": 404,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 40402,
+      "skill_group": 404,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 40403,
+      "skill_group": 404,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 40404,
+      "skill_group": 404,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 40405,
+      "skill_group": 404,
+      "skill_type": "LeftCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_left_cancel",
+      "hint_position": "LeftCancellingPosition"
+    },
+    {
+      "id": 40406,
+      "skill_group": 404,
+      "skill_type": "RightCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_right_cancel",
+      "hint_position": "RightCancellingPosition"
+    },
+    {
+      "id": 40501,
+      "skill_group": 405,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 40502,
+      "skill_group": 405,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 40503,
+      "skill_group": 405,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 40504,
+      "skill_group": 405,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 40505,
+      "skill_group": 405,
+      "skill_type": "LeftCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_left_cancel",
+      "hint_position": "LeftCancellingPosition"
+    },
+    {
+      "id": 40506,
+      "skill_group": 405,
+      "skill_type": "RightCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_right_cancel",
+      "hint_position": "RightCancellingPosition"
+    },
+    {
+      "id": 40601,
+      "skill_group": 406,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 40602,
+      "skill_group": 406,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 40603,
+      "skill_group": 406,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 40604,
+      "skill_group": 406,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 40605,
+      "skill_group": 406,
+      "skill_type": "LeftCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_left_cancel",
+      "hint_position": "LeftCancellingPosition"
+    },
+    {
+      "id": 40606,
+      "skill_group": 406,
+      "skill_type": "RightCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_right_cancel",
+      "hint_position": "RightCancellingPosition"
+    },
+    {
+      "id": 40701,
+      "skill_group": 407,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 40702,
+      "skill_group": 407,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 40703,
+      "skill_group": 407,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 40704,
+      "skill_group": 407,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 40705,
+      "skill_group": 407,
+      "skill_type": "LeftCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_left_cancel",
+      "hint_position": "LeftCancellingPosition"
+    },
+    {
+      "id": 40706,
+      "skill_group": 407,
+      "skill_type": "RightCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_right_cancel",
+      "hint_position": "RightCancellingPosition"
+    },
+    {
+      "id": 40801,
+      "skill_group": 408,
+      "skill_type": "Core",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_core",
+      "hint_position": "CorePosition"
+    },
+    {
+      "id": 40802,
+      "skill_group": 408,
+      "skill_type": "LeftDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_left",
+      "hint_position": "LeftDestructionPosition"
+    },
+    {
+      "id": 40803,
+      "skill_group": 408,
+      "skill_type": "RightDestruction",
+      "skill_damage": 0,
+      "skill_effect": "0",
+      "hit_effect": "0",
+      "hint_effect": "board_target_right",
+      "hint_position": "RightDestructionPosition"
+    },
+    {
+      "id": 40804,
+      "skill_group": 408,
+      "skill_type": "Projectile",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_proj",
+      "hit_effect": "fx_minigame_ce004_m_proj_hit",
+      "hint_effect": "fx_minigame_ce004_m_proj_muz",
+      "hint_position": "ProjectilePosition"
+    },
+    {
+      "id": 40805,
+      "skill_group": 408,
+      "skill_type": "LeftCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_left_cancel",
+      "hint_position": "LeftCancellingPosition"
+    },
+    {
+      "id": 40806,
+      "skill_group": 408,
+      "skill_type": "RightCancelling",
+      "skill_damage": 1000,
+      "skill_effect": "fx_minigame_ce004_m_beam",
+      "hit_effect": "fx_minigame_ce004_m_beam_hit",
+      "hint_effect": "board_target_right_cancel",
+      "hint_position": "RightCancellingPosition"
+    }
+  ]
+}
