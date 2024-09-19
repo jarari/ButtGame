@@ -1748,6 +1748,139 @@
         }
       ],
       "tid": "m_ex_colorless_03"
+    },
+    {
+      "id": 7002201,
+      "archive_messenger_group_id": 40058,
+      "archive_messenger_condition_list": [
+        {
+          "condition_type": "EventStageClear",
+          "condition_id": 105810106
+        },
+        {
+          "condition_type": "None",
+          "condition_id": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_id": 0
+        }
+      ],
+      "tid": "m_ex_jinxplayer_01"
+    },
+    {
+      "id": 7002202,
+      "archive_messenger_group_id": 40058,
+      "archive_messenger_condition_list": [
+        {
+          "condition_type": "EventStageClear",
+          "condition_id": 105810110
+        },
+        {
+          "condition_type": "MessageClear",
+          "condition_id": 7002201
+        },
+        {
+          "condition_type": "None",
+          "condition_id": 0
+        }
+      ],
+      "tid": "m_ex_jinxplayer_02"
+    },
+    {
+      "id": 7002203,
+      "archive_messenger_group_id": 40058,
+      "archive_messenger_condition_list": [
+        {
+          "condition_type": "EventStageClear",
+          "condition_id": 105810112
+        },
+        {
+          "condition_type": "MessageClear",
+          "condition_id": 7002202
+        },
+        {
+          "condition_type": "None",
+          "condition_id": 0
+        }
+      ],
+      "tid": "m_ex_jinxplayer_03"
+    },
+    {
+      "id": 7002301,
+      "archive_messenger_group_id": 40059,
+      "archive_messenger_condition_list": [
+        {
+          "condition_type": "EventStageClear",
+          "condition_id": 105910105
+        },
+        {
+          "condition_type": "None",
+          "condition_id": 0
+        },
+        {
+          "condition_type": "None",
+          "condition_id": 0
+        }
+      ],
+      "tid": "m_ex_phantomthiefvsdetective_01"
+    },
+    {
+      "id": 7002302,
+      "archive_messenger_group_id": 40059,
+      "archive_messenger_condition_list": [
+        {
+          "condition_type": "EventStageClear",
+          "condition_id": 105910110
+        },
+        {
+          "condition_type": "MessageClear",
+          "condition_id": 7002301
+        },
+        {
+          "condition_type": "None",
+          "condition_id": 0
+        }
+      ],
+      "tid": "m_ex_phantomthiefvsdetective_02"
+    },
+    {
+      "id": 7002303,
+      "archive_messenger_group_id": 40059,
+      "archive_messenger_condition_list": [
+        {
+          "condition_type": "EventStageClear",
+          "condition_id": 105910112
+        },
+        {
+          "condition_type": "MessageClear",
+          "condition_id": 7002302
+        },
+        {
+          "condition_type": "None",
+          "condition_id": 0
+        }
+      ],
+      "tid": "m_ex_phantomthiefvsdetective_03"
+    },
+    {
+      "id": 7002304,
+      "archive_messenger_group_id": 40059,
+      "archive_messenger_condition_list": [
+        {
+          "condition_type": "EventStageClear",
+          "condition_id": 105920112
+        },
+        {
+          "condition_type": "MessageClear",
+          "condition_id": 7002303
+        },
+        {
+          "condition_type": "None",
+          "condition_id": 0
+        }
+      ],
+      "tid": "m_ex_phantomthiefvsdetective_04"
     }
   ]
 }

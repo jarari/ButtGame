@@ -6078,6 +6078,220 @@
       "is_main_part": false
     },
     {
+      "id": 25201101,
+      "monster_model_id": 252011,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252011,
+      "visible_hp": false,
+      "linked_parts_id": 25201101,
+      "weapon_object": [
+        "socket_luncher",
+        "socket_cannon",
+        "tongue_bone003",
+        "phase002_root",
+        "core_bone001"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_04",
+        "weapon_object_05"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "ebg001_var"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": true
+    },
+    {
+      "id": 25201102,
+      "monster_model_id": 252011,
+      "parts_name_localkey": "Locale_Monster:parts_name_LandEater01",
+      "damage_hp_ratio": 10,
+      "hp_ratio": 350,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252011,
+      "visible_hp": true,
+      "linked_parts_id": 25201101,
+      "weapon_object": [
+        "socket_muzzle_fire_32"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_06"
+      ],
+      "parts_type": "Weapon_01",
+      "parts_object": [
+        "core_R_bone001"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 25201103,
+      "monster_model_id": 252011,
+      "parts_name_localkey": "Locale_Monster:parts_name_LandEater02",
+      "damage_hp_ratio": 10,
+      "hp_ratio": 350,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252011,
+      "visible_hp": true,
+      "linked_parts_id": 25201101,
+      "weapon_object": [
+        "socket_muzzle_fire_33"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_07"
+      ],
+      "parts_type": "Weapon_02",
+      "parts_object": [
+        "core_L_bone001"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 25201104,
+      "monster_model_id": 252011,
+      "parts_name_localkey": "Locale_Monster:parts_name_LandEater03",
+      "damage_hp_ratio": 10,
+      "hp_ratio": 500,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252011,
+      "visible_hp": true,
+      "linked_parts_id": 25201101,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Head",
+      "parts_object": [
+        "Bone026"
+      ],
+      "parts_skin": "ebg001_phase001_parts_top_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 25201105,
+      "monster_model_id": 252011,
+      "parts_name_localkey": "Locale_Monster:parts_name_LandEater04",
+      "damage_hp_ratio": 10,
+      "hp_ratio": 500,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252011,
+      "visible_hp": true,
+      "linked_parts_id": 25201101,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Weapon_03",
+      "parts_object": [
+        "Bone018"
+      ],
+      "parts_skin": "ebg001_phase001_parts_center_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 25201106,
+      "monster_model_id": 252011,
+      "parts_name_localkey": "Locale_Monster:parts_name_LandEater05",
+      "damage_hp_ratio": 10,
+      "hp_ratio": 500,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252011,
+      "visible_hp": true,
+      "linked_parts_id": 25201101,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Arm_Right",
+      "parts_object": [
+        "Bone043"
+      ],
+      "parts_skin": "ebg001_phase001_parts_right_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
+      "id": 25201107,
+      "monster_model_id": 252011,
+      "parts_name_localkey": "Locale_Monster:parts_name_LandEater06",
+      "damage_hp_ratio": 10,
+      "hp_ratio": 500,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_anim": false,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7252011,
+      "visible_hp": true,
+      "linked_parts_id": 25201101,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "None"
+      ],
+      "parts_type": "Arm_Left",
+      "parts_object": [
+        "Bone120"
+      ],
+      "parts_skin": "ebg001_phase001_parts_left_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false
+    },
+    {
       "id": 25200201,
       "monster_model_id": 252002,
       "damage_hp_ratio": 0,

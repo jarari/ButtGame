@@ -737,6 +737,34 @@
       "ui_prefab": "ce004_part3"
     },
     {
+      "id": 10058,
+      "event_id": 40058,
+      "prologue_scenario": "event_jinxplayer_prologue",
+      "auto_charge_id": 10058,
+      "event_item_type": "Item",
+      "event_item_id": 7060058,
+      "dungeon_id": 58,
+      "album_category_group": 1058,
+      "mission_group": 58,
+      "contents_shop_id": 9005801,
+      "dice_id": 0,
+      "ui_prefab": "jinxplayer"
+    },
+    {
+      "id": 10059,
+      "event_id": 40059,
+      "prologue_scenario": "event_phantomthiefvsdetective_prologue",
+      "auto_charge_id": 10059,
+      "event_item_type": "Item",
+      "event_item_id": 7060059,
+      "dungeon_id": 59,
+      "album_category_group": 1059,
+      "mission_group": 59,
+      "contents_shop_id": 9005901,
+      "dice_id": 0,
+      "ui_prefab": "phantomthiefvsdetective"
+    },
+    {
       "id": 40001,
       "event_id": 60001,
       "auto_charge_id": 40001,
@@ -1125,6 +1153,32 @@
       "contents_shop_id": 0,
       "dice_id": 0,
       "challenge_monster_resource": "full_mbg002"
+    },
+    {
+      "id": 40058,
+      "event_id": 60058,
+      "auto_charge_id": 40058,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1058,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_mbg001"
+    },
+    {
+      "id": 40059,
+      "event_id": 60059,
+      "auto_charge_id": 40059,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1059,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_bbg001"
     }
   ]
 }

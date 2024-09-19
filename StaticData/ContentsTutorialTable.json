@@ -10724,8 +10724,8 @@
       "SkipButtonControl": true
     },
     {
-      "id": 510001,
-      "VersionGroup": 0,
+      "id": 5100011,
+      "VersionGroup": 1,
       "GroupId": 5100,
       "SubGroupId": "None",
       "ClearedStageId": 6006004,
@@ -10745,15 +10745,15 @@
       "UnmaskControl": true,
       "UnmaskKeyList": [],
       "UnmaskInputControl": false,
-      "NextId": 510002,
+      "NextId": 5100021,
       "SaveTutorial": true,
       "ReconnectionTutorialId": 1,
       "ReconnectionTriggerValue": "None",
       "SkipButtonControl": true
     },
     {
-      "id": 510002,
-      "VersionGroup": 0,
+      "id": 5100021,
+      "VersionGroup": 1,
       "GroupId": 5100,
       "SubGroupId": "None",
       "ClearedStageId": 6006004,
@@ -10775,15 +10775,15 @@
         "tuto_collection_info_01"
       ],
       "UnmaskInputControl": false,
-      "NextId": 510003,
+      "NextId": 5100031,
       "SaveTutorial": true,
       "ReconnectionTutorialId": 1,
       "ReconnectionTriggerValue": "None",
       "SkipButtonControl": true
     },
     {
-      "id": 510003,
-      "VersionGroup": 0,
+      "id": 5100031,
+      "VersionGroup": 1,
       "GroupId": 5100,
       "SubGroupId": "None",
       "ClearedStageId": 6006004,
@@ -10805,15 +10805,15 @@
         "tuto_collection_info_02"
       ],
       "UnmaskInputControl": false,
-      "NextId": 510004,
+      "NextId": 5100041,
       "SaveTutorial": true,
       "ReconnectionTutorialId": 1,
       "ReconnectionTriggerValue": "None",
       "SkipButtonControl": true
     },
     {
-      "id": 510004,
-      "VersionGroup": 0,
+      "id": 5100041,
+      "VersionGroup": 1,
       "GroupId": 5100,
       "SubGroupId": "None",
       "ClearedStageId": 6006004,
@@ -10835,15 +10835,45 @@
         "tuto_collection_info_03"
       ],
       "UnmaskInputControl": false,
-      "NextId": 510005,
+      "NextId": 5100051,
       "SaveTutorial": true,
       "ReconnectionTutorialId": 1,
       "ReconnectionTriggerValue": "None",
       "SkipButtonControl": true
     },
     {
-      "id": 510005,
-      "VersionGroup": 0,
+      "id": 5100051,
+      "VersionGroup": 1,
+      "GroupId": 5100,
+      "SubGroupId": "None",
+      "ClearedStageId": 6006004,
+      "CloseStageId": 0,
+      "TriggerValue": "None",
+      "CloseValue": "None",
+      "CharResourceId": "si_c907_00_s",
+      "Title_TextLocale": "Locale_Tutorial:tuto_collection_info_title_06",
+      "TextLocale": "Locale_Tutorial:tuto_collection_info_08_description",
+      "TextLocation": "Bottom",
+      "Background": 1,
+      "AddonResource": [
+        "None"
+      ],
+      "FieldMovingRouteControl": false,
+      "MarkHiddenItemId": [],
+      "UnmaskControl": true,
+      "UnmaskKeyList": [
+        "tuto_collection_info_05"
+      ],
+      "UnmaskInputControl": false,
+      "NextId": 5100061,
+      "SaveTutorial": true,
+      "ReconnectionTutorialId": 1,
+      "ReconnectionTriggerValue": "None",
+      "SkipButtonControl": true
+    },
+    {
+      "id": 5100061,
+      "VersionGroup": 1,
       "GroupId": 5100,
       "SubGroupId": "None",
       "ClearedStageId": 6006004,
@@ -10865,15 +10895,15 @@
         "tuto_collection_info_04"
       ],
       "UnmaskInputControl": false,
-      "NextId": 510006,
+      "NextId": 5100071,
       "SaveTutorial": true,
       "ReconnectionTutorialId": 1,
       "ReconnectionTriggerValue": "None",
       "SkipButtonControl": true
     },
     {
-      "id": 510006,
-      "VersionGroup": 0,
+      "id": 5100071,
+      "VersionGroup": 1,
       "GroupId": 5100,
       "SubGroupId": "None",
       "ClearedStageId": 6006004,
@@ -10893,15 +10923,15 @@
       "UnmaskControl": true,
       "UnmaskKeyList": [],
       "UnmaskInputControl": false,
-      "NextId": 510007,
+      "NextId": 5100081,
       "SaveTutorial": true,
       "ReconnectionTutorialId": 1,
       "ReconnectionTriggerValue": "None",
       "SkipButtonControl": true
     },
     {
-      "id": 510007,
-      "VersionGroup": 0,
+      "id": 5100081,
+      "VersionGroup": 1,
       "GroupId": 5100,
       "SubGroupId": "None",
       "ClearedStageId": 6006004,
@@ -11198,7 +11228,7 @@
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
       "Title_TextLocale": "Locale_Tutorial:tuto_collection_combine_title_02",
-      "TextLocale": "Locale_Tutorial:tuto_collection_combine_02_description",
+      "TextLocale": "Locale_Tutorial:tuto_collection_combine_02_01_description",
       "TextLocation": "Bottom",
       "Background": 0,
       "AddonResource": [
@@ -11226,7 +11256,7 @@
       "CloseValue": "None",
       "CharResourceId": "si_c907_00_s",
       "Title_TextLocale": "Locale_Tutorial:tuto_collection_combine_title_02",
-      "TextLocale": "Locale_Tutorial:tuto_collection_combine_03_description",
+      "TextLocale": "Locale_Tutorial:tuto_collection_combine_03_01_description",
       "TextLocation": "Bottom",
       "Background": 1,
       "AddonResource": [
