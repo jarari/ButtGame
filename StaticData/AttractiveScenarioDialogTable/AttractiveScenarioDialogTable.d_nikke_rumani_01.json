@@ -5,9 +5,9 @@
       "id": "d_nikke_rumani_01_1",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Monologue",
-      "highlight": "Monologue",
       "speaker": "Monologue",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_1",
+      "play_lipSync": false,
       "characters": [
         {},
         {},
@@ -24,7 +24,7 @@
       "set_start_camera": "1",
       "set_end_camera": "1",
       "set_camera_duration": 1.0,
-      "play_bgm": "dbgm_peace_01",
+      "play_bgm": "none",
       "effects": [
         {},
         {}
@@ -34,146 +34,8 @@
       "id": "d_nikke_rumani_01_2",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Monologue",
-      "highlight": "Monologue",
       "speaker": "Monologue",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_2",
-      "characters": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "1",
-      "set_end_camera": "1",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_3",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Narration",
-      "highlight": "Narration",
-      "speaker": "Narration",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_3",
-      "characters": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_background": "ShowerRoom",
-      "set_start_camera": "1",
-      "set_end_camera": "1",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_4",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Monologue",
-      "highlight": "Monologue",
-      "speaker": "Monologue",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_4",
-      "characters": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_background": "CommanderRoom",
-      "set_start_camera": "1",
-      "set_end_camera": "1",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_5",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Monologue",
-      "highlight": "Monologue",
-      "speaker": "Monologue",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_5",
-      "characters": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "1",
-      "set_end_camera": "1",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_6",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Monologue",
-      "highlight": "Monologue",
-      "speaker": "Monologue",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_6",
-      "characters": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "1",
-      "set_end_camera": "1",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_7",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Monologue",
-      "highlight": "Monologue",
-      "speaker": "Monologue",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_7",
       "play_lipSync": false,
       "characters": [
         {},
@@ -190,6 +52,143 @@
       "set_start_camera": "1",
       "set_end_camera": "1",
       "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_breakaway",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_3",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_3",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_shower",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_4",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_4",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_5",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_5",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_6",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_6",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_7",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_7",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "10",
+      "set_end_camera": "1",
+      "set_camera_duration": 1.0,
       "effects": [
         {},
         {}
@@ -199,7 +198,6 @@
       "id": "d_nikke_rumani_01_8",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Self",
-      "highlight": "Self",
       "speaker": "Self",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_8",
       "play_lipSync": false,
@@ -217,21 +215,19 @@
       ],
       "set_start_camera": "1",
       "set_end_camera": "10",
-      "set_camera_duration": 1.0,
-      "play_bgm": "none",
+      "set_camera_duration": 0.5,
       "effects": [
         {},
         {}
-      ],
-      "set_camera_shake": "Low_1"
+      ]
     },
     {
       "id": "d_nikke_rumani_01_9",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Monologue",
-      "highlight": "Monologue",
       "speaker": "Monologue",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_9",
+      "play_lipSync": false,
       "characters": [
         {},
         {},
@@ -256,9 +252,9 @@
       "id": "d_nikke_rumani_01_10",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Monologue",
-      "highlight": "Monologue",
       "speaker": "Monologue",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_10",
+      "play_lipSync": false,
       "characters": [
         {},
         {},
@@ -283,9 +279,9 @@
       "id": "d_nikke_rumani_01_11",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Monologue",
-      "highlight": "Monologue",
       "speaker": "Monologue",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_11",
+      "play_lipSync": false,
       "characters": [
         {},
         {},
@@ -310,91 +306,8 @@
       "id": "d_nikke_rumani_01_12",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Narration",
-      "highlight": "Narration",
       "speaker": "Narration",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_12",
-      "characters": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "10",
-      "set_end_camera": "100",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_13",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "rapi",
-      "speaker": "rapi",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_13",
-      "characters": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
-      "set_camera_duration": 1.0,
-      "play_bgm": "dbgm_tension_02",
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_14",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Self",
-      "highlight": "Self",
-      "speaker": "Self",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_14",
-      "characters": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_15",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "rapi",
-      "speaker": "rapi",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_15",
       "play_lipSync": false,
       "characters": [
         {},
@@ -408,8 +321,92 @@
         {},
         {}
       ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
+      "set_start_camera": "10",
+      "set_end_camera": "4",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_knock",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_13",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_13",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "4",
+      "set_end_camera": "4",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_14",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_14",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "4",
+      "set_end_camera": "40",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_15",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_15",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "40",
+      "set_end_camera": "40",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -423,6 +420,7 @@
       "highlight": "rapi",
       "speaker": "rapi",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_16",
+      "play_lipSync": true,
       "characters": [
         {},
         {},
@@ -435,8 +433,8 @@
         {},
         {}
       ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
+      "set_start_camera": "40",
+      "set_end_camera": "40",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -447,9 +445,9 @@
       "id": "d_nikke_rumani_01_17",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Self",
-      "highlight": "Self",
       "speaker": "Self",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_17",
+      "play_lipSync": false,
       "characters": [
         {},
         {},
@@ -462,8 +460,8 @@
         {},
         {}
       ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
+      "set_start_camera": "40",
+      "set_end_camera": "40",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -490,8 +488,8 @@
         {},
         {}
       ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
+      "set_start_camera": "40",
+      "set_end_camera": "40",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -505,6 +503,7 @@
       "highlight": "rapi",
       "speaker": "rapi",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_19",
+      "play_lipSync": true,
       "characters": [
         {},
         {},
@@ -517,8 +516,8 @@
         {},
         {}
       ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
+      "set_start_camera": "40",
+      "set_end_camera": "40",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -529,9 +528,9 @@
       "id": "d_nikke_rumani_01_20",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Narration",
-      "highlight": "Narration",
       "speaker": "Narration",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_20",
+      "play_lipSync": false,
       "characters": [
         {},
         {},
@@ -544,8 +543,8 @@
         {},
         {}
       ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
+      "set_start_camera": "40",
+      "set_end_camera": "4",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -556,9 +555,9 @@
       "id": "d_nikke_rumani_01_21",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Monologue",
-      "highlight": "Monologue",
       "speaker": "Monologue",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_21",
+      "play_lipSync": false,
       "characters": [
         {},
         {},
@@ -571,8 +570,8 @@
         {},
         {}
       ],
-      "set_start_camera": "100",
-      "set_end_camera": "10",
+      "set_start_camera": "4",
+      "set_end_camera": "4",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -583,7 +582,6 @@
       "id": "d_nikke_rumani_01_22",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Monologue",
-      "highlight": "Monologue",
       "speaker": "Monologue",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_22",
       "play_lipSync": false,
@@ -599,9 +597,9 @@
         {},
         {}
       ],
-      "set_start_camera": "10",
-      "set_end_camera": "10",
-      "set_camera_duration": 1.0,
+      "set_start_camera": "4",
+      "set_end_camera": "40",
+      "set_camera_duration": 0.5,
       "effects": [
         {},
         {}
@@ -611,145 +609,8 @@
       "id": "d_nikke_rumani_01_23",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Monologue",
-      "highlight": "Monologue",
       "speaker": "Monologue",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_23",
-      "characters": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "10",
-      "set_end_camera": "10",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ],
-      "set_camera_shake": "Low_1"
-    },
-    {
-      "id": "d_nikke_rumani_01_24",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Narration",
-      "highlight": "Narration",
-      "speaker": "Narration",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_24",
-      "characters": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "10",
-      "set_end_camera": "100",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_25",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Monologue",
-      "highlight": "Monologue",
-      "speaker": "Monologue",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_25",
-      "characters": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_26",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Monologue",
-      "highlight": "Monologue",
-      "speaker": "Monologue",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_26",
-      "characters": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_27",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Monologue",
-      "highlight": "Monologue",
-      "speaker": "Monologue",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_27",
-      "characters": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_28",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Monologue",
-      "highlight": "Monologue",
-      "speaker": "Monologue",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_28",
       "play_lipSync": false,
       "characters": [
         {},
@@ -763,8 +624,8 @@
         {},
         {}
       ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
+      "set_start_camera": "40",
+      "set_end_camera": "40",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -772,39 +633,12 @@
       ]
     },
     {
-      "id": "d_nikke_rumani_01_29",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Monologue",
-      "highlight": "Monologue",
-      "speaker": "Monologue",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_29",
-      "characters": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "100",
-      "set_end_camera": "100",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_30",
+      "id": "d_nikke_rumani_01_24",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Narration",
-      "highlight": "Narration",
       "speaker": "Narration",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_30",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_24",
+      "play_lipSync": false,
       "characters": [
         {},
         {},
@@ -823,8 +657,170 @@
       "effects": [
         {},
         {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_25",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_25",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
       ],
-      "set_camera_shake": "Low_1"
+      "set_start_camera": "4",
+      "set_end_camera": "4",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_26",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_26",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "4",
+      "set_end_camera": "4",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_27",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_27",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "4",
+      "set_end_camera": "40",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_28",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_28",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "40",
+      "set_end_camera": "40",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_29",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_29",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "40",
+      "set_end_camera": "4",
+      "set_camera_duration": 0.5,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_30",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_30",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "17",
+      "set_end_camera": "170",
+      "set_camera_duration": 0.3,
+      "play_sound": "sfx_scn_dooropenfast",
+      "effects": [
+        {},
+        {}
+      ]
     },
     {
       "id": "d_nikke_rumani_01_31",
@@ -833,22 +829,15 @@
       "highlight": "neon",
       "speaker": "neon",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_31",
+      "play_lipSync": true,
       "characters": [
-        {
-          "show_char_id": "rapi",
-          "set_char_position": "7",
-          "set_char_anim": "angry"
-        },
-        {
-          "show_char_id": "anis",
-          "set_char_position": "5",
-          "set_char_anim": "angry"
-        },
         {
           "show_char_id": "neon",
           "set_char_position": "3",
-          "set_char_anim": "idle"
+          "set_char_anim": "surprise"
         },
+        {},
+        {},
         {},
         {},
         {},
@@ -859,7 +848,7 @@
       ],
       "set_start_camera": "3",
       "set_end_camera": "S_30",
-      "set_camera_duration": 0.5,
+      "set_camera_duration": 0.3,
       "effects": [
         {},
         {}
@@ -872,19 +861,18 @@
       "highlight": "anis",
       "speaker": "anis",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_32",
+      "play_lipSync": true,
       "characters": [
         {
-          "set_char_position": "7",
-          "set_char_anim": "angry"
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
         },
         {
+          "show_char_id": "anis",
           "set_char_position": "5",
           "set_char_anim": "angry"
         },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -895,7 +883,7 @@
       ],
       "set_start_camera": "5",
       "set_end_camera": "50",
-      "set_camera_duration": 0.5,
+      "set_camera_duration": 0.3,
       "effects": [
         {},
         {}
@@ -908,18 +896,20 @@
       "highlight": "rapi",
       "speaker": "rapi",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_33",
+      "play_lipSync": true,
       "characters": [
         {
-          "set_char_position": "7",
-          "set_char_anim": "angry"
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
         },
         {
           "set_char_position": "5",
           "set_char_anim": "angry"
         },
         {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
+          "show_char_id": "rapi",
+          "set_char_position": "1",
+          "set_char_anim": "angry"
         },
         {},
         {},
@@ -929,9 +919,9 @@
         {},
         {}
       ],
-      "set_start_camera": "7",
-      "set_end_camera": "70",
-      "set_camera_duration": 0.5,
+      "set_start_camera": "1",
+      "set_end_camera": "10",
+      "set_camera_duration": 0.3,
       "effects": [
         {},
         {}
@@ -941,22 +931,21 @@
       "id": "d_nikke_rumani_01_34",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Self",
-      "highlight": "rapi",
       "speaker": "Self",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_34",
       "play_lipSync": false,
       "characters": [
         {
-          "set_char_position": "7",
-          "set_char_anim": "angry"
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
         },
         {
           "set_char_position": "5",
           "set_char_anim": "angry"
         },
         {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
+          "set_char_position": "1",
+          "set_char_anim": "angry"
         },
         {},
         {},
@@ -966,8 +955,8 @@
         {},
         {}
       ],
-      "set_start_camera": "70",
-      "set_end_camera": "70",
+      "set_start_camera": "10",
+      "set_end_camera": "10",
       "set_camera_duration": 1.0,
       "play_bgm": "none",
       "effects": [
@@ -985,16 +974,16 @@
       "play_lipSync": false,
       "characters": [
         {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "angry"
         },
         {
-          "set_char_position": "3",
-          "set_char_anim": "no"
+          "set_char_position": "1",
+          "set_char_anim": "angry"
         },
         {},
         {},
@@ -1022,16 +1011,16 @@
       "play_lipSync": false,
       "characters": [
         {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "angry"
         },
         {
-          "set_char_position": "3",
-          "set_char_anim": "no"
+          "set_char_position": "1",
+          "set_char_anim": "angry"
         },
         {},
         {},
@@ -1059,16 +1048,16 @@
       "play_lipSync": false,
       "characters": [
         {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "angry"
         },
         {
-          "set_char_position": "3",
-          "set_char_anim": "no"
+          "set_char_position": "1",
+          "set_char_anim": "angry"
         },
         {},
         {},
@@ -1078,8 +1067,8 @@
         {},
         {}
       ],
-      "set_start_camera": "70",
-      "set_end_camera": "70",
+      "set_start_camera": "10",
+      "set_end_camera": "10",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1093,18 +1082,19 @@
       "highlight": "neon",
       "speaker": "neon",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_38",
+      "play_lipSync": true,
       "characters": [
         {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "worry"
         },
         {
           "set_char_position": "5",
           "set_char_anim": "worry"
         },
         {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
+          "set_char_position": "1",
+          "set_char_anim": "worry"
         },
         {},
         {},
@@ -1115,8 +1105,9 @@
         {}
       ],
       "set_start_camera": "S_30",
-      "set_end_camera": "S_300",
-      "set_camera_duration": 0.5,
+      "set_end_camera": "3",
+      "set_camera_duration": 0.3,
+      "play_bgm": "bgm_story_herecomestrouble",
       "effects": [
         {},
         {}
@@ -1129,18 +1120,19 @@
       "highlight": "anis",
       "speaker": "anis",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_39",
+      "play_lipSync": true,
       "characters": [
         {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "worry"
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "angry"
+          "set_char_anim": "worry"
         },
         {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
+          "set_char_position": "1",
+          "set_char_anim": "worry"
         },
         {},
         {},
@@ -1151,8 +1143,8 @@
         {}
       ],
       "set_start_camera": "50",
-      "set_end_camera": "500",
-      "set_camera_duration": 0.5,
+      "set_end_camera": "5",
+      "set_camera_duration": 0.3,
       "effects": [
         {},
         {}
@@ -1165,18 +1157,19 @@
       "highlight": "rapi",
       "speaker": "rapi",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_40",
+      "play_lipSync": true,
       "characters": [
         {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "worry"
         },
         {
           "set_char_position": "5",
           "set_char_anim": "worry"
         },
         {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
+          "set_char_position": "1",
+          "set_char_anim": "worry"
         },
         {},
         {},
@@ -1186,10 +1179,9 @@
         {},
         {}
       ],
-      "set_start_camera": "70",
-      "set_end_camera": "700",
-      "set_camera_duration": 3.0,
-      "play_bgm": "dbgm_comic_02",
+      "set_start_camera": "10",
+      "set_end_camera": "1",
+      "set_camera_duration": 0.7,
       "effects": [
         {},
         {}
@@ -1202,18 +1194,19 @@
       "highlight": "rapi",
       "speaker": "rapi",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_41",
+      "play_lipSync": true,
       "characters": [
         {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "worry"
         },
         {
           "set_char_position": "5",
           "set_char_anim": "worry"
         },
         {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
+          "set_char_position": "1",
+          "set_char_anim": "worry"
         },
         {},
         {},
@@ -1223,8 +1216,8 @@
         {},
         {}
       ],
-      "set_start_camera": "700",
-      "set_end_camera": "700",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1235,21 +1228,21 @@
       "id": "d_nikke_rumani_01_42",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Self",
-      "highlight": "rapi",
       "speaker": "Self",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_42",
+      "play_lipSync": false,
       "characters": [
         {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "worry"
         },
         {
           "set_char_position": "5",
           "set_char_anim": "worry"
         },
         {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
+          "set_char_position": "1",
+          "set_char_anim": "worry"
         },
         {},
         {},
@@ -1259,8 +1252,8 @@
         {},
         {}
       ],
-      "set_start_camera": "700",
-      "set_end_camera": "700",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1277,16 +1270,16 @@
       "play_lipSync": false,
       "characters": [
         {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "worry"
         },
         {
           "set_char_position": "5",
           "set_char_anim": "worry"
         },
         {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
+          "set_char_position": "1",
+          "set_char_anim": "worry"
         },
         {},
         {},
@@ -1296,8 +1289,8 @@
         {},
         {}
       ],
-      "set_start_camera": "700",
-      "set_end_camera": "700",
+      "set_start_camera": "1",
+      "set_end_camera": "10",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1311,18 +1304,19 @@
       "highlight": "rapi",
       "speaker": "rapi",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_44",
+      "play_lipSync": true,
       "characters": [
         {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "worry"
         },
         {
           "set_char_position": "5",
           "set_char_anim": "worry"
         },
         {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
+          "set_char_position": "1",
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -1332,8 +1326,8 @@
         {},
         {}
       ],
-      "set_start_camera": "700",
-      "set_end_camera": "700",
+      "set_start_camera": "10",
+      "set_end_camera": "10",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -1344,23 +1338,540 @@
       "id": "d_nikke_rumani_01_45",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Narration",
-      "highlight": "Narration",
       "speaker": "Narration",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_45",
+      "play_lipSync": false,
       "characters": [
         {
+          "hide_char_id": "neon",
           "set_char_position": "7",
-          "set_char_anim": "idle"
+          "set_char_anim": "worry"
         },
         {
+          "hide_char_id": "anis",
           "set_char_position": "5",
           "set_char_anim": "worry"
         },
         {
           "set_char_position": "3",
+          "set_char_anim": "think"
+        },
+        {
+          "show_char_id": "mary",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_bgm": "none",
+      "effects": [
+        {},
+        {}
+      ],
+      "fade": "black"
+    },
+    {
+      "id": "d_nikke_rumani_01_46",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_46",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_breakaway",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_47",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_47",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_48",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_48",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_49",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_49",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_50",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_50",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_51",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_51",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_52",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_52",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_53",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "rapi",
+      "speaker": "rapi",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_53",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_54",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_54",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "2",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_55",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_55",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "2",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_56",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_56",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_57",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Self",
+      "speaker": "Self",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_57",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_58",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "mary",
+      "speaker": "mary",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_58",
+      "play_lipSync": true,
+      "characters": [
+        {},
+        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_59",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Narration",
+      "speaker": "Narration",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_59",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "black",
+      "set_end_camera": "black",
+      "set_camera_duration": 1.0,
+      "play_sound": "sfx_scn_injectionfire",
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_60",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Monologue",
+      "speaker": "Monologue",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_60",
+      "play_lipSync": false,
+      "characters": [
+        {},
+        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
         {},
         {},
         {},
@@ -1377,607 +1888,16 @@
       ]
     },
     {
-      "id": "d_nikke_rumani_01_46",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "mary",
-      "speaker": "mary",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_46",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "show_char_id": "mary",
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_47",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "mary",
-      "speaker": "mary",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_47",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_48",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "mary",
-      "speaker": "mary",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_48",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_49",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "rapi",
-      "speaker": "rapi",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_49",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "7",
-      "set_end_camera": "7",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_50",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "mary",
-      "speaker": "mary",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_50",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_51",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "mary",
-      "speaker": "mary",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_51",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_52",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "mary",
-      "speaker": "mary",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_52",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_53",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "rapi",
-      "speaker": "rapi",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_53",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "7",
-      "set_end_camera": "7",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_54",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "mary",
-      "speaker": "mary",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_54",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_55",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "mary",
-      "speaker": "mary",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_55",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_56",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "mary",
-      "speaker": "mary",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_56",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_57",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Self",
-      "highlight": "mary",
-      "speaker": "Self",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_57",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_58",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "mary",
-      "speaker": "mary",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_58",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_10",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_59",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Narration",
-      "highlight": "mary",
-      "speaker": "Narration",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_59",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "S_10",
-      "set_end_camera": "S_200",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_60",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Monologue",
-      "highlight": "mary",
-      "speaker": "Monologue",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_60",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "1",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "S_200",
-      "set_end_camera": "S_200",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
       "id": "d_nikke_rumani_01_61",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Speech",
       "highlight": "mary",
       "speaker": "mary",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_61",
+      "play_lipSync": true,
       "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
+        {},
+        {},
         {
           "set_char_position": "3",
           "set_char_anim": "idle"
@@ -1993,8 +1913,8 @@
         {},
         {}
       ],
-      "set_start_camera": "S_200",
-      "set_end_camera": "S_200",
+      "set_start_camera": "XS_10",
+      "set_end_camera": "XS_10",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2008,15 +1928,10 @@
       "highlight": "mary",
       "speaker": "mary",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_62",
+      "play_lipSync": true,
       "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
+        {},
+        {},
         {
           "set_char_position": "3",
           "set_char_anim": "idle"
@@ -2032,8 +1947,8 @@
         {},
         {}
       ],
-      "set_start_camera": "S_200",
-      "set_end_camera": "S_200",
+      "set_start_camera": "XS_10",
+      "set_end_camera": "1",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2044,18 +1959,12 @@
       "id": "d_nikke_rumani_01_63",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Self",
-      "highlight": "mary",
       "speaker": "Self",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_63",
+      "play_lipSync": false,
       "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
+        {},
+        {},
         {
           "set_char_position": "3",
           "set_char_anim": "idle"
@@ -2071,9 +1980,10 @@
         {},
         {}
       ],
-      "set_start_camera": "S_200",
-      "set_end_camera": "S_200",
+      "set_start_camera": "1",
+      "set_end_camera": "1",
       "set_camera_duration": 1.0,
+      "play_bgm": "none",
       "effects": [
         {},
         {}
@@ -2086,17 +1996,20 @@
       "highlight": "anis",
       "speaker": "anis",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_64",
+      "play_lipSync": true,
       "characters": [
         {
+          "show_char_id": "neon",
           "set_char_position": "7",
-          "set_char_anim": "idle"
+          "set_char_anim": "surprise"
         },
         {
+          "show_char_id": "anis",
           "set_char_position": "5",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
@@ -2112,14 +2025,15 @@
         {}
       ],
       "set_background": "Gym",
-      "set_start_camera": "19",
-      "set_end_camera": "5",
-      "set_camera_duration": 3.0,
-      "play_bgm": "dbgm_tetra",
+      "set_start_camera": "6",
+      "set_end_camera": "6",
+      "set_camera_duration": 1.0,
+      "play_bgm": "bgm_story_leisuretime",
       "effects": [
         {},
         {}
-      ]
+      ],
+      "fade": "black"
     },
     {
       "id": "d_nikke_rumani_01_65",
@@ -2128,17 +2042,18 @@
       "highlight": "neon",
       "speaker": "neon",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_65",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
-          "set_char_anim": "idle"
+          "set_char_anim": "surprise"
         },
         {
           "set_char_position": "5",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {},
@@ -2149,8 +2064,8 @@
         {},
         {}
       ],
-      "set_start_camera": "5",
-      "set_end_camera": "4",
+      "set_start_camera": "6",
+      "set_end_camera": "6",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2164,17 +2079,18 @@
       "highlight": "anis",
       "speaker": "anis",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_66",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
-          "set_char_anim": "idle"
+          "set_char_anim": "surprise"
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "idle"
+          "set_char_anim": "void"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {},
@@ -2185,8 +2101,8 @@
         {},
         {}
       ],
-      "set_start_camera": "4",
-      "set_end_camera": "4",
+      "set_start_camera": "6",
+      "set_end_camera": "6",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2200,6 +2116,155 @@
       "highlight": "anis",
       "speaker": "anis",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_67",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "7",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "void"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "6",
+      "set_end_camera": "6",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_68",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_68",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "7",
+          "set_char_anim": "surprise"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "void"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "6",
+      "set_end_camera": "6",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_69",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "neon",
+      "speaker": "neon",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_69",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "7",
+          "set_char_anim": "worry"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "void"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "6",
+      "set_end_camera": "6",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_70",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_70",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "7",
+          "set_char_anim": "worry"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "worry"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "6",
+      "set_end_camera": "6",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_71",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "rumani",
+      "speaker": "rumani",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_71",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -2210,10 +2275,54 @@
           "set_char_anim": "idle"
         },
         {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "show_char_id": "rumani",
           "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "set_start_camera": "6",
+      "set_end_camera": "4",
+      "set_camera_duration": 1.0,
+      "effects": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": "d_nikke_rumani_01_72",
+      "group_id": "d_nikke_rumani_01",
+      "speech_window": "Speech",
+      "highlight": "anis",
+      "speaker": "anis",
+      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_72",
+      "play_lipSync": true,
+      "characters": [
+        {
+          "set_char_position": "7",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "5",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "idle"
+        },
         {},
         {},
         {},
@@ -2230,199 +2339,13 @@
       ]
     },
     {
-      "id": "d_nikke_rumani_01_68",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "anis",
-      "speaker": "anis",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_68",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "4",
-      "set_end_camera": "50",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_69",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "neon",
-      "speaker": "neon",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_69",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "50",
-      "set_end_camera": "S_30",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_70",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "anis",
-      "speaker": "anis",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_70",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "delight"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "S_30",
-      "set_end_camera": "50",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_71",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "rumani",
-      "speaker": "rumani",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_71",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "show_char_id": "rumani",
-          "set_char_position": "13",
-          "set_char_anim": "surprise"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "50",
-      "set_end_camera": "13",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
-      "id": "d_nikke_rumani_01_72",
-      "group_id": "d_nikke_rumani_01",
-      "speech_window": "Speech",
-      "highlight": "anis",
-      "speaker": "anis",
-      "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_72",
-      "characters": [
-        {
-          "set_char_position": "7",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "5",
-          "set_char_anim": "delight"
-        },
-        {
-          "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "surprise"
-        },
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
-      ],
-      "set_start_camera": "13",
-      "set_end_camera": "50",
-      "set_camera_duration": 1.0,
-      "effects": [
-        {},
-        {}
-      ]
-    },
-    {
       "id": "d_nikke_rumani_01_73",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Speech",
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_73",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -2430,14 +2353,14 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "delight"
-        },
-        {
-          "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
           "set_char_anim": "no"
         },
         {},
@@ -2447,8 +2370,8 @@
         {},
         {}
       ],
-      "set_start_camera": "13",
-      "set_end_camera": "130",
+      "set_start_camera": "4",
+      "set_end_camera": "4",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2462,6 +2385,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_74",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -2472,12 +2396,12 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -2486,8 +2410,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "4",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2501,6 +2425,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_75",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -2511,11 +2436,11 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "surprise"
         },
         {},
@@ -2525,9 +2450,9 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "1300",
-      "set_camera_duration": 3.0,
+      "set_start_camera": "30",
+      "set_end_camera": "30",
+      "set_camera_duration": 1.0,
       "effects": [
         {},
         {}
@@ -2540,6 +2465,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_76",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -2550,12 +2476,12 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -2564,8 +2490,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1300",
-      "set_end_camera": "1300",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2576,9 +2502,9 @@
       "id": "d_nikke_rumani_01_77",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Self",
-      "highlight": "rumani",
       "speaker": "Self",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_77",
+      "play_lipSync": false,
       "characters": [
         {
           "set_char_position": "7",
@@ -2589,12 +2515,12 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -2603,8 +2529,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1300",
-      "set_end_camera": "1300",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2618,6 +2544,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_78",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -2628,12 +2555,12 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -2642,8 +2569,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1300",
-      "set_end_camera": "130",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2657,6 +2584,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_79",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -2667,11 +2595,11 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {},
@@ -2681,8 +2609,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2696,6 +2624,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_80",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -2706,11 +2635,11 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {},
@@ -2720,8 +2649,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2732,9 +2661,9 @@
       "id": "d_nikke_rumani_01_81",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Self",
-      "highlight": "rumani",
       "speaker": "Self",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_81",
+      "play_lipSync": false,
       "characters": [
         {
           "set_char_position": "7",
@@ -2745,11 +2674,11 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {},
@@ -2759,8 +2688,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2774,6 +2703,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_82",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -2784,11 +2714,11 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {},
@@ -2798,8 +2728,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "1300",
+      "set_start_camera": "30",
+      "set_end_camera": "4",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2813,6 +2743,7 @@
       "highlight": "anis",
       "speaker": "anis",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_83",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -2820,14 +2751,14 @@
         },
         {
           "set_char_position": "5",
+          "set_char_anim": "void"
+        },
+        {
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "13",
           "set_char_anim": "idle"
         },
         {},
@@ -2837,8 +2768,8 @@
         {},
         {}
       ],
-      "set_start_camera": "50",
-      "set_end_camera": "50",
+      "set_start_camera": "4",
+      "set_end_camera": "4",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2852,6 +2783,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_84",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -2859,15 +2791,15 @@
         },
         {
           "set_char_position": "5",
+          "set_char_anim": "void"
+        },
+        {
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -2876,8 +2808,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "4",
+      "set_end_camera": "4",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2891,6 +2823,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_85",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -2898,15 +2831,15 @@
         },
         {
           "set_char_position": "5",
+          "set_char_anim": "void"
+        },
+        {
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -2915,8 +2848,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "4",
+      "set_end_camera": "4",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2927,9 +2860,9 @@
       "id": "d_nikke_rumani_01_86",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Monologue",
-      "highlight": "rumani",
       "speaker": "Monologue",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_86",
+      "play_lipSync": false,
       "characters": [
         {
           "set_char_position": "7",
@@ -2937,16 +2870,15 @@
         },
         {
           "set_char_position": "5",
+          "set_char_anim": "void"
+        },
+        {
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "hide_char_id": "rumani",
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -2955,8 +2887,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "19",
+      "set_start_camera": "black",
+      "set_end_camera": "black",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -2970,6 +2902,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_87",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -2977,13 +2910,16 @@
         },
         {
           "set_char_position": "5",
+          "set_char_anim": "void"
+        },
+        {
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "idle"
+          "set_char_anim": "think"
         },
-        {},
         {},
         {},
         {},
@@ -2991,8 +2927,8 @@
         {},
         {}
       ],
-      "set_start_camera": "19",
-      "set_end_camera": "19",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3006,6 +2942,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_88",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3016,10 +2953,13 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
         {},
         {},
         {},
@@ -3027,8 +2967,8 @@
         {},
         {}
       ],
-      "set_start_camera": "19",
-      "set_end_camera": "19",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3042,6 +2982,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_89",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3052,10 +2993,13 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {},
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
+        },
         {},
         {},
         {},
@@ -3063,8 +3007,8 @@
         {},
         {}
       ],
-      "set_start_camera": "19",
-      "set_end_camera": "19",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3078,6 +3022,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_90",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3088,12 +3033,11 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
-          "show_char_id": "rumani",
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {},
@@ -3103,8 +3047,8 @@
         {},
         {}
       ],
-      "set_start_camera": "19",
-      "set_end_camera": "13",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3118,6 +3062,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_91",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3128,11 +3073,11 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {},
@@ -3142,8 +3087,8 @@
         {},
         {}
       ],
-      "set_start_camera": "13",
-      "set_end_camera": "13",
+      "set_start_camera": "30",
+      "set_end_camera": "2",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3157,6 +3102,7 @@
       "highlight": "rapi",
       "speaker": "rapi",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_92",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3167,11 +3113,11 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {},
@@ -3181,8 +3127,8 @@
         {},
         {}
       ],
-      "set_start_camera": "70",
-      "set_end_camera": "70",
+      "set_start_camera": "2",
+      "set_end_camera": "2",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3196,6 +3142,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_93",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3206,11 +3153,11 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {},
@@ -3220,8 +3167,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "2",
+      "set_end_camera": "2",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3235,6 +3182,7 @@
       "highlight": "rapi",
       "speaker": "rapi",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_94",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3245,11 +3193,11 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {},
@@ -3259,8 +3207,8 @@
         {},
         {}
       ],
-      "set_start_camera": "70",
-      "set_end_camera": "70",
+      "set_start_camera": "2",
+      "set_end_camera": "2",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3274,6 +3222,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_95",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3284,12 +3233,12 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
-          "set_char_anim": "sad"
+          "set_char_position": "3",
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -3298,8 +3247,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "2",
+      "set_end_camera": "2",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3310,7 +3259,6 @@
       "id": "d_nikke_rumani_01_96",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Self",
-      "highlight": "rumani",
       "speaker": "Self",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_96",
       "play_lipSync": false,
@@ -3321,15 +3269,15 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
-        },
-        {
-          "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
-          "set_char_anim": "sad"
+          "set_char_position": "1",
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "3",
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -3338,8 +3286,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "2",
+      "set_end_camera": "2",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3353,6 +3301,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_97",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3360,15 +3309,15 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -3377,8 +3326,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "2",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3392,6 +3341,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_98",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3399,15 +3349,15 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -3416,8 +3366,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3431,6 +3381,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_99",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3438,15 +3389,15 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -3455,8 +3406,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3470,6 +3421,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_100",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3477,15 +3429,15 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -3494,8 +3446,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3509,6 +3461,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_101",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3516,15 +3469,15 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -3533,8 +3486,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3548,6 +3501,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_102",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3555,15 +3509,15 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -3572,8 +3526,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "1300",
+      "set_start_camera": "30",
+      "set_end_camera": "300",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3587,6 +3541,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_103",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3594,15 +3549,15 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -3611,8 +3566,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1300",
-      "set_end_camera": "1300",
+      "set_start_camera": "300",
+      "set_end_camera": "300",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3626,6 +3581,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_104",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3633,15 +3589,15 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -3650,9 +3606,9 @@
         {},
         {}
       ],
-      "set_start_camera": "1300",
-      "set_end_camera": "130",
-      "set_camera_duration": 1.0,
+      "set_start_camera": "300",
+      "set_end_camera": "30",
+      "set_camera_duration": 0.7,
       "effects": [
         {},
         {}
@@ -3665,6 +3621,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_105",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3672,15 +3629,15 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -3689,8 +3646,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3704,6 +3661,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_106",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3711,15 +3669,15 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -3728,8 +3686,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3743,6 +3701,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_107",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3750,15 +3709,15 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "idle"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -3767,8 +3726,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3782,6 +3741,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_108",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3789,15 +3749,15 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "void"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -3806,8 +3766,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3821,6 +3781,7 @@
       "highlight": "anis",
       "speaker": "anis",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_109",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3828,15 +3789,15 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "void"
+        },
+        {
+          "set_char_position": "1",
+          "set_char_anim": "idle"
         },
         {
           "set_char_position": "3",
-          "set_char_anim": "idle"
-        },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -3860,6 +3821,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_110",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3867,14 +3829,14 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "void"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {},
@@ -3884,8 +3846,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3899,6 +3861,7 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_111",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3906,14 +3869,14 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "void"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {},
@@ -3923,8 +3886,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "30",
+      "set_end_camera": "3",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3935,9 +3898,9 @@
       "id": "d_nikke_rumani_01_112",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Narration",
-      "highlight": "rumani",
       "speaker": "Narration",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_112",
+      "play_lipSync": false,
       "characters": [
         {
           "set_char_position": "7",
@@ -3945,14 +3908,15 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "worry"
+          "set_char_anim": "void"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "13",
+          "hide_char_id": "rumani",
+          "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {},
@@ -3962,8 +3926,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "5",
+      "set_start_camera": "3",
+      "set_end_camera": "3",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -3977,6 +3941,7 @@
       "highlight": "anis",
       "speaker": "anis",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_113",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -3984,16 +3949,13 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "idle"
+          "set_char_anim": "void"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -4001,8 +3963,8 @@
         {},
         {}
       ],
-      "set_start_camera": "5",
-      "set_end_camera": "5",
+      "set_start_camera": "3",
+      "set_end_camera": "50",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4013,9 +3975,9 @@
       "id": "d_nikke_rumani_01_114",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Self",
-      "highlight": "anis",
       "speaker": "Self",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_114",
+      "play_lipSync": false,
       "characters": [
         {
           "set_char_position": "7",
@@ -4023,16 +3985,13 @@
         },
         {
           "set_char_position": "5",
-          "set_char_anim": "idle"
+          "set_char_anim": "void"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -4040,8 +3999,8 @@
         {},
         {}
       ],
-      "set_start_camera": "5",
-      "set_end_camera": "5",
+      "set_start_camera": "50",
+      "set_end_camera": "50",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4055,6 +4014,7 @@
       "highlight": "anis",
       "speaker": "anis",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_115",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
@@ -4065,13 +4025,10 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -4079,8 +4036,8 @@
         {},
         {}
       ],
-      "set_start_camera": "5",
-      "set_end_camera": "5",
+      "set_start_camera": "50",
+      "set_end_camera": "50",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4091,9 +4048,9 @@
       "id": "d_nikke_rumani_01_116",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Self",
-      "highlight": "anis",
       "speaker": "Self",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_116",
+      "play_lipSync": false,
       "characters": [
         {
           "set_char_position": "7",
@@ -4104,13 +4061,10 @@
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -4118,8 +4072,8 @@
         {},
         {}
       ],
-      "set_start_camera": "5",
-      "set_end_camera": "5",
+      "set_start_camera": "50",
+      "set_end_camera": "50",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4133,23 +4087,21 @@
       "highlight": "neon",
       "speaker": "neon",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_117",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
-          "set_char_anim": "idle"
+          "set_char_anim": "surprise"
         },
         {
           "set_char_position": "5",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -4157,8 +4109,8 @@
         {},
         {}
       ],
-      "set_start_camera": "5",
-      "set_end_camera": "S_30",
+      "set_start_camera": "S_70",
+      "set_end_camera": "S_70",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4172,23 +4124,21 @@
       "highlight": "rapi",
       "speaker": "rapi",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_118",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
-          "set_char_anim": "idle"
+          "set_char_anim": "surprise"
         },
         {
           "set_char_position": "5",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -4196,8 +4146,8 @@
         {},
         {}
       ],
-      "set_start_camera": "S_30",
-      "set_end_camera": "70",
+      "set_start_camera": "10",
+      "set_end_camera": "10",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4211,23 +4161,21 @@
       "highlight": "rapi",
       "speaker": "rapi",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_119",
+      "play_lipSync": true,
       "characters": [
         {
           "set_char_position": "7",
-          "set_char_anim": "idle"
+          "set_char_anim": "surprise"
         },
         {
           "set_char_position": "5",
           "set_char_anim": "idle"
         },
         {
-          "set_char_position": "3",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -4235,8 +4183,8 @@
         {},
         {}
       ],
-      "set_start_camera": "70",
-      "set_end_camera": "700",
+      "set_start_camera": "10",
+      "set_end_camera": "10",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4247,14 +4195,14 @@
       "id": "d_nikke_rumani_01_120",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Narration",
-      "highlight": "rapi",
       "speaker": "Narration",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_120",
+      "play_lipSync": false,
       "characters": [
         {
-          "hide_char_id": "rapi",
+          "hide_char_id": "neon",
           "set_char_position": "7",
-          "set_char_anim": "idle"
+          "set_char_anim": "surprise"
         },
         {
           "hide_char_id": "anis",
@@ -4262,14 +4210,11 @@
           "set_char_anim": "idle"
         },
         {
-          "hide_char_id": "neon",
-          "set_char_position": "3",
+          "hide_char_id": "rapi",
+          "set_char_position": "1",
           "set_char_anim": "idle"
         },
-        {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
-        },
+        {},
         {},
         {},
         {},
@@ -4283,7 +4228,8 @@
       "effects": [
         {},
         {}
-      ]
+      ],
+      "fade": "black"
     },
     {
       "id": "d_nikke_rumani_01_121",
@@ -4292,13 +4238,15 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_121",
+      "play_lipSync": true,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
-          "set_char_anim": "surprise"
+          "show_char_id": "rumani",
+          "set_char_position": "3",
+          "set_char_anim": "idle"
         },
         {},
         {},
@@ -4307,8 +4255,8 @@
         {},
         {}
       ],
-      "set_start_camera": "13",
-      "set_end_camera": "13",
+      "set_start_camera": "3",
+      "set_end_camera": "3",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4322,13 +4270,14 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_122",
+      "play_lipSync": true,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -4337,9 +4286,9 @@
         {},
         {}
       ],
-      "set_start_camera": "13",
-      "set_end_camera": "130",
-      "set_camera_duration": 3.0,
+      "set_start_camera": "3",
+      "set_end_camera": "30",
+      "set_camera_duration": 1.0,
       "effects": [
         {},
         {}
@@ -4352,13 +4301,14 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_123",
+      "play_lipSync": true,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -4367,8 +4317,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4379,16 +4329,16 @@
       "id": "d_nikke_rumani_01_124",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Self",
-      "highlight": "rumani",
       "speaker": "Self",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_124",
+      "play_lipSync": false,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -4397,8 +4347,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4418,8 +4368,8 @@
         {},
         {},
         {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -4428,9 +4378,9 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "1300",
-      "set_camera_duration": 3.0,
+      "set_start_camera": "30",
+      "set_end_camera": "30",
+      "set_camera_duration": 1.0,
       "effects": [
         {},
         {}
@@ -4443,12 +4393,13 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_126",
+      "play_lipSync": true,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "surprise"
         },
         {},
@@ -4458,8 +4409,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1300",
-      "set_end_camera": "1300",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4470,15 +4421,15 @@
       "id": "d_nikke_rumani_01_127",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Self",
-      "highlight": "rumani",
       "speaker": "Self",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_127",
+      "play_lipSync": false,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "surprise"
         },
         {},
@@ -4488,8 +4439,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1300",
-      "set_end_camera": "1300",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4500,15 +4451,15 @@
       "id": "d_nikke_rumani_01_128",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Self",
-      "highlight": "rumani",
       "speaker": "Self",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_128",
+      "play_lipSync": false,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "surprise"
         },
         {},
@@ -4518,8 +4469,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1300",
-      "set_end_camera": "1300",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4530,15 +4481,15 @@
       "id": "d_nikke_rumani_01_129",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Self",
-      "highlight": "rumani",
       "speaker": "Self",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_129",
+      "play_lipSync": false,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "surprise"
         },
         {},
@@ -4548,8 +4499,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1300",
-      "set_end_camera": "1300",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4563,13 +4514,14 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_130",
+      "play_lipSync": true,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -4578,8 +4530,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1300",
-      "set_end_camera": "1300",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4590,16 +4542,16 @@
       "id": "d_nikke_rumani_01_131",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Self",
-      "highlight": "rumani",
       "speaker": "Self",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_131",
+      "play_lipSync": false,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -4608,8 +4560,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1300",
-      "set_end_camera": "1300",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4623,13 +4575,14 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_132",
+      "play_lipSync": true,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -4638,8 +4591,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1300",
-      "set_end_camera": "1300",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4650,16 +4603,16 @@
       "id": "d_nikke_rumani_01_133",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Self",
-      "highlight": "rumani",
       "speaker": "Self",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_133",
+      "play_lipSync": false,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -4668,8 +4621,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1300",
-      "set_end_camera": "1300",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4689,8 +4642,8 @@
         {},
         {},
         {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -4699,9 +4652,9 @@
         {},
         {}
       ],
-      "set_start_camera": "1300",
-      "set_end_camera": "130",
-      "set_camera_duration": 3.0,
+      "set_start_camera": "30",
+      "set_end_camera": "3",
+      "set_camera_duration": 1.0,
       "effects": [
         {},
         {}
@@ -4714,13 +4667,14 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_135",
+      "play_lipSync": true,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "surprise"
         },
         {},
         {},
@@ -4729,8 +4683,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "3",
+      "set_end_camera": "3",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4744,13 +4698,14 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_136",
+      "play_lipSync": true,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -4759,8 +4714,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "130",
+      "set_start_camera": "3",
+      "set_end_camera": "3",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4774,13 +4729,14 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_137",
+      "play_lipSync": true,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -4789,8 +4745,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "1300",
+      "set_start_camera": "3",
+      "set_end_camera": "3",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4801,16 +4757,16 @@
       "id": "d_nikke_rumani_01_138",
       "group_id": "d_nikke_rumani_01",
       "speech_window": "Self",
-      "highlight": "rumani",
       "speaker": "Self",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_138",
+      "play_lipSync": false,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
-          "set_char_anim": "idle"
+          "set_char_position": "3",
+          "set_char_anim": "think"
         },
         {},
         {},
@@ -4819,8 +4775,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1300",
-      "set_end_camera": "130",
+      "set_start_camera": "3",
+      "set_end_camera": "3",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4834,12 +4790,13 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_139",
+      "play_lipSync": true,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {},
@@ -4849,8 +4806,8 @@
         {},
         {}
       ],
-      "set_start_camera": "130",
-      "set_end_camera": "1300",
+      "set_start_camera": "3",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4864,12 +4821,13 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_140",
+      "play_lipSync": true,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {},
@@ -4879,8 +4837,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1300",
-      "set_end_camera": "1300",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},
@@ -4894,12 +4852,13 @@
       "highlight": "rumani",
       "speaker": "rumani",
       "scenario_localkey": "Locale_NikkeEpisode:d_nikke_rumani_01_141",
+      "play_lipSync": true,
       "characters": [
         {},
         {},
         {},
         {
-          "set_char_position": "13",
+          "set_char_position": "3",
           "set_char_anim": "idle"
         },
         {},
@@ -4909,8 +4868,8 @@
         {},
         {}
       ],
-      "set_start_camera": "1300",
-      "set_end_camera": "1300",
+      "set_start_camera": "30",
+      "set_end_camera": "30",
       "set_camera_duration": 1.0,
       "effects": [
         {},

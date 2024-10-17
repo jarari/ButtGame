@@ -893,6 +893,24 @@
       "stage_group": 1059201
     },
     {
+      "id": 10601,
+      "group": 1060,
+      "order": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 1060101
+    },
+    {
+      "id": 10602,
+      "group": 1060,
+      "order": 2,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_HARD",
+      "open_condition_type": "EventDay",
+      "open_condition_value": 7,
+      "stage_group": 1060201
+    },
+    {
       "id": 20021,
       "group": 2002,
       "order": 1,
@@ -1170,6 +1188,15 @@
       "open_condition_type": "None",
       "open_condition_value": 0,
       "stage_group": 2059101
+    },
+    {
+      "id": 20601,
+      "group": 2060,
+      "order": 1,
+      "name": "Locale_Stage:STORY_EVENT_DUNGEON_DIFFICULT_NORMAL",
+      "open_condition_type": "None",
+      "open_condition_value": 0,
+      "stage_group": 2060101
     }
   ]
 }

@@ -3342,6 +3342,45 @@
         {},
         {}
       ]
+    },
+    {
+      "id": 20601,
+      "user_title_id": 206,
+      "order": 1,
+      "info_type": "Contents",
+      "contents_desc_locale_key": "Locale_System:USERTITLE_CONTENTS_DESC_LIFEAGAIN",
+      "acquire_condition_list": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 300401,
+      "user_title_id": 3004,
+      "order": 1,
+      "info_type": "Mission",
+      "acquire_condition_list": [
+        {
+          "condition_type": "UserTitle_MaxViewNikkeAttractiveStory",
+          "condition_point_value": 3004,
+          "condition_desc_locale_key": "Locale_System:USERTITLE_CONDITION_MAXVIEWNIKKEATTRACTIVESTORY_3004"
+        },
+        {
+          "condition_type": "UserTitle_MaxAttractive",
+          "condition_point_value": 3004,
+          "condition_desc_locale_key": "Locale_System:USERTITLE_CONDITION_MAXATTRACTIVE_3004"
+        },
+        {
+          "condition_type": "UserTitle_4Overload",
+          "condition_point_value": 3004,
+          "condition_desc_locale_key": "Locale_System:USERTITLE_CONDITION_4OVERLOAD_3004"
+        },
+        {},
+        {}
+      ]
     }
   ]
 }

@@ -765,6 +765,20 @@
       "ui_prefab": "phantomthiefvsdetective"
     },
     {
+      "id": 10060,
+      "event_id": 40060,
+      "prologue_scenario": "event_lifeagain_prologue",
+      "auto_charge_id": 10060,
+      "event_item_type": "Item",
+      "event_item_id": 7060060,
+      "dungeon_id": 60,
+      "album_category_group": 1060,
+      "mission_group": 60,
+      "contents_shop_id": 9006001,
+      "dice_id": 0,
+      "ui_prefab": "lifeagain"
+    },
+    {
       "id": 40001,
       "event_id": 60001,
       "auto_charge_id": 40001,
@@ -1179,6 +1193,19 @@
       "contents_shop_id": 0,
       "dice_id": 0,
       "challenge_monster_resource": "full_bbg001"
+    },
+    {
+      "id": 40060,
+      "event_id": 60060,
+      "auto_charge_id": 40060,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1060,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_mba002"
     }
   ]
 }
