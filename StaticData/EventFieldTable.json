@@ -402,6 +402,38 @@
           "event_field_currency_type": "None"
         }
       ]
+    },
+    {
+      "id": 10016,
+      "event_id": 81600,
+      "field_design_map": "febg_mirrordimension_001",
+      "field_art_map_standard": "febg_mirrordimension_001_01",
+      "field_hud": "hud_event_field_oldtales_01",
+      "field_first_entry_resource": "event_enter_oldtales",
+      "link_event_pass_id": 1000020,
+      "progress_event_group_id": 1016,
+      "is_use_roaming_npc": false,
+      "roaming_npc_limit": 0,
+      "roaming_npc_type": "UserCharacter",
+      "roaming_npc_speed_minimum": 100,
+      "roaming_npc_speed_maximum": 250,
+      "player_squad_type": "FixedSquad",
+      "player_squad_value": 101611,
+      "player_squad_speed": 100,
+      "sd_character_size": 100,
+      "event_mission_group": 61,
+      "recollection_hub_group_id": 10016,
+      "field_enter_scenario": "event_oldtales1_prologue",
+      "field_enter_scenario_story_event_id": 40061,
+      "event_field_currency_list": [
+        {
+          "event_field_currency_type": "Material",
+          "event_field_currency_id": 7060061
+        },
+        {
+          "event_field_currency_type": "None"
+        }
+      ]
     }
   ]
 }

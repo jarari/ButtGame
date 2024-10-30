@@ -120,6 +120,26 @@
       "assistsquad_movetype": "Ground_Electric",
       "assistsquad_controltype": "None",
       "assistsquad_speed_ratio": 100
+    },
+    {
+      "id": 1110,
+      "assistsquad_type": "ConvertGround",
+      "assistsquad_distance": 100,
+      "assistsquad_membercount": 1,
+      "assistsquad_prefab": "as_robot_convert_ground_001_var",
+      "assistsquad_movetype": "Ground",
+      "assistsquad_controltype": "None",
+      "assistsquad_speed_ratio": 100
+    },
+    {
+      "id": 1204,
+      "assistsquad_type": "ConvertFly",
+      "assistsquad_distance": 100,
+      "assistsquad_membercount": 1,
+      "assistsquad_prefab": "as_robot_convert_fly_001_var",
+      "assistsquad_movetype": "Fly",
+      "assistsquad_controltype": "None",
+      "assistsquad_speed_ratio": 100
     }
   ]
 }

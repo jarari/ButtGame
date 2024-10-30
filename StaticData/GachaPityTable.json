@@ -1,0 +1,20 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 101,
+      "gacha_type_id": 1,
+      "pity_amount": 6,
+      "need_gacha_count": 100,
+      "pity_character_group": 101,
+      "reward_amount": 1,
+      "start_date": "2024-10-30 16:00:00",
+      "end_date": "2025-12-31 14:59:59",
+      "name_localkey": "Locale_System:SUMMON_PITY_NORMAL_SEASON_01_NAME",
+      "description_localkey": "Locale_System:SUMMON_PITY_NORMAL_SEASON_01_DESC",
+      "helptip_group_id": 1108001,
+      "ui_banner_prefab": "base_gacha_type_pity_01",
+      "ui_popup_prefab": "GachaPity01"
+    }
+  ]
+}

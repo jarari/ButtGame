@@ -2221,6 +2221,847 @@
           "option_target": []
         }
       ]
+    },
+    {
+      "id": 301,
+      "group_id": 401,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_LEVELOVERFIX",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_LEVELOVERFIX_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_LEVELOVERFIX",
+      "option_overclock_level": 1,
+      "fix_option": true,
+      "option_data": [
+        {
+          "option_function": "LevelOverFix",
+          "option_target": [],
+          "option_value": 400
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "group_id": 402,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ATTACK_UP_1",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ATTACK_UP_1_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_ATTACK_UP_1",
+      "option_overclock_level": 1,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999287
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "group_id": 402,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ATTACK_UP_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ATTACK_UP_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_ATTACK_UP_2",
+      "option_overclock_level": 2,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999288
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 304,
+      "group_id": 402,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ATTACK_UP_3",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ATTACK_UP_3_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_ATTACK_UP_3",
+      "option_overclock_level": 3,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999289
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "group_id": 403,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_DEF_UP_1",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_DEF_UP_1_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_DEF_UP_1",
+      "option_overclock_level": 1,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999292
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 306,
+      "group_id": 403,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_DEF_UP_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_DEF_UP_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_DEF_UP_2",
+      "option_overclock_level": 2,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999293
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 307,
+      "group_id": 403,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_DEF_UP_3",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_DEF_UP_3_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_DEF_UP_3",
+      "option_overclock_level": 3,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999294
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 308,
+      "group_id": 404,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_HP_UP_1",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_HP_UP_1_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_HP_UP_1",
+      "option_overclock_level": 1,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999297
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 309,
+      "group_id": 404,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_HP_UP_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_HP_UP_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_HP_UP_2",
+      "option_overclock_level": 2,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999298
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "group_id": 404,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_HP_UP_3",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_HP_UP_3_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_HP_UP_3",
+      "option_overclock_level": 3,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999299
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 311,
+      "group_id": 405,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_RECYCLE_ROOM_DISABLE",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_RECYCLE_ROOM_DISABLE_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_RECYCLE_ROOM_DISABLE",
+      "option_overclock_level": 2,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "RecycleRoomDisable",
+          "option_target": []
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 312,
+      "group_id": 406,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_HARD_BATTLE_ONLY",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_HARD_BATTLE_ONLY_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_HARD_BATTLE_ONLY",
+      "option_overclock_level": 5,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "LocationStartChange",
+          "option_target": [],
+          "option_value": 1000
+        },
+        {
+          "option_function": "LocationRandomChange",
+          "option_target": [],
+          "option_value": 302013
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 313,
+      "group_id": 407,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_CAMPAIGN_BATTLE_TIME_DECREASE_1",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_CAMPAIGN_BATTLE_TIME_DECREASE_1_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_CAMPAIGN_BATTLE_TIME_DECREASE_1",
+      "option_overclock_level": 1,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "CampaignTimeDecrease",
+          "option_target": [],
+          "option_value": 1000
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 314,
+      "group_id": 407,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_CAMPAIGN_BATTLE_TIME_DECREASE_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_CAMPAIGN_BATTLE_TIME_DECREASE_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_CAMPAIGN_BATTLE_TIME_DECREASE_2",
+      "option_overclock_level": 2,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "CampaignTimeDecrease",
+          "option_target": [],
+          "option_value": 2000
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 315,
+      "group_id": 407,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_CAMPAIGN_BATTLE_TIME_DECREASE_3",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_CAMPAIGN_BATTLE_TIME_DECREASE_3_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_CAMPAIGN_BATTLE_TIME_DECREASE_3",
+      "option_overclock_level": 3,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "CampaignTimeDecrease",
+          "option_target": [],
+          "option_value": 3000
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 316,
+      "group_id": 408,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ELYSION1_MISSILIS1",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ELYSION1_MISSILIS1_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_ELYSION1_MISSILIS1",
+      "option_overclock_level": 2,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "NikkeNeeds",
+          "option_target": [
+            "ELYSION"
+          ],
+          "option_value": 1
+        },
+        {
+          "option_function": "NikkeNeeds",
+          "option_target": [
+            "MISSILIS"
+          ],
+          "option_value": 1
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 317,
+      "group_id": 408,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ELYSION1_MISSILIS1_TETRA1",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ELYSION1_MISSILIS1_TETRA1_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_ELYSION1_MISSILIS1_TETRA1",
+      "option_overclock_level": 3,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "NikkeNeeds",
+          "option_target": [
+            "ELYSION"
+          ],
+          "option_value": 1
+        },
+        {
+          "option_function": "NikkeNeeds",
+          "option_target": [
+            "MISSILIS"
+          ],
+          "option_value": 1
+        },
+        {
+          "option_function": "NikkeNeeds",
+          "option_target": [
+            "TETRA"
+          ],
+          "option_value": 1
+        }
+      ]
+    },
+    {
+      "id": 318,
+      "group_id": 408,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ELYSION1_MISSILIS1_TETRA2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_ELYSION1_MISSILIS1_TETRA2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_ELYSION1_MISSILIS1_TETRA2",
+      "option_overclock_level": 4,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "NikkeNeeds",
+          "option_target": [
+            "ELYSION"
+          ],
+          "option_value": 1
+        },
+        {
+          "option_function": "NikkeNeeds",
+          "option_target": [
+            "MISSILIS"
+          ],
+          "option_value": 1
+        },
+        {
+          "option_function": "NikkeNeeds",
+          "option_target": [
+            "TETRA"
+          ],
+          "option_value": 2
+        }
+      ]
+    },
+    {
+      "id": 319,
+      "group_id": 409,
+      "option_change_order": 1,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_NIKKENEEDS_SMG_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_NIKKENEEDS_SMG_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_NIKKENEEDS_SMG_2",
+      "option_overclock_level": 4,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "NikkeNeeds",
+          "option_target": [
+            "SMG"
+          ],
+          "option_value": 2
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 320,
+      "group_id": 409,
+      "option_change_order": 3,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_NIKKENEEDS_AR_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_NIKKENEEDS_AR_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_NIKKENEEDS_AR_2",
+      "option_overclock_level": 4,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "NikkeNeeds",
+          "option_target": [
+            "AR"
+          ],
+          "option_value": 2
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 321,
+      "group_id": 409,
+      "option_change_order": 4,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_NIKKENEEDS_MG_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_NIKKENEEDS_MG_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_NIKKENEEDS_MG_2",
+      "option_overclock_level": 4,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "NikkeNeeds",
+          "option_target": [
+            "MG"
+          ],
+          "option_value": 2
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 322,
+      "group_id": 409,
+      "option_change_order": 2,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_NIKKENEEDS_SG_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_NIKKENEEDS_SG_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_NIKKENEEDS_SG_2",
+      "option_overclock_level": 4,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "NikkeNeeds",
+          "option_target": [
+            "SG"
+          ],
+          "option_value": 2
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 323,
+      "group_id": 409,
+      "option_change_order": 5,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_NIKKENEEDS_RL_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_NIKKENEEDS_RL_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_NIKKENEEDS_RL_2",
+      "option_overclock_level": 4,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "NikkeNeeds",
+          "option_target": [
+            "RL"
+          ],
+          "option_value": 2
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 324,
+      "group_id": 409,
+      "option_change_order": 6,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_NIKKENEEDS_SR_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_NIKKENEEDS_SR_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_NIKKENEEDS_SR_2",
+      "option_overclock_level": 4,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "NikkeNeeds",
+          "option_target": [
+            "SR"
+          ],
+          "option_value": 2
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 325,
+      "group_id": 410,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_IMMUNE_PROVOCATION",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_IMMUNE_PROVOCATION_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_IMMUNE_PROVOCATION",
+      "option_overclock_level": 2,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999771
+        },
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Nikke"
+          ],
+          "option_value": 1999773
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 326,
+      "group_id": 410,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_IMMUNE_PROVOCATION_BARRIER",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_IMMUNE_PROVOCATION_BARRIER_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_IMMUNE_PROVOCATION_BARRIER",
+      "option_overclock_level": 4,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Monster"
+          ],
+          "option_value": 1999772
+        },
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Nikke"
+          ],
+          "option_value": 1999774
+        },
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Nikke"
+          ],
+          "option_value": 1999775
+        }
+      ]
+    },
+    {
+      "id": 327,
+      "group_id": 411,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_FIX_PSID",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_FIX_PSID_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_FIX_PSID",
+      "option_overclock_level": 1,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "BattleEventGroupChange",
+          "option_target": [],
+          "option_value": 104
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 328,
+      "group_id": 411,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_FIX_PSID_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_FIX_PSID_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_FIX_PSID_2",
+      "option_overclock_level": 4,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "BattleEventGroupChange",
+          "option_target": [],
+          "option_value": 104
+        },
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Target"
+          ],
+          "option_value": 1999371
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 329,
+      "group_id": 412,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_HORSELEAP_1",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_HORSELEAP_1_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_APPEAR_HORSELEAP_1",
+      "option_overclock_level": 2,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Stage"
+          ],
+          "option_value": 1999760
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 330,
+      "group_id": 412,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_HORSELEAP_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_HORSELEAP_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_APPEAR_HORSELEAP_2",
+      "option_overclock_level": 3,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Stage"
+          ],
+          "option_value": 1999761
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 331,
+      "group_id": 413,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_SHILED_1",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_SHILED_1_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_APPEAR_SHILED_1",
+      "option_overclock_level": 2,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Stage"
+          ],
+          "option_value": 1999762
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 332,
+      "group_id": 413,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_SHILED_2",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_SHILED_2_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_APPEAR_SHILED_2",
+      "option_overclock_level": 3,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Stage"
+          ],
+          "option_value": 1999763
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 333,
+      "group_id": 414,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_GATEKEEPER_ICE_ATTACK",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_APPEAR_GATEKEEPER_ICE_ATTACK_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_APPEAR_GATEKEEPER_ICE_ATTACK",
+      "option_overclock_level": 3,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "Function",
+          "option_target": [
+            "Stage"
+          ],
+          "option_value": 1999764
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
+    },
+    {
+      "id": 334,
+      "group_id": 415,
+      "option_name_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_SPECIALSTAGE",
+      "option_desc_localkey": "Locale_System:SIMULATIONROOM_OC_OPTION_SPECIALSTAGE_DESC",
+      "option_icon": "ICON_SIMULATIONROOM_OC_OPTION_SPECIALSTAGE",
+      "option_overclock_level": 5,
+      "fix_option": false,
+      "option_data": [
+        {
+          "option_function": "LocationJustBeforeEndChange",
+          "option_target": [],
+          "option_value": 1000000
+        },
+        {
+          "option_target": []
+        },
+        {
+          "option_target": []
+        }
+      ]
     }
   ]
 }

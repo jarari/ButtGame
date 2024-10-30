@@ -86,6 +86,20 @@
       "category_type_3": "None"
     },
     {
+      "id": 121005,
+      "resource_id": 162,
+      "mon_prefab": "bma005",
+      "class": "Supporter",
+      "grade": "Minion",
+      "size": "Small",
+      "dissolve_type": "Small",
+      "attribute": "Bio",
+      "move_type": "Fly",
+      "category_type_1": "Air_Supporter",
+      "category_type_2": "None",
+      "category_type_3": "None"
+    },
+    {
       "id": 122001,
       "resource_id": 16,
       "mon_prefab": "bmg001",
@@ -1362,12 +1376,12 @@
     {
       "id": 251053,
       "resource_id": 150,
-      "mon_prefab": "eba003_zeus_over",
+      "mon_prefab": "eba003_over",
       "class": "Attacker",
       "grade": "Centurion",
       "size": "Huge",
       "dissolve_type": "Huge",
-      "attribute": "Metal",
+      "attribute": "None",
       "move_type": "Fly",
       "category_type_1": "Air_Attacker",
       "category_type_2": "None",
@@ -1629,6 +1643,20 @@
       "id": 322008,
       "resource_id": 120,
       "mon_prefab": "mmg008",
+      "class": "Attacker",
+      "grade": "Minion",
+      "size": "Small",
+      "dissolve_type": "Small",
+      "attribute": "Metal",
+      "move_type": "Walk",
+      "category_type_1": "Attacker",
+      "category_type_2": "None",
+      "category_type_3": "None"
+    },
+    {
+      "id": 322009,
+      "resource_id": 161,
+      "mon_prefab": "mmg009",
       "class": "Attacker",
       "grade": "Minion",
       "size": "Small",
@@ -1976,6 +2004,20 @@
       "category_type_3": "None"
     },
     {
+      "id": 342007,
+      "resource_id": 165,
+      "mon_prefab": "mcg007",
+      "class": "Attacker",
+      "grade": "Centurion",
+      "size": "Big",
+      "dissolve_type": "Big",
+      "attribute": "Metal",
+      "move_type": "Walk",
+      "category_type_1": "Attacker",
+      "category_type_2": "None",
+      "category_type_3": "None"
+    },
+    {
       "id": 352001,
       "resource_id": 39,
       "mon_prefab": "mbg001",
@@ -2070,6 +2112,20 @@
       "attribute": "Metal",
       "move_type": "Fly",
       "category_type_1": "Air_Attacker",
+      "category_type_2": "None",
+      "category_type_3": "None"
+    },
+    {
+      "id": 351003,
+      "resource_id": 163,
+      "mon_prefab": "mbg003_psid",
+      "class": "Defender",
+      "grade": "Boss",
+      "size": "Huge",
+      "dissolve_type": "Huge",
+      "attribute": "Metal",
+      "move_type": "Walk",
+      "category_type_1": "Defender",
       "category_type_2": "None",
       "category_type_3": "None"
     },

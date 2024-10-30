@@ -853,7 +853,7 @@
       "condition_type": "MiniGameDDPerUnderwaterEncounter",
       "condition_id": 1,
       "condition_value": 10,
-      "name_localkey": "Locale_DaveSystem:YX001_BPTASK/SINGLEFISHING_NUM",
+      "name_localkey": "Locale_Trigger:YX001_BPTASK/SINGLEFISHING_NUM",
       "reward_id": 4011011
     },
     {
@@ -862,7 +862,7 @@
       "condition_type": "MiniGameDDSushiPreTurnover",
       "condition_id": 0,
       "condition_value": 200,
-      "name_localkey": "Locale_DaveSystem:YX001_BPTASK/TURNOVER",
+      "name_localkey": "Locale_Trigger:YX001_BPTASK/TURNOVER",
       "reward_id": 4011011
     },
     {
@@ -871,7 +871,7 @@
       "condition_type": "MiniGameDDSushiLevel",
       "condition_id": 0,
       "condition_value": 1,
-      "name_localkey": "Locale_DaveSystem:YX001_BPTASK/CUISINEUP",
+      "name_localkey": "Locale_Trigger:YX001_BPTASK/CUISINEUP",
       "reward_id": 4011011
     },
     {
@@ -880,7 +880,7 @@
       "condition_type": "MiniGameDDPerUnderwaterEncounter",
       "condition_id": 2,
       "condition_value": 1,
-      "name_localkey": "Locale_DaveSystem:YX001_BPTASK/PLANTGET_NUM",
+      "name_localkey": "Locale_Trigger:YX001_BPTASK/PLANTGET_NUM",
       "reward_id": 4011011
     },
     {
@@ -889,7 +889,7 @@
       "condition_type": "MiniGameDDPerUnderwaterEncounter",
       "condition_id": 3,
       "condition_value": 1,
-      "name_localkey": "Locale_DaveSystem:YX001_BPTASK/SEASONGET_NUM",
+      "name_localkey": "Locale_Trigger:YX001_BPTASK/SEASONGET_NUM",
       "reward_id": 4011011
     },
     {
@@ -1134,6 +1134,60 @@
       "condition_value": 1,
       "name_localkey": "Locale_Trigger:trigger_desc_GachaCharacter",
       "reward_id": 4011015
+    },
+    {
+      "id": 2001701,
+      "pass_point_id": 11016,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 40061,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDungeonStageClear_02",
+      "reward_id": 4011016
+    },
+    {
+      "id": 2001702,
+      "pass_point_id": 11016,
+      "condition_type": "EventDungeonStageClear",
+      "condition_id": 40062,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventDungeonStageClear_03",
+      "reward_id": 4011016
+    },
+    {
+      "id": 2001703,
+      "pass_point_id": 11016,
+      "condition_type": "ObtainEventCurrencyMaterial",
+      "condition_id": 7060061,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_ObtainEventCurrencyMaterialOT",
+      "reward_id": 4011016
+    },
+    {
+      "id": 2001704,
+      "pass_point_id": 11016,
+      "condition_type": "PointRewardEvent",
+      "condition_id": 6101,
+      "condition_value": 100,
+      "name_localkey": "Locale_Trigger:trigger_desc_PointRewardEventDaily",
+      "reward_id": 4011016
+    },
+    {
+      "id": 2001705,
+      "pass_point_id": 11016,
+      "condition_type": "EventMVGPlayCheck",
+      "condition_id": 81601,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_EventMVGPlayCheck",
+      "reward_id": 4011016
+    },
+    {
+      "id": 2001706,
+      "pass_point_id": 11016,
+      "condition_type": "GachaCharacter",
+      "condition_id": 0,
+      "condition_value": 1,
+      "name_localkey": "Locale_Trigger:trigger_desc_GachaCharacter",
+      "reward_id": 4011016
     },
     {
       "id": 3000101,

@@ -308,6 +308,24 @@
       "bgm_loop": "ambient_chapter_32"
     },
     {
+      "id": 1000034,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "33",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_chapter_28"
+    },
+    {
+      "id": 1000035,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "34",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_chapter_32"
+    },
+    {
       "id": 1001001,
       "bgm_type": "ambient",
       "bgm_sub_type": "lost_sector",
@@ -6458,7 +6476,7 @@
       "type_value": "6024039",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_1"
     },
     {
       "id": 2024019,
@@ -6467,7 +6485,7 @@
       "type_value": "6024040",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_2"
     },
     {
       "id": 2024020,
@@ -6476,7 +6494,7 @@
       "type_value": "6024041",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_1"
     },
     {
       "id": 2024021,
@@ -6485,7 +6503,7 @@
       "type_value": "6024042",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_2"
     },
     {
       "id": 2024022,
@@ -6494,7 +6512,7 @@
       "type_value": "6024043",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_1"
     },
     {
       "id": 2024023,
@@ -6503,7 +6521,7 @@
       "type_value": "6024044",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_2"
     },
     {
       "id": 2024024,
@@ -6512,7 +6530,7 @@
       "type_value": "6024045",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_1"
     },
     {
       "id": 2024025,
@@ -6521,7 +6539,7 @@
       "type_value": "6024046",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_1"
     },
     {
       "id": 2024026,
@@ -6530,7 +6548,7 @@
       "type_value": "6024047",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_2"
     },
     {
       "id": 2024027,
@@ -6539,7 +6557,7 @@
       "type_value": "6024048",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_1"
     },
     {
       "id": 2024028,
@@ -6548,7 +6566,7 @@
       "type_value": "6024049",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_2"
     },
     {
       "id": 2024029,
@@ -8735,6 +8753,512 @@
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
       "bgm_loop": "bgm_spot_counterattack"
+    },
+    {
+      "id": 2033001,
+      "bgm_type": "chapter_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "33",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "bgm_chapter33_field_blackwave_a"
+    },
+    {
+      "id": 2033002,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "0",
+      "default": true,
+      "bgm_trigger_event_value": 33,
+      "bgm_loop": "bgm_chapter33_spot_outbreak_a"
+    },
+    {
+      "id": 2033003,
+      "bgm_type": "chapter_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "33",
+      "default": false,
+      "bgm_trigger_event_type": "stage_clear",
+      "bgm_trigger_event_value": 6033021,
+      "bgm_loop": "bgm_chapter33_field_blackwave_b"
+    },
+    {
+      "id": 2033004,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033021",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033005,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033022",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033006,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033023",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033007,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033024",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033008,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033025",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033009,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033026",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033010,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033027",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033011,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033028",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033012,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033029",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033013,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033030",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033014,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033031",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033015,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033032",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033016,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033033",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033017,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033034",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033018,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033035",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033019,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033036",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033020,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033037",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033021,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033038",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033022,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033039",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033023,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033040",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033024,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033041",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033025,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033042",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033026,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033043",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2033027,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6033044",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_boss_bba001"
+    },
+    {
+      "id": 2034001,
+      "bgm_type": "chapter_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "34",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "bgm_chapter34_field_clash_a"
+    },
+    {
+      "id": 2034002,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "0",
+      "default": true,
+      "bgm_trigger_event_value": 34,
+      "bgm_loop": "bgm_chapter34_spot_readytogo_a"
+    },
+    {
+      "id": 2034003,
+      "bgm_type": "chapter_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "34",
+      "default": false,
+      "bgm_trigger_event_type": "stage_clear",
+      "bgm_trigger_event_value": 6034025,
+      "bgm_loop": "bgm_chapter34_field_clash_b"
+    },
+    {
+      "id": 2034004,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034025",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034005,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034026",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034006,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034027",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034007,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034028",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034008,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034029",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034009,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034030",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034010,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034031",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034011,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034032",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034012,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034033",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034013,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034034",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034014,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034035",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034015,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034036",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034016,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034037",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034017,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034038",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034018,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034039",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034019,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034040",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034020,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034041",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034021,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034042",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034022,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034043",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034023,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034044",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034024,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034045",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2034025,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034046",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_boss_mbg003_phase1"
+    },
+    {
+      "id": 2034026,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034046",
+      "default": false,
+      "bgm_trigger_event_type": "Change Phase_2",
+      "bgm_loop": "bgm_boss_mbg003_phase2"
+    },
+    {
+      "id": 2034027,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034047",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter54_spot_darkmatter_b"
+    },
+    {
+      "id": 2034028,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034048",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_boss_xbg001_phase1"
+    },
+    {
+      "id": 2034029,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "6034048",
+      "default": false,
+      "bgm_trigger_event_type": "Change Phase_2",
+      "bgm_loop": "bgm_boss_xbg001_phase2"
     },
     {
       "id": 2100001,
@@ -12874,7 +13398,7 @@
       "type_value": "7024035",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_1"
     },
     {
       "id": 2124036,
@@ -12883,7 +13407,7 @@
       "type_value": "7024036",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_2"
     },
     {
       "id": 2124037,
@@ -12892,7 +13416,7 @@
       "type_value": "7024037",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_1"
     },
     {
       "id": 2124038,
@@ -12901,7 +13425,7 @@
       "type_value": "7024038",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_2"
     },
     {
       "id": 2124039,
@@ -12910,7 +13434,7 @@
       "type_value": "7024039",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_1"
     },
     {
       "id": 2124040,
@@ -12919,7 +13443,7 @@
       "type_value": "7024040",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_2"
     },
     {
       "id": 2124041,
@@ -12928,7 +13452,7 @@
       "type_value": "7024041",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_1"
     },
     {
       "id": 2124042,
@@ -12937,7 +13461,7 @@
       "type_value": "7024042",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_2"
     },
     {
       "id": 2124043,
@@ -12946,7 +13470,7 @@
       "type_value": "7024043",
       "default": false,
       "bgm_trigger_event_type": "stage_enter",
-      "bgm_loop": "bgm_spot_chaos_b"
+      "bgm_loop": "bgm_lostsector_spot_1"
     },
     {
       "id": 2124044,
@@ -16234,6 +16758,852 @@
       "bgm_loop": "bgm_spot_counterattack"
     },
     {
+      "id": 2133001,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033001",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133002,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033002",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133003,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033003",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133004,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033004",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133005,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033005",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133006,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033006",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133007,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033007",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133008,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033008",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133009,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033009",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133010,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033010",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133011,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033011",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133012,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033012",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133013,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033013",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133014,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033014",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133015,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033015",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133016,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033016",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133017,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033017",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133018,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033018",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133019,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033019",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133020,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033020",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133021,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033021",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133022,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033022",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133023,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033023",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133024,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033024",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133025,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033025",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133026,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033026",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133027,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033027",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133028,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033028",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133029,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033029",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133030,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033030",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133031,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033031",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133032,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033032",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133033,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033033",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133034,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033034",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133035,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033035",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133036,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033036",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133037,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033037",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133038,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033038",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133039,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033039",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133040,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033040",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133041,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033041",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter33_spot_outbreak_b"
+    },
+    {
+      "id": 2133042,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033042",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_counterattack"
+    },
+    {
+      "id": 2133043,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033043",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_counterattack"
+    },
+    {
+      "id": 2133044,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7033044",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_boss_bba001"
+    },
+    {
+      "id": 2134001,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034001",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134002,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034002",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134003,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034003",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134004,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034004",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134005,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034005",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134006,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034006",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134007,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034007",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134008,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034008",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134009,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034009",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134010,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034010",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134011,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034011",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134012,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034012",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134013,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034013",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134014,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034014",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134015,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034015",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134016,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034016",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134017,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034017",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134018,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034018",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134019,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034019",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134020,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034020",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134021,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034021",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134022,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034022",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134023,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034023",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134024,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034024",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134025,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034025",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134026,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034026",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134027,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034027",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134028,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034028",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134029,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034029",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134030,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034030",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134031,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034031",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134032,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034032",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134033,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034033",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134034,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034034",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134035,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034035",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134036,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034036",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134037,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034037",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134038,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034038",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134039,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034039",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134040,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034040",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134041,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034041",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134042,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034042",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134043,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034043",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134044,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034044",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134045,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034045",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_chapter34_spot_readytogo_b"
+    },
+    {
+      "id": 2134046,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034046",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_boss_mbg003_phase1"
+    },
+    {
+      "id": 2134047,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034046",
+      "default": false,
+      "bgm_trigger_event_type": "Change Phase_2",
+      "bgm_loop": "bgm_boss_mbg003_phase2"
+    },
+    {
+      "id": 2134048,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034047",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_spot_counterattack"
+    },
+    {
+      "id": 2134049,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034048",
+      "default": false,
+      "bgm_trigger_event_type": "stage_enter",
+      "bgm_loop": "bgm_boss_xbg001_phase1"
+    },
+    {
+      "id": 2134050,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "campaign_stage",
+      "type_value": "7034048",
+      "default": false,
+      "bgm_trigger_event_type": "Change Phase_2",
+      "bgm_loop": "bgm_boss_xbg001_phase2"
+    },
+    {
       "id": 3001001,
       "bgm_type": "chapter_bgm",
       "bgm_sub_type": "lost_sector",
@@ -17033,6 +18403,24 @@
       "default": false,
       "bgm_trigger_event_type": "Change Phase_2",
       "bgm_loop": "bgm_boss_ebg001_hsta_phase2"
+    },
+    {
+      "id": 7000048,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "raid",
+      "type_value": "mbg003_psid",
+      "default": false,
+      "bgm_trigger_event_type": "target_appear",
+      "bgm_loop": "bgm_boss_mbg003_phase1"
+    },
+    {
+      "id": 7000048,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "raid",
+      "type_value": "mbg003_psid",
+      "default": false,
+      "bgm_trigger_event_type": "Change Phase_2",
+      "bgm_loop": "bgm_boss_mbg003_phase2"
     },
     {
       "id": 8000001,
@@ -19597,6 +20985,294 @@
       "bgm_loop": "event_bgm_ce004_boss"
     },
     {
+      "id": 8100001,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106110101",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100002,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106110102",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100003,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106110103",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100004,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106110104",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100005,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106110105",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_apathwithbrokenheels"
+    },
+    {
+      "id": 8100006,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106110106",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_apathwithbrokenheels"
+    },
+    {
+      "id": 8100007,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106110107",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_apathwithbrokenheels"
+    },
+    {
+      "id": 8100008,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106110108",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_apathwithbrokenheels"
+    },
+    {
+      "id": 8100009,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106110109",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_apathwithbrokenheels"
+    },
+    {
+      "id": 8100010,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106110110",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_apathwithbrokenheels"
+    },
+    {
+      "id": 8100011,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106110111",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_apathwithbrokenheels"
+    },
+    {
+      "id": 8100012,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106110112",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_apathwithbrokenheels"
+    },
+    {
+      "id": 8100013,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106210101",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100014,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106210102",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100015,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106210103",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100016,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106210104",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100017,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106210105",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100018,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106210106",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_apathwithbrokenheels"
+    },
+    {
+      "id": 8100019,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106210107",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100020,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106210108",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100021,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106210109",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100022,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106210110",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100023,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106210111",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100024,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106210112",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_apathwithbrokenheels"
+    },
+    {
+      "id": 8100025,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106220101",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100026,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106220102",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100027,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106220103",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100028,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106220104",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100029,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106220105",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100030,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106220106",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100031,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106220107",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100032,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106220108",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100033,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106220109",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100034,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106220110",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100035,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106220111",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_starseeker"
+    },
+    {
+      "id": 8100036,
+      "bgm_type": "spot_bgm",
+      "bgm_sub_type": "event_stage",
+      "type_value": "106220112",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_apathwithbrokenheels"
+    },
+    {
       "id": 9000001,
       "bgm_type": "outgame_bgm",
       "bgm_sub_type": "jukebox_lobby",
@@ -20214,7 +21890,6 @@
       "id": 9910513,
       "bgm_type": "outgame_bgm",
       "type_value": "60001",
-      "event_id": 80105,
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "event_bgm_2022winter_minigame_main"
@@ -20223,7 +21898,6 @@
       "id": 9910514,
       "bgm_type": "outgame_bgm",
       "type_value": "60003",
-      "event_id": 80105,
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "event_bgm_2022winter_minigame_main"
@@ -20485,7 +22159,6 @@
       "id": 9910713,
       "bgm_type": "outgame_bgm",
       "type_value": "80001",
-      "event_id": 80603,
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "event_bgm_bbq_minigame_title"
@@ -20494,7 +22167,6 @@
       "id": 9910714,
       "bgm_type": "outgame_bgm",
       "type_value": "80002",
-      "event_id": 80603,
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "event_bgm_bbq_minigame_main"
@@ -20503,7 +22175,6 @@
       "id": 9910715,
       "bgm_type": "outgame_bgm",
       "type_value": "80003",
-      "event_id": 80603,
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "event_bgm_bbq_minigame_title"
@@ -21474,6 +23145,50 @@
       "default": true,
       "bgm_trigger_event_value": 0,
       "bgm_loop": "event_bgm_lifeagain"
+    },
+    {
+      "id": 9916001,
+      "bgm_type": "event_field_bgm",
+      "type_value": "10016",
+      "default": true,
+      "bgm_loop": "event_bgm_oldtales_firstpage"
+    },
+    {
+      "id": 9916002,
+      "bgm_type": "ambient",
+      "bgm_sub_type": "event_field",
+      "type_value": "10016",
+      "default": true,
+      "bgm_trigger_event_value": 0,
+      "bgm_loop": "ambient_oldtales"
+    },
+    {
+      "id": 9916003,
+      "bgm_type": "event_field_bgm",
+      "type_value": "101603",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_mirror"
+    },
+    {
+      "id": 9916004,
+      "bgm_type": "event_field_bgm",
+      "type_value": "101605",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_alongwait"
+    },
+    {
+      "id": 9916005,
+      "bgm_type": "event_field_bgm",
+      "type_value": "101607",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_orgel_1"
+    },
+    {
+      "id": 9916006,
+      "bgm_type": "event_field_bgm",
+      "type_value": "101609",
+      "default": false,
+      "bgm_loop": "event_bgm_oldtales_orgel_2"
     }
   ]
 }

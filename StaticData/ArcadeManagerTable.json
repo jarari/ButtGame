@@ -1,0 +1,49 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1001,
+      "time_reference_id_for_activate": 10001,
+      "order": 1,
+      "has_union_ranking": true,
+      "game_button_resource_id": "arcade_game_thumbnail_bbqmaster",
+      "game_image_resource_id": "arcade_game_image_bbqmaster",
+      "game_title_locale": "Locale_System:ARCADE_GAME_TITLE_01",
+      "game_type": "BBQTycoon",
+      "game_manager_id": 1001
+    },
+    {
+      "id": 1002,
+      "time_reference_id_for_activate": 10001,
+      "order": 2,
+      "has_union_ranking": true,
+      "game_button_resource_id": "arcade_game_thumbnail_giftfactory",
+      "game_image_resource_id": "arcade_game_image_giftfactory",
+      "game_title_locale": "Locale_System:ARCADE_GAME_TITLE_02",
+      "game_type": "MiniGameSortOut",
+      "game_manager_id": 101
+    },
+    {
+      "id": 1003,
+      "time_reference_id_for_activate": 10001,
+      "order": 3,
+      "has_union_ranking": true,
+      "game_button_resource_id": "arcade_game_thumbnail_fortheking",
+      "game_image_resource_id": "arcade_game_image_fortheking",
+      "game_title_locale": "Locale_System:ARCADE_GAME_TITLE_03",
+      "game_type": "TowerDefense",
+      "game_manager_id": 1001
+    },
+    {
+      "id": 1004,
+      "time_reference_id_for_activate": 10002,
+      "order": 4,
+      "has_union_ranking": true,
+      "game_button_resource_id": "arcade_game_thumbnail_mog2",
+      "game_image_resource_id": "arcade_game_image_mog2",
+      "game_title_locale": "Locale_System:ARCADE_GAME_TITLE_04",
+      "game_type": "NKSMiniGame",
+      "game_manager_id": 3
+    }
+  ]
+}

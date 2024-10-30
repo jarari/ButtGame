@@ -362,6 +362,26 @@
       "bg_resource_id": "ele_bg_cooperation"
     },
     {
+      "id": 1500101,
+      "shop_type": "MainShop",
+      "shop_category": "ShopTrade",
+      "shop_npc_resource_id": 945,
+      "price_color_normal": "FFFFFF",
+      "currency_info_display_control": true,
+      "open_contents": 0,
+      "name_localkey": "Locale_System:SHOP_TRADE_SHOP_TAB",
+      "description_localkey": "Locale_System:SHOP_NAME_TRADE",
+      "renew_type": "NoRenew",
+      "renew_value": 0,
+      "renew_group_id": 0,
+      "is_renew_time_display": false,
+      "stage_id": 6021050,
+      "bundle_id": 15001,
+      "shop_info_group_id": 15001,
+      "logo_resource_id": "ele_logo_trade",
+      "bg_resource_id": "ele_bg_trade"
+    },
+    {
       "id": 1700101,
       "shop_type": "MainShop",
       "shop_category": "ShopMileage",
@@ -1240,6 +1260,46 @@
       "shop_info_group_id": 0,
       "logo_resource_id": "ele_logo_normal",
       "bg_resource_id": "EVENT_BANNER_LIFEAGAIN"
+    },
+    {
+      "id": 9006101,
+      "shop_type": "EventShop",
+      "shop_category": "ShopStoryEvent",
+      "shop_npc_resource_id": 0,
+      "price_color_normal": "FFFFFF",
+      "currency_info_display_control": true,
+      "open_contents": 0,
+      "name_localkey": "Locale_System:SHOP_EVENT_STORY_61_SHOP_TAB",
+      "description_localkey": "Locale_System:SHOP_NAME_EVENT_STORY",
+      "renew_type": "NoRenew",
+      "renew_value": 0,
+      "renew_group_id": 0,
+      "is_renew_time_display": false,
+      "stage_id": 6001001,
+      "bundle_id": 90061,
+      "shop_info_group_id": 0,
+      "logo_resource_id": "ele_logo_normal",
+      "bg_resource_id": "EVENT_BANNER_OLDTALES"
+    },
+    {
+      "id": 9006301,
+      "shop_type": "EventShop",
+      "shop_category": "ShopStoryEvent",
+      "shop_npc_resource_id": 0,
+      "price_color_normal": "FFFFFF",
+      "currency_info_display_control": true,
+      "open_contents": 0,
+      "name_localkey": "Locale_System:SHOP_EVENT_STORY_63_SHOP_TAB",
+      "description_localkey": "Locale_System:SHOP_NAME_EVENT_STORY",
+      "renew_type": "NoRenew",
+      "renew_value": 0,
+      "renew_group_id": 0,
+      "is_renew_time_display": false,
+      "stage_id": 6001001,
+      "bundle_id": 90063,
+      "shop_info_group_id": 0,
+      "logo_resource_id": "ele_logo_normal",
+      "bg_resource_id": "EVENT_BANNER_SECRETGARDEN"
     }
   ]
 }

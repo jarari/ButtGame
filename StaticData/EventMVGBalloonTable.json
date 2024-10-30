@@ -1,0 +1,404 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "group_id": 1,
+      "balloonType": "Auto",
+      "order": 1,
+      "randomize": true,
+      "balloonShowTime": 300,
+      "waitTimeAfterEndBalloon": 300,
+      "locale_name": "Locale_Event:EventMVG_TestLocale_01",
+      "locale_key": "Locale_Event:EventMVG_TestLocale_02"
+    },
+    {
+      "id": 2,
+      "group_id": 1,
+      "order": 2,
+      "balloonShowTime": 300,
+      "locale_name": "Locale_Event:EventMVG_TestLocale_01",
+      "locale_key": "Locale_Event:EventMVG_TestLocale_02"
+    },
+    {
+      "id": 3,
+      "group_id": 2,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_TestLocale_01",
+      "locale_key": "Locale_Event:EventMVG_TestLocale_02"
+    },
+    {
+      "id": 4,
+      "group_id": 3,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_key": "Locale_Event:EventMVG_TestLocale_02"
+    },
+    {
+      "id": 5,
+      "group_id": 4,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_TestLocale_01",
+      "locale_key": "Locale_Event:EventMVG_TestLocale_02"
+    },
+    {
+      "id": 101,
+      "group_id": 101,
+      "balloonType": "Auto",
+      "order": 1,
+      "randomize": false,
+      "balloonShowTime": 1000,
+      "waitTimeAfterEndBalloon": 300,
+      "locale_name": "Locale_Event:EventMVG_help_tip_popup_title",
+      "locale_key": "Locale_Event:EventMVG_balloon_01"
+    },
+    {
+      "id": 102,
+      "group_id": 102,
+      "balloonType": "Auto",
+      "order": 1,
+      "randomize": false,
+      "balloonShowTime": 1000,
+      "waitTimeAfterEndBalloon": 300,
+      "locale_name": "Locale_Event:EventMVG_help_tip_popup_title",
+      "locale_key": "Locale_Event:EventMVG_balloon_02"
+    },
+    {
+      "id": 103,
+      "group_id": 103,
+      "balloonType": "Auto",
+      "order": 1,
+      "randomize": false,
+      "balloonShowTime": 1000,
+      "waitTimeAfterEndBalloon": 300,
+      "locale_name": "Locale_Event:EventMVG_help_tip_popup_title",
+      "locale_key": "Locale_Event:EventMVG_balloon_03"
+    },
+    {
+      "id": 104,
+      "group_id": 104,
+      "balloonType": "Auto",
+      "order": 1,
+      "randomize": false,
+      "balloonShowTime": 1000,
+      "waitTimeAfterEndBalloon": 300,
+      "locale_name": "Locale_Event:EventMVG_help_tip_popup_title",
+      "locale_key": "Locale_Event:EventMVG_balloon_04"
+    },
+    {
+      "id": 105,
+      "group_id": 105,
+      "balloonType": "Auto",
+      "order": 1,
+      "randomize": false,
+      "balloonShowTime": 1000,
+      "waitTimeAfterEndBalloon": 300,
+      "locale_name": "Locale_Event:EventMVG_help_tip_popup_title",
+      "locale_key": "Locale_Event:EventMVG_balloon_05"
+    },
+    {
+      "id": 201,
+      "group_id": 201,
+      "balloonType": "Auto",
+      "order": 1,
+      "randomize": false,
+      "balloonShowTime": 1000,
+      "waitTimeAfterEndBalloon": 900000,
+      "locale_name": "Locale_Event:EventMVG_help_tip_popup_title",
+      "locale_key": "Locale_Event:EventMVG_balloon_06"
+    },
+    {
+      "id": 10100,
+      "group_id": 10100,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C1_01_01"
+    },
+    {
+      "id": 10101,
+      "group_id": 10101,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C1_01_02"
+    },
+    {
+      "id": 10200,
+      "group_id": 10200,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C1_02_01"
+    },
+    {
+      "id": 10201,
+      "group_id": 10201,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C1_02_02"
+    },
+    {
+      "id": 10300,
+      "group_id": 10300,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C1_03_01"
+    },
+    {
+      "id": 10301,
+      "group_id": 10301,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C1_03_02"
+    },
+    {
+      "id": 10400,
+      "group_id": 10400,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C1_04_01"
+    },
+    {
+      "id": 10401,
+      "group_id": 10401,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C1_04_02"
+    },
+    {
+      "id": 10402,
+      "group_id": 10402,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C1_04_03"
+    },
+    {
+      "id": 20100,
+      "group_id": 20100,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C2_01_01"
+    },
+    {
+      "id": 20101,
+      "group_id": 20101,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C2_01_02"
+    },
+    {
+      "id": 20300,
+      "group_id": 20300,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C2_03_01"
+    },
+    {
+      "id": 20301,
+      "group_id": 20301,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C2_03_02"
+    },
+    {
+      "id": 30101,
+      "group_id": 30101,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C3_01_01"
+    },
+    {
+      "id": 30102,
+      "group_id": 30102,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C3_01_02"
+    },
+    {
+      "id": 30200,
+      "group_id": 30200,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C3_02_01"
+    },
+    {
+      "id": 30201,
+      "group_id": 30201,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C3_02_02"
+    },
+    {
+      "id": 30202,
+      "group_id": 30202,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C3_02_03"
+    },
+    {
+      "id": 50200,
+      "group_id": 50200,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C5_02_01"
+    },
+    {
+      "id": 50201,
+      "group_id": 50201,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C5_02_02"
+    },
+    {
+      "id": 50202,
+      "group_id": 50202,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C5_02_03"
+    },
+    {
+      "id": 50203,
+      "group_id": 50203,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C5_02_04"
+    },
+    {
+      "id": 50204,
+      "group_id": 50204,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C5_02_05"
+    },
+    {
+      "id": 60100,
+      "group_id": 60100,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C6_01_01"
+    },
+    {
+      "id": 60101,
+      "group_id": 60101,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C6_01_02"
+    },
+    {
+      "id": 60102,
+      "group_id": 60102,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C6_01_03"
+    },
+    {
+      "id": 60103,
+      "group_id": 60103,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C6_01_04"
+    },
+    {
+      "id": 70100,
+      "group_id": 70100,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C7_01_01"
+    },
+    {
+      "id": 70101,
+      "group_id": 70101,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C7_01_02"
+    },
+    {
+      "id": 70200,
+      "group_id": 70200,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C7_02_01"
+    },
+    {
+      "id": 70201,
+      "group_id": 70201,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C7_02_02"
+    },
+    {
+      "id": 70202,
+      "group_id": 70202,
+      "balloonType": "Manual",
+      "order": 1,
+      "randomize": false,
+      "locale_name": "Locale_Event:EventMVG_Dir_S_Name",
+      "locale_key": "Locale_Event:EventMVG_Dir_C7_02_03"
+    }
+  ]
+}

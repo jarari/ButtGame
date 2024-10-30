@@ -1,0 +1,3594 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "group_id": 1,
+      "order": 1,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "BalloonID"
+        },
+        {
+          "timelineValue": "SocketID"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라에 말풍선을 띄운다"
+        },
+        {
+          "desc": "저건…"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "group_id": 1,
+      "order": 2,
+      "timelineAction": "CamPointMove",
+      "timelineValue": [
+        {
+          "timelineValue": "CamPointID"
+        },
+        {
+          "timelineValue": "BlendTime"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라를 이동시킨다"
+        },
+        {
+          "desc": "카메라가 열쇠 아이템 위치로 이동"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "group_id": 1,
+      "order": 2,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "Float"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라 줌을 뺀다"
+        },
+        {
+          "desc": "열쇠 아이템 주변의 몬스터 표시"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "group_id": 1,
+      "order": 2,
+      "timelineAction": "Wait",
+      "timelineValue": [
+        {
+          "timelineValue": "Float"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "다음 Order로 넘길 시간을 설정한다"
+        },
+        {
+          "desc": "3초"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "group_id": 1,
+      "order": 3,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "BalloonID"
+        },
+        {
+          "timelineValue": "SocketID"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라에 말풍선을 띄운다"
+        },
+        {
+          "desc": "열쇠 주변으로 랩처들이 있어…"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "group_id": 1,
+      "order": 3,
+      "timelineAction": "CamShake",
+      "timelineValue": [
+        {
+          "timelineValue": "Float"
+        },
+        {
+          "timelineValue": "ShakeTime"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라에 흔들림"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 7,
+      "group_id": 1,
+      "order": 4,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "BalloonID"
+        },
+        {
+          "timelineValue": "SocketID"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라에 말풍선을 띄운다"
+        },
+        {
+          "desc": "여기가 붕괴되기 전에 빨리 열쇠를 찾아야해…!"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "group_id": 1,
+      "order": 5,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "MaxSpeed"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라를 초기 위치(플레이어 위치)로 되돌린다"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 9,
+      "group_id": 1,
+      "order": 6,
+      "timelineAction": "PlayTimelineAnimation",
+      "timelineValue": [
+        {
+          "timelineValue": "ResourceAddressable"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10,
+      "group_id": 9999,
+      "order": 1,
+      "timelineAction": "Wait",
+      "timelineValue": [
+        {
+          "timelineValue": "3"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "대기 3초"
+        },
+        {
+          "desc": "Wait"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "group_id": 9999,
+      "order": 2,
+      "timelineAction": "FadeIn",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "페이드인 1초"
+        },
+        {
+          "desc": "FadeIn"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "group_id": 9999,
+      "order": 3,
+      "timelineAction": "CamPointMove",
+      "timelineValue": [
+        {
+          "timelineValue": "2001"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "CamPoint_Test_01 카메라 소켓 포인트로 카메라 이동"
+        },
+        {
+          "desc": "CamPointMove"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "group_id": 9999,
+      "order": 4,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "2"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라 줌 조정 ( 줌인, 2 )"
+        },
+        {
+          "desc": "CamZoomAdjust"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "group_id": 9999,
+      "order": 5,
+      "timelineAction": "CamShake",
+      "timelineValue": [
+        {
+          "timelineValue": "5.5"
+        },
+        {
+          "timelineValue": "200"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라 2초간 5.5강도로 쉐이크 적용"
+        },
+        {
+          "desc": "CamShake"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "group_id": 9999,
+      "order": 6,
+      "timelineAction": "PlayTimelineAnimation",
+      "timelineValue": [
+        {
+          "timelineValue": "MVG_timeline_test"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "타임라인 리소스 재생"
+        },
+        {
+          "desc": "PlayTimelineAnimation"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "group_id": 9999,
+      "order": 7,
+      "timelineAction": "PlayBGM",
+      "timelineValue": [
+        {
+          "timelineValue": "BGM"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "음악 재생"
+        },
+        {
+          "desc": "PlayBGM"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "group_id": 9999,
+      "order": 8,
+      "timelineAction": "PlaySE",
+      "timelineValue": [
+        {
+          "timelineValue": "SE"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "효과음 재생"
+        },
+        {
+          "desc": "PlaySE"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "group_id": 9999,
+      "order": 9,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "5"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "수동형 말풍선 출력 ( ID :5, 터치해야 다음으로 )"
+        },
+        {
+          "desc": "BalloonDisplay"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "group_id": 9999,
+      "order": 10,
+      "timelineAction": "ObjectStatusChange",
+      "timelineValue": [
+        {
+          "timelineValue": "World_Level_2"
+        },
+        {
+          "timelineValue": "8001"
+        },
+        {
+          "timelineValue": "anim_OFF"
+        }
+      ],
+      "desc": [
+        {
+          "desc": "오브젝트 상태 변경"
+        },
+        {
+          "desc": "ObjectStatusChange"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "group_id": 9999,
+      "order": 11,
+      "timelineAction": "FadeOut",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "페이드 아웃 1초"
+        },
+        {
+          "desc": "FadeOut"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "group_id": 9999,
+      "order": 12,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라 복귀 1초"
+        },
+        {
+          "desc": "CamPointReturnPlayer"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "group_id": 9999,
+      "order": 13,
+      "timelineAction": "ReturnToOriginalRoom",
+      "timelineValue": [
+        {
+          "timelineValue": "9006"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 23,
+      "group_id": 9999,
+      "order": 14,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {
+          "desc": "EndTableTimeline"
+        }
+      ]
+    },
+    {
+      "id": 10100,
+      "group_id": 10100,
+      "order": 1,
+      "timelineAction": "CamPointMove",
+      "timelineValue": [
+        {
+          "timelineValue": "10100"
+        },
+        {
+          "timelineValue": "0.3"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라 문쪽으로 이동 ( 1초 )"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 10101,
+      "group_id": 10100,
+      "order": 1,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "1.4"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "줌인"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 10102,
+      "group_id": 10100,
+      "order": 2,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "10100"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "이건... 잠겨있군."
+        }
+      ]
+    },
+    {
+      "id": 10103,
+      "group_id": 10100,
+      "order": 3,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "10101"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "일단 주위 랩처들을 처치하면서 정보를 모아보자."
+        }
+      ]
+    },
+    {
+      "id": 10104,
+      "group_id": 10100,
+      "order": 4,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "0.3"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라 복귀"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 10105,
+      "group_id": 10100,
+      "order": 4,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "줌아웃 (1.0)"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 10106,
+      "group_id": 10100,
+      "order": 5,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10200,
+      "group_id": 10200,
+      "order": 1,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "1.2"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "줌인"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 10201,
+      "group_id": 10200,
+      "order": 2,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "10200"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "좋아. 이정도면 충분해."
+        }
+      ]
+    },
+    {
+      "id": 10202,
+      "group_id": 10200,
+      "order": 3,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "10201"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "이 정도 해석 데이터라면 방금 전 막혀있던 문도 열 수 있겠어."
+        }
+      ]
+    },
+    {
+      "id": 10203,
+      "group_id": 10200,
+      "order": 4,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "줌아웃"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 10204,
+      "group_id": 10200,
+      "order": 5,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "0.3"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10205,
+      "group_id": 10200,
+      "order": 5,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10300,
+      "group_id": 10300,
+      "order": 1,
+      "timelineAction": "CamPointMove",
+      "timelineValue": [
+        {
+          "timelineValue": "10200"
+        },
+        {
+          "timelineValue": "0.3"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라 이동 ( 1초 )"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 10301,
+      "group_id": 10300,
+      "order": 2,
+      "timelineAction": "StartBossIntroDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "EventMVG_BossName_01"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10302,
+      "group_id": 10300,
+      "order": 3,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "0.3"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10303,
+      "group_id": 10300,
+      "order": 4,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10310,
+      "group_id": 10310,
+      "order": 1,
+      "timelineAction": "CamPointMove",
+      "timelineValue": [
+        {
+          "timelineValue": "10310"
+        },
+        {
+          "timelineValue": "0.3"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라 이동 ( 1초 )"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 10311,
+      "group_id": 10310,
+      "order": 2,
+      "timelineAction": "StartBossIntroDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "EventMVG_BossName_02"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10312,
+      "group_id": 10310,
+      "order": 3,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "0.3"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10313,
+      "group_id": 10310,
+      "order": 4,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10320,
+      "group_id": 10320,
+      "order": 1,
+      "timelineAction": "CamPointMove",
+      "timelineValue": [
+        {
+          "timelineValue": "10320"
+        },
+        {
+          "timelineValue": "0.3"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라 이동 ( 1초 )"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 10321,
+      "group_id": 10320,
+      "order": 2,
+      "timelineAction": "StartBossIntroDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "EventMVG_BossName_03"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10322,
+      "group_id": 10320,
+      "order": 3,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "0.3"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10323,
+      "group_id": 10320,
+      "order": 4,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10330,
+      "group_id": 10330,
+      "order": 1,
+      "timelineAction": "CamPointMove",
+      "timelineValue": [
+        {
+          "timelineValue": "10330"
+        },
+        {
+          "timelineValue": "0.3"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라 이동 ( 1초 )"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 10331,
+      "group_id": 10330,
+      "order": 2,
+      "timelineAction": "StartBossIntroDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "EventMVG_BossName_04"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10332,
+      "group_id": 10330,
+      "order": 3,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "0.3"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10333,
+      "group_id": 10330,
+      "order": 4,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10340,
+      "group_id": 10340,
+      "order": 1,
+      "timelineAction": "CamPointMove",
+      "timelineValue": [
+        {
+          "timelineValue": "10340"
+        },
+        {
+          "timelineValue": "0.3"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라 이동 ( 1초 )"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 10341,
+      "group_id": 10340,
+      "order": 2,
+      "timelineAction": "StartBossIntroDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "EventMVG_BossName_05"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10342,
+      "group_id": 10340,
+      "order": 3,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "0.3"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10343,
+      "group_id": 10340,
+      "order": 4,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10350,
+      "group_id": 10350,
+      "order": 1,
+      "timelineAction": "CamPointMove",
+      "timelineValue": [
+        {
+          "timelineValue": "10350"
+        },
+        {
+          "timelineValue": "0.3"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라 이동 ( 1초 )"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 10351,
+      "group_id": 10350,
+      "order": 2,
+      "timelineAction": "StartBossIntroDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "EventMVG_BossName_06"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10352,
+      "group_id": 10350,
+      "order": 3,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "0.3"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10353,
+      "group_id": 10350,
+      "order": 4,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10360,
+      "group_id": 10360,
+      "order": 1,
+      "timelineAction": "CamPointMove",
+      "timelineValue": [
+        {
+          "timelineValue": "10360"
+        },
+        {
+          "timelineValue": "0.3"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라 이동 ( 1초 )"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 10361,
+      "group_id": 10360,
+      "order": 2,
+      "timelineAction": "StartBossIntroDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "EventMVG_BossName_07"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10362,
+      "group_id": 10360,
+      "order": 3,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "0.3"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10363,
+      "group_id": 10360,
+      "order": 4,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10370,
+      "group_id": 10370,
+      "order": 1,
+      "timelineAction": "CamPointMove",
+      "timelineValue": [
+        {
+          "timelineValue": "10370"
+        },
+        {
+          "timelineValue": "0.3"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라 이동 ( 1초 )"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 10371,
+      "group_id": 10370,
+      "order": 2,
+      "timelineAction": "StartBossIntroDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "EventMVG_BossName_08"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10372,
+      "group_id": 10370,
+      "order": 3,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "0.3"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10373,
+      "group_id": 10370,
+      "order": 4,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10380,
+      "group_id": 10380,
+      "order": 1,
+      "timelineAction": "CamPointMove",
+      "timelineValue": [
+        {
+          "timelineValue": "10380"
+        },
+        {
+          "timelineValue": "0.3"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라 이동 ( 1초 )"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 10381,
+      "group_id": 10380,
+      "order": 2,
+      "timelineAction": "StartBossIntroDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "EventMVG_BossName_09"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10382,
+      "group_id": 10380,
+      "order": 3,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "0.3"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10383,
+      "group_id": 10380,
+      "order": 4,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10400,
+      "group_id": 10400,
+      "order": 1,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "1.2"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "줌인"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 10401,
+      "group_id": 10400,
+      "order": 2,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "10400"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "특이한 랩처였어. 데이터를 한번 분석해보자."
+        }
+      ]
+    },
+    {
+      "id": 10402,
+      "group_id": 10400,
+      "order": 3,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "10401"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "이건.. 유리구두의 일부 기능을 일부 복구시킬 수 있는 데이터잖아."
+        }
+      ]
+    },
+    {
+      "id": 10403,
+      "group_id": 10400,
+      "order": 4,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "10402"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "거기에 다른 랩처의 신호까지 같이 전송되고 있어..\n좋아. 따라 가 보자."
+        }
+      ]
+    },
+    {
+      "id": 10404,
+      "group_id": 10400,
+      "order": 5,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10405,
+      "group_id": 10400,
+      "order": 6,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 10406,
+      "group_id": 10400,
+      "order": 7,
+      "timelineAction": "ObjectStatusChange",
+      "timelineValue": [
+        {
+          "timelineValue": "C1_1_07"
+        },
+        {
+          "timelineValue": "141"
+        },
+        {
+          "timelineValue": "anim_ON"
+        }
+      ],
+      "desc": [
+        {
+          "desc": "오브젝트 상태 변경"
+        },
+        {
+          "desc": "ObjectStatusChange"
+        }
+      ]
+    },
+    {
+      "id": 10407,
+      "group_id": 10400,
+      "order": 8,
+      "timelineAction": "ObjectStatusChange",
+      "timelineValue": [
+        {
+          "timelineValue": "C1_1_07"
+        },
+        {
+          "timelineValue": "142"
+        },
+        {
+          "timelineValue": "anim_ON"
+        }
+      ],
+      "desc": [
+        {
+          "desc": "오브젝트 상태 변경"
+        },
+        {
+          "desc": "ObjectStatusChange"
+        }
+      ]
+    },
+    {
+      "id": 10408,
+      "group_id": 10400,
+      "order": 9,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20100,
+      "group_id": 20100,
+      "order": 1,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "1.2"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "줌인"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 20101,
+      "group_id": 20100,
+      "order": 2,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "20100"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "여기도 문이 가로막고 있어.."
+        }
+      ]
+    },
+    {
+      "id": 20102,
+      "group_id": 20100,
+      "order": 3,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "20101"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "문이 가리키는 신호를 탐색해 보자."
+        }
+      ]
+    },
+    {
+      "id": 20103,
+      "group_id": 20100,
+      "order": 4,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20104,
+      "group_id": 20100,
+      "order": 4,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20105,
+      "group_id": 20100,
+      "order": 5,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20200,
+      "group_id": 20200,
+      "order": 1,
+      "timelineAction": "ObjectStatusChange",
+      "timelineValue": [
+        {
+          "timelineValue": "C2_1_07"
+        },
+        {
+          "timelineValue": "221"
+        },
+        {
+          "timelineValue": "anim_ON"
+        }
+      ],
+      "desc": [
+        {
+          "desc": "오브젝트 상태 변경"
+        },
+        {
+          "desc": "ObjectStatusChange"
+        }
+      ]
+    },
+    {
+      "id": 20201,
+      "group_id": 20200,
+      "order": 2,
+      "timelineAction": "ObjectStatusChange",
+      "timelineValue": [
+        {
+          "timelineValue": "C2_1_07"
+        },
+        {
+          "timelineValue": "222"
+        },
+        {
+          "timelineValue": "anim_ON"
+        }
+      ],
+      "desc": [
+        {
+          "desc": "오브젝트 상태 변경"
+        },
+        {
+          "desc": "ObjectStatusChange"
+        }
+      ]
+    },
+    {
+      "id": 20202,
+      "group_id": 20200,
+      "order": 3,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20300,
+      "group_id": 20300,
+      "order": 1,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "1.2"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "줌인"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 20301,
+      "group_id": 20300,
+      "order": 2,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "20300"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "이 녀석의 코어 데이터도 유리구두의 복구 데이터와\n다른 랩처의 좌표 데이터를 전송하고 있어.."
+        }
+      ]
+    },
+    {
+      "id": 20302,
+      "group_id": 20300,
+      "order": 3,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "20301"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "이런 식으로 서로 좌표 데이터를 주고 받는 건가?\n…어쨌건 처치해야 될 대상이 하나 늘어난 것 뿐이야."
+        }
+      ]
+    },
+    {
+      "id": 20303,
+      "group_id": 20300,
+      "order": 4,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20304,
+      "group_id": 20300,
+      "order": 4,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20305,
+      "group_id": 20300,
+      "order": 5,
+      "timelineAction": "ObjectStatusChange",
+      "timelineValue": [
+        {
+          "timelineValue": "C2_1_07"
+        },
+        {
+          "timelineValue": "221"
+        },
+        {
+          "timelineValue": "anim_ON"
+        }
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20306,
+      "group_id": 20300,
+      "order": 6,
+      "timelineAction": "ObjectStatusChange",
+      "timelineValue": [
+        {
+          "timelineValue": "C2_1_07"
+        },
+        {
+          "timelineValue": "222"
+        },
+        {
+          "timelineValue": "anim_ON"
+        }
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 20307,
+      "group_id": 20300,
+      "order": 7,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 30100,
+      "group_id": 30100,
+      "order": 1,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "1.2"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 30101,
+      "group_id": 30100,
+      "order": 2,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "30101"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "이번엔 필요한 데이터가 두 종류야.."
+        }
+      ]
+    },
+    {
+      "id": 30102,
+      "group_id": 30100,
+      "order": 3,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "30102"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "아래쪽과 위 쪽으로 신호가 나뉘어져 있으니 찾아보자."
+        }
+      ]
+    },
+    {
+      "id": 30103,
+      "group_id": 30100,
+      "order": 4,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 30104,
+      "group_id": 30100,
+      "order": 4,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 30105,
+      "group_id": 30100,
+      "order": 5,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 30200,
+      "group_id": 30200,
+      "order": 1,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "1.2"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 30201,
+      "group_id": 30200,
+      "order": 2,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "30200"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "'식스 핸드'의 코어 데이터…"
+        }
+      ]
+    },
+    {
+      "id": 30202,
+      "group_id": 30200,
+      "order": 3,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "30201"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "이번엔 4개의 신호 데이터의 좌표를 전송하고 있어."
+        }
+      ]
+    },
+    {
+      "id": 30203,
+      "group_id": 30200,
+      "order": 4,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "30202"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "좋아. 우선은 신호 데이터를 먼저 찾아보자."
+        }
+      ]
+    },
+    {
+      "id": 30204,
+      "group_id": 30200,
+      "order": 5,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 30205,
+      "group_id": 30200,
+      "order": 6,
+      "timelineAction": "ObjectStatusChange",
+      "timelineValue": [
+        {
+          "timelineValue": "C3_1_09"
+        },
+        {
+          "timelineValue": "321"
+        },
+        {
+          "timelineValue": "anim_ON"
+        }
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 30206,
+      "group_id": 30200,
+      "order": 7,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 40100,
+      "group_id": 40100,
+      "order": 1,
+      "timelineAction": "ObjectStatusChange",
+      "timelineValue": [
+        {
+          "timelineValue": "C4_1_14"
+        },
+        {
+          "timelineValue": "411"
+        },
+        {
+          "timelineValue": "anim_ON"
+        }
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 40101,
+      "group_id": 40100,
+      "order": 2,
+      "timelineAction": "FadeOut",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 40102,
+      "group_id": 40100,
+      "order": 3,
+      "timelineAction": "LoadTimelineAnimation",
+      "timelineValue": [
+        {
+          "timelineValue": "MVG_ScenarioTimeline_Chapter4"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 40103,
+      "group_id": 40100,
+      "order": 4,
+      "timelineAction": "FadeIn",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 40104,
+      "group_id": 40100,
+      "order": 5,
+      "timelineAction": "PlayTimelineAnimation",
+      "timelineValue": [
+        {
+          "timelineValue": "MVG_ScenarioTimeline_Chapter4"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {
+          "desc": "챕터 4 보스전 이후 연출"
+        }
+      ]
+    },
+    {
+      "id": 40105,
+      "group_id": 40100,
+      "order": 6,
+      "timelineAction": "ReturnToOriginalRoom",
+      "timelineValue": [
+        {
+          "timelineValue": "510"
+        },
+        {
+          "timelineValue": "C5_1_30"
+        },
+        {}
+      ],
+      "desc": [
+        {},
+        {
+          "desc": "챕터 5로 강제 이동"
+        }
+      ]
+    },
+    {
+      "id": 40106,
+      "group_id": 40100,
+      "order": 8,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 50100,
+      "group_id": 50100,
+      "order": 1,
+      "timelineAction": "ObjectStatusChange",
+      "timelineValue": [
+        {
+          "timelineValue": "C5_1_10"
+        },
+        {
+          "timelineValue": "511"
+        },
+        {
+          "timelineValue": "anim_ON"
+        }
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 50101,
+      "group_id": 50100,
+      "order": 2,
+      "timelineAction": "ObjectStatusChange",
+      "timelineValue": [
+        {
+          "timelineValue": "C5_1_10"
+        },
+        {
+          "timelineValue": "512"
+        },
+        {
+          "timelineValue": "anim_ON"
+        }
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 50102,
+      "group_id": 50100,
+      "order": 3,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 50200,
+      "group_id": 50200,
+      "order": 1,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "1.2"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 50201,
+      "group_id": 50200,
+      "order": 2,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "50200"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "여긴… 어디지?"
+        }
+      ]
+    },
+    {
+      "id": 50202,
+      "group_id": 50200,
+      "order": 3,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "50201"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "기습을 당해 쓰러진 뒤에… 여기로 옮겨진 건가?"
+        }
+      ]
+    },
+    {
+      "id": 50203,
+      "group_id": 50200,
+      "order": 4,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "50202"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "손상되어있던 유리 구두의 데이터는 왜 복구되어 있는 거지?"
+        }
+      ]
+    },
+    {
+      "id": 50204,
+      "group_id": 50200,
+      "order": 5,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "50203"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "…."
+        }
+      ]
+    },
+    {
+      "id": 50205,
+      "group_id": 50200,
+      "order": 6,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "50204"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "일단 이 곳을 탐색 해 보자."
+        }
+      ]
+    },
+    {
+      "id": 50206,
+      "group_id": 50200,
+      "order": 7,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 60100,
+      "group_id": 60100,
+      "order": 1,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "1.2"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 60101,
+      "group_id": 60100,
+      "order": 2,
+      "timelineAction": "ObjectStatusChange",
+      "timelineValue": [
+        {
+          "timelineValue": "C6_1_42"
+        },
+        {
+          "timelineValue": "611"
+        },
+        {
+          "timelineValue": "anim_ON"
+        }
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 60102,
+      "group_id": 60100,
+      "order": 2,
+      "timelineAction": "ObjectStatusChange",
+      "timelineValue": [
+        {
+          "timelineValue": "C6_1_42"
+        },
+        {
+          "timelineValue": "612"
+        },
+        {
+          "timelineValue": "anim_ON"
+        }
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 60103,
+      "group_id": 60100,
+      "order": 3,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "60100"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "이 신호는…?"
+        }
+      ]
+    },
+    {
+      "id": 60104,
+      "group_id": 60100,
+      "order": 4,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "60101"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "이건.. 유리구두의 신호..?"
+        }
+      ]
+    },
+    {
+      "id": 60105,
+      "group_id": 60100,
+      "order": 5,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "60102"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "왜 랩처가 유리 구두 무장의 신호를 가지고 있는 거지?"
+        }
+      ]
+    },
+    {
+      "id": 60106,
+      "group_id": 60100,
+      "order": 6,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "60103"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "대체 랩처가 무슨 짓을 하려는 건지 알아내야겠어."
+        }
+      ]
+    },
+    {
+      "id": 60107,
+      "group_id": 60100,
+      "order": 7,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 60202,
+      "group_id": 60200,
+      "order": 1,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 70100,
+      "group_id": 70100,
+      "order": 1,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "1.2"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 70101,
+      "group_id": 70100,
+      "order": 2,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "70100"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "유리 구두 무장의 신호가 점점 더 강해지고 있어.\n원인이 가까워지고 있다는 거겠지.."
+        }
+      ]
+    },
+    {
+      "id": 70102,
+      "group_id": 70100,
+      "order": 3,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "70101"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "랩처들이 무슨 짓을 꾸미고 있던, 놈들을 찾아 박살내버리겠어."
+        }
+      ]
+    },
+    {
+      "id": 70103,
+      "group_id": 70100,
+      "order": 4,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 70200,
+      "group_id": 70200,
+      "order": 1,
+      "timelineAction": "CamZoomAdjust",
+      "timelineValue": [
+        {
+          "timelineValue": "1.2"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 70201,
+      "group_id": 70200,
+      "order": 2,
+      "timelineAction": "ObjectStatusChange",
+      "timelineValue": [
+        {
+          "timelineValue": "C7_1_30"
+        },
+        {
+          "timelineValue": "731"
+        },
+        {
+          "timelineValue": "anim_ON"
+        }
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 70202,
+      "group_id": 70200,
+      "order": 3,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "70200"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "이 랩처의 코어에서는… 나와 똑같은 신호를 받고 있잖아."
+        }
+      ]
+    },
+    {
+      "id": 70203,
+      "group_id": 70200,
+      "order": 4,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "70201"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "심지어 니케로부터 수신되고 있는 데이터야."
+        }
+      ]
+    },
+    {
+      "id": 70204,
+      "group_id": 70200,
+      "order": 5,
+      "timelineAction": "BalloonDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "70202"
+        },
+        {
+          "timelineValue": "Player"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "신데렐라 대사"
+        },
+        {
+          "desc": "당장이라도 이게 누구인지 찾아내야겠어."
+        }
+      ]
+    },
+    {
+      "id": 70205,
+      "group_id": 70200,
+      "order": 6,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 70301,
+      "group_id": 70300,
+      "order": 1,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 80100,
+      "group_id": 80100,
+      "order": 1,
+      "timelineAction": "ObjectStatusChange",
+      "timelineValue": [
+        {
+          "timelineValue": "C8_1_BOSS"
+        },
+        {
+          "timelineValue": "811"
+        },
+        {
+          "timelineValue": "anim_ON"
+        }
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 80101,
+      "group_id": 80100,
+      "order": 2,
+      "timelineAction": "LoadTimelineAnimation",
+      "timelineValue": [
+        {
+          "timelineValue": "MVG_ScenarioTimeline_Chapter7"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 80102,
+      "group_id": 80100,
+      "order": 3,
+      "timelineAction": "FadeIn",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 80103,
+      "group_id": 80100,
+      "order": 4,
+      "timelineAction": "PlayTimelineAnimation",
+      "timelineValue": [
+        {
+          "timelineValue": "MVG_ScenarioTimeline_Chapter7"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {
+          "desc": "챕터 8 보스전 연출 이후"
+        }
+      ]
+    },
+    {
+      "id": 80104,
+      "group_id": 80100,
+      "order": 5,
+      "timelineAction": "FadeOut",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 80105,
+      "group_id": 80100,
+      "order": 6,
+      "timelineAction": "GoToLobby",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 80106,
+      "group_id": 80100,
+      "order": 7,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 9001,
+      "group_id": 12345,
+      "order": 1,
+      "timelineAction": "Wait",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "테스트용 _ OFF 전환"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 9002,
+      "group_id": 12345,
+      "order": 2,
+      "timelineAction": "ObjectStatusChange",
+      "timelineValue": [
+        {
+          "timelineValue": "World_Level_5"
+        },
+        {
+          "timelineValue": "8001"
+        },
+        {
+          "timelineValue": "anim_OFF"
+        }
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 9003,
+      "group_id": 12345,
+      "order": 3,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 9101,
+      "group_id": 123456,
+      "order": 1,
+      "timelineAction": "Wait",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "테스트용 _ ON 전환"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 9102,
+      "group_id": 123456,
+      "order": 2,
+      "timelineAction": "ObjectStatusChange",
+      "timelineValue": [
+        {
+          "timelineValue": "World_Level_5"
+        },
+        {
+          "timelineValue": "8001"
+        },
+        {
+          "timelineValue": "anim_ON"
+        }
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 9103,
+      "group_id": 123456,
+      "order": 3,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 900001,
+      "group_id": 10000,
+      "order": 1,
+      "timelineAction": "Wait",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "대기"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 900002,
+      "group_id": 10000,
+      "order": 2,
+      "timelineAction": "FadeOut",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "페이드아웃 1초"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 900003,
+      "group_id": 10000,
+      "order": 3,
+      "timelineAction": "Wait",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "대기"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 900004,
+      "group_id": 10000,
+      "order": 4,
+      "timelineAction": "LoadTimelineAnimation",
+      "timelineValue": [
+        {
+          "timelineValue": "MVG_ScenarioTimeline_Chapter4"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 900005,
+      "group_id": 10000,
+      "order": 5,
+      "timelineAction": "FadeIn",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "페이드인 1초"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 900006,
+      "group_id": 10000,
+      "order": 5,
+      "timelineAction": "PlayTimelineAnimation",
+      "timelineValue": [
+        {
+          "timelineValue": "MVG_timeline_test"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "타임라인 재생"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 900007,
+      "group_id": 10000,
+      "order": 6,
+      "timelineAction": "Wait",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "대기"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 900008,
+      "group_id": 10000,
+      "order": 7,
+      "timelineAction": "FadeOut",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "페이드 아웃 1초"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 900009,
+      "group_id": 10000,
+      "order": 8,
+      "timelineAction": "ReturnToOriginalRoom",
+      "timelineValue": [
+        {
+          "timelineValue": "9005"
+        },
+        {
+          "timelineValue": "World_Level_1"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "원래 있던 레벨로 돌아가고, 9005 소켓으로 플레이어 이동"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 900010,
+      "group_id": 10000,
+      "order": 9,
+      "timelineAction": "FadeIn",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "페이드인 1초"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 900011,
+      "group_id": 10000,
+      "order": 10,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "타임라인 종료"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 910001,
+      "group_id": 11000,
+      "order": 1,
+      "timelineAction": "Wait",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "대기"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 910002,
+      "group_id": 11000,
+      "order": 2,
+      "timelineAction": "FadeOut",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "페이드아웃 1초"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 910003,
+      "group_id": 11000,
+      "order": 3,
+      "timelineAction": "Wait",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "대기"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 910004,
+      "group_id": 11000,
+      "order": 4,
+      "timelineAction": "LoadTimelineAnimation",
+      "timelineValue": [
+        {
+          "timelineValue": "MVG_timeline_test"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 910005,
+      "group_id": 11000,
+      "order": 5,
+      "timelineAction": "FadeIn",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "페이드인 1초"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 910006,
+      "group_id": 11000,
+      "order": 5,
+      "timelineAction": "PlayTimelineAnimation",
+      "timelineValue": [
+        {
+          "timelineValue": "MVG_timeline_test"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "타임라인 재생"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 910007,
+      "group_id": 11000,
+      "order": 6,
+      "timelineAction": "Wait",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "대기"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 910008,
+      "group_id": 11000,
+      "order": 7,
+      "timelineAction": "FadeOut",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "페이드 아웃 1초"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 910009,
+      "group_id": 11000,
+      "order": 8,
+      "timelineAction": "ReturnToOriginalRoom",
+      "timelineValue": [
+        {
+          "timelineValue": "9005"
+        },
+        {
+          "timelineValue": "Test_Placeholder"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "원래 있던 레벨로 돌아가고, 9005 소켓으로 플레이어 이동"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 910010,
+      "group_id": 11000,
+      "order": 9,
+      "timelineAction": "FadeIn",
+      "timelineValue": [
+        {
+          "timelineValue": "1"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "페이드인 1초"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 910011,
+      "group_id": 11000,
+      "order": 10,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "타임라인 종료"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 100,
+      "group_id": 100,
+      "order": 1,
+      "timelineAction": "CamPointMove",
+      "timelineValue": [
+        {
+          "timelineValue": "10200"
+        },
+        {
+          "timelineValue": "0.3"
+        },
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라 이동 ( 1초 )"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 101,
+      "group_id": 100,
+      "order": 1,
+      "timelineAction": "StartBossIntroDisplay",
+      "timelineValue": [
+        {
+          "timelineValue": "EventMVG_MonsterName_01"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "보스 등장 연출 UI 출력"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 102,
+      "group_id": 100,
+      "order": 2,
+      "timelineAction": "CamPointReturnPlayer",
+      "timelineValue": [
+        {
+          "timelineValue": "0.3"
+        },
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "카메라 초기 위치로 돌림"
+        },
+        {}
+      ]
+    },
+    {
+      "id": 103,
+      "group_id": 100,
+      "order": 3,
+      "timelineAction": "EndTableTimeline",
+      "timelineValue": [
+        {},
+        {},
+        {}
+      ],
+      "desc": [
+        {
+          "desc": "타임라인 종료"
+        },
+        {}
+      ]
+    }
+  ]
+}

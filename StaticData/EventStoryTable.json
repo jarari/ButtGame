@@ -779,6 +779,46 @@
       "ui_prefab": "lifeagain"
     },
     {
+      "id": 10061,
+      "event_id": 40061,
+      "auto_charge_id": 10061,
+      "event_item_type": "Item",
+      "event_item_id": 7060061,
+      "dungeon_id": 61,
+      "album_category_group": 1061,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "ui_prefab": "oldtales_part1"
+    },
+    {
+      "id": 10062,
+      "event_id": 40062,
+      "auto_charge_id": 10061,
+      "event_item_type": "Item",
+      "event_item_id": 7060061,
+      "dungeon_id": 62,
+      "album_category_group": 1062,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "ui_prefab": "oldtales_part2"
+    },
+    {
+      "id": 10063,
+      "event_id": 40063,
+      "prologue_scenario": "event_secretgarden_prologue",
+      "auto_charge_id": 10063,
+      "event_item_type": "Item",
+      "event_item_id": 7060063,
+      "dungeon_id": 63,
+      "album_category_group": 1063,
+      "mission_group": 63,
+      "contents_shop_id": 9006301,
+      "dice_id": 0,
+      "ui_prefab": "secretgarden"
+    },
+    {
       "id": 40001,
       "event_id": 60001,
       "auto_charge_id": 40001,
@@ -1206,6 +1246,32 @@
       "contents_shop_id": 0,
       "dice_id": 0,
       "challenge_monster_resource": "full_mba002"
+    },
+    {
+      "id": 40061,
+      "event_id": 60061,
+      "auto_charge_id": 40061,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1061,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_mbg001_psid"
+    },
+    {
+      "id": 40063,
+      "event_id": 60063,
+      "auto_charge_id": 40063,
+      "event_item_type": "None",
+      "event_item_id": 0,
+      "dungeon_id": 1063,
+      "album_category_group": 0,
+      "mission_group": 0,
+      "contents_shop_id": 0,
+      "dice_id": 0,
+      "challenge_monster_resource": "full_eba001"
     }
   ]
 }

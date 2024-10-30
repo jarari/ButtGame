@@ -280,6 +280,8 @@
                 }
             ],
             "LargeLevelTrigger": [],
+            "ConvertLevelTrigger": [],
+            "ConvertTile": [],
             "NPCSpawner": [],
             "QuestObjectSpawner": [
                 {
@@ -287,6 +289,7 @@
                     "questObjectId": 1017001
                 }
             ],
+            "EventTargetSpawner": [],
             "MovePoint": [],
             "PortalSet": [],
             "RoamingCharacterMovePoint": [],
@@ -370,7 +373,8 @@
             "OutpostBattleBoxSpawner": [],
             "Portal": [],
             "SquadEdit": [],
-            "StartingPoint": []
+            "StartingPoint": [],
+            "EchoDialogueTrigger": []
         }
     ]
 }

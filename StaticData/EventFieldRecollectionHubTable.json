@@ -63,6 +63,7 @@
       "recollection_category_type": "Album",
       "scenario_contents_type": "StoryDungeon",
       "scenario_event_id": 40034,
+      "archive_event_id": 40034,
       "recollection_value": 10341,
       "recollection_name_localkey": "Locale_Event:recollection_hub_story_1",
       "recollection_resource": "icn_recollection_hub_stroy01",
@@ -74,6 +75,7 @@
       "recollection_category_type": "Album",
       "scenario_contents_type": "StoryDungeon",
       "scenario_event_id": 40035,
+      "archive_event_id": 40035,
       "recollection_value": 10351,
       "recollection_name_localkey": "Locale_Event:recollection_hub_story_2",
       "recollection_resource": "icn_recollection_hub_stroy02",
@@ -85,6 +87,7 @@
       "recollection_category_type": "Album",
       "scenario_contents_type": "MiniGame",
       "scenario_event_id": 80903,
+      "archive_event_id": 80903,
       "recollection_value": 30004,
       "recollection_name_localkey": "Locale_Event:recollection_hub_minigame",
       "recollection_resource": "icn_recollection_hub_minigame"
@@ -390,6 +393,38 @@
       "recollection_value": 30002,
       "recollection_name_localkey": "Locale_Event:recollection_hub_minigame",
       "recollection_resource": "icn_recollection_hub_minigame"
+    },
+    {
+      "id": 1001601,
+      "group_id": 10016,
+      "recollection_category_type": "Album",
+      "scenario_contents_type": "StoryDungeon",
+      "scenario_event_id": 40061,
+      "recollection_value": 10611,
+      "recollection_name_localkey": "Locale_Event:recollection_hub_story_1",
+      "recollection_resource": "icn_recollection_hub_stroy01",
+      "album_page_resource": "ui_event_bg_oldtales_part1"
+    },
+    {
+      "id": 1001602,
+      "group_id": 10016,
+      "recollection_category_type": "Album",
+      "scenario_contents_type": "StoryDungeon",
+      "scenario_event_id": 40062,
+      "recollection_value": 10621,
+      "recollection_name_localkey": "Locale_Event:recollection_hub_story_2",
+      "recollection_resource": "icn_recollection_hub_stroy02",
+      "album_page_resource": "ui_event_bg_oldtales_part2"
+    },
+    {
+      "id": 1001603,
+      "group_id": 10016,
+      "recollection_category_type": "Memorial",
+      "scenario_contents_type": "Memorial",
+      "recollection_value": 10016,
+      "recollection_name_localkey": "Locale_Event:recollection_hub_memorial",
+      "recollection_description_localkey": "Locale_Event:recollection_description_memorial",
+      "recollection_resource": "icn_recollection_hub_lostitem"
     }
   ]
 }

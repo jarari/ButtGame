@@ -1,0 +1,8275 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 0,
+      "challenge_step": 1,
+      "desc": "일반 몬스터 ( 기본 골드 10 + 보너스 1 ~ 3 )",
+      "dropSetting": [
+        {
+          "dropListID": 100,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 110,
+          "dropListRate": 400
+        },
+        {
+          "dropListID": 110,
+          "dropListRate": 300
+        },
+        {
+          "dropListID": 110,
+          "dropListRate": 200
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 100,
+      "challenge_step": 1,
+      "desc": "일반 몬스터 ( 기본 골드 10 + 보너스 1 ~ 3 )",
+      "dropSetting": [
+        {
+          "dropListID": 100,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 110,
+          "dropListRate": 400
+        },
+        {
+          "dropListID": 110,
+          "dropListRate": 300
+        },
+        {
+          "dropListID": 110,
+          "dropListRate": 200
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 101,
+      "challenge_step": 1,
+      "desc": "일반 몬스터 ( 기본 골드 10 + 보너스 2 ~  7 )",
+      "dropSetting": [
+        {
+          "dropListID": 100,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 111,
+          "dropListRate": 300
+        },
+        {
+          "dropListID": 111,
+          "dropListRate": 200
+        },
+        {
+          "dropListID": 112,
+          "dropListRate": 150
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 200,
+      "challenge_step": 1,
+      "desc": "엘리트 몬스터 ( 기본 골드 30 + 코어 1 확률 )",
+      "dropSetting": [
+        {
+          "dropListID": 103,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 114,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 114,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 200,
+          "dropListRate": 50
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 300,
+      "challenge_step": 1,
+      "desc": "보스 몬스터 ( 기본 골드 150 + 코어 1 x 3 확률 )",
+      "dropSetting": [
+        {
+          "dropListID": 104,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 104,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 104,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 104,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 104,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 104,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 200,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 200,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 200,
+          "dropListRate": 10000
+        },
+        {}
+      ]
+    },
+    {
+      "id": 11,
+      "challenge_step": 1,
+      "desc": "1챕터 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 1001,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12,
+      "challenge_step": 1,
+      "desc": "1챕터 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 1002,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 13,
+      "challenge_step": 1,
+      "desc": "1챕터 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 1003,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 14,
+      "challenge_step": 1,
+      "desc": "1챕터 보스",
+      "dropSetting": [
+        {
+          "dropListID": 110,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 21,
+      "challenge_step": 1,
+      "desc": "2챕터 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 2001,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 22,
+      "challenge_step": 1,
+      "desc": "2챕터 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 2002,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 23,
+      "challenge_step": 1,
+      "desc": "2챕터 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 2003,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 24,
+      "challenge_step": 1,
+      "desc": "2챕터 보스",
+      "dropSetting": [
+        {
+          "dropListID": 110,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 31,
+      "challenge_step": 1,
+      "desc": "3챕터 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 3001,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 32,
+      "challenge_step": 1,
+      "desc": "3챕터 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 3002,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 33,
+      "challenge_step": 1,
+      "desc": "3챕터 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 3003,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 34,
+      "challenge_step": 1,
+      "desc": "3챕터 보스",
+      "dropSetting": [
+        {
+          "dropListID": 110,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 41,
+      "challenge_step": 1,
+      "desc": "4챕터 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 4001,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 42,
+      "challenge_step": 1,
+      "desc": "4챕터 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 4002,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 43,
+      "challenge_step": 1,
+      "desc": "4챕터 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 4003,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 44,
+      "challenge_step": 1,
+      "desc": "4챕터 보스",
+      "dropSetting": [
+        {
+          "dropListID": 110,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 51,
+      "challenge_step": 1,
+      "desc": "5챕터 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 5001,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 52,
+      "challenge_step": 1,
+      "desc": "5챕터 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 5002,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 53,
+      "challenge_step": 1,
+      "desc": "5챕터 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 5003,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 54,
+      "challenge_step": 1,
+      "desc": "5챕터 보스",
+      "dropSetting": [
+        {
+          "dropListID": 110,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 61,
+      "challenge_step": 1,
+      "desc": "6챕터 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 6001,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 62,
+      "challenge_step": 1,
+      "desc": "6챕터 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 6002,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 63,
+      "challenge_step": 1,
+      "desc": "6챕터 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 6003,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 64,
+      "challenge_step": 1,
+      "desc": "6챕터 보스",
+      "dropSetting": [
+        {
+          "dropListID": 110,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 71,
+      "challenge_step": 1,
+      "desc": "7챕터 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 7001,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 72,
+      "challenge_step": 1,
+      "desc": "7챕터 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 7002,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 73,
+      "challenge_step": 1,
+      "desc": "7챕터 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 7003,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 74,
+      "challenge_step": 1,
+      "desc": "7챕터 보스",
+      "dropSetting": [
+        {
+          "dropListID": 110,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 81,
+      "challenge_step": 1,
+      "desc": "8챕터 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 8001,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 82,
+      "challenge_step": 1,
+      "desc": "8챕터 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 8002,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 83,
+      "challenge_step": 1,
+      "desc": "8챕터 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 8003,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 84,
+      "challenge_step": 1,
+      "desc": "8챕터 보스",
+      "dropSetting": [
+        {
+          "dropListID": 110,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11,
+      "challenge_step": 2,
+      "desc": "1챕터 챌린지1 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9011,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12,
+      "challenge_step": 2,
+      "desc": "1챕터 챌린지1 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9012,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 13,
+      "challenge_step": 2,
+      "desc": "1챕터 챌린지1 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9013,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 14,
+      "challenge_step": 2,
+      "desc": "1챕터 챌린지1 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9014,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 909,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 21,
+      "challenge_step": 2,
+      "desc": "2챕터 챌린지1 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9011,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 22,
+      "challenge_step": 2,
+      "desc": "2챕터 챌린지1 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9012,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 23,
+      "challenge_step": 2,
+      "desc": "2챕터 챌린지1 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9013,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 24,
+      "challenge_step": 2,
+      "desc": "2챕터 챌린지1 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9014,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 909,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 31,
+      "challenge_step": 2,
+      "desc": "3챕터 챌린지1 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9011,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 32,
+      "challenge_step": 2,
+      "desc": "3챕터 챌린지1 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9012,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 33,
+      "challenge_step": 2,
+      "desc": "3챕터 챌린지1 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9013,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 34,
+      "challenge_step": 2,
+      "desc": "3챕터 챌린지1 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9014,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 909,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 41,
+      "challenge_step": 2,
+      "desc": "4챕터 챌린지1 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9011,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 42,
+      "challenge_step": 2,
+      "desc": "4챕터 챌린지1 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9012,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 43,
+      "challenge_step": 2,
+      "desc": "4챕터 챌린지1 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9013,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 44,
+      "challenge_step": 2,
+      "desc": "4챕터 챌린지1 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9014,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 909,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 51,
+      "challenge_step": 2,
+      "desc": "5챕터 챌린지1 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9011,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 52,
+      "challenge_step": 2,
+      "desc": "5챕터 챌린지1 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9012,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 53,
+      "challenge_step": 2,
+      "desc": "5챕터 챌린지1 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9013,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 54,
+      "challenge_step": 2,
+      "desc": "5챕터 챌린지1 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9014,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 909,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 61,
+      "challenge_step": 2,
+      "desc": "6챕터 챌린지1 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9011,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 62,
+      "challenge_step": 2,
+      "desc": "6챕터 챌린지1 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9012,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 63,
+      "challenge_step": 2,
+      "desc": "6챕터 챌린지1 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9013,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 64,
+      "challenge_step": 2,
+      "desc": "6챕터 챌린지1 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9014,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 909,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 71,
+      "challenge_step": 2,
+      "desc": "7챕터 챌린지1 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9011,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 72,
+      "challenge_step": 2,
+      "desc": "7챕터 챌린지1 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9012,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 73,
+      "challenge_step": 2,
+      "desc": "7챕터 챌린지1 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9013,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 74,
+      "challenge_step": 2,
+      "desc": "7챕터 챌린지1 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9014,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 909,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 81,
+      "challenge_step": 2,
+      "desc": "8챕터 챌린지1 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9011,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 82,
+      "challenge_step": 2,
+      "desc": "8챕터 챌린지1 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9012,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 83,
+      "challenge_step": 2,
+      "desc": "8챕터 챌린지1 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9013,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 84,
+      "challenge_step": 2,
+      "desc": "8챕터 챌린지1 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9014,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 909,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11,
+      "challenge_step": 3,
+      "desc": "1챕터 챌린지2 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9021,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12,
+      "challenge_step": 3,
+      "desc": "1챕터 챌린지2 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9022,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 13,
+      "challenge_step": 3,
+      "desc": "1챕터 챌린지2 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9023,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 14,
+      "challenge_step": 3,
+      "desc": "1챕터 챌린지2 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9024,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 910,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 21,
+      "challenge_step": 3,
+      "desc": "2챕터 챌린지2 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9021,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 22,
+      "challenge_step": 3,
+      "desc": "2챕터 챌린지2 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9022,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 23,
+      "challenge_step": 3,
+      "desc": "2챕터 챌린지2 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9023,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 24,
+      "challenge_step": 3,
+      "desc": "2챕터 챌린지2 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9024,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 910,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 31,
+      "challenge_step": 3,
+      "desc": "3챕터 챌린지2 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9021,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 32,
+      "challenge_step": 3,
+      "desc": "3챕터 챌린지2 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9022,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 33,
+      "challenge_step": 3,
+      "desc": "3챕터 챌린지2 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9023,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 34,
+      "challenge_step": 3,
+      "desc": "3챕터 챌린지2 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9024,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 910,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 41,
+      "challenge_step": 3,
+      "desc": "4챕터 챌린지2 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9021,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 42,
+      "challenge_step": 3,
+      "desc": "4챕터 챌린지2 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9022,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 43,
+      "challenge_step": 3,
+      "desc": "4챕터 챌린지2 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9023,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 44,
+      "challenge_step": 3,
+      "desc": "4챕터 챌린지2 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9024,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 910,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 51,
+      "challenge_step": 3,
+      "desc": "5챕터 챌린지2 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9021,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 52,
+      "challenge_step": 3,
+      "desc": "5챕터 챌린지2 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9022,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 53,
+      "challenge_step": 3,
+      "desc": "5챕터 챌린지2 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9023,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 54,
+      "challenge_step": 3,
+      "desc": "5챕터 챌린지2 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9024,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 910,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 61,
+      "challenge_step": 3,
+      "desc": "6챕터 챌린지2 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9021,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 62,
+      "challenge_step": 3,
+      "desc": "6챕터 챌린지2 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9022,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 63,
+      "challenge_step": 3,
+      "desc": "6챕터 챌린지2 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9023,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 64,
+      "challenge_step": 3,
+      "desc": "6챕터 챌린지2 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9024,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 910,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 71,
+      "challenge_step": 3,
+      "desc": "7챕터 챌린지2 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9021,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 72,
+      "challenge_step": 3,
+      "desc": "7챕터 챌린지2 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9022,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 73,
+      "challenge_step": 3,
+      "desc": "7챕터 챌린지2 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9023,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 74,
+      "challenge_step": 3,
+      "desc": "7챕터 챌린지2 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9024,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 910,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 81,
+      "challenge_step": 3,
+      "desc": "8챕터 챌린지2 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9021,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 82,
+      "challenge_step": 3,
+      "desc": "8챕터 챌린지2 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9022,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 83,
+      "challenge_step": 3,
+      "desc": "8챕터 챌린지2 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9023,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 84,
+      "challenge_step": 3,
+      "desc": "8챕터 챌린지2 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9024,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 910,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11,
+      "challenge_step": 4,
+      "desc": "1챕터 챌린지3 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9031,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12,
+      "challenge_step": 4,
+      "desc": "1챕터 챌린지3 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9032,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 13,
+      "challenge_step": 4,
+      "desc": "1챕터 챌린지3 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9033,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 14,
+      "challenge_step": 4,
+      "desc": "1챕터 챌린지3 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9034,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 911,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 21,
+      "challenge_step": 4,
+      "desc": "2챕터 챌린지3 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9031,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 22,
+      "challenge_step": 4,
+      "desc": "2챕터 챌린지3 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9032,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 23,
+      "challenge_step": 4,
+      "desc": "2챕터 챌린지3 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9033,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 24,
+      "challenge_step": 4,
+      "desc": "2챕터 챌린지3 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9034,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 911,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 31,
+      "challenge_step": 4,
+      "desc": "3챕터 챌린지3 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9031,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 32,
+      "challenge_step": 4,
+      "desc": "3챕터 챌린지3 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9032,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 33,
+      "challenge_step": 4,
+      "desc": "3챕터 챌린지3 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9033,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 34,
+      "challenge_step": 4,
+      "desc": "3챕터 챌린지3 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9034,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 911,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 41,
+      "challenge_step": 4,
+      "desc": "4챕터 챌린지3 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9031,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 42,
+      "challenge_step": 4,
+      "desc": "4챕터 챌린지3 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9032,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 43,
+      "challenge_step": 4,
+      "desc": "4챕터 챌린지3 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9033,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 44,
+      "challenge_step": 4,
+      "desc": "4챕터 챌린지3 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9034,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 911,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 51,
+      "challenge_step": 4,
+      "desc": "5챕터 챌린지3 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9031,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 52,
+      "challenge_step": 4,
+      "desc": "5챕터 챌린지3 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9032,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 53,
+      "challenge_step": 4,
+      "desc": "5챕터 챌린지3 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9033,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 54,
+      "challenge_step": 4,
+      "desc": "5챕터 챌린지3 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9034,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 911,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 61,
+      "challenge_step": 4,
+      "desc": "6챕터 챌린지3 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9031,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 62,
+      "challenge_step": 4,
+      "desc": "6챕터 챌린지3 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9032,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 63,
+      "challenge_step": 4,
+      "desc": "6챕터 챌린지3 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9033,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 64,
+      "challenge_step": 4,
+      "desc": "6챕터 챌린지3 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9034,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 911,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 71,
+      "challenge_step": 4,
+      "desc": "7챕터 챌린지3 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9031,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 72,
+      "challenge_step": 4,
+      "desc": "7챕터 챌린지3 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9032,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 73,
+      "challenge_step": 4,
+      "desc": "7챕터 챌린지3 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9033,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 74,
+      "challenge_step": 4,
+      "desc": "7챕터 챌린지3 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9034,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 911,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 81,
+      "challenge_step": 4,
+      "desc": "8챕터 챌린지3 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9031,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 82,
+      "challenge_step": 4,
+      "desc": "8챕터 챌린지3 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9032,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 83,
+      "challenge_step": 4,
+      "desc": "8챕터 챌린지3 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9033,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 84,
+      "challenge_step": 4,
+      "desc": "8챕터 챌린지3 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9034,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 911,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11,
+      "challenge_step": 5,
+      "desc": "1챕터 챌린지4 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9041,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12,
+      "challenge_step": 5,
+      "desc": "1챕터 챌린지4 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9042,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 13,
+      "challenge_step": 5,
+      "desc": "1챕터 챌린지4 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9043,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 14,
+      "challenge_step": 5,
+      "desc": "1챕터 챌린지4 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9044,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 912,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 21,
+      "challenge_step": 5,
+      "desc": "2챕터 챌린지4 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9041,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 22,
+      "challenge_step": 5,
+      "desc": "2챕터 챌린지4 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9042,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 23,
+      "challenge_step": 5,
+      "desc": "2챕터 챌린지4 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9043,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 24,
+      "challenge_step": 5,
+      "desc": "2챕터 챌린지4 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9044,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 912,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 31,
+      "challenge_step": 5,
+      "desc": "3챕터 챌린지4 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9041,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 32,
+      "challenge_step": 5,
+      "desc": "3챕터 챌린지4 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9042,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 33,
+      "challenge_step": 5,
+      "desc": "3챕터 챌린지4 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9043,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 34,
+      "challenge_step": 5,
+      "desc": "3챕터 챌린지4 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9044,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 912,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 41,
+      "challenge_step": 5,
+      "desc": "4챕터 챌린지4 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9041,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 42,
+      "challenge_step": 5,
+      "desc": "4챕터 챌린지4 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9042,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 43,
+      "challenge_step": 5,
+      "desc": "4챕터 챌린지4 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9043,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 44,
+      "challenge_step": 5,
+      "desc": "4챕터 챌린지4 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9044,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 912,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 51,
+      "challenge_step": 5,
+      "desc": "5챕터 챌린지4 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9041,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 52,
+      "challenge_step": 5,
+      "desc": "5챕터 챌린지4 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9042,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 53,
+      "challenge_step": 5,
+      "desc": "5챕터 챌린지4 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9043,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 54,
+      "challenge_step": 5,
+      "desc": "5챕터 챌린지4 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9044,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 912,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 61,
+      "challenge_step": 5,
+      "desc": "6챕터 챌린지4 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9041,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 62,
+      "challenge_step": 5,
+      "desc": "6챕터 챌린지4 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9042,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 63,
+      "challenge_step": 5,
+      "desc": "6챕터 챌린지4 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9043,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 64,
+      "challenge_step": 5,
+      "desc": "6챕터 챌린지4 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9044,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 912,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 71,
+      "challenge_step": 5,
+      "desc": "7챕터 챌린지4 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9041,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 72,
+      "challenge_step": 5,
+      "desc": "7챕터 챌린지4 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9042,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 73,
+      "challenge_step": 5,
+      "desc": "7챕터 챌린지4 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9043,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 74,
+      "challenge_step": 5,
+      "desc": "7챕터 챌린지4 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9044,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 912,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 81,
+      "challenge_step": 5,
+      "desc": "8챕터 챌린지4 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9041,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 82,
+      "challenge_step": 5,
+      "desc": "8챕터 챌린지4 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9042,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 83,
+      "challenge_step": 5,
+      "desc": "8챕터 챌린지4 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9043,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 84,
+      "challenge_step": 5,
+      "desc": "8챕터 챌린지4 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9044,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 912,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11,
+      "challenge_step": 6,
+      "desc": "1챕터 챌린지5 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9051,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12,
+      "challenge_step": 6,
+      "desc": "1챕터 챌린지5 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9052,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 13,
+      "challenge_step": 6,
+      "desc": "1챕터 챌린지5 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9053,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 14,
+      "challenge_step": 6,
+      "desc": "1챕터 챌린지5 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9054,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 913,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 21,
+      "challenge_step": 6,
+      "desc": "2챕터 챌린지5 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9051,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 22,
+      "challenge_step": 6,
+      "desc": "2챕터 챌린지5 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9052,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 23,
+      "challenge_step": 6,
+      "desc": "2챕터 챌린지5 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9053,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 24,
+      "challenge_step": 6,
+      "desc": "2챕터 챌린지5 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9054,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 913,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 31,
+      "challenge_step": 6,
+      "desc": "3챕터 챌린지5 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9051,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 32,
+      "challenge_step": 6,
+      "desc": "3챕터 챌린지5 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9052,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 33,
+      "challenge_step": 6,
+      "desc": "3챕터 챌린지5 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9053,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 34,
+      "challenge_step": 6,
+      "desc": "3챕터 챌린지5 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9054,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 913,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 41,
+      "challenge_step": 6,
+      "desc": "4챕터 챌린지5 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9051,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 42,
+      "challenge_step": 6,
+      "desc": "4챕터 챌린지5 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9052,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 43,
+      "challenge_step": 6,
+      "desc": "4챕터 챌린지5 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9053,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 44,
+      "challenge_step": 6,
+      "desc": "4챕터 챌린지5 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9054,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 913,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 51,
+      "challenge_step": 6,
+      "desc": "5챕터 챌린지5 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9051,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 52,
+      "challenge_step": 6,
+      "desc": "5챕터 챌린지5 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9052,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 53,
+      "challenge_step": 6,
+      "desc": "5챕터 챌린지5 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9053,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 54,
+      "challenge_step": 6,
+      "desc": "5챕터 챌린지5 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9054,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 913,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 61,
+      "challenge_step": 6,
+      "desc": "6챕터 챌린지5 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9051,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 62,
+      "challenge_step": 6,
+      "desc": "6챕터 챌린지5 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9052,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 63,
+      "challenge_step": 6,
+      "desc": "6챕터 챌린지5 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9053,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 64,
+      "challenge_step": 6,
+      "desc": "6챕터 챌린지5 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9054,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 913,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 71,
+      "challenge_step": 6,
+      "desc": "7챕터 챌린지5 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9051,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 72,
+      "challenge_step": 6,
+      "desc": "7챕터 챌린지5 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9052,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 73,
+      "challenge_step": 6,
+      "desc": "7챕터 챌린지5 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9053,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 74,
+      "challenge_step": 6,
+      "desc": "7챕터 챌린지5 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9054,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 913,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 81,
+      "challenge_step": 6,
+      "desc": "8챕터 챌린지5 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9051,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 82,
+      "challenge_step": 6,
+      "desc": "8챕터 챌린지5 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9052,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 83,
+      "challenge_step": 6,
+      "desc": "8챕터 챌린지5 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9053,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 84,
+      "challenge_step": 6,
+      "desc": "8챕터 챌린지5 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9054,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 913,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11,
+      "challenge_step": 7,
+      "desc": "1챕터 챌린지6 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9061,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12,
+      "challenge_step": 7,
+      "desc": "1챕터 챌린지6 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9062,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 13,
+      "challenge_step": 7,
+      "desc": "1챕터 챌린지6 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9063,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 14,
+      "challenge_step": 7,
+      "desc": "1챕터 챌린지6 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9064,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 914,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 21,
+      "challenge_step": 7,
+      "desc": "2챕터 챌린지6 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9061,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 22,
+      "challenge_step": 7,
+      "desc": "2챕터 챌린지6 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9062,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 23,
+      "challenge_step": 7,
+      "desc": "2챕터 챌린지6 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9063,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 24,
+      "challenge_step": 7,
+      "desc": "2챕터 챌린지6 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9064,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 914,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 31,
+      "challenge_step": 7,
+      "desc": "3챕터 챌린지6 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9061,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 32,
+      "challenge_step": 7,
+      "desc": "3챕터 챌린지6 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9062,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 33,
+      "challenge_step": 7,
+      "desc": "3챕터 챌린지6 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9063,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 34,
+      "challenge_step": 7,
+      "desc": "3챕터 챌린지6 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9064,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 914,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 41,
+      "challenge_step": 7,
+      "desc": "4챕터 챌린지6 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9061,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 42,
+      "challenge_step": 7,
+      "desc": "4챕터 챌린지6 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9062,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 43,
+      "challenge_step": 7,
+      "desc": "4챕터 챌린지6 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9063,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 44,
+      "challenge_step": 7,
+      "desc": "4챕터 챌린지6 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9064,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 914,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 51,
+      "challenge_step": 7,
+      "desc": "5챕터 챌린지6 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9061,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 52,
+      "challenge_step": 7,
+      "desc": "5챕터 챌린지6 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9062,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 53,
+      "challenge_step": 7,
+      "desc": "5챕터 챌린지6 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9063,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 54,
+      "challenge_step": 7,
+      "desc": "5챕터 챌린지6 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9064,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 914,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 61,
+      "challenge_step": 7,
+      "desc": "6챕터 챌린지6 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9061,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 62,
+      "challenge_step": 7,
+      "desc": "6챕터 챌린지6 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9062,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 63,
+      "challenge_step": 7,
+      "desc": "6챕터 챌린지6 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9063,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 64,
+      "challenge_step": 7,
+      "desc": "6챕터 챌린지6 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9064,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 914,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 71,
+      "challenge_step": 7,
+      "desc": "7챕터 챌린지6 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9061,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 72,
+      "challenge_step": 7,
+      "desc": "7챕터 챌린지6 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9062,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 73,
+      "challenge_step": 7,
+      "desc": "7챕터 챌린지6 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9063,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 74,
+      "challenge_step": 7,
+      "desc": "7챕터 챌린지6 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9064,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 914,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 81,
+      "challenge_step": 7,
+      "desc": "8챕터 챌린지6 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9061,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 82,
+      "challenge_step": 7,
+      "desc": "8챕터 챌린지6 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9062,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 83,
+      "challenge_step": 7,
+      "desc": "8챕터 챌린지6 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9063,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 84,
+      "challenge_step": 7,
+      "desc": "8챕터 챌린지6 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9064,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 914,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11,
+      "challenge_step": 8,
+      "desc": "1챕터 챌린지7 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9071,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12,
+      "challenge_step": 8,
+      "desc": "1챕터 챌린지7 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9072,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 13,
+      "challenge_step": 8,
+      "desc": "1챕터 챌린지7 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9073,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 14,
+      "challenge_step": 8,
+      "desc": "1챕터 챌린지7 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9074,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 915,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 21,
+      "challenge_step": 8,
+      "desc": "2챕터 챌린지7 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9071,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 22,
+      "challenge_step": 8,
+      "desc": "2챕터 챌린지7 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9072,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 23,
+      "challenge_step": 8,
+      "desc": "2챕터 챌린지7 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9073,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 24,
+      "challenge_step": 8,
+      "desc": "2챕터 챌린지7 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9074,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 915,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 31,
+      "challenge_step": 8,
+      "desc": "3챕터 챌린지7 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9071,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 32,
+      "challenge_step": 8,
+      "desc": "3챕터 챌린지7 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9072,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 33,
+      "challenge_step": 8,
+      "desc": "3챕터 챌린지7 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9073,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 34,
+      "challenge_step": 8,
+      "desc": "3챕터 챌린지7 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9074,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 915,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 41,
+      "challenge_step": 8,
+      "desc": "4챕터 챌린지7 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9071,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 42,
+      "challenge_step": 8,
+      "desc": "4챕터 챌린지7 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9072,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 43,
+      "challenge_step": 8,
+      "desc": "4챕터 챌린지7 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9073,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 44,
+      "challenge_step": 8,
+      "desc": "4챕터 챌린지7 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9074,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 915,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 51,
+      "challenge_step": 8,
+      "desc": "5챕터 챌린지7 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9071,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 52,
+      "challenge_step": 8,
+      "desc": "5챕터 챌린지7 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9072,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 53,
+      "challenge_step": 8,
+      "desc": "5챕터 챌린지7 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9073,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 54,
+      "challenge_step": 8,
+      "desc": "5챕터 챌린지7 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9074,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 915,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 61,
+      "challenge_step": 8,
+      "desc": "6챕터 챌린지7 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9071,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 62,
+      "challenge_step": 8,
+      "desc": "6챕터 챌린지7 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9072,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 63,
+      "challenge_step": 8,
+      "desc": "6챕터 챌린지7 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9073,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 64,
+      "challenge_step": 8,
+      "desc": "6챕터 챌린지7 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9074,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 915,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 71,
+      "challenge_step": 8,
+      "desc": "7챕터 챌린지7 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9071,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 72,
+      "challenge_step": 8,
+      "desc": "7챕터 챌린지7 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9072,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 73,
+      "challenge_step": 8,
+      "desc": "7챕터 챌린지7 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9073,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 74,
+      "challenge_step": 8,
+      "desc": "7챕터 챌린지7 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9074,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 915,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 81,
+      "challenge_step": 8,
+      "desc": "8챕터 챌린지7 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9071,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 82,
+      "challenge_step": 8,
+      "desc": "8챕터 챌린지7 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9072,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 83,
+      "challenge_step": 8,
+      "desc": "8챕터 챌린지7 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9073,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 84,
+      "challenge_step": 8,
+      "desc": "8챕터 챌린지7 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9074,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 915,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11,
+      "challenge_step": 9,
+      "desc": "1챕터 챌린지8 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9081,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12,
+      "challenge_step": 9,
+      "desc": "1챕터 챌린지8 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9082,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 13,
+      "challenge_step": 9,
+      "desc": "1챕터 챌린지8 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9083,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 14,
+      "challenge_step": 9,
+      "desc": "1챕터 챌린지8 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9084,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 916,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 21,
+      "challenge_step": 9,
+      "desc": "2챕터 챌린지8 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9081,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 22,
+      "challenge_step": 9,
+      "desc": "2챕터 챌린지8 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9082,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 23,
+      "challenge_step": 9,
+      "desc": "2챕터 챌린지8 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9083,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 24,
+      "challenge_step": 9,
+      "desc": "2챕터 챌린지8 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9084,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 916,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 31,
+      "challenge_step": 9,
+      "desc": "3챕터 챌린지8 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9081,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 32,
+      "challenge_step": 9,
+      "desc": "3챕터 챌린지8 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9082,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 33,
+      "challenge_step": 9,
+      "desc": "3챕터 챌린지8 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9083,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 34,
+      "challenge_step": 9,
+      "desc": "3챕터 챌린지8 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9084,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 916,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 41,
+      "challenge_step": 9,
+      "desc": "4챕터 챌린지8 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9081,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 42,
+      "challenge_step": 9,
+      "desc": "4챕터 챌린지8 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9082,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 43,
+      "challenge_step": 9,
+      "desc": "4챕터 챌린지8 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9083,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 44,
+      "challenge_step": 9,
+      "desc": "4챕터 챌린지8 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9084,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 916,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 51,
+      "challenge_step": 9,
+      "desc": "5챕터 챌린지8 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9081,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 52,
+      "challenge_step": 9,
+      "desc": "5챕터 챌린지8 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9082,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 53,
+      "challenge_step": 9,
+      "desc": "5챕터 챌린지8 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9083,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 54,
+      "challenge_step": 9,
+      "desc": "5챕터 챌린지8 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9084,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 916,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 61,
+      "challenge_step": 9,
+      "desc": "6챕터 챌린지8 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9081,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 62,
+      "challenge_step": 9,
+      "desc": "6챕터 챌린지8 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9082,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 63,
+      "challenge_step": 9,
+      "desc": "6챕터 챌린지8 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9083,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 64,
+      "challenge_step": 9,
+      "desc": "6챕터 챌린지8 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9084,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 916,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 71,
+      "challenge_step": 9,
+      "desc": "7챕터 챌린지8 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9081,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 72,
+      "challenge_step": 9,
+      "desc": "7챕터 챌린지8 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9082,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 73,
+      "challenge_step": 9,
+      "desc": "7챕터 챌린지8 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9083,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 74,
+      "challenge_step": 9,
+      "desc": "7챕터 챌린지8 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9084,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 916,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 81,
+      "challenge_step": 9,
+      "desc": "8챕터 챌린지8 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9081,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 82,
+      "challenge_step": 9,
+      "desc": "8챕터 챌린지8 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9082,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 83,
+      "challenge_step": 9,
+      "desc": "8챕터 챌린지8 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9083,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 84,
+      "challenge_step": 9,
+      "desc": "8챕터 챌린지8 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9084,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 916,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11,
+      "challenge_step": 10,
+      "desc": "1챕터 챌린지9 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9091,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12,
+      "challenge_step": 10,
+      "desc": "1챕터 챌린지9 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9092,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 13,
+      "challenge_step": 10,
+      "desc": "1챕터 챌린지9 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9093,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 14,
+      "challenge_step": 10,
+      "desc": "1챕터 챌린지9 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9094,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 917,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 21,
+      "challenge_step": 10,
+      "desc": "2챕터 챌린지9 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9091,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 22,
+      "challenge_step": 10,
+      "desc": "2챕터 챌린지9 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9092,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 23,
+      "challenge_step": 10,
+      "desc": "2챕터 챌린지9 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9093,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 24,
+      "challenge_step": 10,
+      "desc": "2챕터 챌린지9 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9094,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 917,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 31,
+      "challenge_step": 10,
+      "desc": "3챕터 챌린지9 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9091,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 32,
+      "challenge_step": 10,
+      "desc": "3챕터 챌린지9 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9092,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 33,
+      "challenge_step": 10,
+      "desc": "3챕터 챌린지9 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9093,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 34,
+      "challenge_step": 10,
+      "desc": "3챕터 챌린지9 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9094,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 917,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 41,
+      "challenge_step": 10,
+      "desc": "4챕터 챌린지9 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9091,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 42,
+      "challenge_step": 10,
+      "desc": "4챕터 챌린지9 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9092,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 43,
+      "challenge_step": 10,
+      "desc": "4챕터 챌린지9 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9093,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 44,
+      "challenge_step": 10,
+      "desc": "4챕터 챌린지9 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9094,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 917,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 51,
+      "challenge_step": 10,
+      "desc": "5챕터 챌린지9 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9091,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 52,
+      "challenge_step": 10,
+      "desc": "5챕터 챌린지9 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9092,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 53,
+      "challenge_step": 10,
+      "desc": "5챕터 챌린지9 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9093,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 54,
+      "challenge_step": 10,
+      "desc": "5챕터 챌린지9 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9094,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 917,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 61,
+      "challenge_step": 10,
+      "desc": "6챕터 챌린지9 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9091,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 62,
+      "challenge_step": 10,
+      "desc": "6챕터 챌린지9 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9092,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 63,
+      "challenge_step": 10,
+      "desc": "6챕터 챌린지9 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9093,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 64,
+      "challenge_step": 10,
+      "desc": "6챕터 챌린지9 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9094,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 917,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 71,
+      "challenge_step": 10,
+      "desc": "7챕터 챌린지9 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9091,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 72,
+      "challenge_step": 10,
+      "desc": "7챕터 챌린지9 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9092,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 73,
+      "challenge_step": 10,
+      "desc": "7챕터 챌린지9 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9093,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 74,
+      "challenge_step": 10,
+      "desc": "7챕터 챌린지9 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9094,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 917,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 81,
+      "challenge_step": 10,
+      "desc": "8챕터 챌린지9 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9091,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 82,
+      "challenge_step": 10,
+      "desc": "8챕터 챌린지9 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9092,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 83,
+      "challenge_step": 10,
+      "desc": "8챕터 챌린지9 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9093,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 84,
+      "challenge_step": 10,
+      "desc": "8챕터 챌린지9 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9094,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 917,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 11,
+      "challenge_step": 11,
+      "desc": "1챕터 챌린지10 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9101,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 12,
+      "challenge_step": 11,
+      "desc": "1챕터 챌린지10 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9102,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 13,
+      "challenge_step": 11,
+      "desc": "1챕터 챌린지10 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9103,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 14,
+      "challenge_step": 11,
+      "desc": "1챕터 챌린지10 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9104,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 918,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 21,
+      "challenge_step": 11,
+      "desc": "2챕터 챌린지10 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9101,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 22,
+      "challenge_step": 11,
+      "desc": "2챕터 챌린지10 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9102,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 23,
+      "challenge_step": 11,
+      "desc": "2챕터 챌린지10 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9103,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 24,
+      "challenge_step": 11,
+      "desc": "2챕터 챌린지10 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9104,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 918,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 31,
+      "challenge_step": 11,
+      "desc": "3챕터 챌린지10 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9101,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 32,
+      "challenge_step": 11,
+      "desc": "3챕터 챌린지10 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9102,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 33,
+      "challenge_step": 11,
+      "desc": "3챕터 챌린지10 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9103,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 34,
+      "challenge_step": 11,
+      "desc": "3챕터 챌린지10 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9104,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 918,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 41,
+      "challenge_step": 11,
+      "desc": "4챕터 챌린지10 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9101,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 42,
+      "challenge_step": 11,
+      "desc": "4챕터 챌린지10 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9102,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 43,
+      "challenge_step": 11,
+      "desc": "4챕터 챌린지10 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9103,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 44,
+      "challenge_step": 11,
+      "desc": "4챕터 챌린지10 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9104,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 918,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 51,
+      "challenge_step": 11,
+      "desc": "5챕터 챌린지10 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9101,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 52,
+      "challenge_step": 11,
+      "desc": "5챕터 챌린지10 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9102,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 53,
+      "challenge_step": 11,
+      "desc": "5챕터 챌린지10 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9103,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 54,
+      "challenge_step": 11,
+      "desc": "5챕터 챌린지10 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9104,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 918,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 61,
+      "challenge_step": 11,
+      "desc": "6챕터 챌린지10 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9101,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 62,
+      "challenge_step": 11,
+      "desc": "6챕터 챌린지10 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9102,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 63,
+      "challenge_step": 11,
+      "desc": "6챕터 챌린지10 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9103,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 64,
+      "challenge_step": 11,
+      "desc": "6챕터 챌린지10 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9104,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 918,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 71,
+      "challenge_step": 11,
+      "desc": "7챕터 챌린지10 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9101,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 72,
+      "challenge_step": 11,
+      "desc": "7챕터 챌린지10 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9102,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 73,
+      "challenge_step": 11,
+      "desc": "7챕터 챌린지10 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9103,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 74,
+      "challenge_step": 11,
+      "desc": "7챕터 챌린지10 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9104,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 918,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 81,
+      "challenge_step": 11,
+      "desc": "8챕터 챌린지10 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9101,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 82,
+      "challenge_step": 11,
+      "desc": "8챕터 챌린지10 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9102,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 83,
+      "challenge_step": 11,
+      "desc": "8챕터 챌린지10 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9103,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 84,
+      "challenge_step": 11,
+      "desc": "8챕터 챌린지10 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9104,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 918,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 91,
+      "challenge_step": 2,
+      "desc": "챌린지1 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9011,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 92,
+      "challenge_step": 2,
+      "desc": "챌린지1 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9012,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 93,
+      "challenge_step": 2,
+      "desc": "챌린지1 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9013,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 94,
+      "challenge_step": 2,
+      "desc": "챌린지1 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9014,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 909,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 91,
+      "challenge_step": 3,
+      "desc": "챌린지2 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9021,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 92,
+      "challenge_step": 3,
+      "desc": "챌린지2 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9022,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 93,
+      "challenge_step": 3,
+      "desc": "챌린지2 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9023,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 94,
+      "challenge_step": 3,
+      "desc": "챌린지2 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9024,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 910,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 91,
+      "challenge_step": 4,
+      "desc": "챌린지3 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9031,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 92,
+      "challenge_step": 4,
+      "desc": "챌린지3 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9032,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 93,
+      "challenge_step": 4,
+      "desc": "챌린지3 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9033,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 94,
+      "challenge_step": 4,
+      "desc": "챌린지3 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9034,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 911,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 91,
+      "challenge_step": 5,
+      "desc": "챌린지4 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9041,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 92,
+      "challenge_step": 5,
+      "desc": "챌린지4 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9042,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 93,
+      "challenge_step": 5,
+      "desc": "챌린지4 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9043,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 94,
+      "challenge_step": 5,
+      "desc": "챌린지4 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9044,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 912,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 91,
+      "challenge_step": 6,
+      "desc": "챌린지5 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9051,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 92,
+      "challenge_step": 6,
+      "desc": "챌린지5 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9052,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 93,
+      "challenge_step": 6,
+      "desc": "챌린지5 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9053,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 94,
+      "challenge_step": 6,
+      "desc": "챌린지5 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9054,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 913,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 91,
+      "challenge_step": 7,
+      "desc": "챌린지6 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9061,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 92,
+      "challenge_step": 7,
+      "desc": "챌린지6 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9062,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 93,
+      "challenge_step": 7,
+      "desc": "챌린지6 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9063,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 94,
+      "challenge_step": 7,
+      "desc": "챌린지6 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9064,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 914,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 91,
+      "challenge_step": 8,
+      "desc": "챌린지7 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9071,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 92,
+      "challenge_step": 8,
+      "desc": "챌린지7 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9072,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 93,
+      "challenge_step": 8,
+      "desc": "챌린지7 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9073,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 94,
+      "challenge_step": 8,
+      "desc": "챌린지7 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9074,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 915,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 91,
+      "challenge_step": 9,
+      "desc": "챌린지8 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9081,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 92,
+      "challenge_step": 9,
+      "desc": "챌린지8 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9082,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 93,
+      "challenge_step": 9,
+      "desc": "챌린지8 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9083,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 94,
+      "challenge_step": 9,
+      "desc": "챌린지8 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9084,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 916,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 91,
+      "challenge_step": 10,
+      "desc": "챌린지9 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9091,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 92,
+      "challenge_step": 10,
+      "desc": "챌린지9 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9092,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 93,
+      "challenge_step": 10,
+      "desc": "챌린지9 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9093,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 94,
+      "challenge_step": 10,
+      "desc": "챌린지9 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9094,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 917,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 91,
+      "challenge_step": 11,
+      "desc": "챌린지10 쓰레쉬 ~ 일반",
+      "dropSetting": [
+        {
+          "dropListID": 9101,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 92,
+      "challenge_step": 11,
+      "desc": "챌린지10 앨리트",
+      "dropSetting": [
+        {
+          "dropListID": 9102,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 93,
+      "challenge_step": 11,
+      "desc": "챌린지10 보물 고블린",
+      "dropSetting": [
+        {
+          "dropListID": 9103,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 94,
+      "challenge_step": 11,
+      "desc": "챌린지10 보스",
+      "dropSetting": [
+        {
+          "dropListID": 9104,
+          "dropListRate": 10000
+        },
+        {
+          "dropListID": 918,
+          "dropListRate": 10000
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  ]
+}

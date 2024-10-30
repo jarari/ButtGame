@@ -1,0 +1,3190 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1000,
+      "group_id": 800600,
+      "customType_Main": "skill_a",
+      "customType_Sub": "Active",
+      "skillLockType": "NoneLock",
+      "Lv": 1,
+      "actionGroupID": 600,
+      "coolDownTime": 25,
+      "globalCoolDownTime": 0,
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 1001,
+      "group_id": 800601,
+      "customType_Main": "skill_a",
+      "customType_Sub": "Active",
+      "skillLockType": "NoneLock",
+      "Lv": 2,
+      "actionGroupID": 610,
+      "coolDownTime": 25,
+      "globalCoolDownTime": 0,
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "actionGroupID",
+          "customCalcType": "Set",
+          "customValue": 610
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 1002,
+      "group_id": 800602,
+      "customType_Main": "skill_a",
+      "customType_Sub": "Active",
+      "skillLockType": "NoneLock",
+      "Lv": 3,
+      "actionGroupID": 620,
+      "coolDownTime": 20,
+      "globalCoolDownTime": 0,
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "actionGroupID",
+          "customCalcType": "Set",
+          "customValue": 620
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 1003,
+      "group_id": 800603,
+      "customType_Main": "skill_a",
+      "customType_Sub": "Active",
+      "skillLockType": "NoneLock",
+      "Lv": 4,
+      "actionGroupID": 630,
+      "coolDownTime": 20,
+      "globalCoolDownTime": 0,
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "actionGroupID",
+          "customCalcType": "Set",
+          "customValue": 630
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 1004,
+      "group_id": 800604,
+      "customType_Main": "skill_a",
+      "customType_Sub": "Active",
+      "skillLockType": "NoneLock",
+      "Lv": 5,
+      "actionGroupID": 640,
+      "coolDownTime": 15,
+      "globalCoolDownTime": 0,
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "actionGroupID",
+          "customCalcType": "Set",
+          "customValue": 640
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 1005,
+      "group_id": 800605,
+      "customType_Main": "skill_a",
+      "customType_Sub": "Active",
+      "skillLockType": "NoneLock",
+      "Lv": 6,
+      "actionGroupID": 650,
+      "coolDownTime": 15,
+      "globalCoolDownTime": 0,
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "actionGroupID",
+          "customCalcType": "Set",
+          "customValue": 650
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 1006,
+      "group_id": 800606,
+      "customType_Main": "skill_a",
+      "customType_Sub": "Active",
+      "skillLockType": "NoneLock",
+      "Lv": 7,
+      "actionGroupID": 660,
+      "coolDownTime": 15,
+      "globalCoolDownTime": 0,
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "actionGroupID",
+          "customCalcType": "Set",
+          "customValue": 660
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 1010,
+      "group_id": 1010,
+      "customType_Main": "skill_a",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_pierce",
+          "customCalcType": "Add",
+          "customValue": 100
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 1011,
+      "group_id": 1011,
+      "customType_Main": "skill_a",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariables": "proj_spd",
+          "customCalcType": "Mul",
+          "customValue": 115
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 1012,
+      "group_id": 1012,
+      "customType_Main": "skill_a",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "coolDownTime",
+          "customCalcType": "Sub",
+          "customValue": 10
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 1013,
+      "group_id": 1013,
+      "customType_Main": "skill_a",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Add",
+          "customValue": 100
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 2000,
+      "group_id": 800700,
+      "customType_Main": "skill_b",
+      "customType_Sub": "Active",
+      "skillLockType": "NoneLock",
+      "actionGroupID": 700,
+      "coolDownTime": 400,
+      "globalCoolDownTime": 0,
+      "ignoreGlobalCoolDownTime": false,
+      "customVariablesData": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 2010,
+      "group_id": 2010,
+      "customType_Main": "skill_b",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_afterCollide",
+          "customCalcType": "Set",
+          "customValue": 211
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 2011,
+      "group_id": 2011,
+      "customType_Main": "skill_b",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_pierce",
+          "customCalcType": "Add",
+          "customValue": 100
+        },
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_dmgCount",
+          "customCalcType": "Add",
+          "customValue": 100
+        },
+        {}
+      ]
+    },
+    {
+      "id": 2021,
+      "group_id": 2011,
+      "customType_Main": "skill_b",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Add",
+          "customValue": 130
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 2012,
+      "group_id": 2012,
+      "customType_Main": "skill_b",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "coolDownTime",
+          "customCalcType": "Set",
+          "customValue": 10
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 2013,
+      "group_id": 2013,
+      "customType_Main": "skill_b",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 200
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 2014,
+      "group_id": 2014,
+      "customType_Main": "skill_b",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "actionGroupID",
+          "customCalcType": "Set",
+          "customValue": 710
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 2024,
+      "group_id": 2014,
+      "customType_Main": "skill_b",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 130
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 2015,
+      "group_id": 2015,
+      "customType_Main": "skill_b",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "coolDownTime",
+          "customCalcType": "Sub",
+          "customValue": 250
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 2025,
+      "group_id": 2015,
+      "customType_Main": "skill_b",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 130
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 2016,
+      "group_id": 2016,
+      "customType_Main": "skill_b",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_duration",
+          "customCalcType": "Mul",
+          "customValue": 120
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 2026,
+      "group_id": 2016,
+      "customType_Main": "skill_b",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 130
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 2017,
+      "group_id": 2017,
+      "customType_Main": "skill_b",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_spd",
+          "customCalcType": "Mul",
+          "customValue": 120
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 2027,
+      "group_id": 2017,
+      "customType_Main": "skill_b",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 130
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 3000,
+      "group_id": 800800,
+      "customType_Main": "skill_c",
+      "customType_Sub": "Active",
+      "skillLockType": "SemiLock",
+      "attack_keep": true,
+      "actionGroupID": 800,
+      "coolDownTime": 1000,
+      "globalCoolDownTime": 0,
+      "ignoreGlobalCoolDownTime": false,
+      "customVariablesData": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 3001,
+      "group_id": 3001,
+      "customType_Main": "skill_c",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "actionGroupID",
+          "customCalcType": "Set",
+          "customValue": 801
+        },
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 300
+        },
+        {}
+      ]
+    },
+    {
+      "id": 3011,
+      "group_id": 3001,
+      "customType_Main": "skill_c",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 160
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 3002,
+      "group_id": 3002,
+      "customType_Main": "skill_c",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "coolDownTime",
+          "customCalcType": "Sub",
+          "customValue": 500
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 3012,
+      "group_id": 3002,
+      "customType_Main": "skill_c",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 160
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 3003,
+      "group_id": 3003,
+      "customType_Main": "skill_c",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_duration",
+          "customCalcType": "Add",
+          "customValue": 300
+        },
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_pierce",
+          "customCalcType": "Set",
+          "customValue": -100
+        },
+        {}
+      ]
+    },
+    {
+      "id": 3013,
+      "group_id": 3003,
+      "customType_Main": "skill_c",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 160
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 3004,
+      "group_id": 3004,
+      "customType_Main": "skill_c",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "attack_keep",
+          "customCalcType": "Set",
+          "customValue": 100
+        },
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_typeValue_1",
+          "customCalcType": "Set",
+          "customValue": 100
+        },
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_typeValue_3",
+          "customCalcType": "Set",
+          "customValue": 100
+        }
+      ]
+    },
+    {
+      "id": 3005,
+      "group_id": 3005,
+      "customType_Main": "skill_c",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "hold_move",
+          "customCalcType": "Set",
+          "customValue": 100
+        },
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_typeValue_1",
+          "customCalcType": "Set",
+          "customValue": 100
+        },
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_typeValue_3",
+          "customCalcType": "Set",
+          "customValue": 100
+        }
+      ]
+    },
+    {
+      "id": 3015,
+      "group_id": 3005,
+      "customType_Main": "skill_c",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 160
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 3006,
+      "group_id": 3006,
+      "customType_Main": "skill_c",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "glassC_togle",
+          "customCalcType": "Set",
+          "customValue": 100
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 3016,
+      "group_id": 3006,
+      "customType_Main": "skill_c",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 160
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 3007,
+      "group_id": 3007,
+      "customType_Main": "skill_c",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_typeValue_2",
+          "customCalcType": "Set",
+          "customValue": 1000
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 3017,
+      "group_id": 3007,
+      "customType_Main": "skill_c",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 160
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 4000,
+      "group_id": 800900,
+      "customType_Main": "skill_d",
+      "customType_Sub": "Active",
+      "skillLockType": "NoneLock",
+      "actionGroupID": 900,
+      "coolDownTime": 700,
+      "globalCoolDownTime": 0,
+      "ignoreGlobalCoolDownTime": false,
+      "customVariablesData": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 4001,
+      "group_id": 4001,
+      "customType_Main": "skill_d",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_typeValue_4",
+          "customCalcType": "Set",
+          "customValue": 200
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 4002,
+      "group_id": 4002,
+      "customType_Main": "skill_d",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_typeValue_4",
+          "customCalcType": "Set",
+          "customValue": 100
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 4012,
+      "group_id": 4002,
+      "customType_Main": "skill_d",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 120
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 4003,
+      "group_id": 4003,
+      "customType_Main": "skill_d",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_typeValue_8",
+          "customCalcType": "Add",
+          "customValue": 500
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 4004,
+      "group_id": 4004,
+      "customType_Main": "skill_d",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_amount",
+          "customCalcType": "Add",
+          "customValue": 800
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 4014,
+      "group_id": 4004,
+      "customType_Main": "skill_d",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 120
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 4005,
+      "group_id": 4005,
+      "customType_Main": "skill_d",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 140
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 4015,
+      "group_id": 4005,
+      "customType_Main": "skill_d",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 120
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 4006,
+      "group_id": 4006,
+      "customType_Main": "skill_d",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "coolDownTime",
+          "customCalcType": "Sub",
+          "customValue": 400
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 4016,
+      "group_id": 4006,
+      "customType_Main": "skill_d",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 120
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 5001,
+      "group_id": 900100,
+      "customType_Main": "skill_Burst_A",
+      "customType_Sub": "Active",
+      "skillLockType": "HardLock",
+      "actionGroupID": 1000,
+      "coolDownTime": 2000,
+      "globalCoolDownTime": 1400,
+      "ignoreGlobalCoolDownTime": false,
+      "customVariablesData": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 5002,
+      "group_id": 900101,
+      "customType_Main": "skill_Burst_B",
+      "customType_Sub": "Active",
+      "skillLockType": "HardLock",
+      "actionGroupID": 1000,
+      "coolDownTime": 2000,
+      "globalCoolDownTime": 1400,
+      "ignoreGlobalCoolDownTime": false,
+      "customVariablesData": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 5003,
+      "group_id": 900102,
+      "customType_Main": "skill_Burst_C",
+      "customType_Sub": "Active",
+      "skillLockType": "HardLock",
+      "actionGroupID": 1000,
+      "coolDownTime": 2000,
+      "globalCoolDownTime": 1400,
+      "ignoreGlobalCoolDownTime": false,
+      "customVariablesData": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 5004,
+      "group_id": 900103,
+      "customType_Main": "skill_Burst_D",
+      "customType_Sub": "Active",
+      "skillLockType": "HardLock",
+      "actionGroupID": 1000,
+      "coolDownTime": 2000,
+      "globalCoolDownTime": 1400,
+      "ignoreGlobalCoolDownTime": false,
+      "customVariablesData": [
+        {},
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 5005,
+      "group_id": 5005,
+      "customType_Main": "skill_Burst_A",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_typeValue_2",
+          "customCalcType": "Add",
+          "customValue": 1000
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 5006,
+      "group_id": 5005,
+      "customType_Main": "skill_Burst_B",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_typeValue_2",
+          "customCalcType": "Add",
+          "customValue": 1000
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 5007,
+      "group_id": 5005,
+      "customType_Main": "skill_Burst_C",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_typeValue_2",
+          "customCalcType": "Add",
+          "customValue": 1000
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 5008,
+      "group_id": 5005,
+      "customType_Main": "skill_Burst_D",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_typeValue_2",
+          "customCalcType": "Add",
+          "customValue": 1000
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 5009,
+      "group_id": 5009,
+      "customType_Main": "skill_Burst_A",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 130
+        },
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_size",
+          "customCalcType": "Mul",
+          "customValue": 140
+        },
+        {}
+      ]
+    },
+    {
+      "id": 5010,
+      "group_id": 5009,
+      "customType_Main": "skill_Burst_B",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 130
+        },
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_size",
+          "customCalcType": "Mul",
+          "customValue": 140
+        },
+        {}
+      ]
+    },
+    {
+      "id": 5011,
+      "group_id": 5009,
+      "customType_Main": "skill_Burst_C",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 130
+        },
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_size",
+          "customCalcType": "Mul",
+          "customValue": 140
+        },
+        {}
+      ]
+    },
+    {
+      "id": 5012,
+      "group_id": 5009,
+      "customType_Main": "skill_Burst_D",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_atk",
+          "customCalcType": "Mul",
+          "customValue": 130
+        },
+        {
+          "customVariablesType": "CharacterCustomAction",
+          "customVariables": "proj_size",
+          "customCalcType": "Mul",
+          "customValue": 140
+        },
+        {}
+      ]
+    },
+    {
+      "id": 5013,
+      "group_id": 5013,
+      "customType_Main": "skill_Burst_A",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "coolDownTime",
+          "customCalcType": "Sub",
+          "customValue": 1000
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 5014,
+      "group_id": 5013,
+      "customType_Main": "skill_Burst_B",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "coolDownTime",
+          "customCalcType": "Sub",
+          "customValue": 1000
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 5015,
+      "group_id": 5013,
+      "customType_Main": "skill_Burst_C",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "coolDownTime",
+          "customCalcType": "Sub",
+          "customValue": 1000
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 5016,
+      "group_id": 5013,
+      "customType_Main": "skill_Burst_D",
+      "customType_Sub": "Passive",
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "coolDownTime",
+          "customCalcType": "Sub",
+          "customValue": 1000
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700001,
+      "group_id": 700001,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 120
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700101,
+      "group_id": 700101,
+      "customType_Main": "Chara_Dash",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "dashLength",
+          "customCalcType": "Mul",
+          "customValue": 110
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700102,
+      "group_id": 700102,
+      "customType_Main": "Chara_Dash",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "dashLength",
+          "customCalcType": "Mul",
+          "customValue": 90
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700103,
+      "group_id": 700103,
+      "customType_Main": "Chara_Dash",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "dashSpd",
+          "customCalcType": "Mul",
+          "customValue": 120
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700104,
+      "group_id": 700104,
+      "customType_Main": "Chara_Dash",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "dashDelay",
+          "customCalcType": "Mul",
+          "customValue": 70
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700105,
+      "group_id": 700105,
+      "customType_Main": "Chara_Dash",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "dashCool",
+          "customCalcType": "Sub",
+          "customValue": 50
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700106,
+      "group_id": 700106,
+      "customType_Main": "Chara_Dash",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "dashCount",
+          "customCalcType": "Add",
+          "customValue": 100
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700107,
+      "group_id": 700107,
+      "customType_Main": "Chara_Dash",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "dashInvincible",
+          "customCalcType": "Set",
+          "customValue": 100
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700201,
+      "group_id": 700201,
+      "customType_Main": "Chara_Jump",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "jmpCount",
+          "customCalcType": "Add",
+          "customValue": 100
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700202,
+      "group_id": 700202,
+      "customType_Main": "Chara_Jump",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "jmpMaxHeight",
+          "customCalcType": "Mul",
+          "customValue": 130
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700203,
+      "group_id": 700203,
+      "customType_Main": "Chara_Jump",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "jmpMaxHeight_2nd",
+          "customCalcType": "Mul",
+          "customValue": 110
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700301,
+      "group_id": 700301,
+      "customType_Main": "Chara_Lock",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "landedLockTime",
+          "customCalcType": "Mul",
+          "customValue": 80
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700302,
+      "group_id": 700302,
+      "customType_Main": "Chara_Lock",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "landedLockTime",
+          "customCalcType": "Set",
+          "customValue": 0
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700401,
+      "group_id": 700401,
+      "customType_Main": "Chara_Knockback",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "knockInvincibleTime",
+          "customCalcType": "Add",
+          "customValue": 30
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700402,
+      "group_id": 700402,
+      "customType_Main": "Chara_Knockback",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "knockLockTime",
+          "customCalcType": "Mul",
+          "customValue": 50
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700501,
+      "group_id": 700501,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "absorbRecoveryTime",
+          "customCalcType": "Sub",
+          "customValue": 30
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700502,
+      "group_id": 700502,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "absorbRecoveryAmount",
+          "customCalcType": "Add",
+          "customValue": 800
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700503,
+      "group_id": 700503,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "absorb_perfectTime",
+          "customCalcType": "Add",
+          "customValue": 40
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700504,
+      "group_id": 700504,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Add",
+          "customValue": 100
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700505,
+      "group_id": 700505,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryAmount",
+          "customCalcType": "Add",
+          "customValue": 100
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700506,
+      "group_id": 700506,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxAbsorbGauge",
+          "customCalcType": "Add",
+          "customValue": 20000
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 700601,
+      "group_id": 700601,
+      "customType_Main": "Chara_Unique",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "Currency",
+          "customCalcType": "Mul",
+          "customValue": 110
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800101,
+      "group_id": 800101,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 100
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800102,
+      "group_id": 800102,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 100
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800103,
+      "group_id": 800103,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 200
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800104,
+      "group_id": 800104,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 200
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800105,
+      "group_id": 800105,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 300
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800106,
+      "group_id": 800106,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 300
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800107,
+      "group_id": 800107,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 400
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800108,
+      "group_id": 800108,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 400
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800109,
+      "group_id": 800109,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 500
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800110,
+      "group_id": 800110,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 500
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800111,
+      "group_id": 800111,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 600
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800112,
+      "group_id": 800112,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 600
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800113,
+      "group_id": 800113,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 700
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800114,
+      "group_id": 800114,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 700
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800115,
+      "group_id": 800115,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 800
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800116,
+      "group_id": 800116,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 800
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800117,
+      "group_id": 800117,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 900
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800118,
+      "group_id": 800118,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 900
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800119,
+      "group_id": 800119,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 1000
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800120,
+      "group_id": 800120,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_atk",
+          "customCalcType": "Add",
+          "customValue": 1000
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800201,
+      "group_id": 800201,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 100
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800202,
+      "group_id": 800202,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 200
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800203,
+      "group_id": 800203,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 300
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800204,
+      "group_id": 800204,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 400
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800205,
+      "group_id": 800205,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 500
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800206,
+      "group_id": 800206,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 600
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800207,
+      "group_id": 800207,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 700
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800208,
+      "group_id": 800208,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 800
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800209,
+      "group_id": 800209,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 900
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800210,
+      "group_id": 800210,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 1000
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800211,
+      "group_id": 800211,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 1100
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800212,
+      "group_id": 800212,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 1200
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800213,
+      "group_id": 800213,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 1300
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800214,
+      "group_id": 800214,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 1400
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800215,
+      "group_id": 800215,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 1500
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800216,
+      "group_id": 800216,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 1600
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800217,
+      "group_id": 800217,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 1700
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800218,
+      "group_id": 800218,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 1800
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800219,
+      "group_id": 800219,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 1900
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800220,
+      "group_id": 800220,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "stat_hp",
+          "customCalcType": "Add",
+          "customValue": 2000
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800301,
+      "group_id": 800301,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 1100
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800302,
+      "group_id": 800302,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 1200
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800303,
+      "group_id": 800303,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 1300
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800304,
+      "group_id": 800304,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 1400
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800305,
+      "group_id": 800305,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 1500
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800306,
+      "group_id": 800306,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 1600
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800307,
+      "group_id": 800307,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 1700
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800308,
+      "group_id": 800308,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 1800
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800309,
+      "group_id": 800309,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 1900
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800310,
+      "group_id": 800310,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 2000
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800311,
+      "group_id": 800311,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 2100
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800312,
+      "group_id": 800312,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 2200
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800313,
+      "group_id": 800313,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 2300
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800314,
+      "group_id": 800314,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 2400
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800315,
+      "group_id": 800315,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 2500
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800316,
+      "group_id": 800316,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 2600
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800317,
+      "group_id": 800317,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 2700
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800318,
+      "group_id": 800318,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 2800
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800319,
+      "group_id": 800319,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 2900
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800320,
+      "group_id": 800320,
+      "customType_Main": "Chara_Stat",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "maxModuleSlot",
+          "customCalcType": "Set",
+          "customValue": 3000
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800401,
+      "group_id": 800401,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 95
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800402,
+      "group_id": 800402,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 94
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800403,
+      "group_id": 800403,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 93
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800404,
+      "group_id": 800404,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 92
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800405,
+      "group_id": 800405,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 91
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800406,
+      "group_id": 800406,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 90
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800407,
+      "group_id": 800407,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 89
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800408,
+      "group_id": 800408,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 88
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800409,
+      "group_id": 800409,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 87
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800410,
+      "group_id": 800410,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 86
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800411,
+      "group_id": 800411,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 85
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800412,
+      "group_id": 800412,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 84
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800413,
+      "group_id": 800413,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 83
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800414,
+      "group_id": 800414,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 82
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800415,
+      "group_id": 800415,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 81
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800416,
+      "group_id": 800416,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 80
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800417,
+      "group_id": 800417,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 79
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800418,
+      "group_id": 800418,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 78
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800419,
+      "group_id": 800419,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 77
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800420,
+      "group_id": 800420,
+      "customType_Main": "Chara_Mode",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "healthRecoveryTime",
+          "customCalcType": "Mul",
+          "customValue": 76
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800501,
+      "group_id": 800501,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 102
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800502,
+      "group_id": 800502,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 104
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800503,
+      "group_id": 800503,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 106
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800504,
+      "group_id": 800504,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 108
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800505,
+      "group_id": 800505,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 110
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800506,
+      "group_id": 800506,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 112
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800507,
+      "group_id": 800507,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 114
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800508,
+      "group_id": 800508,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 116
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800509,
+      "group_id": 800509,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 118
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800510,
+      "group_id": 800510,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 120
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800511,
+      "group_id": 800511,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 122
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800512,
+      "group_id": 800512,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 124
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800513,
+      "group_id": 800513,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 126
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800514,
+      "group_id": 800514,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 128
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800515,
+      "group_id": 800515,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 130
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800516,
+      "group_id": 800516,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 132
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800517,
+      "group_id": 800517,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 134
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800518,
+      "group_id": 800518,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 136
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800519,
+      "group_id": 800519,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 138
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 800520,
+      "group_id": 800520,
+      "customType_Main": "Chara_mv",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariables": "mvSpd",
+          "customCalcType": "Mul",
+          "customValue": 140
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 900101,
+      "group_id": 900101,
+      "customType_Main": "skill_a",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "actionGroupID",
+          "customCalcType": "Set",
+          "customValue": 9101
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 900102,
+      "group_id": 900102,
+      "customType_Main": "skill_a",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "actionGroupID",
+          "customCalcType": "Set",
+          "customValue": 9102
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 900201,
+      "group_id": 900201,
+      "customType_Main": "skill_b",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "actionGroupID",
+          "customCalcType": "Set",
+          "customValue": 9201
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 900202,
+      "group_id": 900202,
+      "customType_Main": "skill_b",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "actionGroupID",
+          "customCalcType": "Set",
+          "customValue": 9202
+        },
+        {},
+        {}
+      ]
+    },
+    {
+      "id": 900301,
+      "group_id": 900301,
+      "customType_Main": "skill_c",
+      "customType_Sub": "Passive",
+      "ignoreGlobalCoolDownTime": true,
+      "customVariablesData": [
+        {
+          "customVariablesType": "CharacterCustom",
+          "customVariables": "actionGroupID",
+          "customCalcType": "Set",
+          "customValue": 9301
+        },
+        {},
+        {}
+      ]
+    }
+  ]
+}
